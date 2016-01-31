@@ -37,12 +37,24 @@
     'lampyi-dlya-vyirashhivaniya-marixuanyi.html' => 41,
     'grouboks-dlya-marixuanyi.html' => 19,
     'udobreniya-dlya-marixuanyi.html' => 39,
-    'udobreniya-dlya-gidroponiki.html' => 40,
-    'otrazhateli.html' => 56,
+    'ventilyatoryi-i-filtryi.html' => 40,
+    'substratyi-dlya-prorashhivaniya-i-rosta.html' => 65,
+    'emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html' => 69,
+    'sistemyi-poliva.html' => 60,
+    'ph-metryi-i-priboryi-izmereniya.html' => 64,
     'venskiy-universitet.html' => 18,
+    'grouboks-mammoth-pro-dark-room.html' => 66,
+    'udobreniya-plagron-kupit-v-ukraine.html' => 71,
+    'udobreniya-ghe-general-hydroponics.html' => 72,
     'lampyi-i-cooltube.html' => 57,
     'pra-epra-ballastyi.html' => 58,
     'aksessuaryi-dlya-osveshheniya-v-groubokse.html' => 59,
+    'otrazhateli.html' => 56,
+    'natrievaya-lampa-gib-lighting-pure-bloom.html' => 67,
+    'blumat-i-sistema-kapelnogo-poliva.html' => 63,
+    'aeroponika.html' => 61,
+    'gidroponnyie-ustanovki-i-sistemyi-dlya-marixuanyi.html' => 62,
+    'sistema-autopot-i-aquapot.html' => 70,
   ),
   'resourceMap' => 
   array (
@@ -97,17 +109,41 @@
       1 => 19,
       2 => 39,
       3 => 40,
-      4 => 56,
+      4 => 65,
+      5 => 69,
+      6 => 60,
+      7 => 64,
     ),
     17 => 
     array (
       0 => 18,
+    ),
+    19 => 
+    array (
+      0 => 66,
+    ),
+    39 => 
+    array (
+      0 => 71,
+      1 => 72,
     ),
     41 => 
     array (
       0 => 57,
       1 => 58,
       2 => 59,
+      3 => 56,
+    ),
+    57 => 
+    array (
+      0 => 67,
+    ),
+    60 => 
+    array (
+      0 => 63,
+      1 => 61,
+      2 => 62,
+      3 => 70,
     ),
   ),
   'webLinkMap' => 

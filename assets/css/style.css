@@ -739,7 +739,7 @@ div.speСЃial .term{color:#666;font-size:9px;margin-left:7px;line-height:14px;f
 .order-form-bl .right_txt p{font-style:italic;width:160px;position:absolute;top:500px;line-height:22px}
 .order-form-bl .right_txt img{float:right;}
 .order-form-wrapper{width:400px;float:left;}
-.order-form-wrapper .apply-form{padding:60px 15px;}
+.order-form-wrapper .apply-form{padding:25px 15px;}
 .apply-form_order .button{margin:0;}
 .comments{margin:40px 0 30px;display:inline-block}
 .comments .comments__title{font-weight:bold;font-size:18px;margin-bottom:23px;color:#282828}
@@ -818,10 +818,12 @@ div.speСЃial .term{color:#666;font-size:9px;margin-left:7px;line-height:14px;f
 .intro .wrapper{position:relative;}
 .intro.intro_2{background:#2C4F0B url('/assets/img/index2.jpg') top no-repeat;}
 .intro.intro_3{background:#2C4F0B url('/assets/images/sok2/6.png') top no-repeat;}
+.intro.intro_4{background:#2C4F0B url('/assets/images/sok2/plagron-купить-киев.png') top no-repeat;}
+.intro.intro_5{background:#2C4F0B url('/assets/images/sok2/ghe-купить.png') top no-repeat;}
 .intro .intro-wrapper{position:relative;width:940px;height:384px;margin:0 auto}
 .intro__slogan{font-weight:bold;font-size:40px;position:absolute;top:100px;left:0;width:375px;text-shadow:2px 2px #fff}
 .intro__slogan.intro__slogan_2{width:550px}
-.intro__skype{font-weight:bold;font-size:14px;position:absolute;top:290px;left:0;width:285px;padding-left:40px;line-height:20px;text-transform:uppercase;color:#010101;background:url("/assets/img/skype.png") left no-repeat}
+.intro__skype{font-weight:bold;font-size:14px;position:absolute;top:290px;left:0;width:285px;padding-left:40px;line-height:20px;text-transform:uppercase;color:#6DA318;/*#010101;*/background:url("/assets/img/skype.png") left no-repeat}
 .intro__rec{position:absolute;top:115px;right:0;width:300px}
 .intro__rec.intro__rec_2{top:287px;right:40px}
 .intro__rec p{font-weight:bold;font-size:14px;text-align:center;line-height:20px;color:#010101}
@@ -893,7 +895,7 @@ div.speСЃial .term{color:#666;font-size:9px;margin-left:7px;line-height:14px;f
 .footer .f-contacts-i{width:225px;}
 .f-info .f-copy{width:520px;}
 .reviews .reviews-content_index{width:auto;text-align:center;}
-.col2 .col-l{width:60%;}
+.col2 .col-l{width:100%;/*60%;*/}
 .col2 > .col-r{width:35%;}
 .col2 > .col-r .col-r{width:auto;float:none;}
 .apply-section.col2 .col-l{width:auto;float:none;}

@@ -187,9 +187,7 @@
 	  </div>
 	</div>
   </div>
-</section>
-
-!-->',
+</section>!-->',
     'modChunk_locked' => '0',
     'modChunk_properties' => 'a:0:{}',
     'modChunk_static' => '0',

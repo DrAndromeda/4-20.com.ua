@@ -27,7 +27,7 @@
 
 
 <div class="wrapper">
-<div class="articles"> [[*content]]</div></div>
+<div class="articles"> [[*content]][[$xxx]]</div></div>
 [[$social]]
 [[$footer]]
 

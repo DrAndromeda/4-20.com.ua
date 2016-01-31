@@ -20,7 +20,7 @@
     'output_properties' => 'a:0:{}',
     'static' => '0',
     'static_file' => '',
-    'value' => '',
+    'value' => '<section class="intro intro_2"> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">[[*longtitle]]  </div> <div class="intro__rec intro__rec_2"><a class="button button_rec" onclick="window.location = \'/zakazat-obratij-zvonok.html\';"><span>Заказать</span></a></div> <div class="intro__skype">Получи детальную консультацию по Skype  </div> </div> </section>',
     'resourceId' => '58',
   ),
   1 => 
@@ -68,7 +68,7 @@
     'output_properties' => 'a:0:{}',
     'static' => '0',
     'static_file' => '',
-    'value' => '',
+    'value' => 'купить ЭПРА балласты, купить ЭПРА, электронные балласты, купить ПРА балласты',
     'resourceId' => '58',
   ),
 );

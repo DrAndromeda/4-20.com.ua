@@ -3,7 +3,7 @@
   'type' => 'document',
   'contentType' => 'text/html',
   'pagetitle' => 'Удобрения для марихуаны',
-  'longtitle' => 'Подобрать и купить удобрения для марихуаны и гидропоники',
+  'longtitle' => 'На 4-20 Вы можете купить удобрения для марихуаны и гидропоники',
   'description' => 'Выбирайте и заказывайте удобрения для марихуаны популярных производителей, которые подходят как для гидропоники, так и для выращивания в открытом грунте.',
   'alias' => 'udobreniya-dlya-marixuanyi',
   'link_attributes' => '',
@@ -16,71 +16,56 @@
   'content' => '<p>Ресурс 4-20 предлагает своим клиентам самые высококачественные удобрения для конопли. У нас вы можете <strong>купить удобрения для марихуаны</strong> лучших мировых производителей или просто популярную продукцию по доступной цене. Удобрения каннабиса которые представлены на страницах нашего ресурса признаны наиболее эффективными и результативными для удобрения, цветения и защиты растений. Так же если Вы не нашли необходимого для Вас продукта, Вы можете уточнить наличие у нашего менеджера или заказать удобрение напрямую со страны производлителей. Наши цены демократичны и обязательно Вам понравятся!</p>
 <h2>На 4 20 Вы можете купить удобрения для марихуаны популярных производителей</h2>
 <ul class="col3">
-<li><img class="col3__img" src="assets/img/Green Sensation.jpg" alt="" />
-<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Green Sensation стимулятор цветения</a>
+<li><a href="udobreniya-plagron-kupit-v-ukraine.html" rel="nofollow"><img class="col3__img" src="assets/img/Plagron купить.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="udobreniya-plagron-kupit-v-ukraine.html">Plagron</a>
 <div class="col3__desc">
-<p>Увеличивает урожайность, питает растение, улучшает цветение и аромат, предотвращает заболевания.</p>
+<p>Серия удобрения рассчитанная под каждую стадия цветения, а так же для защиты растений и стумуляции роста растений.</p>
 </div>
-<div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">2650 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="udobreniya-plagron-kupit-v-ukraine.html?name=[[*pagetitle]]" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/Cocos А и B.jpg" alt="" />
-<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Cocos А и B для кокосового субстрата</a>
+<li><a href="udobreniya-ghe-general-hydroponics.html" rel="nofollow"><img class="col3__img" src="assets/img/ghe-купить.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="udobreniya-ghe-general-hydroponics.html">General hydropon GHE</a>
 <div class="col3__desc">
-<p>Для растений в кокосовых субстратах. Содержит азот, кальций, калий.</p>
+<p>Серия универсальных удобрений. Адаптируються под стадию роста. Так же есть стимуляторы роста и корневища, защитные добавки, средства для лучшения воды.</p>
 </div>
-<div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">6320 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="udobreniya-ghe-general-hydroponics.html?name=[[*pagetitle]]" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/SMC.jpg" alt="" />
-<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">SMC/Spider Mite Control от паутинного клеща</a>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/growth-technology-купить.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Growth Technology</a>
 <div class="col3__desc">
-<p>100 МЛ от паутинного клеща. Безопасен для люде, растений и других полезных насекомых.</p>
+<p>Средства для клонирования растений, черенкования и для защиты от паутинного клеща и прочих.</p>
 </div>
-<div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">8053 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/FORMULEX.jpg" alt="Категория B" />
-<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">FORMULEX подкорм для клонов и черенков</a>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Powder-Feeding-купить.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Powder Feeding</a>
 <div class="col3__desc">
-<p>Для улучшения состояния рассады. Для использования в гидропонике или почве. Идеально питает растения и улучшает ph</p>
+<p>Однокомпонентные удобрения. Полный комплекс необходимых витаминов и минералов, для полного цикла выращивания. Для выращивания индор и аутдор.</p>
 </div>
-<div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">16365 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
 </li>
 </ul>
 <ul class="col3">
-<li><img class="col3__img" src="assets/img/General Organics Bio Bud.jpg" alt="Категория B" />
-<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">General Organics Bio Bud стимулятор цветения</a>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/advanced_hydro купить.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Advanced Hydroponics</a>
 <div class="col3__desc">
-<p>Мощный эффект. Улучшает цветение и плодоношение. Отлично подходит для гидропоники. Для начальных стадий цветения.</p>
+<p>Питательные смеси для ускорения всех трех стадий роста. При комплексном использовании не требует дополнительных подкормок и удобрений.</p>
 </div>
-<div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">2911 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/Diamond Nectar.jpg" alt="" />
-<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Diamond Nectar биостимулятор</a>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Guanokalong купить.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Guanokalong</a>
 <div class="col3__desc">
-<p>Органическое удобрение в 1000 лет. Стимулятор подходит для всех фаз развития растения. Увеличивает корневую систему и рост растения.</p>
+<p>ХИТ ПРОДАЖ!!!<br /> Гуано летучих мышей. Популярная добавка для улучшения растений.</p>
 </div>
-<div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">13534 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/Bio Bloom.jpg" alt="" />
-<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Bio Bloom активатор роста и цветения</a>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Guanokalong купить.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Стимуляторы и добавки</a>
 <div class="col3__desc">
-<p>Увеличивает рост и лиственную массу, стимулирует процесс цветения. Активизирует полезные вещества в почве.</p>
+<p>Популярная продукция лучших мировых производителей.</p>
 </div>
-<div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">9888 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
-</li>
-<li><img class="col3__img" src="assets/img/Mighty Neem.jpg" alt="Категория B" />
-<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Mighty Neem<br /> от клещей и насекомых</a>
-<div class="col3__desc">
-<p>Органическая защита растений. Так же улучшает листву и имминитет растения.</p>
-</div>
-<div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">от 7740 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
 </li>
 </ul>
 <h3>Важно удобрения для марихуаны купить предварительно перед началом посадки</h3>
@@ -97,20 +82,20 @@
 </ul>
 <p style="font-size: 16px; text-align: center;"><em>У нас вы можете подобрать и купить удобрения для марихуаны на любом этапе роста Вашего растения. Представленные препараты это отличные удобрения для гидропоники и открытого грунта. Качественные мировые производители и советы ТОП экспертов из легалайз стран помогут Вам достичь наилучших результатов. Обращайтесь в 4 20 и Ваши силы будут вознаграждены по достоинству!</em></p>',
   'richtext' => 1,
-  'template' => 7,
+  'template' => 4,
   'menuindex' => 2,
   'searchable' => 1,
   'cacheable' => 1,
   'createdby' => 1,
   'createdon' => 1444687502,
   'editedby' => 1,
-  'editedon' => 1451420801,
+  'editedon' => 1454278592,
   'deleted' => 0,
   'deletedon' => 0,
   'deletedby' => 0,
   'publishedon' => 1451420460,
   'publishedby' => 1,
-  'menutitle' => '',
+  'menutitle' => 'Удобрения',
   'donthit' => 0,
   'privateweb' => 0,
   'privatemgr' => 0,

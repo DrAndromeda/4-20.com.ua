@@ -13,10 +13,10 @@
    &formName=`form1`
    &hooks=`spam,email,hook_FormIt_megaplanCreateClient,redirect`
    &emailTpl=`sendEmailTpl`
-   &emailTo=`kim_55@bigmir.net`
+   &emailTo=`kim.romanishin@gmail.com`
    &emailSubject=`Заявка на заказ [[++site_url]]`
    &redirectTo=`360`
-   &validate=`phone:required`
+   <!--&validate=`phone:required`!-->
    &submitVar=`form-question`
 ]]
 [[!+fi.error_message:notempty=`<p>[[!+fi.error_message]]</p>`]]
@@ -42,22 +42,26 @@
     <input class="submit_button" type="submit" value="Отправить" />
 </form-->
 
-<div class="order-form-wrapper">
+<input type="hidden" name="item" />
+<div class="order-form-wrapper" >
 <form class="apply-form apply-form_order js-apply-form"   action="[[~[[*id]]]]#form" method="post" id="form">
 
 [[!+fi.error_message:notempty=`<p class="">[[!+fi.error_message]]</p>`]]
 
-<span class="error">[[!+fi.error.name]]</span>
-<div class="apply-form__fields"><label>Ваше имя</label> <input id="name" class="apply__input js-name" type="text" name="name" value="[[!+fi.name]]" /></div>
+<span class="error" >[[!+fi.error.name]]</span>
+<div class="apply-form__fields"><input id="name" class="apply__input js-name"  type="text" name="name" value="[[!+fi.name]]" placeholder="Ваше имя"/></div>
 
 <span class="error">[[!+fi.error.phone]]</span>
-<div class="apply-form__fields"><label>Телефон</label> <input id="phone" class="apply__input js-phone_skype" type="text" name="phone" value="[[!+fi.phone]]" /></div>
+<div class="apply-form__fields"><input id="phone" class="apply__input js-phone_skype" type="text" name="phone" value="[[!+fi.phone]]" placeholder="Телефон"/></div>
 
-<span class="error">[[!+fi.error.email]]</span>
-<div class="apply-form__fields"><label>Email @</label> <input id="email" class="apply__input js-email" type="text" name="email" value="[[!+fi.email]]" /></div>
+<span class="error" >[[!+fi.error.email]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]"></label> <input id="email" class="apply__input js-email" type="text" name="email" value="[[!+fi.email]]" placeholder="Email @"/></div>
+
+<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]"></label> <input id="theme" class="apply__input js-theme" type="text" name="theme" value=" [[!getname]]" placeholder="Товар"/></div>
 
 <span class="error">[[!+fi.error.text]]</span>
-<div class="apply-form__fields"><label>Ваш вопрос или данные для отправки заказа</label> <span class="apply__text--label js-text-placeholder"></span> <textarea id="text" class="apply__text" name="text"></textarea></div>
+<div class="apply-form__fields"><span class="apply__text--label js-text-placeholder" ></span> <textarea id="text" class="apply__text" name="text" placeholder="Ваш вопрос или данные для отправки заказа"></textarea></div>
 <input class="submit_button button button_apply js-telefon" type="submit" name="form-question" value="Отправить" /></form></div>',
     'modChunk_locked' => '0',
     'modChunk_properties' => 'a:0:{}',

@@ -20,7 +20,7 @@
     'output_properties' => 'a:0:{}',
     'static' => '0',
     'static_file' => '',
-    'value' => '<section class="intro intro_3"> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">Оборудование для выращивания</div> <div class="intro__rec intro__rec_2"><a class="button button_rec" href="/zajavka-na-postuplenie.html"><span>Заказать</span></a></div> <div class="intro__skype">Получи платную консультацию по Skype</div> </div> </section>',
+    'value' => '<section class="intro intro_3"> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">[[*longtitle]]  </div> <div class="intro__rec intro__rec_2"><a class="button button_rec" onclick="window.location = \'/zakazat-obratij-zvonok.html\';"><span>Заказать</span></a></div> <div class="intro__skype">Получи детальную консультацию по Skype  </div> </div> </section>',
     'resourceId' => '13',
   ),
   1 => 

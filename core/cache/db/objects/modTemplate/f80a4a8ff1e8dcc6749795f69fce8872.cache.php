@@ -21,7 +21,7 @@
 <div class="wrapper">[[$bread]]
 <h1 class="inner-h1">[[*pagetitle]]</h1>
 <div class="articles"><p> [[*introtext]]</p></div></div>
-<div class="wrapper"><div class="articles">[[*content]]</div></div>
+<div class="wrapper"><div class="articles">[[*content]][[$xxx]]</div></div>
 [[$social]]
 [[$footer]]
 [[$forms]]

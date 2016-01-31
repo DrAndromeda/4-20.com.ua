@@ -36,18 +36,12 @@
 <!--[[$slider_text]]!-->
 <!--[[$form_request_consult]]!-->
 [[$inform]]
-<!--[[$social]]!-->
+[[$social]]
 [[$footer]]
 [[$forms]]
 [[$js]]
 </body>
-</html>
-
-
-
-
-
-',
+</html>',
   'locked' => 0,
   'properties' => 'a:0:{}',
   'static' => 0,

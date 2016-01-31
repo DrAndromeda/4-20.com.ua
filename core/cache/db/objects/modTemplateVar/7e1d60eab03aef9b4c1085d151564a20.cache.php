@@ -20,7 +20,7 @@
     'output_properties' => 'a:0:{}',
     'static' => '0',
     'static_file' => '',
-    'value' => '',
+    'value' => '<section class="intro intro_2"> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">[[*longtitle]]  </div> <div class="intro__rec intro__rec_2"><a class="button button_rec" onclick="window.location = \'/zakazat-obratij-zvonok.html\';"><span>Заказать</span></a></div> <div class="intro__skype">Получи детальную консультацию по Skype  </div> </div> </section>',
     'resourceId' => '41',
   ),
   1 => 
@@ -68,7 +68,7 @@
     'output_properties' => 'a:0:{}',
     'static' => '0',
     'static_file' => '',
-    'value' => '',
+    'value' => 'лампы для выращивания марихуаны, купить лампы для выращивания марихуаны, лампы для марихуаны, лампы для конопли, какие лампы нужны для выращивания марихуаны, лампа для выращивания марихуаны, лампы для выращивания конопли, освещение для выращивания марихуаны, светодиодные лампы для выращивания марихуаны, led лампы для выращивания марихуаны, ',
     'resourceId' => '41',
   ),
 );

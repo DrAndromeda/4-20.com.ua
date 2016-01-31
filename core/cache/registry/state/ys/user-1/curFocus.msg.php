@@ -1,2 +1,2 @@
 <?php
-return 'modx-resource-description';
+return 'modx-resource-alias';

@@ -94,4 +94,23 @@
     'context_key' => 'web',
     'childrenCount' => '0',
   ),
+  5 => 
+  array (
+    'id' => '68',
+    'template' => '7',
+    'pagetitle' => 'Натриевая лампа GIB Lighting Pure Bloom Spectrum XTreme Output',
+    'longtitle' => '',
+    'alias' => 'natrievaya-lampa-gib-lighting-pure-bloom-spectrum-xtreme-output',
+    'description' => '',
+    'parent' => '0',
+    'published' => '0',
+    'deleted' => '1',
+    'isfolder' => '0',
+    'menuindex' => '6',
+    'menutitle' => '',
+    'hidemenu' => '0',
+    'class_key' => 'modDocument',
+    'context_key' => 'web',
+    'childrenCount' => '0',
+  ),
 );
