@@ -1,0 +1,84 @@
+[2015-11-09 10:37:41] (ERROR @ /connectors/lang.js.php) Error caching lexicon topic lexicon/ru/core/resource
+[2015-11-10 02:26:27] (ERROR @ /connectors/modx.config.js.php) Error caching lexicon topic lexicon/ru/core/resource
+[2015-11-21 04:58:53] (ERROR @ /connectors/modx.config.js.php) Error caching lexicon topic lexicon/ru/core/resource
+[2015-11-30 14:49:58] (ERROR @ /index.php) Could not cache resource 3
+[2015-11-30 15:18:40] (ERROR @ /connectors/index.php) xPDO->removeObject - Error deleting modDbRegisterMessage instance using query DELETE FROM `modx_register_messages` WHERE  ( `modx_register_messages`.`topic` = 1 AND `modx_register_messages`.`id` = 'b53b3a3d6ab90ce0268229151c9bde11' )  
+[2015-11-30 15:25:31] (ERROR @ /index.php) Could not cache resource 1
+[2015-12-03 17:41:06] (ERROR @ /connectors/lang.js.php) Error caching lexicon topic lexicon/ru/core/resource
+[2015-12-03 19:49:40] (ERROR @ /index.php) Could not cache resource 1
+[2015-12-03 20:01:08] (ERROR @ /index.php) Could not cache resource 1
+[2015-12-03 20:02:04] (ERROR @ /index.php) Could not cache resource 1
+[2015-12-03 20:54:19] (ERROR @ /index.php) Could not cache resource 1
+[2015-12-03 21:14:49] (ERROR @ /connectors/index.php) Error caching lexicon topic lexicon/ru/core/default
+[2015-12-03 21:52:23] (ERROR @ /index.php) Could not cache resource 1
+[2015-12-06 19:43:38] (ERROR @ /connectors/index.php) Error caching lexicon topic lexicon/ru/core/default
+[2015-12-22 01:49:10] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-22 14:53:19] (ERROR @ /manager/index.php) [configcheck] check core lockdown curl err: 28
+[2015-12-23 16:05:15] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: /var/www/fwlajand/data/www/4-20.com.ua/core/cache/phpthumb/4-20.com.ua__srcdf238f7d1908beb5cafc49da1f1c27f9_par0ba78bb0326502335f8683fdf331013a_dat0.jpeg
+[2015-12-23 16:05:17] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2015-12-23 16:39:47] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: /var/www/fwlajand/data/www/4-20.com.ua/core/cache/phpthumb/4-20.com.ua__srcdf238f7d1908beb5cafc49da1f1c27f9_par0ba78bb0326502335f8683fdf331013a_dat0.jpeg
+[2015-12-23 16:39:47] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2015-12-23 16:39:47] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: /var/www/fwlajand/data/www/4-20.com.ua/core/cache/phpthumb/4-20.com.ua__srcdf238f7d1908beb5cafc49da1f1c27f9_par0ba78bb0326502335f8683fdf331013a_dat0.jpeg
+[2015-12-23 16:39:48] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2015-12-23 18:13:32] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: /var/www/fwlajand/data/www/4-20.com.ua/core/cache/phpthumb/4-20.com.ua__srcdf238f7d1908beb5cafc49da1f1c27f9_par0ba78bb0326502335f8683fdf331013a_dat0.jpeg
+[2015-12-23 18:13:32] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2015-12-23 19:49:58] (ERROR @ /manager/index.php) [configcheck] check core lockdown curl err: 6
+[2015-12-24 02:21:26] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: /var/www/fwlajand/data/www/4-20.com.ua/core/cache/phpthumb/4-20.com.ua__srcdf238f7d1908beb5cafc49da1f1c27f9_par0ba78bb0326502335f8683fdf331013a_dat0.jpeg
+[2015-12-24 02:21:28] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2015-12-24 02:25:31] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 02:25:31] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 02:28:02] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: /var/www/fwlajand/data/www/4-20.com.ua/core/cache/phpthumb/4-20.com.ua__srcdf238f7d1908beb5cafc49da1f1c27f9_par0ba78bb0326502335f8683fdf331013a_dat0.jpeg
+[2015-12-24 02:28:02] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2015-12-24 02:29:38] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 02:41:27] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: /var/www/fwlajand/data/www/4-20.com.ua/core/cache/phpthumb/4-20.com.ua__srcdf238f7d1908beb5cafc49da1f1c27f9_par0ba78bb0326502335f8683fdf331013a_dat0.jpeg
+[2015-12-24 02:41:27] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2015-12-24 02:42:06] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 02:43:38] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 02:44:29] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 02:45:01] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 02:45:52] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 02:51:00] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 02:51:22] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 02:52:24] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 02:53:16] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 02:53:31] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 02:53:56] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 02:56:00] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 02:56:05] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 02:56:14] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 02:57:05] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 02:58:26] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 03:07:32] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 12:00:26] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 12:00:38] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 12:02:29] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 12:28:01] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 12:29:16] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 12:30:11] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-24 17:14:40] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: /var/www/fwlajand/data/www/4-20.com.ua/core/cache/phpthumb/4-20.com.ua__srcdf238f7d1908beb5cafc49da1f1c27f9_par0ba78bb0326502335f8683fdf331013a_dat0.jpeg
+[2015-12-24 17:14:42] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2015-12-24 17:23:21] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: /var/www/fwlajand/data/www/4-20.com.ua/core/cache/phpthumb/4-20.com.ua__srcdf238f7d1908beb5cafc49da1f1c27f9_par0ba78bb0326502335f8683fdf331013a_dat0.jpeg
+[2015-12-24 17:23:21] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2015-12-24 17:26:01] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: /var/www/fwlajand/data/www/4-20.com.ua/core/cache/phpthumb/4-20.com.ua__srcdf238f7d1908beb5cafc49da1f1c27f9_par0ba78bb0326502335f8683fdf331013a_dat0.jpeg
+[2015-12-24 17:26:02] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2015-12-24 17:32:54] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: /var/www/fwlajand/data/www/4-20.com.ua/core/cache/phpthumb/4-20.com.ua__srcdf238f7d1908beb5cafc49da1f1c27f9_par0ba78bb0326502335f8683fdf331013a_dat0.jpeg
+[2015-12-24 17:32:54] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2015-12-24 17:32:55] (ERROR @ /connectors/system/phpthumb.php) phpThumb was unable to generate a thumbnail for: /var/www/fwlajand/data/www/4-20.com.ua/core/cache/phpthumb/4-20.com.ua__srcdf238f7d1908beb5cafc49da1f1c27f9_par0ba78bb0326502335f8683fdf331013a_dat0.jpeg
+[2015-12-24 17:32:56] (ERROR @ /connectors/system/phpthumb.php) Error outputting thumbnail:
+OutputThumbnail() failed because !is_resource($this->gdimg_output) in file "phpthumb.class.php" on line 572
+[2015-12-29 16:53:24] (ERROR @ /index.php) Could not cache resource 1
+[2015-12-29 16:58:44] (ERROR @ /index.php) Could not cache resource 1
+[2015-12-29 17:00:55] (ERROR @ /index.php) Could not cache resource 1
+[2015-12-30 01:22:54] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".
+[2015-12-30 01:24:26] (ERROR @ /index.php) [FormIt] Could not find hook "hook_FormIt_megaplanCreateClient".

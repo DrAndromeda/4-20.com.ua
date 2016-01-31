@@ -1,0 +1,15 @@
+<?php  return array (
+  'id' => 1,
+  'username' => 'kim',
+  'password' => 'JmOjIjKn9Sh2oa4ooUj1nuWRaSYEDL2HsMrwI5EX8iQ=',
+  'cachepwd' => '',
+  'class_key' => 'modUser',
+  'active' => 1,
+  'remote_key' => NULL,
+  'remote_data' => NULL,
+  'hash_class' => 'hashing.modPBKDF2',
+  'salt' => 'a89f67dbcea7fdf1e4216066bfe89975',
+  'primary_group' => 1,
+  'session_stale' => 'a:2:{i:0;s:3:"mgr";i:1;s:3:"web";}',
+  'sudo' => 1,
+);

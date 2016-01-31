@@ -1,0 +1,16 @@
+<?php  return array (
+  'id' => 37,
+  'source' => 1,
+  'property_preprocess' => 0,
+  'name' => 'tpl.Wayfinder.outer',
+  'description' => '',
+  'editor_type' => 0,
+  'category' => 5,
+  'cache_type' => 0,
+  'snippet' => '[[+wf.wrapper]]',
+  'locked' => 0,
+  'properties' => 'a:0:{}',
+  'static' => 0,
+  'static_file' => '',
+  'content' => '[[+wf.wrapper]]',
+);

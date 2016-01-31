@@ -1,0 +1,63 @@
+# Default modx exclusions
+User-agent: *
+# Disallow: /assets/cache/
+Disallow: /assets/docs/
+Disallow: /assets/export/
+Disallow: /assets/import/
+Disallow: /assets/modules/
+Disallow: /assets/plugins/
+Disallow: /assets/snippets/
+Disallow: /assets/packages/ 
+Disallow: /assets/tvs/
+Disallow: /install/
+Disallow: /*magnat*
+Disallow: /index.php
+
+
+Disallow: /*?*start=0$
+Disallow: /blog.html?start=A9atBXrPPk
+Disallow: /blog.html?start=
+Disallow: /blog.html?start=10
+Host:4-20.com.ua
+Sitemap:http://4-20.com.ua/sitemap.xml
+# For sitemaps.xml autodiscovery. Uncomment if you have one:
+# Sitemap: http://example.com/sitemap.xml
+
+
+
+User-agent: Yandex
+Disallow: /administrator/
+Disallow: /cache/
+Disallow: /components/
+Disallow: /cli/
+Disallow: /images/ 
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /media/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /templates/
+Disallow: /tmp/
+Disallow: /*mailto*
+Disallow: /*start*
+Disallow: /*print*
+Disallow: /*feed*
+Disallow: /*search*
+Disallow: /*users*
+Disallow: /assets/docs/
+Disallow: /assets/export/
+Disallow: /assets/import/
+Disallow: /assets/modules/
+Disallow: /assets/plugins/
+Disallow: /assets/snippets/
+Disallow: /assets/packages/ 
+Disallow: /assets/tvs/
+Disallow: /install/
+Disallow: /*magnat*
+Disallow: /*?*start=0$
+Disallow: /blog.html?start=A9atBXrPP
+Disallow: /blog.html?start=
+Disallow: /blog.html?start=10
