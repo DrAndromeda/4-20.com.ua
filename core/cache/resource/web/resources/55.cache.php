@@ -168,6 +168,11 @@
 </li>
 
 <li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	
+</li>
+
+<li >
 	<a href="kak-kurit-gashish-i-effekt-ot-gashisha.html" >Все про гашиш</a>
 	
 </li>
@@ -235,12 +240,22 @@
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
 	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
 	
 </li>
 
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
 <li  class="last">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -337,6 +352,11 @@
 </li>
 
 <li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	
+</li>
+
+<li >
 	<a href="kak-kurit-gashish-i-effekt-ot-gashisha.html" >Все про гашиш</a>
 	
 </li>
@@ -406,12 +426,22 @@
 <hr/>
 	<ul>
 		<li  class="first">
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
 	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
 	
 </li>
 
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
 <li  class="last">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1135,7 +1165,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -1177,7 +1207,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -1393,6 +1423,11 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	
+</li>
+
+<li >
 	<a href="kak-kurit-gashish-i-effekt-ot-gashisha.html" >Все про гашиш</a>
 	
 </li>
@@ -1460,12 +1495,22 @@ $(".video_frame iframe")[0].src = path;
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
 	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
 	
 </li>
 
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
 <li  class="last">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1547,6 +1592,11 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	
+</li>
+
+<li >
 	<a href="kak-kurit-gashish-i-effekt-ot-gashisha.html" >Все про гашиш</a>
 	
 </li>
@@ -1614,12 +1664,22 @@ $(".video_frame iframe")[0].src = path;
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
 	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
 	
 </li>
 
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
 <li  class="last">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1715,6 +1775,11 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	
+</li>
+
+<li >
 	<a href="kak-kurit-gashish-i-effekt-ot-gashisha.html" >Все про гашиш</a>
 	
 </li>
@@ -1784,12 +1849,22 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
 	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
 	
 </li>
 
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
 <li  class="last">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1877,6 +1952,11 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	
+</li>
+
+<li >
 	<a href="kak-kurit-gashish-i-effekt-ot-gashisha.html" >Все про гашиш</a>
 	
 </li>
@@ -1946,12 +2026,22 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
 	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
 	
 </li>
 
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
 <li  class="last">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -2651,7 +2741,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -2693,7 +2783,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -4357,7 +4447,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -4399,7 +4489,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -4796,7 +4886,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -4838,7 +4928,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {

@@ -5,51 +5,51 @@
     'id' => 56,
     'type' => 'document',
     'contentType' => 'text/html',
-    'pagetitle' => 'Отражатели',
-    'longtitle' => '',
-    'description' => '',
+    'pagetitle' => 'Отражатели для гроубокса',
+    'longtitle' => 'У нас Вы можете купить отражатели для ламп в гроубоксе',
+    'description' => 'На сайте Вы можете приобрести отражатели энергосберегающих ламп и ламп ДНат, для систем гроубокса.',
     'alias' => 'otrazhateli',
     'link_attributes' => '',
     'published' => 1,
     'pub_date' => 0,
     'unpub_date' => 0,
-    'parent' => 13,
+    'parent' => 41,
     'isfolder' => 0,
     'introtext' => '',
     'content' => '<p> </p>
 <h2>Купить отражатели лучших производителей можно прямо сейчас</h2>
 <ul class="col3">
-<li><img class="col3__img" src="assets/img/Prima-Klima-Euro-Reflector-HAMMERED-BlueTec.jpg" alt="" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Prima-Klima-Euro-Reflector-HAMMERED-BlueTec.jpg" alt="" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Prima Klima модель Euro Reflector HAMMERED</a>
 <div class="col3__desc">
 <p>Параметры: 40x39x12см <br />Подходит для ламп ДРИ / ДНАТ, а также ЭСЛ с цоколем Е40.</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px;">700 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/Prima-Klima-Euro-Reflector-HAMMERED-BlueTec-kupit.jpg" alt="Категория А" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Prima-Klima-Euro-Reflector-HAMMERED-BlueTec-kupit.jpg" alt="" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Prima Klima Euro Reflector HAMMERED</a>
 <div class="col3__desc">
 <p>Параметры: 47x40 см <br />Подходит для ламп ДРИ / ДНАТ мощностью до 600 W</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px;">1300 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/Diamond-Reflector-Large-kupit.jpg" alt="Категория B+" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Diamond-Reflector-Large-kupit.jpg" alt="" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Отражатель Diamond Reflector Large</a>
 <div class="col3__desc">
 <p>Форма оригинальной конусной конструкции. Идеален для освещения квадратной площади или м2</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px;">2900 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/Adjust-A-Wings-Enforcer-kupit.jpg" alt="" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Adjust-A-Wings-Enforcer-kupit.jpg" alt="" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Adjust-A-Wings Enforcer</a>
 <div class="col3__desc">
 <p>Отражатель с рассекателем. Охватывает большую площать повышая КПД лампы на 43%</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px;">3000 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
 </ul>',
     'richtext' => 1,
@@ -60,11 +60,11 @@
     'createdby' => 1,
     'createdon' => 1450893696,
     'editedby' => 1,
-    'editedon' => 1450905031,
+    'editedon' => 1452867093,
     'deleted' => 0,
     'deletedon' => 0,
     'deletedby' => 0,
-    'publishedon' => 1450905031,
+    'publishedon' => 1450905000,
     'publishedby' => 1,
     'menutitle' => '',
     'donthit' => 0,
@@ -83,7 +83,7 @@
     'intro' => 
     array (
       0 => 'intro',
-      1 => '',
+      1 => '<section class="intro intro_2"> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">[[*longtitle]]  </div> <div class="intro__rec intro__rec_2"><a class="button button_rec" onclick="window.location = \'/zakazat-obratij-zvonok.html\';"><span>Заказать</span></a></div> <div class="intro__skype">Получи детальную консультацию по Skype  </div> </div> </section>',
       2 => 'text',
       3 => NULL,
       4 => 'text',
@@ -99,7 +99,7 @@
     'keywords' => 
     array (
       0 => 'keywords',
-      1 => '',
+      1 => 'отражатели для ламп ДНаТ, отражатели для ламп ДНаТ Украина, купить отражатель для лампы днат',
       2 => 'default',
       3 => NULL,
       4 => 'text',
@@ -107,11 +107,11 @@
     '_content' => '<!DOCTYPE html lang="ru">
 <html class="no-js" lang="ru">
 <head>
-<title></title>
+<title>У нас Вы можете купить отражатели для ламп в гроубоксе</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
-<meta name="keywords" content="" />
-<meta name="description" content="" />
+<meta name="keywords" content="отражатели для ламп ДНаТ, отражатели для ламп ДНаТ Украина, купить отражатель для лампы днат" />
+<meta name="description" content="На сайте Вы можете приобрести отражатели энергосберегающих ламп и ламп ДНат, для систем гроубокса." />
 <meta name = "format-detection" content = "telephone=no">
 <link async="async" rel="stylesheet" type="text/css" href="/assets/css/style.css" />
 <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon" />
@@ -151,7 +151,7 @@
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -165,7 +165,7 @@
 	<a href="kurenie-marixuanyi.html" title="Курение марихуаны"><i></i> Курение марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -175,12 +175,17 @@
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -252,7 +257,22 @@
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -262,8 +282,8 @@
 <li>
 	<a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html" title="Оборудование для выращивания"><i></i> Оборудование </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
-		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+		<li  class="first active">
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -273,12 +293,32 @@
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
 	
 </li>
 
-<li  class="last active">
-	<a href="otrazhateli.html" >Отражатели</a>
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
+	
+</li>
+
+<li  class="last">
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -309,7 +349,7 @@
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -319,12 +359,17 @@
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -398,7 +443,22 @@
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -409,8 +469,8 @@
 	<a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html" title="Оборудование для выращивания"><i></i> Оборудование </a>
 <hr/>
 	<ul>
-		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+		<li  class="first active">
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -420,12 +480,32 @@
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
 	
 </li>
 
-<li  class="last active">
-	<a href="otrazhateli.html" >Отражатели</a>
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
+	
+</li>
+
+<li  class="last">
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -438,58 +518,94 @@
   </div>
 </nav>
 
-
-<div class="wrapper"><div  class="breadcrumbs">       <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li><a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html">Оборудование для выращивания</a></li><li>Отражатели</li></ul></div>     </div>
-<h1 class="inner-h1">Отражатели</h1>
+<section class="intro intro_2"> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">У нас Вы можете купить отражатели для ламп в гроубоксе  </div> <div class="intro__rec intro__rec_2"><a class="button button_rec" onclick="window.location = \'/zakazat-obratij-zvonok.html\';"><span>Заказать</span></a></div> <div class="intro__skype">Получи детальную консультацию по Skype  </div> </div> </section>
+<div class="wrapper"><div  class="breadcrumbs">       <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li><a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html">Оборудование для выращивания</a></li><li><a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html">Лампы для выращивания марихуаны</a></li><li>Отражатели для гроубокса</li></ul></div>     </div>
+<h1 class="inner-h1">Отражатели для гроубокса</h1>
 <div class="articles"><p> </p></div></div>
 <div class="wrapper"><div class="articles"><p> </p>
 <h2>Купить отражатели лучших производителей можно прямо сейчас</h2>
 <ul class="col3">
-<li><img class="col3__img" src="assets/img/Prima-Klima-Euro-Reflector-HAMMERED-BlueTec.jpg" alt="" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Prima-Klima-Euro-Reflector-HAMMERED-BlueTec.jpg" alt="" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Prima Klima модель Euro Reflector HAMMERED</a>
 <div class="col3__desc">
 <p>Параметры: 40x39x12см <br />Подходит для ламп ДРИ / ДНАТ, а также ЭСЛ с цоколем Е40.</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px;">700 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Отражатели для гроубокса" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/Prima-Klima-Euro-Reflector-HAMMERED-BlueTec-kupit.jpg" alt="Категория А" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Prima-Klima-Euro-Reflector-HAMMERED-BlueTec-kupit.jpg" alt="" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Prima Klima Euro Reflector HAMMERED</a>
 <div class="col3__desc">
 <p>Параметры: 47x40 см <br />Подходит для ламп ДРИ / ДНАТ мощностью до 600 W</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px;">1300 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Отражатели для гроубокса" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/Diamond-Reflector-Large-kupit.jpg" alt="Категория B+" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Diamond-Reflector-Large-kupit.jpg" alt="" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Отражатель Diamond Reflector Large</a>
 <div class="col3__desc">
 <p>Форма оригинальной конусной конструкции. Идеален для освещения квадратной площади или м2</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px;">2900 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Отражатели для гроубокса" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/Adjust-A-Wings-Enforcer-kupit.jpg" alt="" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Adjust-A-Wings-Enforcer-kupit.jpg" alt="" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Adjust-A-Wings Enforcer</a>
 <div class="col3__desc">
 <p>Отражатель с рассекателем. Охватывает большую площать повышая КПД лампы на 43%</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px;">3000 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Отражатели для гроубокса" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-</ul></div></div>
-<div class="wrapper">Рассказать друзьям
+</ul><div class="justy">
+<p style="font-size: 24px; color: #fd2901; text-align: center;">!!! ВНИМАНИЕ !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Информация представленная на ресурсе 4-20.com.ua предназначена исключительно для совершеннолетних! Лица не достигшие 18 лет обязаны покинуть страницы данного ресурса, и в магазине обслуживаться не будут !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Вся информация описанная на сайте, предоставляется исключительно в научно-образовательных целях и несет только ознакомительный характер! Мы никого не призываем к совершению незаконных действий!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Ответственность за неправомерное использование любых товаров приобретенных у нас, лежит исключительно на потребителе продукции!</p>
+</div></div></div>
+<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
+</div></div>!-->
+
+
 </div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>
 <footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
-        <p> 4-20.com.ua ·  2016  <a rel="nofollow" href="http://4-20.com.ua/sitemap.xml" class="link" target="_blank">·  </a> Отражатели</p><p>Сайт 4:20 это информационный ресурс о культуре употребления марихуаны. Мы не пропагандируем курение, но предоставляем в массы знания о конопле и ее применении в разнообразных сферах жизнедеятельности человечества. Вся информация размещенная на сайте актуальна и собрана из авторитетных мировых ресурсов. Мы предоставляем информацию подтвержденную исключительно серьезными научными источниками, данные исследований, мнения знаменитых личностей и специалистов из разнообразных областей культуры, медицины, политики и социологии. </p> </div>
+        <p> 4-20.com.ua ·  2016  <a rel="nofollow" href="http://4-20.com.ua/sitemap.xml" class="link" target="_blank">·  </a> Отражатели для гроубокса</p><p>Сайт 4:20 это информационный ресурс о культуре употребления марихуаны. Мы не пропагандируем курение, но предоставляем в массы знания о конопле и ее применении в разнообразных сферах жизнедеятельности человечества. Вся информация размещенная на сайте актуальна и собрана из авторитетных мировых ресурсов. Мы предоставляем информацию подтвержденную исключительно серьезными научными источниками, данные исследований, мнения знаменитых личностей и специалистов из разнообразных областей культуры, медицины, политики и социологии. </p> </div>
 
     </div>
   </div>
@@ -521,7 +637,7 @@
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>
 [[#!FormIt?
    &formName=`forms1`
@@ -696,11 +812,11 @@
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="otrazhateli.html">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -712,6 +828,9 @@
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -756,14 +875,14 @@
 
 <script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -784,7 +903,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -1032,7 +1151,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -1074,7 +1193,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -1177,8 +1296,16 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
 
+</script>
 </body>
 </html>',
     '_isForward' => false,
@@ -1198,15 +1325,15 @@ $(".video_frame iframe")[0].src = path;
   ),
   'elementCache' => 
   array (
-    '[[*longtitle]]' => '',
-    '[[*keywords]]' => '',
-    '[[*description]]' => '',
+    '[[*longtitle]]' => 'У нас Вы можете купить отражатели для ламп в гроубоксе',
+    '[[*keywords]]' => 'отражатели для ламп ДНаТ, отражатели для ламп ДНаТ Украина, купить отражатель для лампы днат',
+    '[[*description]]' => 'На сайте Вы можете приобрести отражатели энергосберегающих ламп и ламп ДНат, для систем гроубокса.',
     '[[$head]]' => '<head>
-<title></title>
+<title>У нас Вы можете купить отражатели для ламп в гроубоксе</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
-<meta name="keywords" content="" />
-<meta name="description" content="" />
+<meta name="keywords" content="отражатели для ламп ДНаТ, отражатели для ламп ДНаТ Украина, купить отражатель для лампы днат" />
+<meta name="description" content="На сайте Вы можете приобрести отражатели энергосберегающих ламп и ламп ДНат, для систем гроубокса." />
 <meta name = "format-detection" content = "telephone=no">
 <link async="async" rel="stylesheet" type="text/css" href="/assets/css/style.css" />
 <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon" />
@@ -1244,7 +1371,7 @@ $(".video_frame iframe")[0].src = path;
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -1260,7 +1387,7 @@ $(".video_frame iframe")[0].src = path;
 	<a href="kurenie-marixuanyi.html" title="Курение марихуаны"><i></i> Курение марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -1270,12 +1397,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -1347,7 +1479,22 @@ $(".video_frame iframe")[0].src = path;
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1357,8 +1504,8 @@ $(".video_frame iframe")[0].src = path;
 <li>
 	<a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html" title="Оборудование для выращивания"><i></i> Оборудование </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
-		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+		<li  class="first active">
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -1368,12 +1515,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
 	
 </li>
 
-<li  class="last active">
-	<a href="otrazhateli.html" >Отражатели</a>
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
+	
+</li>
+
+<li  class="last">
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -1389,7 +1556,7 @@ $(".video_frame iframe")[0].src = path;
 	<a href="kurenie-marixuanyi.html" title="Курение марихуаны"><i></i> Курение марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -1399,12 +1566,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -1476,7 +1648,22 @@ $(".video_frame iframe")[0].src = path;
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1486,8 +1673,8 @@ $(".video_frame iframe")[0].src = path;
 <li>
 	<a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html" title="Оборудование для выращивания"><i></i> Оборудование </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
-		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+		<li  class="first active">
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -1497,12 +1684,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
 	
 </li>
 
-<li  class="last active">
-	<a href="otrazhateli.html" >Отражатели</a>
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
+	
+</li>
+
+<li  class="last">
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -1532,7 +1739,7 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -1542,12 +1749,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -1621,7 +1833,22 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1632,8 +1859,8 @@ $(".video_frame iframe")[0].src = path;
 	<a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html" title="Оборудование для выращивания"><i></i> Оборудование </a>
 <hr/>
 	<ul>
-		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+		<li  class="first active">
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -1643,12 +1870,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
 	
 </li>
 
-<li  class="last active">
-	<a href="otrazhateli.html" >Отражатели</a>
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
+	
+</li>
+
+<li  class="last">
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -1669,7 +1916,7 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -1679,12 +1926,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -1758,7 +2010,22 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1769,8 +2036,8 @@ $(".video_frame iframe")[0].src = path;
 	<a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html" title="Оборудование для выращивания"><i></i> Оборудование </a>
 <hr/>
 	<ul>
-		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+		<li  class="first active">
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -1780,12 +2047,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
 	
 </li>
 
-<li  class="last active">
-	<a href="otrazhateli.html" >Отражатели</a>
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
+	
+</li>
+
+<li  class="last">
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -1798,23 +2085,60 @@ $(".video_frame iframe")[0].src = path;
   </div>
 </nav>
 ',
-    '[[*intro]]' => '',
-    '[[Breadcrumb]]' => '<ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li><a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html">Оборудование для выращивания</a></li><li>Отражатели</li></ul>',
-    '[[$bread]]' => '<div  class="breadcrumbs">       <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li><a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html">Оборудование для выращивания</a></li><li>Отражатели</li></ul></div>     </div>',
-    '[[*pagetitle]]' => 'Отражатели',
+    '[[*intro]]' => '<section class="intro intro_2"> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">У нас Вы можете купить отражатели для ламп в гроубоксе  </div> <div class="intro__rec intro__rec_2"><a class="button button_rec" onclick="window.location = \'/zakazat-obratij-zvonok.html\';"><span>Заказать</span></a></div> <div class="intro__skype">Получи детальную консультацию по Skype  </div> </div> </section>',
+    '[[Breadcrumb]]' => '<ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li><a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html">Оборудование для выращивания</a></li><li><a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html">Лампы для выращивания марихуаны</a></li><li>Отражатели для гроубокса</li></ul>',
+    '[[$bread]]' => '<div  class="breadcrumbs">       <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li><a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html">Оборудование для выращивания</a></li><li><a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html">Лампы для выращивания марихуаны</a></li><li>Отражатели для гроубокса</li></ul></div>     </div>',
+    '[[*pagetitle]]' => 'Отражатели для гроубокса',
     '[[*introtext]]' => '',
-    '[[$social]]' => '<div class="wrapper">Рассказать друзьям
+    '[[$xxx]]' => '<div class="justy">
+<p style="font-size: 24px; color: #fd2901; text-align: center;">!!! ВНИМАНИЕ !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Информация представленная на ресурсе 4-20.com.ua предназначена исключительно для совершеннолетних! Лица не достигшие 18 лет обязаны покинуть страницы данного ресурса, и в магазине обслуживаться не будут !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Вся информация описанная на сайте, предоставляется исключительно в научно-образовательных целях и несет только ознакомительный характер! Мы никого не призываем к совершению незаконных действий!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Ответственность за неправомерное использование любых товаров приобретенных у нас, лежит исключительно на потребителе продукции!</p>
+</div>',
+    '[[$social]]' => '<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
-</div></div>',
+</div></div>!-->
+
+
+</div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>',
     '[[$footer]]' => '<footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
-        <p> 4-20.com.ua ·  2016  <a rel="nofollow" href="http://4-20.com.ua/sitemap.xml" class="link" target="_blank">·  </a> Отражатели</p><p>Сайт 4:20 это информационный ресурс о культуре употребления марихуаны. Мы не пропагандируем курение, но предоставляем в массы знания о конопле и ее применении в разнообразных сферах жизнедеятельности человечества. Вся информация размещенная на сайте актуальна и собрана из авторитетных мировых ресурсов. Мы предоставляем информацию подтвержденную исключительно серьезными научными источниками, данные исследований, мнения знаменитых личностей и специалистов из разнообразных областей культуры, медицины, политики и социологии. </p> </div>
+        <p> 4-20.com.ua ·  2016  <a rel="nofollow" href="http://4-20.com.ua/sitemap.xml" class="link" target="_blank">·  </a> Отражатели для гроубокса</p><p>Сайт 4:20 это информационный ресурс о культуре употребления марихуаны. Мы не пропагандируем курение, но предоставляем в массы знания о конопле и ее применении в разнообразных сферах жизнедеятельности человечества. Вся информация размещенная на сайте актуальна и собрана из авторитетных мировых ресурсов. Мы предоставляем информацию подтвержденную исключительно серьезными научными источниками, данные исследований, мнения знаменитых личностей и специалистов из разнообразных областей культуры, медицины, политики и социологии. </p> </div>
 
     </div>
   </div>
@@ -1846,7 +2170,7 @@ $(".video_frame iframe")[0].src = path;
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>',
     '[[*id]]' => 56,
     '[[~56]]' => 'otrazhateli.html',
@@ -2023,11 +2347,11 @@ $(".video_frame iframe")[0].src = path;
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="otrazhateli.html">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -2039,6 +2363,9 @@ $(".video_frame iframe")[0].src = path;
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -2083,14 +2410,14 @@ $(".video_frame iframe")[0].src = path;
 ',
     '[[$js]]' => '<script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -2111,7 +2438,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -2359,7 +2686,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -2401,7 +2728,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -2504,8 +2831,16 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
-',
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
+
+</script>',
   ),
   'sourceCache' => 
   array (
@@ -2615,7 +2950,7 @@ $(".video_frame iframe")[0].src = path;
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -2657,7 +2992,7 @@ $(".video_frame iframe")[0].src = path;
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -2880,6 +3215,55 @@ $(".video_frame iframe")[0].src = path;
           'is_stream' => true,
         ),
       ),
+      'xxx' => 
+      array (
+        'fields' => 
+        array (
+          'id' => 48,
+          'source' => 1,
+          'property_preprocess' => false,
+          'name' => 'xxx',
+          'description' => '',
+          'editor_type' => 0,
+          'category' => 0,
+          'cache_type' => 0,
+          'snippet' => '<div class="justy">
+<p style="font-size: 24px; color: #fd2901; text-align: center;">!!! ВНИМАНИЕ !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Информация представленная на ресурсе 4-20.com.ua предназначена исключительно для совершеннолетних! Лица не достигшие 18 лет обязаны покинуть страницы данного ресурса, и в магазине обслуживаться не будут !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Вся информация описанная на сайте, предоставляется исключительно в научно-образовательных целях и несет только ознакомительный характер! Мы никого не призываем к совершению незаконных действий!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Ответственность за неправомерное использование любых товаров приобретенных у нас, лежит исключительно на потребителе продукции!</p>
+</div>',
+          'locked' => false,
+          'properties' => 
+          array (
+          ),
+          'static' => false,
+          'static_file' => '',
+          'content' => '<div class="justy">
+<p style="font-size: 24px; color: #fd2901; text-align: center;">!!! ВНИМАНИЕ !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Информация представленная на ресурсе 4-20.com.ua предназначена исключительно для совершеннолетних! Лица не достигшие 18 лет обязаны покинуть страницы данного ресурса, и в магазине обслуживаться не будут !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Вся информация описанная на сайте, предоставляется исключительно в научно-образовательных целях и несет только ознакомительный характер! Мы никого не призываем к совершению незаконных действий!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Ответственность за неправомерное использование любых товаров приобретенных у нас, лежит исключительно на потребителе продукции!</p>
+</div>',
+        ),
+        'policies' => 
+        array (
+          'web' => 
+          array (
+          ),
+        ),
+        'source' => 
+        array (
+          'id' => 1,
+          'name' => 'Filesystem',
+          'description' => '',
+          'class_key' => 'sources.modFileMediaSource',
+          'properties' => 
+          array (
+          ),
+          'is_stream' => true,
+        ),
+      ),
       'social' => 
       array (
         'fields' => 
@@ -2892,20 +3276,72 @@ $(".video_frame iframe")[0].src = path;
           'editor_type' => 0,
           'category' => 0,
           'cache_type' => 0,
-          'snippet' => '<div class="wrapper">Рассказать друзьям
+          'snippet' => '<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
-</div></div>',
+</div></div>!-->
+
+
+</div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>',
           'locked' => false,
           'properties' => 
           array (
           ),
           'static' => false,
           'static_file' => '',
-          'content' => '<div class="wrapper">Рассказать друзьям
+          'content' => '<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
-</div></div>',
+</div></div>!-->
+
+
+</div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>',
         ),
         'policies' => 
         array (
@@ -2940,7 +3376,12 @@ $(".video_frame iframe")[0].src = path;
           'snippet' => '<footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
@@ -2976,7 +3417,7 @@ $(".video_frame iframe")[0].src = path;
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>',
           'locked' => false,
           'properties' => 
@@ -2987,7 +3428,12 @@ $(".video_frame iframe")[0].src = path;
           'content' => '<footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
@@ -3023,7 +3469,7 @@ $(".video_frame iframe")[0].src = path;
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>',
         ),
         'policies' => 
@@ -3229,11 +3675,11 @@ $(".video_frame iframe")[0].src = path;
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="[[~[[*id]]]]">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -3245,6 +3691,9 @@ $(".video_frame iframe")[0].src = path;
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -3466,11 +3915,11 @@ $(".video_frame iframe")[0].src = path;
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="[[~[[*id]]]]">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -3482,6 +3931,9 @@ $(".video_frame iframe")[0].src = path;
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -3557,14 +4009,14 @@ $(".video_frame iframe")[0].src = path;
           'cache_type' => 0,
           'snippet' => '<script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -3585,7 +4037,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -3833,7 +4285,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -3875,7 +4327,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -3978,8 +4430,16 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
-',
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
+
+</script>',
           'locked' => false,
           'properties' => 
           array (
@@ -3988,14 +4448,14 @@ $(".video_frame iframe")[0].src = path;
           'static_file' => '',
           'content' => '<script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -4016,7 +4476,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -4264,7 +4724,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -4306,7 +4766,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -4409,8 +4869,16 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
-',
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
+
+</script>',
         ),
         'policies' => 
         array (
@@ -7003,6 +7471,46 @@ return $fi->request->handle($fields);',
         ),
         'source' => 
         array (
+        ),
+      ),
+      'getname' => 
+      array (
+        'fields' => 
+        array (
+          'id' => 20,
+          'source' => 1,
+          'property_preprocess' => false,
+          'name' => 'getname',
+          'description' => '',
+          'editor_type' => 0,
+          'category' => 0,
+          'cache_type' => 0,
+          'snippet' => 'echo $_GET [name];',
+          'locked' => false,
+          'properties' => 
+          array (
+          ),
+          'moduleguid' => '',
+          'static' => false,
+          'static_file' => '',
+          'content' => 'echo $_GET [name];',
+        ),
+        'policies' => 
+        array (
+          'web' => 
+          array (
+          ),
+        ),
+        'source' => 
+        array (
+          'id' => 1,
+          'name' => 'Filesystem',
+          'description' => '',
+          'class_key' => 'sources.modFileMediaSource',
+          'properties' => 
+          array (
+          ),
+          'is_stream' => true,
         ),
       ),
     ),

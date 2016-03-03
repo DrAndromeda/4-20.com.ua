@@ -5,9 +5,9 @@
     'id' => 19,
     'type' => 'document',
     'contentType' => 'text/html',
-    'pagetitle' => 'Гроутент и гроубокс купить в Украине',
-    'longtitle' => '',
-    'description' => '',
+    'pagetitle' => 'Гроутент и гроубокс для марихауны купить',
+    'longtitle' => 'Купить или заказать гроубокс для марихуаны в Украине',
+    'description' => 'На нашем сайте Вы можете купить гроубокс для марихуаны и любых других растений. Мы работаем на территории Украины, а так же открыты для поставок в другие страны.',
     'alias' => 'grouboks-dlya-marixuanyi',
     'link_attributes' => '',
     'published' => 1,
@@ -16,85 +16,98 @@
     'parent' => 13,
     'isfolder' => 0,
     'introtext' => '',
-    'content' => '<p>Предалаем широкий выбор моделей самых популярных производителей гроутентов, а так же Вы можете преобрести гроубоксы для марихуаны. Если на сайте Вы не нашли параметры похдходящего бокса или конкретной модели <strong>гроубокс купить</strong> который Вы хотите в Украине, обращайтесь напрямую к нашим менеджерам по телефону. Мы обязательно подберем для Вас самый подходящий вариант!</p>
-<h2>Купить гроубоксы лучших производителей можно прямо сейчас</h2>
+    'content' => '<p>Предлагаем широкий выбор моделей самых популярных производителей гроутентов, а так же Вы можете приобрести гроубоксы для марихуаны. Если на сайте Вы не нашли параметры подходящего бокса или конкретную модель, то обращайтесь напрямую к нашим менеджерам по телефону. Мы обязательно подберем для Вас самый подходящий вариант и Вы сможете <strong>купить гроубокс для марихуаны</strong> по самой лучшей цене.</p>
+<h2>Купить гроубоксы для марихуаны и прочих растений можно прямо сейчас</h2>
 <ul class="col3">
-<li><img class="col3__img" src="assets/img/Dark-Propagator-kypit.png" alt="" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img title="ТОП гроубокс для марихуаны в Украине и мире" src="assets/img/Dark-Propagator-kypit.png" alt="Самый популярный гроубокс для марихуаны" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">БОКС ДЛЯ ПРОРАЩИВАНИЯ</a>
-<div class="col3__desc">
+<div class="col3__desc1">
 <p>Модель "DARK PROPAGATOR" Габариты: 90 - 60 - 60 СМ</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">2650 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/growbox-Mammoth-Pro-kypit.png" alt="Категория А" />
-<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">ГРОУБОКС MAMMOTH PRO</a>
-<div class="col3__desc">
+<li><a href="grouboks-mammoth-pro-dark-room.html"><img title="Гроубоксы купить и другое оборудование" src="assets/img/growbox-Mammoth-Pro-kypit.png" alt="Чтобы гроубоксы купить позвоните нам" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="grouboks-mammoth-pro-dark-room.html">ГРОУБОКС MAMMOTH PRO</a>
+<div class="col3__desc1">
 <p>Модель "DARK ROOM" Габариты: 100 - 100 - 200 СМ</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">6320 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/Mammoth-Pro-Dark-Room-kypit.jpg" alt="Категория B+" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img title="На 4-20 Вы можете купить готовый гроубокс" src="assets/img/Mammoth-Pro-Dark-Room-kypit.jpg" alt="Заказать или купить готовый гроубокс" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">ГРОУБОКС MAMMOTH PRO</a>
-<div class="col3__desc">
+<div class="col3__desc1">
 <p>Модель "DARK ROOM" Габариты: 150 - 150 - 200 СМ</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">8053 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/Mammoth-Pro-Dark-Room-kypit-kiev.png" alt="Категория B" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img title="Оптимальный growbox купить в Украине с доставкой" src="assets/img/Mammoth-Pro-Dark-Room-kypit-kiev.png" alt="growbox купить на территории Украины" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">ГРОУБОКС MAMMOTH PRO</a>
-<div class="col3__desc">
+<div class="col3__desc1">
 <p>Модель "DARK ROOM" Габариты: 240 - 240 - 200 СМ</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">16365 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
 </ul>
 <ul class="col3">
-<li><img class="col3__img" src="assets/img/Mammoth-Pro-Dark-Room-60-60-kypit.png" alt="Категория B" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img title="На сайте Вы можете гроутент купить по лучшей цене" src="assets/img/Mammoth-Pro-Dark-Room-60-60-kypit.png" alt="Можете гроутент купить в Украине до доступной цене" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">ГРОУБОКС MAMMOTH PRO</a>
-<div class="col3__desc">
+<div class="col3__desc1">
 <p>Модель "DARK ROOM" Габариты: 60 - 60 - 160 СМ</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">2911 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/growbox-Mammoth-Pro-Twin-120-kypit.png" alt="Категория B" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img title="Компактный гроубокс для марихуаны купить" src="assets/img/growbox-Mammoth-Pro-Twin-120-kypit.png" alt="Самый популярный гроубокс для марихуаны купить" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">ГРОУБОКС MAMMOTH PRO</a>
-<div class="col3__desc">
+<div class="col3__desc1">
 <p>Модель "DARK ROOM"  TWIN 120</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">13534 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/growbox-Vintage-kypit.png" alt="Категория B" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img title="Ваш гроубокс для марихуаны" src="assets/img/growbox-Vintage-kypit.png" alt="Что такое гроубокс для марихуаны" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Гроубокс SECRET JARDIN</a>
-<div class="col3__desc">
+<div class="col3__desc1">
 <p>Модель "VINTAGE SECRET" Габариты: 103 - 103 - 200 СМ</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">9888 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/growbox-Secret-Jardin-Dark-Street-kypir.png" alt="Категория B" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img title="Заказать или купить гроубокс для марихуаны" src="assets/img/growbox-Secret-Jardin-Dark-Street-kypir.png" alt="У нас вы можете купить гроубокс для марихуаны" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Гроубокс SECRET JARDIN</a>
-<div class="col3__desc">
-<p>Модель "DARK STREET 2.5"</p>
+<div class="col3__desc1">
+<p>Модель "DARK STREE1 2.5"</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">от 7740 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<span><a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow">Заказать сейчас</a></span></div>
 </li>
+</ul>
+<h3>Чтобы гроубокс для марихуаны купить просто оформите заказ у нас на сайте</h3>
+<p>Поскольку гроубокс или гроутент создан как раз для того чтобы облегчать задачу гровера, важно правильно подобать подходящий размер бокса. Перед тем как купить гроубокс для марихуаны разберитесь какие именно параметры гроубокса необходимы для Ваших целей.  Благодаря гроубоксу высокая производительность, в соотношении простоты использования и энергономичности делают эти коробы незаменимыми при выращивании разнообразных видов растений.</p>
+<p style="font-size: 18px; font-weight: bolder;">Купить готовый гроубокс Вы можете для таких целей:</p>
+<ul>
+<li>Малые гроубоксы (от 0,5 м² до 1 м²). Лучший вариант для проращивания зерен, выращивания небольших кустов, ускорения роста рассады. Подходит для выращивания максимум двух кустов марихуаны. </li>
+<li>Средние гроубоксы (от 1 м² до 1,5 м²). Оптимальный вместительный вариант growbox купить который можно весьма по доступной цене. Соотношение цены, качества и конечного результата отлично дополняют друг друга. Для роста компактных кустиков. Так же идеален для активизации проращивания зерен и серьезного роста рассады. Влазит от 2 до 3 кустов!</li>
+<li>Большие боксы (от 1,5 м² - 3 м² и больее). Здесь возможности неограниченны. Вместительность начинается от просторного нахождения 3 кустов и до их большого количества.</li>
+</ul>
+<p style="font-size: 18px; font-weight: bolder;">Так же существуют такие важные детали на которые стоит обратить внимание перед тем как гроубокс купить:</p>
+<ul>
+<li>Самая подходящая высота гроутента или гроубокса должны быть не менее 180 см. При такой высоте, растениям обеспечивается постоянная циркуляция воздуха, и создается самый благоприятный микроклимат в боксе. </li>
+<li>Система вентиляции, освещения и циркуляции воздуха должны работать отлично, так как это основные условия для хорошего роста растений.</li>
 </ul>',
     'richtext' => 1,
-    'template' => 4,
+    'template' => 13,
     'menuindex' => 1,
     'searchable' => 0,
     'cacheable' => 1,
     'createdby' => 1,
     'createdon' => 1444602438,
     'editedby' => 1,
-    'editedon' => 1450905012,
+    'editedon' => 1452867149,
     'deleted' => 0,
     'deletedon' => 0,
     'deletedby' => 0,
@@ -117,7 +130,7 @@
     'intro' => 
     array (
       0 => 'intro',
-      1 => '',
+      1 => '<section class="intro intro_3"> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">[[*longtitle]]  </div> <div class="intro__rec intro__rec_2"><a class="button button_rec" onclick="window.location = \'/zakazat-obratij-zvonok.html\';"><span>Заказать</span></a></div> <div class="intro__skype">Получи детальную консультацию по Skype  </div> </div> </section>',
       2 => 'text',
       3 => NULL,
       4 => 'text',
@@ -133,7 +146,7 @@
     'keywords' => 
     array (
       0 => 'keywords',
-      1 => '',
+      1 => 'гроубокс для марихуаны, купить гроубокс для марихуаны, гроубокс для марихуаны купить, гроутент купить, growbox купить, гроубоксы купить, купить готовый гроубокс',
       2 => 'default',
       3 => NULL,
       4 => 'text',
@@ -141,11 +154,11 @@
     '_content' => '<!DOCTYPE html lang="ru">
 <html class="no-js" lang="ru">
 <head>
-<title></title>
+<title>Купить или заказать гроубокс для марихуаны в Украине</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
-<meta name="keywords" content="" />
-<meta name="description" content="" />
+<meta name="keywords" content="гроубокс для марихуаны, купить гроубокс для марихуаны, гроубокс для марихуаны купить, гроутент купить, growbox купить, гроубоксы купить, купить готовый гроубокс" />
+<meta name="description" content="На нашем сайте Вы можете купить гроубокс для марихуаны и любых других растений. Мы работаем на территории Украины, а так же открыты для поставок в другие страны." />
 <meta name = "format-detection" content = "telephone=no">
 <link async="async" rel="stylesheet" type="text/css" href="/assets/css/style.css" />
 <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon" />
@@ -185,7 +198,7 @@
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -199,7 +212,7 @@
 	<a href="kurenie-marixuanyi.html" title="Курение марихуаны"><i></i> Курение марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -209,12 +222,17 @@
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -286,7 +304,22 @@
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -297,7 +330,7 @@
 	<a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html" title="Оборудование для выращивания"><i></i> Оборудование </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -307,12 +340,32 @@
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -343,7 +396,7 @@
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -353,12 +406,17 @@
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -432,7 +490,22 @@
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -444,7 +517,7 @@
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -454,12 +527,32 @@
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -472,92 +565,136 @@
   </div>
 </nav>
 
-
-<div class="wrapper"><div  class="breadcrumbs">       <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li><a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html">Оборудование для выращивания</a></li><li>Гроутент и гроубокс купить в Украине</li></ul></div>     </div>
-<h1 class="inner-h1">Гроутент и гроубокс купить в Украине</h1>
+<section class="intro intro_3"> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">Купить или заказать гроубокс для марихуаны в Украине  </div> <div class="intro__rec intro__rec_2"><a class="button button_rec" onclick="window.location = \'/zakazat-obratij-zvonok.html\';"><span>Заказать</span></a></div> <div class="intro__skype">Получи детальную консультацию по Skype  </div> </div> </section>
+<div class="wrapper"><div  class="breadcrumbs">       <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li><a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html">Оборудование для выращивания</a></li><li>Гроутент и гроубокс для марихауны купить</li></ul></div>     </div>
+<h1 class="inner-h1">Гроутент и гроубокс для марихауны купить</h1>
 <div class="articles"><p> </p></div></div>
-<div class="wrapper"><div class="articles"><p>Предалаем широкий выбор моделей самых популярных производителей гроутентов, а так же Вы можете преобрести гроубоксы для марихуаны. Если на сайте Вы не нашли параметры похдходящего бокса или конкретной модели <strong>гроубокс купить</strong> который Вы хотите в Украине, обращайтесь напрямую к нашим менеджерам по телефону. Мы обязательно подберем для Вас самый подходящий вариант!</p>
-<h2>Купить гроубоксы лучших производителей можно прямо сейчас</h2>
+<div class="wrapper"><div class="articles"><p>Предлагаем широкий выбор моделей самых популярных производителей гроутентов, а так же Вы можете приобрести гроубоксы для марихуаны. Если на сайте Вы не нашли параметры подходящего бокса или конкретную модель, то обращайтесь напрямую к нашим менеджерам по телефону. Мы обязательно подберем для Вас самый подходящий вариант и Вы сможете <strong>купить гроубокс для марихуаны</strong> по самой лучшей цене.</p>
+<h2>Купить гроубоксы для марихуаны и прочих растений можно прямо сейчас</h2>
 <ul class="col3">
-<li><img class="col3__img" src="assets/img/Dark-Propagator-kypit.png" alt="" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img title="ТОП гроубокс для марихуаны в Украине и мире" src="assets/img/Dark-Propagator-kypit.png" alt="Самый популярный гроубокс для марихуаны" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">БОКС ДЛЯ ПРОРАЩИВАНИЯ</a>
-<div class="col3__desc">
+<div class="col3__desc1">
 <p>Модель "DARK PROPAGATOR" Габариты: 90 - 60 - 60 СМ</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">2650 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Гроутент и гроубокс для марихауны купить" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/growbox-Mammoth-Pro-kypit.png" alt="Категория А" />
-<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">ГРОУБОКС MAMMOTH PRO</a>
-<div class="col3__desc">
+<li><a href="grouboks-mammoth-pro-dark-room.html"><img title="Гроубоксы купить и другое оборудование" src="assets/img/growbox-Mammoth-Pro-kypit.png" alt="Чтобы гроубоксы купить позвоните нам" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="grouboks-mammoth-pro-dark-room.html">ГРОУБОКС MAMMOTH PRO</a>
+<div class="col3__desc1">
 <p>Модель "DARK ROOM" Габариты: 100 - 100 - 200 СМ</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">6320 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Гроутент и гроубокс для марихауны купить" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/Mammoth-Pro-Dark-Room-kypit.jpg" alt="Категория B+" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img title="На 4-20 Вы можете купить готовый гроубокс" src="assets/img/Mammoth-Pro-Dark-Room-kypit.jpg" alt="Заказать или купить готовый гроубокс" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">ГРОУБОКС MAMMOTH PRO</a>
-<div class="col3__desc">
+<div class="col3__desc1">
 <p>Модель "DARK ROOM" Габариты: 150 - 150 - 200 СМ</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">8053 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Гроутент и гроубокс для марихауны купить" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/Mammoth-Pro-Dark-Room-kypit-kiev.png" alt="Категория B" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img title="Оптимальный growbox купить в Украине с доставкой" src="assets/img/Mammoth-Pro-Dark-Room-kypit-kiev.png" alt="growbox купить на территории Украины" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">ГРОУБОКС MAMMOTH PRO</a>
-<div class="col3__desc">
+<div class="col3__desc1">
 <p>Модель "DARK ROOM" Габариты: 240 - 240 - 200 СМ</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">16365 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Гроутент и гроубокс для марихауны купить" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
 </ul>
 <ul class="col3">
-<li><img class="col3__img" src="assets/img/Mammoth-Pro-Dark-Room-60-60-kypit.png" alt="Категория B" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img title="На сайте Вы можете гроутент купить по лучшей цене" src="assets/img/Mammoth-Pro-Dark-Room-60-60-kypit.png" alt="Можете гроутент купить в Украине до доступной цене" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">ГРОУБОКС MAMMOTH PRO</a>
-<div class="col3__desc">
+<div class="col3__desc1">
 <p>Модель "DARK ROOM" Габариты: 60 - 60 - 160 СМ</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">2911 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Гроутент и гроубокс для марихауны купить" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/growbox-Mammoth-Pro-Twin-120-kypit.png" alt="Категория B" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img title="Компактный гроубокс для марихуаны купить" src="assets/img/growbox-Mammoth-Pro-Twin-120-kypit.png" alt="Самый популярный гроубокс для марихуаны купить" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">ГРОУБОКС MAMMOTH PRO</a>
-<div class="col3__desc">
+<div class="col3__desc1">
 <p>Модель "DARK ROOM"  TWIN 120</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">13534 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Гроутент и гроубокс для марихауны купить" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/growbox-Vintage-kypit.png" alt="Категория B" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img title="Ваш гроубокс для марихуаны" src="assets/img/growbox-Vintage-kypit.png" alt="Что такое гроубокс для марихуаны" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Гроубокс SECRET JARDIN</a>
-<div class="col3__desc">
+<div class="col3__desc1">
 <p>Модель "VINTAGE SECRET" Габариты: 103 - 103 - 200 СМ</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">9888 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Гроутент и гроубокс для марихауны купить" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/growbox-Secret-Jardin-Dark-Street-kypir.png" alt="Категория B" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img title="Заказать или купить гроубокс для марихуаны" src="assets/img/growbox-Secret-Jardin-Dark-Street-kypir.png" alt="У нас вы можете купить гроубокс для марихуаны" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Гроубокс SECRET JARDIN</a>
-<div class="col3__desc">
-<p>Модель "DARK STREET 2.5"</p>
+<div class="col3__desc1">
+<p>Модель "DARK STREE1 2.5"</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">от 7740 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<span><a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Гроутент и гроубокс для марихауны купить" rel="nofollow">Заказать сейчас</a></span></div>
 </li>
+</ul>
+<h3>Чтобы гроубокс для марихуаны купить просто оформите заказ у нас на сайте</h3>
+<p>Поскольку гроубокс или гроутент создан как раз для того чтобы облегчать задачу гровера, важно правильно подобать подходящий размер бокса. Перед тем как купить гроубокс для марихуаны разберитесь какие именно параметры гроубокса необходимы для Ваших целей.  Благодаря гроубоксу высокая производительность, в соотношении простоты использования и энергономичности делают эти коробы незаменимыми при выращивании разнообразных видов растений.</p>
+<p style="font-size: 18px; font-weight: bolder;">Купить готовый гроубокс Вы можете для таких целей:</p>
+<ul>
+<li>Малые гроубоксы (от 0,5 м² до 1 м²). Лучший вариант для проращивания зерен, выращивания небольших кустов, ускорения роста рассады. Подходит для выращивания максимум двух кустов марихуаны. </li>
+<li>Средние гроубоксы (от 1 м² до 1,5 м²). Оптимальный вместительный вариант growbox купить который можно весьма по доступной цене. Соотношение цены, качества и конечного результата отлично дополняют друг друга. Для роста компактных кустиков. Так же идеален для активизации проращивания зерен и серьезного роста рассады. Влазит от 2 до 3 кустов!</li>
+<li>Большие боксы (от 1,5 м² - 3 м² и больее). Здесь возможности неограниченны. Вместительность начинается от просторного нахождения 3 кустов и до их большого количества.</li>
+</ul>
+<p style="font-size: 18px; font-weight: bolder;">Так же существуют такие важные детали на которые стоит обратить внимание перед тем как гроубокс купить:</p>
+<ul>
+<li>Самая подходящая высота гроутента или гроубокса должны быть не менее 180 см. При такой высоте, растениям обеспечивается постоянная циркуляция воздуха, и создается самый благоприятный микроклимат в боксе. </li>
+<li>Система вентиляции, освещения и циркуляции воздуха должны работать отлично, так как это основные условия для хорошего роста растений.</li>
 </ul></div></div>
-<div class="wrapper">Рассказать друзьям
+<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
+</div></div>!-->
+
+
 </div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>
 <footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
-        <p> 4-20.com.ua ·  2016  <a rel="nofollow" href="http://4-20.com.ua/sitemap.xml" class="link" target="_blank">·  </a> Гроутент и гроубокс купить в Украине</p><p>Сайт 4:20 это информационный ресурс о культуре употребления марихуаны. Мы не пропагандируем курение, но предоставляем в массы знания о конопле и ее применении в разнообразных сферах жизнедеятельности человечества. Вся информация размещенная на сайте актуальна и собрана из авторитетных мировых ресурсов. Мы предоставляем информацию подтвержденную исключительно серьезными научными источниками, данные исследований, мнения знаменитых личностей и специалистов из разнообразных областей культуры, медицины, политики и социологии. </p> </div>
+        <p> 4-20.com.ua ·  2016  <a rel="nofollow" href="http://4-20.com.ua/sitemap.xml" class="link" target="_blank">·  </a> Гроутент и гроубокс для марихауны купить</p><p>Сайт 4:20 это информационный ресурс о культуре употребления марихуаны. Мы не пропагандируем курение, но предоставляем в массы знания о конопле и ее применении в разнообразных сферах жизнедеятельности человечества. Вся информация размещенная на сайте актуальна и собрана из авторитетных мировых ресурсов. Мы предоставляем информацию подтвержденную исключительно серьезными научными источниками, данные исследований, мнения знаменитых личностей и специалистов из разнообразных областей культуры, медицины, политики и социологии. </p> </div>
 
     </div>
   </div>
@@ -589,7 +726,7 @@
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>
 [[#!FormIt?
    &formName=`forms1`
@@ -764,11 +901,11 @@
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="grouboks-dlya-marixuanyi.html">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -780,6 +917,9 @@
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -824,14 +964,14 @@
 
 <script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -852,7 +992,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -1100,7 +1240,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -1142,7 +1282,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -1245,8 +1385,16 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
 
+</script>
 </body>
 </html>',
     '_isForward' => false,
@@ -1266,15 +1414,15 @@ $(".video_frame iframe")[0].src = path;
   ),
   'elementCache' => 
   array (
-    '[[*longtitle]]' => '',
-    '[[*keywords]]' => '',
-    '[[*description]]' => '',
+    '[[*longtitle]]' => 'Купить или заказать гроубокс для марихуаны в Украине',
+    '[[*keywords]]' => 'гроубокс для марихуаны, купить гроубокс для марихуаны, гроубокс для марихуаны купить, гроутент купить, growbox купить, гроубоксы купить, купить готовый гроубокс',
+    '[[*description]]' => 'На нашем сайте Вы можете купить гроубокс для марихуаны и любых других растений. Мы работаем на территории Украины, а так же открыты для поставок в другие страны.',
     '[[$head]]' => '<head>
-<title></title>
+<title>Купить или заказать гроубокс для марихуаны в Украине</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
-<meta name="keywords" content="" />
-<meta name="description" content="" />
+<meta name="keywords" content="гроубокс для марихуаны, купить гроубокс для марихуаны, гроубокс для марихуаны купить, гроутент купить, growbox купить, гроубоксы купить, купить готовый гроубокс" />
+<meta name="description" content="На нашем сайте Вы можете купить гроубокс для марихуаны и любых других растений. Мы работаем на территории Украины, а так же открыты для поставок в другие страны." />
 <meta name = "format-detection" content = "telephone=no">
 <link async="async" rel="stylesheet" type="text/css" href="/assets/css/style.css" />
 <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon" />
@@ -1312,7 +1460,7 @@ $(".video_frame iframe")[0].src = path;
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -1328,7 +1476,7 @@ $(".video_frame iframe")[0].src = path;
 	<a href="kurenie-marixuanyi.html" title="Курение марихуаны"><i></i> Курение марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -1338,12 +1486,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -1415,7 +1568,22 @@ $(".video_frame iframe")[0].src = path;
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1426,7 +1594,7 @@ $(".video_frame iframe")[0].src = path;
 	<a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html" title="Оборудование для выращивания"><i></i> Оборудование </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -1436,12 +1604,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -1457,7 +1645,7 @@ $(".video_frame iframe")[0].src = path;
 	<a href="kurenie-marixuanyi.html" title="Курение марихуаны"><i></i> Курение марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -1467,12 +1655,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -1544,7 +1737,22 @@ $(".video_frame iframe")[0].src = path;
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1555,7 +1763,7 @@ $(".video_frame iframe")[0].src = path;
 	<a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html" title="Оборудование для выращивания"><i></i> Оборудование </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -1565,12 +1773,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -1600,7 +1828,7 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -1610,12 +1838,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -1689,7 +1922,22 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1701,7 +1949,7 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -1711,12 +1959,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -1737,7 +2005,7 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -1747,12 +2015,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -1826,7 +2099,22 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1838,7 +2126,7 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -1848,12 +2136,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -1866,23 +2174,54 @@ $(".video_frame iframe")[0].src = path;
   </div>
 </nav>
 ',
-    '[[*intro]]' => '',
-    '[[Breadcrumb]]' => '<ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li><a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html">Оборудование для выращивания</a></li><li>Гроутент и гроубокс купить в Украине</li></ul>',
-    '[[$bread]]' => '<div  class="breadcrumbs">       <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li><a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html">Оборудование для выращивания</a></li><li>Гроутент и гроубокс купить в Украине</li></ul></div>     </div>',
-    '[[*pagetitle]]' => 'Гроутент и гроубокс купить в Украине',
+    '[[*intro]]' => '<section class="intro intro_3"> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">Купить или заказать гроубокс для марихуаны в Украине  </div> <div class="intro__rec intro__rec_2"><a class="button button_rec" onclick="window.location = \'/zakazat-obratij-zvonok.html\';"><span>Заказать</span></a></div> <div class="intro__skype">Получи детальную консультацию по Skype  </div> </div> </section>',
+    '[[Breadcrumb]]' => '<ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li><a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html">Оборудование для выращивания</a></li><li>Гроутент и гроубокс для марихауны купить</li></ul>',
+    '[[$bread]]' => '<div  class="breadcrumbs">       <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li><a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html">Оборудование для выращивания</a></li><li>Гроутент и гроубокс для марихауны купить</li></ul></div>     </div>',
+    '[[*pagetitle]]' => 'Гроутент и гроубокс для марихауны купить',
     '[[*introtext]]' => '',
-    '[[$social]]' => '<div class="wrapper">Рассказать друзьям
+    '[[$social]]' => '<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
-</div></div>',
+</div></div>!-->
+
+
+</div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>',
     '[[$footer]]' => '<footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
-        <p> 4-20.com.ua ·  2016  <a rel="nofollow" href="http://4-20.com.ua/sitemap.xml" class="link" target="_blank">·  </a> Гроутент и гроубокс купить в Украине</p><p>Сайт 4:20 это информационный ресурс о культуре употребления марихуаны. Мы не пропагандируем курение, но предоставляем в массы знания о конопле и ее применении в разнообразных сферах жизнедеятельности человечества. Вся информация размещенная на сайте актуальна и собрана из авторитетных мировых ресурсов. Мы предоставляем информацию подтвержденную исключительно серьезными научными источниками, данные исследований, мнения знаменитых личностей и специалистов из разнообразных областей культуры, медицины, политики и социологии. </p> </div>
+        <p> 4-20.com.ua ·  2016  <a rel="nofollow" href="http://4-20.com.ua/sitemap.xml" class="link" target="_blank">·  </a> Гроутент и гроубокс для марихауны купить</p><p>Сайт 4:20 это информационный ресурс о культуре употребления марихуаны. Мы не пропагандируем курение, но предоставляем в массы знания о конопле и ее применении в разнообразных сферах жизнедеятельности человечества. Вся информация размещенная на сайте актуальна и собрана из авторитетных мировых ресурсов. Мы предоставляем информацию подтвержденную исключительно серьезными научными источниками, данные исследований, мнения знаменитых личностей и специалистов из разнообразных областей культуры, медицины, политики и социологии. </p> </div>
 
     </div>
   </div>
@@ -1914,7 +2253,7 @@ $(".video_frame iframe")[0].src = path;
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>',
     '[[*id]]' => 19,
     '[[~19]]' => 'grouboks-dlya-marixuanyi.html',
@@ -2091,11 +2430,11 @@ $(".video_frame iframe")[0].src = path;
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="grouboks-dlya-marixuanyi.html">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -2107,6 +2446,9 @@ $(".video_frame iframe")[0].src = path;
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -2151,14 +2493,14 @@ $(".video_frame iframe")[0].src = path;
 ',
     '[[$js]]' => '<script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -2179,7 +2521,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -2427,7 +2769,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -2469,7 +2811,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -2572,8 +2914,16 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
-',
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
+
+</script>',
   ),
   'sourceCache' => 
   array (
@@ -2624,6 +2974,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2680,7 +3033,7 @@ $(".video_frame iframe")[0].src = path;
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -2722,7 +3075,7 @@ $(".video_frame iframe")[0].src = path;
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -2730,6 +3083,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2808,6 +3164,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2884,6 +3243,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2920,6 +3282,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2945,23 +3310,78 @@ $(".video_frame iframe")[0].src = path;
           'editor_type' => 0,
           'category' => 0,
           'cache_type' => 0,
-          'snippet' => '<div class="wrapper">Рассказать друзьям
+          'snippet' => '<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
-</div></div>',
+</div></div>!-->
+
+
+</div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>',
           'locked' => false,
           'properties' => 
           array (
           ),
           'static' => false,
           'static_file' => '',
-          'content' => '<div class="wrapper">Рассказать друзьям
+          'content' => '<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
-</div></div>',
+</div></div>!-->
+
+
+</div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2990,7 +3410,12 @@ $(".video_frame iframe")[0].src = path;
           'snippet' => '<footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
@@ -3026,7 +3451,7 @@ $(".video_frame iframe")[0].src = path;
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>',
           'locked' => false,
           'properties' => 
@@ -3037,7 +3462,12 @@ $(".video_frame iframe")[0].src = path;
           'content' => '<footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
@@ -3073,11 +3503,14 @@ $(".video_frame iframe")[0].src = path;
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3276,11 +3709,11 @@ $(".video_frame iframe")[0].src = path;
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="[[~[[*id]]]]">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -3292,6 +3725,9 @@ $(".video_frame iframe")[0].src = path;
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -3513,11 +3949,11 @@ $(".video_frame iframe")[0].src = path;
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="[[~[[*id]]]]">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -3529,6 +3965,9 @@ $(".video_frame iframe")[0].src = path;
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -3574,6 +4013,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3601,14 +4043,14 @@ $(".video_frame iframe")[0].src = path;
           'cache_type' => 0,
           'snippet' => '<script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -3629,7 +4071,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -3877,7 +4319,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -3919,7 +4361,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -4022,8 +4464,16 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
-',
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
+
+</script>',
           'locked' => false,
           'properties' => 
           array (
@@ -4032,14 +4482,14 @@ $(".video_frame iframe")[0].src = path;
           'static_file' => '',
           'content' => '<script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -4060,7 +4510,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -4308,7 +4758,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -4350,7 +4800,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -4453,11 +4903,22 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
-',
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
+
+</script>',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -5370,6 +5831,9 @@ if ($wf->_config[\'ph\']) {
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -5999,6 +6463,9 @@ return $output;',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -6224,6 +6691,9 @@ return $search->output($output,$scriptProperties[\'toPlaceholder\']);',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -7029,9 +7499,52 @@ return $fi->request->handle($fields);',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
+        ),
+      ),
+      'getname' => 
+      array (
+        'fields' => 
+        array (
+          'id' => 20,
+          'source' => 1,
+          'property_preprocess' => false,
+          'name' => 'getname',
+          'description' => '',
+          'editor_type' => 0,
+          'category' => 0,
+          'cache_type' => 0,
+          'snippet' => 'echo $_GET [name];',
+          'locked' => false,
+          'properties' => 
+          array (
+          ),
+          'moduleguid' => '',
+          'static' => false,
+          'static_file' => '',
+          'content' => 'echo $_GET [name];',
+        ),
+        'policies' => 
+        array (
+          'web' => 
+          array (
+          ),
+        ),
+        'source' => 
+        array (
+          'id' => 1,
+          'name' => 'Filesystem',
+          'description' => '',
+          'class_key' => 'sources.modFileMediaSource',
+          'properties' => 
+          array (
+          ),
+          'is_stream' => true,
         ),
       ),
     ),
@@ -7075,6 +7588,9 @@ return $fi->request->handle($fields);',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -7126,6 +7642,9 @@ return $fi->request->handle($fields);',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (

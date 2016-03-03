@@ -10,7 +10,7 @@
     'description' => '',
     'alias' => 'udobreniya-growth-technology',
     'link_attributes' => '',
-    'published' => 0,
+    'published' => 1,
     'pub_date' => 0,
     'unpub_date' => 0,
     'parent' => 39,
@@ -35,7 +35,9 @@
 </li>
 <li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/FORMULEX-купить.jpg" alt="" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">FORMULEX 1л</a>
-<div class="col3__desc">&lt;pТОП ПРОДАЖ! <br /> Для подкормки черенков и клонов. Так же для пересадки и клонирования.</div>
+<div class="col3__desc">
+<p>ТОП ПРОДАЖ! <br /> Для подкормки черенков и клонов. Так же для пересадки и клонирования.</p>
+</div>
 <div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">700 грн</span></div>
 <a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
@@ -56,12 +58,12 @@
     'createdby' => 1,
     'createdon' => 1454283169,
     'editedby' => 1,
-    'editedon' => 1454283267,
+    'editedon' => 1454283666,
     'deleted' => 0,
     'deletedon' => 0,
     'deletedby' => 0,
-    'publishedon' => 0,
-    'publishedby' => 0,
+    'publishedon' => 1454283600,
+    'publishedby' => 1,
     'menutitle' => '',
     'donthit' => 0,
     'privateweb' => 0,
@@ -79,7 +81,7 @@
     'intro' => 
     array (
       0 => 'intro',
-      1 => '<section class="intro intro_6> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">[[*longtitle]]  </div> <div class="intro__rec intro__rec_2"><a class="button button_rec" onclick="window.location = \'/zakazat-obratij-zvonok.html\';"><span>Заказать</span></a></div> <div class="intro__skype">Получи детальную консультацию по Skype  </div> </div> </section>',
+      1 => '<section class="intro intro_6"> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">[[*longtitle]]  </div> <div class="intro__rec intro__rec_2"><a class="button button_rec" onclick="window.location = \'/zakazat-obratij-zvonok.html\';"><span>Заказать</span></a></div> <div class="intro__skype">Получи детальную консультацию по Skype  </div> </div> </section>',
       2 => 'text',
       3 => NULL,
       4 => 'text',
@@ -181,6 +183,11 @@
 </li>
 
 <li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	
+</li>
+
+<li >
 	<a href="kak-kurit-gashish-i-effekt-ot-gashisha.html" >Все про гашиш</a>
 	
 </li>
@@ -248,12 +255,22 @@
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
 	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
 	
 </li>
 
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
 <li  class="last">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -350,6 +367,11 @@
 </li>
 
 <li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	
+</li>
+
+<li >
 	<a href="kak-kurit-gashish-i-effekt-ot-gashisha.html" >Все про гашиш</a>
 	
 </li>
@@ -419,12 +441,22 @@
 <hr/>
 	<ul>
 		<li  class="first">
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
 	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
 	
 </li>
 
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
 <li  class="last">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -484,7 +516,7 @@
   </div>
 </nav>
 
-<section class="intro intro_6> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">Чтобы купить Growth Technology обращайтесь к менеджерам  </div> <div class="intro__rec intro__rec_2"><a class="button button_rec" onclick="window.location = \'/zakazat-obratij-zvonok.html\';"><span>Заказать</span></a></div> <div class="intro__skype">Получи детальную консультацию по Skype  </div> </div> </section>
+<section class="intro intro_6"> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">Чтобы купить Growth Technology обращайтесь к менеджерам  </div> <div class="intro__rec intro__rec_2"><a class="button button_rec" onclick="window.location = \'/zakazat-obratij-zvonok.html\';"><span>Заказать</span></a></div> <div class="intro__skype">Получи детальную консультацию по Skype  </div> </div> </section>
 <div class="wrapper"><div  class="breadcrumbs">       <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li><a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html">Оборудование для выращивания</a></li><li><a href="udobreniya-dlya-marixuanyi.html">Удобрения для марихуаны</a></li><li>Удобрения Growth Technology</li></ul></div>     </div>
 <h1 class="inner-h1">Удобрения Growth Technology</h1>
 <div class="articles"><p> </p></div></div>
@@ -507,7 +539,9 @@
 </li>
 <li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/FORMULEX-купить.jpg" alt="" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">FORMULEX 1л</a>
-<div class="col3__desc">&lt;pТОП ПРОДАЖ! <br /> Для подкормки черенков и клонов. Так же для пересадки и клонирования.</div>
+<div class="col3__desc">
+<p>ТОП ПРОДАЖ! <br /> Для подкормки черенков и клонов. Так же для пересадки и клонирования.</p>
+</div>
 <div class="button button_adm"><span style="font-size: 20px; font-weight: bolder;">700 грн</span></div>
 <a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Удобрения Growth Technology" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
@@ -1113,7 +1147,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -1155,7 +1189,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -1369,6 +1403,11 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	
+</li>
+
+<li >
 	<a href="kak-kurit-gashish-i-effekt-ot-gashisha.html" >Все про гашиш</a>
 	
 </li>
@@ -1436,12 +1475,22 @@ $(".video_frame iframe")[0].src = path;
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
 	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
 	
 </li>
 
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
 <li  class="last">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1523,6 +1572,11 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	
+</li>
+
+<li >
 	<a href="kak-kurit-gashish-i-effekt-ot-gashisha.html" >Все про гашиш</a>
 	
 </li>
@@ -1590,12 +1644,22 @@ $(".video_frame iframe")[0].src = path;
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
 	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
 	
 </li>
 
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
 <li  class="last">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1691,6 +1755,11 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	
+</li>
+
+<li >
 	<a href="kak-kurit-gashish-i-effekt-ot-gashisha.html" >Все про гашиш</a>
 	
 </li>
@@ -1760,12 +1829,22 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
 	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
 	
 </li>
 
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
 <li  class="last">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1853,6 +1932,11 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	
+</li>
+
+<li >
 	<a href="kak-kurit-gashish-i-effekt-ot-gashisha.html" >Все про гашиш</a>
 	
 </li>
@@ -1922,12 +2006,22 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
 	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
 	
 </li>
 
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
 <li  class="last">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1987,7 +2081,7 @@ $(".video_frame iframe")[0].src = path;
   </div>
 </nav>
 ',
-    '[[*intro]]' => '<section class="intro intro_6> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">Чтобы купить Growth Technology обращайтесь к менеджерам  </div> <div class="intro__rec intro__rec_2"><a class="button button_rec" onclick="window.location = \'/zakazat-obratij-zvonok.html\';"><span>Заказать</span></a></div> <div class="intro__skype">Получи детальную консультацию по Skype  </div> </div> </section>',
+    '[[*intro]]' => '<section class="intro intro_6"> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">Чтобы купить Growth Technology обращайтесь к менеджерам  </div> <div class="intro__rec intro__rec_2"><a class="button button_rec" onclick="window.location = \'/zakazat-obratij-zvonok.html\';"><span>Заказать</span></a></div> <div class="intro__skype">Получи детальную консультацию по Skype  </div> </div> </section>',
     '[[Breadcrumb]]' => '<ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li><a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html">Оборудование для выращивания</a></li><li><a href="udobreniya-dlya-marixuanyi.html">Удобрения для марихуаны</a></li><li>Удобрения Growth Technology</li></ul>',
     '[[$bread]]' => '<div  class="breadcrumbs">       <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li><a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html">Оборудование для выращивания</a></li><li><a href="udobreniya-dlya-marixuanyi.html">Удобрения для марихуаны</a></li><li>Удобрения Growth Technology</li></ul></div>     </div>',
     '[[*pagetitle]]' => 'Удобрения Growth Technology',
@@ -2588,7 +2682,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -2630,7 +2724,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -2793,6 +2887,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2899,6 +2996,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2977,6 +3077,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3053,6 +3156,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3089,6 +3195,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3135,6 +3244,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3229,6 +3341,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3355,6 +3470,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3857,6 +3975,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -4160,7 +4281,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -4202,7 +4323,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -4599,7 +4720,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -4641,7 +4762,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -4757,6 +4878,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -5669,6 +5793,9 @@ if ($wf->_config[\'ph\']) {
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -6298,6 +6425,9 @@ return $output;',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -6523,6 +6653,9 @@ return $search->output($output,$scriptProperties[\'toPlaceholder\']);',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -7328,6 +7461,9 @@ return $fi->request->handle($fields);',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -7357,6 +7493,9 @@ return $fi->request->handle($fields);',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -7411,6 +7550,9 @@ return $fi->request->handle($fields);',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -7462,6 +7604,9 @@ return $fi->request->handle($fields);',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (

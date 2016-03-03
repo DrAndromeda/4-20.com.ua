@@ -6,8 +6,8 @@
     'type' => 'document',
     'contentType' => 'text/html',
     'pagetitle' => 'Лампы и cooltube',
-    'longtitle' => '',
-    'description' => '',
+    'longtitle' => 'Купить лампы ДНаТ и энергосберегающие лампы для гроубокса',
+    'description' => 'На сайте Вы можете приобрести лампы и cooltube для обогрева гроубокса, купить ДНаТ, МЛГ и энергосберегающие.',
     'alias' => 'lampyi-i-cooltube',
     'link_attributes' => '',
     'published' => 1,
@@ -19,37 +19,158 @@
     'content' => '<p> </p>
 <h2>Купить лампы и cooltube которые производит Украина и другие страны</h2>
 <ul class="col3">
-<li><img class="col3__img" src="assets/img/Prima Klima Cool Tube.jpg" alt="" />
-<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Prima Klima Cool Tube</a>
+<li><a href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"><img class="col3__img" src="assets/img/Лампа-ДНат-100W.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]">Лампа ДНаТ на 250W</a>
 <div class="col3__desc">
-<p>D125 / 400 мм - мощность от 250 - 400 W; D125 / 480 мм - мощность от 400 - 600 W; D150 / 580 мм - мощность от 600 - 1000 W; Цоколь : Е 40</p>
+<p>Производитель: DeLuxe. Параметры: Ток - 1А, Световой поток - 26000люм, Светоотдача 104 Lm/W, Цветовая температура, 2050 К</p>
+</div>
+<div class="button button_adm"><span style="font-size: 12px;">Подробнее</span></div>
+<div class="button button_adm"><span style="font-size: 20px;">200 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Лампа-ДНат-100W.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа ДНаТ на 400W</a>
+<div class="col3__desc">
+<p>Производитель: Румуния. Световой поток 48000 Люм, Цветовая температура 1950 К</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">290 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Лампа-ДНат-100W.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа ДНаТ на 600W</a>
+<div class="col3__desc">
+<p>Производитель: Венгрия. Параметры: Световой поток 78000 Lm, Светоотдача 104 Lm/W, Цветовая температура 2050 К, Индекс цветопередачи 39 Ra</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">490 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Лампы МГЛ для вегетации.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа МГЛ для вегетации</a>
+<div class="col3__desc">
+<p>Для рассады и клонирования. Подходит для всего периода вегетации. Мощность: на 400W(36000 люм), 600W (58000люм).</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">от 850 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Electrox с двумя горелками МГЛ и ДНаТ.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампы с двумя горелками - МГЛ и ДНаТ</a>
+<div class="col3__desc">
+<p>Для вегетативной стадии и стадии цветения. Цветовая t: 400W,600 W- 2500К, 1000 W - 3000K/ Производитель: Electrox.</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">от 1700 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Philips Master GREEN POWER CG T ДНаТ.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа ДНаТ Master GREEN POWER CG T</a>
+<div class="col3__desc">
+<p>Повышеная доля красного и оранжевого излучения. Система экономичного энергопотребления. Мощность: 400W, 600W, 250W. Производитель: Philips.</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">от 850 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="natrievaya-lampa-gib-lighting-pure-bloom.html" rel="nofollow"><img class="col3__img" src="assets/img/GIB Lighting Pure Bloom Spectrum.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="natrievaya-lampa-gib-lighting-pure-bloom.html">Лампа Днат GIB Lighting Pure Bloom Spectrum</a>
+<div class="col3__desc">
+<p>Супер усиленый красный спектр! Наилучшие показатели выработки люменов для фотосинтеза. Для активного цветения. Мощность: 600W, 92000 люм, 2050 К. Германия</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">1350 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/General Electric LUCALOX PSL ДНАТ.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа ДНАТ General Electric LUCALOX PSL </a>
+<div class="col3__desc">
+<p>Обеспечивают неизменный световой поток в течении всего жизненного цикла лампы, увеличивают выход PAR. Мощность: 400W, 600W.</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">от 950 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Sunmaster Cool Deluxe МГЛ для вегетации.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа МГЛ Sunmaster Cool Deluxe</a>
+<div class="col3__desc">
+<p>Для вегетативного роста и рассады. Лампа имеет усиленный синий спектр. Обеспечивает раннее цветение и увеличение количества плодов. Мощность: 400W - 32000 люм; 600W - 50000 люм. Цветовая t - 7200 К</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">1250 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Mammoth TCL Yellow.jpg" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа энергосберегающая Mammoth TCL Yellow</a>
+<div class="col3__desc">
+<p>Предназначена для цветения растений. Сама лампа не нагревается что позволяет располагать ее в непосредственной близости с растением. Мощность: 55W, 75W.</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">300 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Mammoth TCL Blue sky Cutting.jpg" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа энергосберегающая Mammoth TCL Blue sky Cutting</a>
+<div class="col3__desc">
+<p>Предназначена для колированния растений. Сама лампа выделяет мало тепла и поэтому ее можно располагать прямо рядом с растением. Мощность: 55W, 75W.</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">300 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Mammoth TCL Growing Daylight.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа энергосберегающая Mammoth TCL Growing Daylight</a>
+<div class="col3__desc">
+<p>Для вегетативного периода роста. Лампа люминисцентая и ненагревается, это позволяет ей находиться в 2 см от растений. Мощность: 55W, 75W.</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">300 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/ЭСЛ на цветениe 125 W.jpg" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа ЭСЛ на цветениe</a>
+<div class="col3__desc">
+<p>Для использования в небольших гроубоксах или как дополнительное освещение. Для эффективной работы рекомендуется использование отражателя. Параметры: 125 W; 2700 К; 5U</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">1000 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/ЭСЛ на вегетативную стадию 125 W.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа ЭСЛ для вегетативной стадии</a>
+<div class="col3__desc">
+<p>Для установки в компактных гроубоксах или для использования как дополнительный свет. Рекомендуется использование отражателя. Параметры: 125 W; 6400 К; 5U</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">1000 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/TCL Neon Mammoth.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампы ЭСЛ в светильнике TCL Neon Mammoth</a>
+<div class="col3__desc">
+<p>Система с электронным баластом. В комплекте светильника кабель с вилкой. Параметры: 575х220х80 мм. Мощность: 55Вт</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">2100 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Prima Klima Cool Tube.jpg" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Cветильник Prima Klima Cool Tube</a>
+<div class="col3__desc">
+<p>Светильник D125 / 400 мм - мощность от 250 - 400 W; Светильник D125 / 480 мм - мощность от 400 - 600 W; Светильник D150 / 580 мм - мощность от 600 - 1000 W; Цоколь : Е 40</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px;">от 2000 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/Silver Star.jpg" alt="" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Silver Star.jpg" alt="" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Светильник продувной Silver Star</a>
 <div class="col3__desc">
 <p>Размеры светильника: 56 см х 56 см; Диаметр фланца: 150 мм</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px;">4300 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/OG HOOD Air Cool.jpg" alt="" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/OG HOOD Air Cool.jpg" alt="" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">СВЕТИЛЬНИК ПРОДУВНОЙ OG HOOD Air Cool</a>
 <div class="col3__desc">
 <p>Отражение: 97%; Толщина крышки: 0,8 мм; Термостойкое стекло: 4 мм; Диаметр фланца: 200 мм</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px;">6000 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/LX Air 125.jpg" alt="" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/LX Air 125.jpg" alt="" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">СВЕТИЛЬНИК ПРОДУВНОЙ LX Air 125</a>
 <div class="col3__desc">
 <p>Отражение: 97%; Толщина крышки: 0,8 мм; Стекло: 4 мм; Диаметр фланца: 125 мм; Цоколь: Е 40</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px;">3000 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=[[*pagetitle]]" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
 </ul>',
     'richtext' => 1,
@@ -60,7 +181,7 @@
     'createdby' => 1,
     'createdon' => 1450896170,
     'editedby' => 1,
-    'editedon' => 1450904882,
+    'editedon' => 1452867795,
     'deleted' => 0,
     'deletedon' => 0,
     'deletedby' => 0,
@@ -83,7 +204,7 @@
     'intro' => 
     array (
       0 => 'intro',
-      1 => '',
+      1 => '<section class="intro intro_2"> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">[[*longtitle]]  </div> <div class="intro__rec intro__rec_2"><a class="button button_rec" onclick="window.location = \'/zakazat-obratij-zvonok.html\';"><span>Заказать</span></a></div> <div class="intro__skype">Получи детальную консультацию по Skype  </div> </div> </section>',
       2 => 'text',
       3 => NULL,
       4 => 'text',
@@ -107,11 +228,11 @@
     '_content' => '<!DOCTYPE html lang="ru">
 <html class="no-js" lang="ru">
 <head>
-<title></title>
+<title>Купить лампы ДНаТ и энергосберегающие лампы для гроубокса</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
 <meta name="keywords" content="" />
-<meta name="description" content="" />
+<meta name="description" content="На сайте Вы можете приобрести лампы и cooltube для обогрева гроубокса, купить ДНаТ, МЛГ и энергосберегающие." />
 <meta name = "format-detection" content = "telephone=no">
 <link async="async" rel="stylesheet" type="text/css" href="/assets/css/style.css" />
 <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon" />
@@ -151,7 +272,7 @@
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -165,7 +286,7 @@
 	<a href="kurenie-marixuanyi.html" title="Курение марихуаны"><i></i> Курение марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -175,12 +296,17 @@
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -252,7 +378,22 @@
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -263,7 +404,7 @@
 	<a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html" title="Оборудование для выращивания"><i></i> Оборудование </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first active">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -273,12 +414,32 @@
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -309,7 +470,7 @@
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -319,12 +480,17 @@
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -398,7 +564,22 @@
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -410,7 +591,7 @@
 <hr/>
 	<ul>
 		<li  class="first active">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -420,12 +601,32 @@
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -438,54 +639,211 @@
   </div>
 </nav>
 
-
+<section class="intro intro_2"> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">Купить лампы ДНаТ и энергосберегающие лампы для гроубокса  </div> <div class="intro__rec intro__rec_2"><a class="button button_rec" onclick="window.location = \'/zakazat-obratij-zvonok.html\';"><span>Заказать</span></a></div> <div class="intro__skype">Получи детальную консультацию по Skype  </div> </div> </section>
 <div class="wrapper"><div  class="breadcrumbs">       <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li><a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html">Оборудование для выращивания</a></li><li><a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html">Лампы для выращивания марихуаны</a></li><li>Лампы и cooltube</li></ul></div>     </div>
 <h1 class="inner-h1">Лампы и cooltube</h1>
 <div class="articles"><p> </p></div></div>
 <div class="wrapper"><div class="articles"><p> </p>
 <h2>Купить лампы и cooltube которые производит Украина и другие страны</h2>
 <ul class="col3">
-<li><img class="col3__img" src="assets/img/Prima Klima Cool Tube.jpg" alt="" />
-<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Prima Klima Cool Tube</a>
+<li><a href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"><img class="col3__img" src="assets/img/Лампа-ДНат-100W.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube">Лампа ДНаТ на 250W</a>
 <div class="col3__desc">
-<p>D125 / 400 мм - мощность от 250 - 400 W; D125 / 480 мм - мощность от 400 - 600 W; D150 / 580 мм - мощность от 600 - 1000 W; Цоколь : Е 40</p>
+<p>Производитель: DeLuxe. Параметры: Ток - 1А, Световой поток - 26000люм, Светоотдача 104 Lm/W, Цветовая температура, 2050 К</p>
+</div>
+<div class="button button_adm"><span style="font-size: 12px;">Подробнее</span></div>
+<div class="button button_adm"><span style="font-size: 20px;">200 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Лампа-ДНат-100W.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа ДНаТ на 400W</a>
+<div class="col3__desc">
+<p>Производитель: Румуния. Световой поток 48000 Люм, Цветовая температура 1950 К</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">290 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Лампа-ДНат-100W.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа ДНаТ на 600W</a>
+<div class="col3__desc">
+<p>Производитель: Венгрия. Параметры: Световой поток 78000 Lm, Светоотдача 104 Lm/W, Цветовая температура 2050 К, Индекс цветопередачи 39 Ra</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">490 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Лампы МГЛ для вегетации.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа МГЛ для вегетации</a>
+<div class="col3__desc">
+<p>Для рассады и клонирования. Подходит для всего периода вегетации. Мощность: на 400W(36000 люм), 600W (58000люм).</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">от 850 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Electrox с двумя горелками МГЛ и ДНаТ.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампы с двумя горелками - МГЛ и ДНаТ</a>
+<div class="col3__desc">
+<p>Для вегетативной стадии и стадии цветения. Цветовая t: 400W,600 W- 2500К, 1000 W - 3000K/ Производитель: Electrox.</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">от 1700 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Philips Master GREEN POWER CG T ДНаТ.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа ДНаТ Master GREEN POWER CG T</a>
+<div class="col3__desc">
+<p>Повышеная доля красного и оранжевого излучения. Система экономичного энергопотребления. Мощность: 400W, 600W, 250W. Производитель: Philips.</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">от 850 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="natrievaya-lampa-gib-lighting-pure-bloom.html" rel="nofollow"><img class="col3__img" src="assets/img/GIB Lighting Pure Bloom Spectrum.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="natrievaya-lampa-gib-lighting-pure-bloom.html">Лампа Днат GIB Lighting Pure Bloom Spectrum</a>
+<div class="col3__desc">
+<p>Супер усиленый красный спектр! Наилучшие показатели выработки люменов для фотосинтеза. Для активного цветения. Мощность: 600W, 92000 люм, 2050 К. Германия</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">1350 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/General Electric LUCALOX PSL ДНАТ.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа ДНАТ General Electric LUCALOX PSL </a>
+<div class="col3__desc">
+<p>Обеспечивают неизменный световой поток в течении всего жизненного цикла лампы, увеличивают выход PAR. Мощность: 400W, 600W.</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">от 950 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Sunmaster Cool Deluxe МГЛ для вегетации.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа МГЛ Sunmaster Cool Deluxe</a>
+<div class="col3__desc">
+<p>Для вегетативного роста и рассады. Лампа имеет усиленный синий спектр. Обеспечивает раннее цветение и увеличение количества плодов. Мощность: 400W - 32000 люм; 600W - 50000 люм. Цветовая t - 7200 К</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">1250 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Mammoth TCL Yellow.jpg" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа энергосберегающая Mammoth TCL Yellow</a>
+<div class="col3__desc">
+<p>Предназначена для цветения растений. Сама лампа не нагревается что позволяет располагать ее в непосредственной близости с растением. Мощность: 55W, 75W.</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">300 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Mammoth TCL Blue sky Cutting.jpg" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа энергосберегающая Mammoth TCL Blue sky Cutting</a>
+<div class="col3__desc">
+<p>Предназначена для колированния растений. Сама лампа выделяет мало тепла и поэтому ее можно располагать прямо рядом с растением. Мощность: 55W, 75W.</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">300 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Mammoth TCL Growing Daylight.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа энергосберегающая Mammoth TCL Growing Daylight</a>
+<div class="col3__desc">
+<p>Для вегетативного периода роста. Лампа люминисцентая и ненагревается, это позволяет ей находиться в 2 см от растений. Мощность: 55W, 75W.</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">300 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/ЭСЛ на цветениe 125 W.jpg" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа ЭСЛ на цветениe</a>
+<div class="col3__desc">
+<p>Для использования в небольших гроубоксах или как дополнительное освещение. Для эффективной работы рекомендуется использование отражателя. Параметры: 125 W; 2700 К; 5U</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">1000 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/ЭСЛ на вегетативную стадию 125 W.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампа ЭСЛ для вегетативной стадии</a>
+<div class="col3__desc">
+<p>Для установки в компактных гроубоксах или для использования как дополнительный свет. Рекомендуется использование отражателя. Параметры: 125 W; 6400 К; 5U</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">1000 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/TCL Neon Mammoth.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Лампы ЭСЛ в светильнике TCL Neon Mammoth</a>
+<div class="col3__desc">
+<p>Система с электронным баластом. В комплекте светильника кабель с вилкой. Параметры: 575х220х80 мм. Мощность: 55Вт</p>
+</div>
+<div class="button button_adm"><span style="font-size: 20px;">2100 грн</span></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+</li>
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Prima Klima Cool Tube.jpg" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Cветильник Prima Klima Cool Tube</a>
+<div class="col3__desc">
+<p>Светильник D125 / 400 мм - мощность от 250 - 400 W; Светильник D125 / 480 мм - мощность от 400 - 600 W; Светильник D150 / 580 мм - мощность от 600 - 1000 W; Цоколь : Е 40</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px;">от 2000 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/Silver Star.jpg" alt="" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/Silver Star.jpg" alt="" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">Светильник продувной Silver Star</a>
 <div class="col3__desc">
 <p>Размеры светильника: 56 см х 56 см; Диаметр фланца: 150 мм</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px;">4300 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/OG HOOD Air Cool.jpg" alt="" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/OG HOOD Air Cool.jpg" alt="" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">СВЕТИЛЬНИК ПРОДУВНОЙ OG HOOD Air Cool</a>
 <div class="col3__desc">
 <p>Отражение: 97%; Толщина крышки: 0,8 мм; Термостойкое стекло: 4 мм; Диаметр фланца: 200 мм</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px;">6000 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-<li><img class="col3__img" src="assets/img/LX Air 125.jpg" alt="" />
+<li><a href="zakazat-obratij-zvonok.html" rel="nofollow"><img class="col3__img" src="assets/img/LX Air 125.jpg" alt="" /></a>
 <div class="col3__info"><a class="col3__title col3__title_univer" href="zakazat-obratij-zvonok.html">СВЕТИЛЬНИК ПРОДУВНОЙ LX Air 125</a>
 <div class="col3__desc">
 <p>Отражение: 97%; Толщина крышки: 0,8 мм; Стекло: 4 мм; Диаметр фланца: 125 мм; Цоколь: Е 40</p>
 </div>
 <div class="button button_adm"><span style="font-size: 20px;">3000 грн</span></div>
-<a class="button button_adm" href="zakazat-obratij-zvonok.html" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
+<a class="button button_adm" href="zakazat-obratij-zvonok.html?name=Лампы и cooltube" rel="nofollow"> <span>Заказать сейчас</span> </a></div>
 </li>
-</ul></div></div>
-<div class="wrapper">Рассказать друзьям
+</ul><div class="justy">
+<p style="font-size: 24px; color: #fd2901; text-align: center;">!!! ВНИМАНИЕ !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Информация представленная на ресурсе 4-20.com.ua предназначена исключительно для совершеннолетних! Лица не достигшие 18 лет обязаны покинуть страницы данного ресурса, и в магазине обслуживаться не будут !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Вся информация описанная на сайте, предоставляется исключительно в научно-образовательных целях и несет только ознакомительный характер! Мы никого не призываем к совершению незаконных действий!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Ответственность за неправомерное использование любых товаров приобретенных у нас, лежит исключительно на потребителе продукции!</p>
+</div></div></div>
+<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
+</div></div>!-->
+
+
 </div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>
 <footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
@@ -521,7 +879,7 @@
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>
 [[#!FormIt?
    &formName=`forms1`
@@ -696,11 +1054,11 @@
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="lampyi-i-cooltube.html">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -712,6 +1070,9 @@
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -756,14 +1117,14 @@
 
 <script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -784,7 +1145,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -1032,7 +1393,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -1074,7 +1435,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -1177,8 +1538,16 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
 
+</script>
 </body>
 </html>',
     '_isForward' => false,
@@ -1198,15 +1567,15 @@ $(".video_frame iframe")[0].src = path;
   ),
   'elementCache' => 
   array (
-    '[[*longtitle]]' => '',
+    '[[*longtitle]]' => 'Купить лампы ДНаТ и энергосберегающие лампы для гроубокса',
     '[[*keywords]]' => '',
-    '[[*description]]' => '',
+    '[[*description]]' => 'На сайте Вы можете приобрести лампы и cooltube для обогрева гроубокса, купить ДНаТ, МЛГ и энергосберегающие.',
     '[[$head]]' => '<head>
-<title></title>
+<title>Купить лампы ДНаТ и энергосберегающие лампы для гроубокса</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
 <meta name="keywords" content="" />
-<meta name="description" content="" />
+<meta name="description" content="На сайте Вы можете приобрести лампы и cooltube для обогрева гроубокса, купить ДНаТ, МЛГ и энергосберегающие." />
 <meta name = "format-detection" content = "telephone=no">
 <link async="async" rel="stylesheet" type="text/css" href="/assets/css/style.css" />
 <link rel="icon" href="assets/images/favicon.ico" type="image/x-icon" />
@@ -1244,7 +1613,7 @@ $(".video_frame iframe")[0].src = path;
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -1260,7 +1629,7 @@ $(".video_frame iframe")[0].src = path;
 	<a href="kurenie-marixuanyi.html" title="Курение марихуаны"><i></i> Курение марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -1270,12 +1639,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -1347,7 +1721,22 @@ $(".video_frame iframe")[0].src = path;
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1358,7 +1747,7 @@ $(".video_frame iframe")[0].src = path;
 	<a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html" title="Оборудование для выращивания"><i></i> Оборудование </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first active">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -1368,12 +1757,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -1389,7 +1798,7 @@ $(".video_frame iframe")[0].src = path;
 	<a href="kurenie-marixuanyi.html" title="Курение марихуаны"><i></i> Курение марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -1399,12 +1808,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -1476,7 +1890,22 @@ $(".video_frame iframe")[0].src = path;
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1487,7 +1916,7 @@ $(".video_frame iframe")[0].src = path;
 	<a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html" title="Оборудование для выращивания"><i></i> Оборудование </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first active">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -1497,12 +1926,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -1532,7 +1981,7 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -1542,12 +1991,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -1621,7 +2075,22 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1633,7 +2102,7 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first active">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -1643,12 +2112,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -1669,7 +2158,7 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -1679,12 +2168,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -1758,7 +2252,22 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1770,7 +2279,7 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first active">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -1780,12 +2289,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -1798,19 +2327,56 @@ $(".video_frame iframe")[0].src = path;
   </div>
 </nav>
 ',
-    '[[*intro]]' => '',
+    '[[*intro]]' => '<section class="intro intro_2"> <div class="wrapper"> <div class="intro__slogan intro__slogan_2">Купить лампы ДНаТ и энергосберегающие лампы для гроубокса  </div> <div class="intro__rec intro__rec_2"><a class="button button_rec" onclick="window.location = \'/zakazat-obratij-zvonok.html\';"><span>Заказать</span></a></div> <div class="intro__skype">Получи детальную консультацию по Skype  </div> </div> </section>',
     '[[Breadcrumb]]' => '<ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li><a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html">Оборудование для выращивания</a></li><li><a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html">Лампы для выращивания марихуаны</a></li><li>Лампы и cooltube</li></ul>',
     '[[$bread]]' => '<div  class="breadcrumbs">       <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li><a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html">Оборудование для выращивания</a></li><li><a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html">Лампы для выращивания марихуаны</a></li><li>Лампы и cooltube</li></ul></div>     </div>',
     '[[*pagetitle]]' => 'Лампы и cooltube',
     '[[*introtext]]' => '',
-    '[[$social]]' => '<div class="wrapper">Рассказать друзьям
+    '[[$xxx]]' => '<div class="justy">
+<p style="font-size: 24px; color: #fd2901; text-align: center;">!!! ВНИМАНИЕ !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Информация представленная на ресурсе 4-20.com.ua предназначена исключительно для совершеннолетних! Лица не достигшие 18 лет обязаны покинуть страницы данного ресурса, и в магазине обслуживаться не будут !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Вся информация описанная на сайте, предоставляется исключительно в научно-образовательных целях и несет только ознакомительный характер! Мы никого не призываем к совершению незаконных действий!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Ответственность за неправомерное использование любых товаров приобретенных у нас, лежит исключительно на потребителе продукции!</p>
+</div>',
+    '[[$social]]' => '<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
-</div></div>',
+</div></div>!-->
+
+
+</div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>',
     '[[$footer]]' => '<footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
@@ -1846,7 +2412,7 @@ $(".video_frame iframe")[0].src = path;
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>',
     '[[*id]]' => 57,
     '[[~57]]' => 'lampyi-i-cooltube.html',
@@ -2023,11 +2589,11 @@ $(".video_frame iframe")[0].src = path;
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="lampyi-i-cooltube.html">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -2039,6 +2605,9 @@ $(".video_frame iframe")[0].src = path;
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -2083,14 +2652,14 @@ $(".video_frame iframe")[0].src = path;
 ',
     '[[$js]]' => '<script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -2111,7 +2680,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -2359,7 +2928,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -2401,7 +2970,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -2504,8 +3073,16 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
-',
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
+
+</script>',
   ),
   'sourceCache' => 
   array (
@@ -2556,6 +3133,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2612,7 +3192,7 @@ $(".video_frame iframe")[0].src = path;
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -2654,7 +3234,7 @@ $(".video_frame iframe")[0].src = path;
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -2662,6 +3242,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2740,6 +3323,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2816,6 +3402,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2852,6 +3441,58 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
+        ),
+        'source' => 
+        array (
+          'id' => 1,
+          'name' => 'Filesystem',
+          'description' => '',
+          'class_key' => 'sources.modFileMediaSource',
+          'properties' => 
+          array (
+          ),
+          'is_stream' => true,
+        ),
+      ),
+      'xxx' => 
+      array (
+        'fields' => 
+        array (
+          'id' => 48,
+          'source' => 1,
+          'property_preprocess' => false,
+          'name' => 'xxx',
+          'description' => '',
+          'editor_type' => 0,
+          'category' => 0,
+          'cache_type' => 0,
+          'snippet' => '<div class="justy">
+<p style="font-size: 24px; color: #fd2901; text-align: center;">!!! ВНИМАНИЕ !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Информация представленная на ресурсе 4-20.com.ua предназначена исключительно для совершеннолетних! Лица не достигшие 18 лет обязаны покинуть страницы данного ресурса, и в магазине обслуживаться не будут !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Вся информация описанная на сайте, предоставляется исключительно в научно-образовательных целях и несет только ознакомительный характер! Мы никого не призываем к совершению незаконных действий!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Ответственность за неправомерное использование любых товаров приобретенных у нас, лежит исключительно на потребителе продукции!</p>
+</div>',
+          'locked' => false,
+          'properties' => 
+          array (
+          ),
+          'static' => false,
+          'static_file' => '',
+          'content' => '<div class="justy">
+<p style="font-size: 24px; color: #fd2901; text-align: center;">!!! ВНИМАНИЕ !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Информация представленная на ресурсе 4-20.com.ua предназначена исключительно для совершеннолетних! Лица не достигшие 18 лет обязаны покинуть страницы данного ресурса, и в магазине обслуживаться не будут !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Вся информация описанная на сайте, предоставляется исключительно в научно-образовательных целях и несет только ознакомительный характер! Мы никого не призываем к совершению незаконных действий!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Ответственность за неправомерное использование любых товаров приобретенных у нас, лежит исключительно на потребителе продукции!</p>
+</div>',
+        ),
+        'policies' => 
+        array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2877,23 +3518,78 @@ $(".video_frame iframe")[0].src = path;
           'editor_type' => 0,
           'category' => 0,
           'cache_type' => 0,
-          'snippet' => '<div class="wrapper">Рассказать друзьям
+          'snippet' => '<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
-</div></div>',
+</div></div>!-->
+
+
+</div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>',
           'locked' => false,
           'properties' => 
           array (
           ),
           'static' => false,
           'static_file' => '',
-          'content' => '<div class="wrapper">Рассказать друзьям
+          'content' => '<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
-</div></div>',
+</div></div>!-->
+
+
+</div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2922,7 +3618,12 @@ $(".video_frame iframe")[0].src = path;
           'snippet' => '<footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
@@ -2958,7 +3659,7 @@ $(".video_frame iframe")[0].src = path;
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>',
           'locked' => false,
           'properties' => 
@@ -2969,7 +3670,12 @@ $(".video_frame iframe")[0].src = path;
           'content' => '<footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
@@ -3005,11 +3711,14 @@ $(".video_frame iframe")[0].src = path;
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3208,11 +3917,11 @@ $(".video_frame iframe")[0].src = path;
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="[[~[[*id]]]]">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -3224,6 +3933,9 @@ $(".video_frame iframe")[0].src = path;
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -3445,11 +4157,11 @@ $(".video_frame iframe")[0].src = path;
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="[[~[[*id]]]]">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -3461,6 +4173,9 @@ $(".video_frame iframe")[0].src = path;
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -3506,6 +4221,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3533,14 +4251,14 @@ $(".video_frame iframe")[0].src = path;
           'cache_type' => 0,
           'snippet' => '<script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -3561,7 +4279,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -3809,7 +4527,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -3851,7 +4569,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -3954,8 +4672,16 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
-',
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
+
+</script>',
           'locked' => false,
           'properties' => 
           array (
@@ -3964,14 +4690,14 @@ $(".video_frame iframe")[0].src = path;
           'static_file' => '',
           'content' => '<script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -3992,7 +4718,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -4240,7 +4966,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -4282,7 +5008,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -4385,11 +5111,22 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
-',
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
+
+</script>',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -5302,6 +6039,9 @@ if ($wf->_config[\'ph\']) {
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -5931,6 +6671,9 @@ return $output;',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -6156,6 +6899,9 @@ return $search->output($output,$scriptProperties[\'toPlaceholder\']);',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -6961,9 +7707,52 @@ return $fi->request->handle($fields);',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
+        ),
+      ),
+      'getname' => 
+      array (
+        'fields' => 
+        array (
+          'id' => 20,
+          'source' => 1,
+          'property_preprocess' => false,
+          'name' => 'getname',
+          'description' => '',
+          'editor_type' => 0,
+          'category' => 0,
+          'cache_type' => 0,
+          'snippet' => 'echo $_GET [name];',
+          'locked' => false,
+          'properties' => 
+          array (
+          ),
+          'moduleguid' => '',
+          'static' => false,
+          'static_file' => '',
+          'content' => 'echo $_GET [name];',
+        ),
+        'policies' => 
+        array (
+          'web' => 
+          array (
+          ),
+        ),
+        'source' => 
+        array (
+          'id' => 1,
+          'name' => 'Filesystem',
+          'description' => '',
+          'class_key' => 'sources.modFileMediaSource',
+          'properties' => 
+          array (
+          ),
+          'is_stream' => true,
         ),
       ),
     ),
@@ -7007,6 +7796,9 @@ return $fi->request->handle($fields);',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -7058,6 +7850,9 @@ return $fi->request->handle($fields);',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (

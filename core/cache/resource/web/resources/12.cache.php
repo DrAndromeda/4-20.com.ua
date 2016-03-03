@@ -50,7 +50,7 @@
     'createdby' => 1,
     'createdon' => 1444524939,
     'editedby' => 1,
-    'editedon' => 1450970090,
+    'editedon' => 1452817162,
     'deleted' => 0,
     'deletedon' => 0,
     'deletedby' => 0,
@@ -141,7 +141,7 @@
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -155,7 +155,7 @@
 	<a href="kurenie-marixuanyi.html" title="Курение марихуаны"><i></i> Курение марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -165,12 +165,17 @@
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -242,7 +247,22 @@
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -253,7 +273,7 @@
 	<a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html" title="Оборудование для выращивания"><i></i> Оборудование </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -263,12 +283,32 @@
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -299,7 +339,7 @@
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -309,12 +349,17 @@
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -388,7 +433,22 @@
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -400,7 +460,7 @@
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -410,12 +470,32 @@
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -451,10 +531,10 @@
    &formName=`form1`
    &hooks=`spam,email,hook_FormIt_megaplanCreateClient,redirect`
    &emailTpl=`sendEmailTpl`
-   &emailTo=`kim_55@bigmir.net`
+   &emailTo=`kim.romanishin@gmail.com`
    &emailSubject=`Заявка на заказ http://4-20.com.ua/`
    &redirectTo=`360`
-   &validate=`phone:required`
+   <!--&validate=`phone:required`!-->
    &submitVar=`form-question`
 ]]
 [[!+fi.error_message:notempty=`<p>[[!+fi.error_message]]</p>`]]
@@ -480,22 +560,26 @@
     <input class="submit_button" type="submit" value="Отправить" />
 </form-->
 
-<div class="order-form-wrapper">
+<input type="hidden" name="item" />
+<div class="order-form-wrapper" >
 <form class="apply-form apply-form_order js-apply-form"   action="zakazat-obratij-zvonok.html#form" method="post" id="form">
 
 [[!+fi.error_message:notempty=`<p class="">[[!+fi.error_message]]</p>`]]
 
-<span class="error">[[!+fi.error.name]]</span>
-<div class="apply-form__fields"><label>Ваше имя</label> <input id="name" class="apply__input js-name" type="text" name="name" value="[[!+fi.name]]" /></div>
+<span class="error" >[[!+fi.error.name]]</span>
+<div class="apply-form__fields"><input id="name" class="apply__input js-name"  type="text" name="name" value="[[!+fi.name]]" placeholder="Ваше имя"/></div>
 
 <span class="error">[[!+fi.error.phone]]</span>
-<div class="apply-form__fields"><label>Телефон</label> <input id="phone" class="apply__input js-phone_skype" type="text" name="phone" value="[[!+fi.phone]]" /></div>
+<div class="apply-form__fields"><input id="phone" class="apply__input js-phone_skype" type="text" name="phone" value="[[!+fi.phone]]" placeholder="Телефон"/></div>
 
-<span class="error">[[!+fi.error.email]]</span>
-<div class="apply-form__fields"><label>Email @</label> <input id="email" class="apply__input js-email" type="text" name="email" value="[[!+fi.email]]" /></div>
+<span class="error" >[[!+fi.error.email]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]"></label> <input id="email" class="apply__input js-email" type="text" name="email" value="[[!+fi.email]]" placeholder="Email @"/></div>
+
+<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]"></label> <input id="theme" class="apply__input js-theme" type="text" name="theme" value=" [[!getname]]" placeholder="Товар"/></div>
 
 <span class="error">[[!+fi.error.text]]</span>
-<div class="apply-form__fields"><label>Ваш вопрос или данные для отправки заказа</label> <span class="apply__text--label js-text-placeholder"></span> <textarea id="text" class="apply__text" name="text"></textarea></div>
+<div class="apply-form__fields"><span class="apply__text--label js-text-placeholder" ></span> <textarea id="text" class="apply__text" name="text" placeholder="Ваш вопрос или данные для отправки заказа"></textarea></div>
 <input class="submit_button button button_apply js-telefon" type="submit" name="form-question" value="Отправить" /></form></div></div>
 </div>
 </div>
@@ -558,14 +642,45 @@
 </form></div>
 </div>
 </div> !-->
-<div class="wrapper">Рассказать друзьям
+<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
+</div></div>!-->
+
+
 </div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>
 <footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
@@ -601,7 +716,7 @@
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>
 
 [[#!FormIt?
@@ -777,11 +892,11 @@
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="zakazat-obratij-zvonok.html">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -793,6 +908,9 @@
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -838,14 +956,14 @@
 
 <script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -866,7 +984,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -1114,7 +1232,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -1156,7 +1274,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -1259,8 +1377,16 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
 
+</script>
 
 </body>
 </html>
@@ -1328,7 +1454,7 @@ $(".video_frame iframe")[0].src = path;
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -1344,7 +1470,7 @@ $(".video_frame iframe")[0].src = path;
 	<a href="kurenie-marixuanyi.html" title="Курение марихуаны"><i></i> Курение марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -1354,12 +1480,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -1431,7 +1562,22 @@ $(".video_frame iframe")[0].src = path;
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1442,7 +1588,7 @@ $(".video_frame iframe")[0].src = path;
 	<a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html" title="Оборудование для выращивания"><i></i> Оборудование </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -1452,12 +1598,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -1473,7 +1639,7 @@ $(".video_frame iframe")[0].src = path;
 	<a href="kurenie-marixuanyi.html" title="Курение марихуаны"><i></i> Курение марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -1483,12 +1649,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -1560,7 +1731,22 @@ $(".video_frame iframe")[0].src = path;
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1571,7 +1757,7 @@ $(".video_frame iframe")[0].src = path;
 	<a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html" title="Оборудование для выращивания"><i></i> Оборудование </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -1581,12 +1767,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -1616,7 +1822,7 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -1626,12 +1832,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -1705,7 +1916,22 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1717,7 +1943,7 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -1727,12 +1953,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -1753,7 +1999,7 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -1763,12 +2009,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -1842,7 +2093,22 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1854,7 +2120,7 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -1864,12 +2130,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -1892,10 +2178,10 @@ $(".video_frame iframe")[0].src = path;
    &formName=`form1`
    &hooks=`spam,email,hook_FormIt_megaplanCreateClient,redirect`
    &emailTpl=`sendEmailTpl`
-   &emailTo=`kim_55@bigmir.net`
+   &emailTo=`kim.romanishin@gmail.com`
    &emailSubject=`Заявка на заказ http://4-20.com.ua/`
    &redirectTo=`360`
-   &validate=`phone:required`
+   <!--&validate=`phone:required`!-->
    &submitVar=`form-question`
 ]]
 [[!+fi.error_message:notempty=`<p>[[!+fi.error_message]]</p>`]]
@@ -1921,22 +2207,26 @@ $(".video_frame iframe")[0].src = path;
     <input class="submit_button" type="submit" value="Отправить" />
 </form-->
 
-<div class="order-form-wrapper">
+<input type="hidden" name="item" />
+<div class="order-form-wrapper" >
 <form class="apply-form apply-form_order js-apply-form"   action="zakazat-obratij-zvonok.html#form" method="post" id="form">
 
 [[!+fi.error_message:notempty=`<p class="">[[!+fi.error_message]]</p>`]]
 
-<span class="error">[[!+fi.error.name]]</span>
-<div class="apply-form__fields"><label>Ваше имя</label> <input id="name" class="apply__input js-name" type="text" name="name" value="[[!+fi.name]]" /></div>
+<span class="error" >[[!+fi.error.name]]</span>
+<div class="apply-form__fields"><input id="name" class="apply__input js-name"  type="text" name="name" value="[[!+fi.name]]" placeholder="Ваше имя"/></div>
 
 <span class="error">[[!+fi.error.phone]]</span>
-<div class="apply-form__fields"><label>Телефон</label> <input id="phone" class="apply__input js-phone_skype" type="text" name="phone" value="[[!+fi.phone]]" /></div>
+<div class="apply-form__fields"><input id="phone" class="apply__input js-phone_skype" type="text" name="phone" value="[[!+fi.phone]]" placeholder="Телефон"/></div>
 
-<span class="error">[[!+fi.error.email]]</span>
-<div class="apply-form__fields"><label>Email @</label> <input id="email" class="apply__input js-email" type="text" name="email" value="[[!+fi.email]]" /></div>
+<span class="error" >[[!+fi.error.email]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]"></label> <input id="email" class="apply__input js-email" type="text" name="email" value="[[!+fi.email]]" placeholder="Email @"/></div>
+
+<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]"></label> <input id="theme" class="apply__input js-theme" type="text" name="theme" value=" [[!getname]]" placeholder="Товар"/></div>
 
 <span class="error">[[!+fi.error.text]]</span>
-<div class="apply-form__fields"><label>Ваш вопрос или данные для отправки заказа</label> <span class="apply__text--label js-text-placeholder"></span> <textarea id="text" class="apply__text" name="text"></textarea></div>
+<div class="apply-form__fields"><span class="apply__text--label js-text-placeholder" ></span> <textarea id="text" class="apply__text" name="text" placeholder="Ваш вопрос или данные для отправки заказа"></textarea></div>
 <input class="submit_button button button_apply js-telefon" type="submit" name="form-question" value="Отправить" /></form></div>',
     '[[Wayfinder?
 			&startId=`12`
@@ -1983,14 +2273,45 @@ $(".video_frame iframe")[0].src = path;
 </form></div>
 </div>
 </div> ',
-    '[[$social]]' => '<div class="wrapper">Рассказать друзьям
+    '[[$social]]' => '<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
-</div></div>',
+</div></div>!-->
+
+
+</div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>',
     '[[$footer]]' => '<footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
@@ -2026,7 +2347,7 @@ $(".video_frame iframe")[0].src = path;
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>',
     '[[$forms]]' => '[[#!FormIt?
    &formName=`forms1`
@@ -2201,11 +2522,11 @@ $(".video_frame iframe")[0].src = path;
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="zakazat-obratij-zvonok.html">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -2217,6 +2538,9 @@ $(".video_frame iframe")[0].src = path;
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -2261,14 +2585,14 @@ $(".video_frame iframe")[0].src = path;
 ',
     '[[$js]]' => '<script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -2289,7 +2613,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -2537,7 +2861,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -2579,7 +2903,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -2682,8 +3006,16 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
-',
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
+
+</script>',
   ),
   'sourceCache' => 
   array (
@@ -2734,6 +3066,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2790,7 +3125,7 @@ $(".video_frame iframe")[0].src = path;
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -2832,7 +3167,7 @@ $(".video_frame iframe")[0].src = path;
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -2840,6 +3175,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2918,6 +3256,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -2994,6 +3335,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3030,6 +3374,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3059,10 +3406,10 @@ $(".video_frame iframe")[0].src = path;
    &formName=`form1`
    &hooks=`spam,email,hook_FormIt_megaplanCreateClient,redirect`
    &emailTpl=`sendEmailTpl`
-   &emailTo=`kim_55@bigmir.net`
+   &emailTo=`kim.romanishin@gmail.com`
    &emailSubject=`Заявка на заказ [[++site_url]]`
    &redirectTo=`360`
-   &validate=`phone:required`
+   <!--&validate=`phone:required`!-->
    &submitVar=`form-question`
 ]]
 [[!+fi.error_message:notempty=`<p>[[!+fi.error_message]]</p>`]]
@@ -3088,22 +3435,26 @@ $(".video_frame iframe")[0].src = path;
     <input class="submit_button" type="submit" value="Отправить" />
 </form-->
 
-<div class="order-form-wrapper">
+<input type="hidden" name="item" />
+<div class="order-form-wrapper" >
 <form class="apply-form apply-form_order js-apply-form"   action="[[~[[*id]]]]#form" method="post" id="form">
 
 [[!+fi.error_message:notempty=`<p class="">[[!+fi.error_message]]</p>`]]
 
-<span class="error">[[!+fi.error.name]]</span>
-<div class="apply-form__fields"><label>Ваше имя</label> <input id="name" class="apply__input js-name" type="text" name="name" value="[[!+fi.name]]" /></div>
+<span class="error" >[[!+fi.error.name]]</span>
+<div class="apply-form__fields"><input id="name" class="apply__input js-name"  type="text" name="name" value="[[!+fi.name]]" placeholder="Ваше имя"/></div>
 
 <span class="error">[[!+fi.error.phone]]</span>
-<div class="apply-form__fields"><label>Телефон</label> <input id="phone" class="apply__input js-phone_skype" type="text" name="phone" value="[[!+fi.phone]]" /></div>
+<div class="apply-form__fields"><input id="phone" class="apply__input js-phone_skype" type="text" name="phone" value="[[!+fi.phone]]" placeholder="Телефон"/></div>
 
-<span class="error">[[!+fi.error.email]]</span>
-<div class="apply-form__fields"><label>Email @</label> <input id="email" class="apply__input js-email" type="text" name="email" value="[[!+fi.email]]" /></div>
+<span class="error" >[[!+fi.error.email]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]"></label> <input id="email" class="apply__input js-email" type="text" name="email" value="[[!+fi.email]]" placeholder="Email @"/></div>
+
+<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]"></label> <input id="theme" class="apply__input js-theme" type="text" name="theme" value=" [[!getname]]" placeholder="Товар"/></div>
 
 <span class="error">[[!+fi.error.text]]</span>
-<div class="apply-form__fields"><label>Ваш вопрос или данные для отправки заказа</label> <span class="apply__text--label js-text-placeholder"></span> <textarea id="text" class="apply__text" name="text"></textarea></div>
+<div class="apply-form__fields"><span class="apply__text--label js-text-placeholder" ></span> <textarea id="text" class="apply__text" name="text" placeholder="Ваш вопрос или данные для отправки заказа"></textarea></div>
 <input class="submit_button button button_apply js-telefon" type="submit" name="form-question" value="Отправить" /></form></div>',
           'locked' => false,
           'properties' => 
@@ -3115,10 +3466,10 @@ $(".video_frame iframe")[0].src = path;
    &formName=`form1`
    &hooks=`spam,email,hook_FormIt_megaplanCreateClient,redirect`
    &emailTpl=`sendEmailTpl`
-   &emailTo=`kim_55@bigmir.net`
+   &emailTo=`kim.romanishin@gmail.com`
    &emailSubject=`Заявка на заказ [[++site_url]]`
    &redirectTo=`360`
-   &validate=`phone:required`
+   <!--&validate=`phone:required`!-->
    &submitVar=`form-question`
 ]]
 [[!+fi.error_message:notempty=`<p>[[!+fi.error_message]]</p>`]]
@@ -3144,26 +3495,33 @@ $(".video_frame iframe")[0].src = path;
     <input class="submit_button" type="submit" value="Отправить" />
 </form-->
 
-<div class="order-form-wrapper">
+<input type="hidden" name="item" />
+<div class="order-form-wrapper" >
 <form class="apply-form apply-form_order js-apply-form"   action="[[~[[*id]]]]#form" method="post" id="form">
 
 [[!+fi.error_message:notempty=`<p class="">[[!+fi.error_message]]</p>`]]
 
-<span class="error">[[!+fi.error.name]]</span>
-<div class="apply-form__fields"><label>Ваше имя</label> <input id="name" class="apply__input js-name" type="text" name="name" value="[[!+fi.name]]" /></div>
+<span class="error" >[[!+fi.error.name]]</span>
+<div class="apply-form__fields"><input id="name" class="apply__input js-name"  type="text" name="name" value="[[!+fi.name]]" placeholder="Ваше имя"/></div>
 
 <span class="error">[[!+fi.error.phone]]</span>
-<div class="apply-form__fields"><label>Телефон</label> <input id="phone" class="apply__input js-phone_skype" type="text" name="phone" value="[[!+fi.phone]]" /></div>
+<div class="apply-form__fields"><input id="phone" class="apply__input js-phone_skype" type="text" name="phone" value="[[!+fi.phone]]" placeholder="Телефон"/></div>
 
-<span class="error">[[!+fi.error.email]]</span>
-<div class="apply-form__fields"><label>Email @</label> <input id="email" class="apply__input js-email" type="text" name="email" value="[[!+fi.email]]" /></div>
+<span class="error" >[[!+fi.error.email]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]"></label> <input id="email" class="apply__input js-email" type="text" name="email" value="[[!+fi.email]]" placeholder="Email @"/></div>
+
+<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]"></label> <input id="theme" class="apply__input js-theme" type="text" name="theme" value=" [[!getname]]" placeholder="Товар"/></div>
 
 <span class="error">[[!+fi.error.text]]</span>
-<div class="apply-form__fields"><label>Ваш вопрос или данные для отправки заказа</label> <span class="apply__text--label js-text-placeholder"></span> <textarea id="text" class="apply__text" name="text"></textarea></div>
+<div class="apply-form__fields"><span class="apply__text--label js-text-placeholder" ></span> <textarea id="text" class="apply__text" name="text" placeholder="Ваш вопрос или данные для отправки заказа"></textarea></div>
 <input class="submit_button button button_apply js-telefon" type="submit" name="form-question" value="Отправить" /></form></div>',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3216,6 +3574,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3314,6 +3675,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3339,23 +3703,78 @@ $(".video_frame iframe")[0].src = path;
           'editor_type' => 0,
           'category' => 0,
           'cache_type' => 0,
-          'snippet' => '<div class="wrapper">Рассказать друзьям
+          'snippet' => '<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
-</div></div>',
+</div></div>!-->
+
+
+</div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>',
           'locked' => false,
           'properties' => 
           array (
           ),
           'static' => false,
           'static_file' => '',
-          'content' => '<div class="wrapper">Рассказать друзьям
+          'content' => '<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
-</div></div>',
+</div></div>!-->
+
+
+</div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3384,7 +3803,12 @@ $(".video_frame iframe")[0].src = path;
           'snippet' => '<footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
@@ -3420,7 +3844,7 @@ $(".video_frame iframe")[0].src = path;
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>',
           'locked' => false,
           'properties' => 
@@ -3431,7 +3855,12 @@ $(".video_frame iframe")[0].src = path;
           'content' => '<footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
@@ -3467,11 +3896,14 @@ $(".video_frame iframe")[0].src = path;
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3670,11 +4102,11 @@ $(".video_frame iframe")[0].src = path;
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="[[~[[*id]]]]">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -3686,6 +4118,9 @@ $(".video_frame iframe")[0].src = path;
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -3907,11 +4342,11 @@ $(".video_frame iframe")[0].src = path;
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="[[~[[*id]]]]">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -3923,6 +4358,9 @@ $(".video_frame iframe")[0].src = path;
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -3968,6 +4406,9 @@ $(".video_frame iframe")[0].src = path;
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -3995,14 +4436,14 @@ $(".video_frame iframe")[0].src = path;
           'cache_type' => 0,
           'snippet' => '<script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -4023,7 +4464,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -4271,7 +4712,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -4313,7 +4754,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -4416,8 +4857,16 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
-',
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
+
+</script>',
           'locked' => false,
           'properties' => 
           array (
@@ -4426,14 +4875,14 @@ $(".video_frame iframe")[0].src = path;
           'static_file' => '',
           'content' => '<script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -4454,7 +4903,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -4702,7 +5151,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -4744,7 +5193,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -4847,11 +5296,22 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
-',
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
+
+</script>',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -5764,6 +6224,9 @@ if ($wf->_config[\'ph\']) {
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -6393,6 +6856,9 @@ return $output;',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -6618,6 +7084,9 @@ return $search->output($output,$scriptProperties[\'toPlaceholder\']);',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -7423,9 +7892,52 @@ return $fi->request->handle($fields);',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
+        ),
+      ),
+      'getname' => 
+      array (
+        'fields' => 
+        array (
+          'id' => 20,
+          'source' => 1,
+          'property_preprocess' => false,
+          'name' => 'getname',
+          'description' => '',
+          'editor_type' => 0,
+          'category' => 0,
+          'cache_type' => 0,
+          'snippet' => 'echo $_GET [name];',
+          'locked' => false,
+          'properties' => 
+          array (
+          ),
+          'moduleguid' => '',
+          'static' => false,
+          'static_file' => '',
+          'content' => 'echo $_GET [name];',
+        ),
+        'policies' => 
+        array (
+          'web' => 
+          array (
+          ),
+        ),
+        'source' => 
+        array (
+          'id' => 1,
+          'name' => 'Filesystem',
+          'description' => '',
+          'class_key' => 'sources.modFileMediaSource',
+          'properties' => 
+          array (
+          ),
+          'is_stream' => true,
         ),
       ),
     ),
@@ -7469,6 +7981,9 @@ return $fi->request->handle($fields);',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (
@@ -7520,6 +8035,9 @@ return $fi->request->handle($fields);',
         ),
         'policies' => 
         array (
+          'web' => 
+          array (
+          ),
         ),
         'source' => 
         array (

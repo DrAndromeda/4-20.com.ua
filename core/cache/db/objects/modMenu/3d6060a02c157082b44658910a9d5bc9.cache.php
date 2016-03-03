@@ -1,0 +1,47 @@
+<?php  return array (
+  0 => 
+  array (
+    'text' => 'profile',
+    'parent' => 'user',
+    'action' => 'security/profile',
+    'description' => 'profile_desc',
+    'icon' => '',
+    'menuindex' => '0',
+    'params' => '',
+    'handler' => '',
+    'permissions' => 'change_profile',
+    'namespace' => 'core',
+    'action_controller' => NULL,
+    'action_namespace' => NULL,
+  ),
+  1 => 
+  array (
+    'text' => 'messages',
+    'parent' => 'user',
+    'action' => 'security/message',
+    'description' => 'messages_desc',
+    'icon' => '',
+    'menuindex' => '1',
+    'params' => '',
+    'handler' => '',
+    'permissions' => 'messages',
+    'namespace' => 'core',
+    'action_controller' => NULL,
+    'action_namespace' => NULL,
+  ),
+  2 => 
+  array (
+    'text' => 'logout',
+    'parent' => 'user',
+    'action' => 'security/logout',
+    'description' => 'logout_desc',
+    'icon' => '',
+    'menuindex' => '2',
+    'params' => '',
+    'handler' => 'MODx.logout(); return false;',
+    'permissions' => 'logout',
+    'namespace' => 'core',
+    'action_controller' => NULL,
+    'action_namespace' => NULL,
+  ),
+);

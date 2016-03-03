@@ -16,20 +16,105 @@
     'parent' => 1,
     'isfolder' => 1,
     'introtext' => '',
-    'content' => '',
+    'content' => '<ul class="col3">
+<li><a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html"><img class="col3__img" title="Автоцветущие сорта" src="assets/img/5.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html">Автоцветущие сорта</a>
+<div class="col3__desc1">
+<p>Страны:</p>
+</div>
+<a class="button button_adm" href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
+</li>
+<li><a href="avtoczvetushhie-feminizirovannyie-semena.html"><img class="col3__img" title="Автоцветущие феменизированные сорта" src="assets/img/3.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="avtoczvetushhie-feminizirovannyie-semena.html">Автоцветущие феминизированные</a>
+<div class="col3__desc1">
+<p>Страны:</p>
+</div>
+<a class="button button_adm" href="avtoczvetushhie-feminizirovannyie-semena.html" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
+</li>
+<li><a href="feminizirovannyie-semena.html"><img class="col3__img" title="Феменизированные семена марихуаны" src="assets/img/4.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="feminizirovannyie-semena.html">Феминизированные сорта</a>
+<div class="col3__desc1">
+<p>Страны:</p>
+</div>
+<a class="button button_adm" href="feminizirovannyie-semena.html" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
+</li>
+</ul>
+<ul class="col3">
+<li><a href="#"><img class="col3__img" title="Фотопериодичные семена" src="assets/img/2.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="#">Фотопериодичные сорта</a>
+<div class="col3__desc1">
+<p>Страны:</p>
+</div>
+<a class="button button_adm" href="#" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
+</li>
+<li><a href="slabopaxnushhie-sorta-marixuanyi.html"><img class="col3__img" title="Слабопахнущие сорта конопли" src="assets/img/1.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="slabopaxnushhie-sorta-marixuanyi.html">Слабопахнущие сорта</a>
+<div class="col3__desc1">
+<p>Страны:</p>
+</div>
+<a class="button button_adm" href="slabopaxnushhie-sorta-marixuanyi.html" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
+</li>
+<li><a href="#"><img class="col3__img" title="популярные семена конопли" src="assets/img/4.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="#">Победители кубков</a>
+<div class="col3__desc1">
+<p>Самые популярные семена конопли и победители кубков !</p>
+</div>
+<a class="button button_adm" href="#" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
+</li>
+</ul>
+<hr />
+<p style="text-align: center;"><em>Законодательством Украины выращивание конопли запрещено, <strong>купить семена марихуаны</strong> Вы можете лишь для использования как сувенирную продукцию, для корма попугаев, использования в пищу, так же можно заказать семена конопли технического сорта для посевной культуры, для рыбалки, или для выращивания в странах прошедших легализацию. Для использования семян конопли в последнем случае (для выращивания в странах прошедших легализацию) рекомендуем ознакомиться с нюансами от которые играют важную роль для дальнейшего развития всего процесса.</em></p>
+<hr />
+<h2>Вы можете купить семена марихуаны для выращивания в странах с легализацией</h2>
+<p>Перед началом покупки стоит разобраться в существующих различиях семян, которые в дальнейшем сыграют ключевую роль в процессе роста и созревания.</p>
+<p><img title="Семена марихуаны внутри и снаружи" src="assets/img/семена%20марихуаны.png" alt="семена марихуаны в разрезе" width="100%" /></p>
+<p style="font-size: 26px;">Семена конопли выбирают по таким показателям</p>
+<p style="font-size: 24px;">Тип сорта семечки конопли:</p>
+<p><span style="font-size: 16px; color: #4bd12e;">Обычные сорта</span> - средний цикл роста данного сорта марихуаны составляет от 3, 4 месяцев до 5. Высота растения чаще всего начинается от 50 сантиметром и может достигать высоты до 4 метров. Довольно прихотливы при выращивании и не особо устойчивы к вредителям. Такие растения популярны благодаря высокой урожайности.</p>
+<p><span style="font-size: 16px; color: #4bd12e;">Автоцветущие сорта</span> - это растения с автоцветущим геном. Семена конопли данного вида, особенно популярны благодаря своей скороспелости. Благодаря тому что начало стадии цветения у данных растений начинается автоматически по истечению вегетативного периода, такой сорт конопли вырастает довольно быстро, и в среднем уже через 2,5 месяца после посадки проводиться сбор.  Высота самого растения, обычно составляет не более 50 см и растет больше вширь чем вверх. Такие растения популярны благодаря 100% неприхотливому росту и достижением быстрого результата, но высокой урожайностью не балуют.</p>
+<p style="font-size: 24px;">Тип зерна конопли:</p>
+<p><span style="font-size: 16px; color: #4bd12e;">Регулярные семена</span> - из этих зерен могут вырастить как мужские так и женские растения. Но как известно, для плодоноса нам необходимы только женские. При это выращивание женский и мужских растений в одном боксе чревато опылением женских растений, что будет означать понижение уровня ТГК, а соответственно качество конечного результата гровинга. Именно поэтому в регулярных растениях важно вовремя отследить кто есть кто, и в случае нахождения мужского растения уничтожить его (не рассеяв при этом его пыльцу по всему боксу!). Дабы обезопасить себя, многие гроверы выбирают проверенный метод феменизированных зерен.</p>
+<p><span style="font-size: 16px; color: #4bd12e;">Феминизированные зерна</span> - обычно такой вид зерен обозначается как fem. Это исключительно женские растения. Такие семена являются искусственно созданные селекционерами-гроверами, и именно поэтому такие семена в несколько раз дороже обычных. Они любимы многими за 100% достижение ожидаемого результата и отличные характеристики.</p>
+<p style="font-size: 24px;">Семена каннабиса и генетика</p>
+<p>Селекционеры занимаются созданием наиболее разноплановых и интересных сортов конопли. Существуют чистые генетические растения, и скрещенные. Большое разнообразие сортов на рынке конопли, вызывает большой интерес у публики. Мастера разбирающиеся в том что представляют собой те или иные сорта, легко могут представить что за растение представляется в результате скрещивания и что вырастает по итогу.</p>
+<p><span style="font-size: 16px; color: #4bd12e;">Индичные семена канабиса</span> - растения довольно невысокие, с весьма непродолжительным периодом цветения. Такие растения больше устойчивы к стрессовым условиям выращивания. Растение имеет сильный расслабляющий (седативный) эффект, в результате чего нашли широкое применение в медицине. О лечебных свойствам марихуаны читайте здесь <a title="Польза от марихуаны для всех" href="polza-marixuanyi.html">4-20.com.ua/polza-marixuanyi.html</a></p>
+<p><span style="font-size: 16px; color: #4bd12e;">Семена сатива</span> - имеют более длительный период цветения, но при этом растения получаются более плодоносные. Растения требовательны к условиям выращивания и не особо стресоустойчивы. Поэтому семена и шишки сативы считаются более ценными чем индики. Эффект от употребления таких растений бодрящий и стимулятивный. В медицине используется для лечения депрессий и других расстройств.</p>
+<p>Так же существует канабис семена которого не имеют эффекта, тоесть их уровень ТГК довольно низкий. Это семена рудералис. Тем не менее при селекционировании такие растения так же важны. Они используются для скрещения с сортами сатива/индика для достижения стабильных гибридных растений с коротким сроком выращивания. Растения рудералис (тоесть кормовой конопли) автоцветущие.</p>
+<p style="font-size: 18px;">Подробнее о разнице растений сатива и индика по ссылке <a href="sativa-indika.html">4-20.com.ua/sativa-indika.html</a></p>
+<p><img title="Так выглядят семена конопли после прорастания" src="assets/img/семена-коноплии.png" alt="Семена конопли для продажи" width="100%" /></p>
+<p style="font-size: 24px;">Тип сорта марихуаны по ТГК:</p>
+<p>ТГК полная расшифровка которого тетрагидроканнабинол является основным психоактивным компонентом состава растения конопля. Именно ради этого гроверы занимаются выращиванием и усовершенствованием все новых и лучших сортов марихуаны.</p>
+<p>Уровень от 0+% ТГК — это техническая конопля рудералис. Практически не содержит психоактивных компонентов.</p>
+<p>Уровень от 8-16% ТГК — это сорта селекционеров. Наиболее популярны и просты для выращивания.</p>
+<p>Уровень от 16-25+% ТГК — самые мощные растения. Появляются исключительно в результате селекционирования мощных растений.</p>
+<h3 style="font-size: 26px;">Перед тем как купить семена марихуаны обратите внимание на такие моменты</h3>
+<p style="font-size: 24px;">Какой будет период цветения:</p>
+<p>При продаже семян производители указывают период роста растений. Это данные о том в какой срок после вегетативного периода (первого этапа), вы получите созревший урожай. Данные чаще всего приводятся для выращивания растений в открытом грунте, с теплым климатом. Поэтому важно разобраться и примерно рассчитать период роста растений чтоб осень-зима не настали раньше сбора урожая. Для выращивания аутдор в широтах с холодным непродолжительным летом, лучше использовать автоцветущие сорта каннабиса. Для тропических широт допустимо использование любым семян.<br />Для выращивания в закрытом помещении (индор) период цветения растений может быть значительно короче и производители так же указывают какие семена рекомендуются для такого процесса.</p>
+<p style="font-size: 24px;">Какой будет запах у растений:</p>
+<p>Для выращивания в закрытых условиях, важно обратить внимание на будущий запах растений, дабы не доставлять никому дискомфорта в период цветения. Этот вопрос конечно решается покупкой оборудования для устранения запахов такого как угольные фильтры и мощные вентиляционные системы. Но так же можно и выбрать растения обладающие низким уровнем запаха. Такими детали производители так же указывают на сортах семян. Популярными растениями обладающими слабым запахом являются: автоцветущие семена Pandora, Automaria №2. Подробнее о популярных семенах и их преимуществах по ссылке: *************</p>
+<p style="font-size: 24px;">Какой будет размер у растений:</p>
+<p>Для выращивания в открытом грунте такой вопрос Вас конечно не должен беспокоить, но что касается выращивания индор, то здесь лучше перестраховаться. Важно вписать в условия гроубокса чтобы все растения могли комфортно развиваться и не мешать росту других растений. Эта информация, так же указывается производителями при описании сортов, но если вы как новичек, хотите наверняка перестраховаться лучше использовать низкорослые автоцветущие семена индики.</p>
+<p style="font-size: 24px;">Какие условия необходимы для выращивания:</p>
+<p>При продаже семян производители указывают для какого типа окружающей среды подходят данные семена. Это может быть открытый грунт, закрытое помещение, а так же существуют универсальные сорта. Для получения хорошего результата желательно придерживаться данных рекомендаций. <br />Данный вопрос важно хорошо изучить перед стартом выращивания. Просмотрите что рекомендуют гроверы и специалисты на разных формах, относительно выращивания конкретного сорта марихуаны.</p>
+<p style="font-size: 24px;">Так же производители указывают такие дополнительные данные:</p>
+<p>Урожайность — указывается минимальный уровень урожая для конкретного растения. Эти данные будут реализованы только при хороших условиях выращивания.</p>
+<p>Уровень содержания ТГК КБД КБН — психоактивные вещества содержащиеся в растениях по окончанию выращивания. Зависят так же от хороших, подходящих условий выращивания.</p>
+<hr />
+<p style="text-align: center;"><em>Для новичка, желающего получить хороший результат довольно в короткие сроки, совет един - купить семена марихуаны автоцветущие феминизированные (женские). При выращивании таких семян Вы наверняка перестрахуетесь, а усилия и потраченное время/ресурсы не будут понапрасну.</em></p>
+<p><img title="На 4-20.com.ua можно купить семена марихуаны по доступным ценам" src="assets/img/купить%20семена%20марихуаны.png" alt="Купить семена марихуаны в Укарине и России" width="100%" /></p>',
     'richtext' => 1,
-    'template' => 1,
+    'template' => 4,
     'menuindex' => 5,
     'searchable' => 0,
     'cacheable' => 1,
     'createdby' => 1,
     'createdon' => 1444517770,
     'editedby' => 1,
-    'editedon' => 1449170753,
+    'editedon' => 1455205917,
     'deleted' => 0,
     'deletedon' => 0,
     'deletedby' => 0,
-    'publishedon' => 1449170753,
+    'publishedon' => 1453361580,
     'publishedby' => 1,
     'menutitle' => '',
     'donthit' => 0,
@@ -48,7 +133,7 @@
     'intro' => 
     array (
       0 => 'intro',
-      1 => '',
+      1 => '<div class="university-intro" style="background: #e6e7e7 url(/assets/images/sok2/11.png) top no-repeat">   <div class="wrapper">     <div class="university-intro-i">     <!--  <h1>пупыпыукпк</h1>       <ul class="university-info"> <li></li> <li></li> <li></li> <li> <a href="#"></a></li> </ul>            <a class="button button_intro" href="[[~47]]"> <span></span> </a>!--> </div>   </div> </div>',
       2 => 'text',
       3 => NULL,
       4 => 'text',
@@ -64,7 +149,7 @@
     'keywords' => 
     array (
       0 => 'keywords',
-      1 => '',
+      1 => 'семена марихуаны, купить семена марихуаны, семена конопли, семена каннабиса, семена канабиса, канабис семена, конопля семена, зерна конопли, семечки конопли, ',
       2 => 'default',
       3 => NULL,
       4 => 'text',
@@ -75,7 +160,7 @@
 <title>Какие бывают семена марихуаны и лучшие сорта</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
-<meta name="keywords" content="" />
+<meta name="keywords" content="семена марихуаны, купить семена марихуаны, семена конопли, семена каннабиса, семена канабиса, канабис семена, конопля семена, зерна конопли, семечки конопли, " />
 <meta name="description" content="Читайте о том как прорастить семена марихуаны, как выбрать лучшие для дома или улицы и почему все так любят голландские семена." />
 <meta name = "format-detection" content = "telephone=no">
 <link async="async" rel="stylesheet" type="text/css" href="/assets/css/style.css" />
@@ -84,7 +169,7 @@
             <!--- Перенести в js---!-->
 <script async="async" type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
 <body>
-
+<div class="wr"> 
 <header class="header">
     <div class="wrapper clear">
         <a class="logo" onclick="window.location = \'/\';"><img src="/assets/img/logo.png" rel="nofollow" /></a>
@@ -116,12 +201,12 @@
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
 </header>
-
+</div>
 <nav class="nav">
   <div class="wrapper">
 	<div class="nav-wr js-menu">
@@ -130,7 +215,7 @@
 	<a href="kurenie-marixuanyi.html" title="Курение марихуаны"><i></i> Курение марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -140,12 +225,17 @@
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -217,7 +307,22 @@
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -228,7 +333,7 @@
 	<a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html" title="Оборудование для выращивания"><i></i> Оборудование </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -238,12 +343,32 @@
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -274,7 +399,7 @@
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -284,12 +409,17 @@
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -363,7 +493,22 @@
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -375,7 +520,7 @@
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -385,12 +530,32 @@
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -403,690 +568,140 @@
   </div>
 </nav>
 
-
-
-<section class="content" role="main">
-    <div class="wrapper">
-        <section class="text-main">
-		  <h1>Семена марихуаны</h1>
-		  <p> </p>
-        </section>
-<!--<section class="tabs">
- <div class="title">
-	Товары и оборудование которые мы предлагаем <br> это лучшее что Вы найтете :
-  </div>
-  <div class="clear">
-	<div class="tabs-names">
-	  <button type="button" class="name">Гроубокс</button>
-	  <button type="button" class="name">Полив системы</button>
-	  <button type="button" class="name">Освещение</button>
-	  <button type="button" class="name">Автоматика</button>
-	  <button type="button" class="name">Вентиляция</button>
-	  <button type="button" class="name">Удобрения</button>
-	  <button type="button" class="name">Гидропонные системы</button>
-	</div>
-	<div class="tabs-contents">
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Гроутент <br> сборно-разборная конструкция</div>
-			  <div class="value">Габариты: 300х300х200 см.</div>
-			</div>
-			<div class="text">
-			  <div class="name">Гроубокс Mammoth Pro <br>(Dark Room) </div>
-			  <div class="value">13\'690.00 грн.<br>
-			  </div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее об товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Система:</div>
-			  <div class="value">Автомат</div>
-			</div>
-			<div class="text">
-			  <div class="name">Особенности работы:</div>
-			  <div class="value">Вожможность ручного полива <br>Возможность автоматизированной настройки</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Лампы:</div>
-			  <div class="value">ДНАТ</div>
-			</div>
-			<div class="text">
-			  <div class="name">Период работы:</div>!
-			  <div class="value">12 часов беспрерывно<br>20 часов беспрерывно</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Авто:</div>
-			  <div class="value">Авто</div>
-			</div>
-			<div class="text">
-			  <div class="name">Авто:</div>
-			  <div class="value">Авто</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="/kunst.html">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Схема работы:</div>
-			  <div class="value">По установленному времени</div>
-			</div>
-			<div class="text">
-			  <div class="name">Дополнительно:</div>
-			  <div class="value">Настрочка контроля температуры<br>Настройка контроля влажности</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Для гидропоники:</div>
-			  <div class="value">Значительное улучшение роста</div>
-			</div>
-			<div class="text">
-			  <div class="name">Для выращивания в открытом грунте:</div>
-			  <div class="value">От выредителей, перепадов температуры, YF и другие</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Габариты:</div>
-			  <div class="value">От 2 до 10 метров</div>
-			</div>
-			<div class="text">
-			  <div class="name">Потребление энергии:</div>
-			  <div class="value">220 В</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Язык обучения:</div>
-			  <div class="value">Английский</div>
-			</div>
-			<div class="text">
-			  <div class="name">Срок подачи документов:</div>
-			  <div class="value">1 июня по 15 августа<br>1 декабря - 15 февраля</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее</a>
-		  </div>
-		</article>
-	  </div>
-	</div>
-  </div>
-</section>
-
-!-->
-<section class="text-main">
-</section>
-
-    </div>
-</section>
-<div class="problems">
-<div class="wrapper">
-<div class="problems__title">Проблемы и последствия<br> курения марихуаны</div>
-<div class="problems-r"><ol class="numlist numlist_problems">
-<li>Нарушенная координация направленных действий и движений;</li>
-<li>Увеличение времени реагирования на сказанное, увиденное, услышанное;</li>
-<li>Значительно ухудшение или потеря кратковременной памяти;</li>
-<li>Упадок остроты зрения, а так же деструктив цветопередачи;</li>
-<li>Возможно отрофирование сетчатки и зрительного нерва.</li>
-</ol></div>
+<div class="university-intro" style="background: #e6e7e7 url(/assets/images/sok2/11.png) top no-repeat">   <div class="wrapper">     <div class="university-intro-i">     <!--  <h1>пупыпыукпк</h1>       <ul class="university-info"> <li></li> <li></li> <li></li> <li> <a href="#"></a></li> </ul>            <a class="button button_intro" href="chto-takoe-anasha.html"> <span></span> </a>!--> </div>   </div> </div>
+<div class="wrapper"><div  class="breadcrumbs">       <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li>Семена марихуаны</li></ul></div>     </div>
+<h1 class="inner-h1">Семена марихуаны</h1>
+<div class="articles"><p> </p></div></div>
+<div class="wrapper"><div class="articles"><ul class="col3">
+<li><a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html"><img class="col3__img" title="Автоцветущие сорта" src="assets/img/5.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html">Автоцветущие сорта</a>
+<div class="col3__desc1">
+<p>Страны:</p>
 </div>
-</div>
-<div class="problems problems_solving">
-<div class="wrapper">
-<div class="problems__title problems__title_solving">Возможности применения марихуаны <br> в терапевтических или лечебных целях</div>
-<div class="problems-r"><ol class="numlist numlist_problems-solving">
-<li>Марихуана улучшает аппетит и качество работы вкусовых рецепторов у больных раком.</li>
-<li>Курение марихуаны значительно снижает симптомы нейропатической боли.</li>
-<li>Экстракт каннабиса может снимать болевой шок и симптомы после сложных операции.</li>
-<li>Марихуана способствует частичному снятию или облегчению симптома  спастичности.</li> 
-<li>Экстракт каннабиса используется в спрее «Sativex» - для лечения больных с рассеянным склерозом. Одобрен в Соединенном Королевстве.</li>
-<li>Активные вещества в составе конопли, способствуют остановке роста рака простаты.</li>
-<li>Применение марихуаны может защищать людей преклонного возвраста от остеопороза.</li>
-<li>Каннабис облегчает симптомы аллергического контактного  дерматита.</li>
-<li>Курение марихуаны снимает посттравматический синдром и зажимы.</li>
-</ol></div>
-</div>
-</div>
-<div class="problems">
-<div class="wrapper">
-<div class="problems_vid"><noindex><iframe rel="nofollow"src="https://www.youtube.com/embed/BYqCl4-AOYQ" width="500" height="350"frameborder="0"></iframe></noindex></div>
-<div class="problems-r">
-<ul>
-<li style="line-height: 22px;    padding-left: 50px;"> В Украине - марихуана является незаконным наркотиком. Выращивание, курение и распространение преследуется и карается законодательством Украины! <br /><br /></li>
-<li style="line-height: 22px;    padding-left: 50px;">Несмотря на то что существуют страны в которых лечебная марихуана легализированна, оценить ее пользу, смогут по достоинству действительно те кому она нужна в лечебных целях. Существуют самые различные мнения относительно легального статуса  конопли.  Ряд ученых, а также пациенты, особенно те из них, что страдают от хронической боли, могут  видеть плюсы и минусы медицинского применения конопли более объективно.
- <br />
-В большинстве стран мира производство марихуаны является незаконным. <p class="justy">Это означает, что ее выращивание и производство скрыто от глаз общественности. В отличие от законных лекарств  или продуктов  питания, здесь отсутствует общественный контроль, зато популярен черный рынок сбыта который стимулирет продажу более тяжелых наркотив. В отличии от такой ситуации, страны где конопля легалезированна и продается в специализированных местах, продажа тяжелых наркотических препаратов практически искоренена или отсутсвует вовсе. </p> </li>
-</ul></div>
-</div>
-</div>
-<!--
-<section class="how-work">
-  <div class="wrapper">
-	<div class="index-title">Как мы работаем?</div>
-	<ul class="how-work__list">
-	  <li><img class="how-work__ico" src="/assets/img/hw1.png" alt="">Вы оформляете заказ</li>
-	  <li><img class="how-work__ico" src="/assets/img/hw2.png" alt="">Связываемся с Вами для уточнения деталей</li>
-	  <li><img class="how-work__ico" src="/assets/img/hw3.png" alt="">Предоставляем реквизиты для оплаты</li>
-	  <li><img class="how-work__ico" src="/assets/img/hw4.png" alt="">Отправляем Вам посылку</li>
-	</ul>
-	<a class="button button_hwmore" href="/about.html"><span>Детальней ознакомиться</span></a>
-  <!--<ul class="facts">
-	<li>
-	  <div class="facts-b facts-1">
-		<div class="facts__title">Лутьшие сорта</div>
-	  </div>
-	  <div class="facts-hover facts-hover_1">
-		<div class="facts__title facts__title_hover">Лутьшие сорта</div>
-		<div class="facts__ico f1">&nbsp;</div>
-		<a class="button button_apply" href="/contact.html"><span>Подробнее</span></a></div>
-	</li>
-	<li>
-	  <div class="facts-b facts-2">
-		<div class="facts__title">8 лет на рынке</div>
-	  </div>
-	  <div class="facts-hover facts-hover_1">
-		<div class="facts__title facts__title_hover">8 лет на рынке</div>
-		<div class="facts__ico f2">&nbsp;</div>
-		<a class="button button_apply" href="/reports.html"><span>Подробнее</span></a></div>
-	</li>
-	<li>
-	  <div class="facts-b facts-3">
-		<div class="facts__title">Лучшие производители</div>
-	  </div>
-	  <div class="facts-hover facts-hover_1">
-		<div class="facts__title facts__title_hover">Лучшие производители</div>
-		<div class="facts__ico f3">&nbsp;</div>
-		<a class="button button_apply" href="sativa-indika.html"><span>Подробнее</span></a></div>
-	</li>
-	<li>
-	  <div class="facts-b facts-4">
-		<div class="facts__title">Лучшие семена</div>
-	  </div>
-	  <div class="facts-hover facts-hover_1">
-		<div class="facts__title facts__title_hover">Лучшие семена</div>
-		<div class="facts__ico f4">&nbsp;</div>
-		<a class="button button_apply" href="/reports.html"><span>Подробнее</span></a></div>
-	</li>
-  </ul>!-->
-  </div>
-</section>
-<!--<div class="slider-main-wrapper text-wrapper">
-    <section>
-        <p class="block_header">Отзывы студентов из Австрии</p>
-        <div class="slick-comment-slider">
-
-			  <div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="http://www.youtube.com/embed/emE6Lch3XBE">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/social_4.jpg" alt=""/>
-                        <p class="block_header_h4">Ольга Давыдова</p>
-                        <hr/>
-                        <p>Поступила: Международная экономика (магистратура)</p>
-                        <hr/>
-                        <p>Венский университет</p>
-                    </div>
-                    <p>Моя самостоятельная подача документов в Венский университет увенчалась отказом. Я потеряла пол года времени и решила больше не рисковать, поэтому обратилась в Education in Vienna. Через 3 месяца после передачи документов компании я получила приглашение на магистратуру...</p>
-                </div>
-            </div>
-
-            <div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="https://www.youtube.com/embed/JVFd3DE5m34">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/4-84.jpg" alt=""/>
-                        <p class="block_header_h4">Ирина Сидорова, 17 лет</p>
-                        <hr/>
-                        <p>Поступила: Международная экономика</p>
-                        <hr/>
-                        <p>Венский экономический университет</p>
-                    </div>
-                    <p>...Так как на момент поступления мне было только 17 лет, мы решили не рисковать и обратиться в образовательное агентство. Из трех компаний мы выбрали Education in Vienna. Нам быстро оформили все документы и уже в сентябре я получила приглашение из двух университетов: Венского Главного и Венского экономического...</p>
-                </div>
-            </div>
-
-            <div class="slide">
-                <div class="slide-info">
-                    <img src="assets/img/2-194.jpg" alt=""/>
-                    <p class="block_header_h4">Екатерина Захарова, 19 лет</p>
-                    <hr/>
-                    <p>Поступила: Лечебное дело</p>
-                    <hr/>
-                    <p>Венский медицинский университет</p>
-                </div>
-                <div class="slide-text">
-                    <p>Было много опасений, в основном связанных со временем, незнанием языка и непониманием всей процедуры оформления документов. На момент поступления в Вену я уже закончила 1 год Медицинского университета в Москве и продолжала обучение на втором курсе, поэтому я очень боялась, что потеряю много времени, если буду делать все сама. В итоге, уже через 6 недель после отправки документов в Вену, я получила приглашение из Венского медицинского университета! Моей радости не было предела! :) Документы на визу рассматривали долго - целых 10 недель. Но я, слава Богу, успела к началу учебного семестра, записалась на курсы и готовлюсь к стационарной учебе в Меде. Говорят, что учиться сложно, но очень интересно. Посмотрим! </p>
-                </div>
-            </div>
-
-			<div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="http://www.youtube.com/embed/AaIBTIx02DQ">
-                    </iframe>
-                </div>
-			    <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/social.jpg" alt=""/>
-                        <p class="block_header_h4">Полина Ковалевская, 21 год</p>
-                        <hr/>
-                        <p>Поступила: Публицистика (магистратура)</p>
-                        <hr/>
-                        <p>Венский Университет</p>
-                    </div>
-                    <p>Я поступила в Вену после окончания учебы в Киеве по специальности "Реклама и PR". Так как мой парень год назад приехал сюда учиться и у него с поступлением все прошло успешно, сомнений в выборе компании у меня не было. Сейчас мы переезжаем в квартиру и у нас все хорошо:) </p>
-                </div>
-            </div>
-
-			<div class="slide">
-                <div class="slide-info">
-                    <img src="assets/img/2-193.jpg" alt=""/>
-                    <p class="block_header_h4">Анастасия Фескова, 22 года</p>
-                    <hr/>
-                    <p>Поступила: Международная экономика</p>
-                    <hr/>
-                    <p>Венский университет</p>
-                </div>
-                <div class="slide-text">
-                    <p>Я поступала вместе с четырьмя одногрупниками из Киевского Экономического Университета. Мы переживали почти по любому поводу, особенно боялись столкнуться с мошенниками и потерять такую сумму денег. Настораживало, что другая фирма запросила в три раза больше! По факту мы получили даже больше чем расчитывали. Через несколько месяцев с разницей в 1-2 недели все получили визы, нас встретили по приезде, общежитие оказалось таким как на фотографиях, в течение первых недель нам помогли со всеми нужными документами и регистрациями для начала учебы. И самое главное, даже после выполнения всех оговоренных условий, нам продолжали помогать по разным вопросам еще долгое время.</p>
-                </div>
-            </div>
-
-            <div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="http://www.youtube.com/embed/ix8IXeNhx28">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/6-80.jpg" alt=""/>
-                        <p class="block_header_h4">Илья Давыденко, 19 лет</p>
-                        <hr/>
-                        <p>Поступил: Стоматология</p>
-                        <hr/>
-                        <p>Венский медицинский университет</p>
-                    </div>
-                    <p>Факт того, что я уже нахожусь в Вене по студенческой визе и учусь в Венском медицинском университете говорит о том, что организация Education in Vienna знает, что делает! Самостоятельно я, наверное, не справился бы. </p>
-                </div>
-            </div>
-
-            <div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="https://www.youtube.com/embed/jgDFawmvt1A">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/2-83.jpg" alt=""/>
-                        <p class="block_header_h4">Полина Филиппенко, 17 лет</p>
-                        <hr/>
-                        <p>Поступила: История</p>
-                        <hr/>
-                        <p>Венский университет</p>
-                    </div>
-                    <p>Родители уговорили меня поступать в Австрию в 11-м классе. Сначала мы с родителями пытались оформить все документы самостоятельно, но в процессе поняли, что все очень муторно и сложно, поэтому решили обратиться в компанию. Приглашение мне прислали уже через 8 недель, а с оформлением визы проблем не возникло...
-                </div>
-            </div>
-
-			<div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="http://www.youtube.com/embed/0OUuTegTBL0">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/3-82.jpg" alt=""/>
-                        <p class="block_header_h4">Екатерина Кузина, 18 лет</p>
-                        <hr/>
-                        <p>Поступила: Экономика и право</p>
-                        <hr/>
-                        <p>Венский экономический университет</p>
-                    </div>
-                    <p>Для поступления сперва я рассматривала Германию, но я не успела оформить документы до 31 мая, потому что аттестат мне выдали только в июне. Я не хотела учиться в России и хотела уехать сразу после школы, поэтому я выбрала Австрию. Мы очень боялись пролететь, но у нас все получилось и я уже учусь в Вене!</p>
-                </div>
-            </div>
-
-        </div>
-    </section>
-</div>
-<script type="text/javascript">
-    console.log(\'header\');
-    $(document).ready(function(){
-        if ($(\'.slick-comment-slider\').length) {
-            $(\'.slick-comment-slider\').slick({
-                infinite: true,
-                dots: true
-            });
-        }
-    });
-</script>!-->
-<!--<div class="main-form-container request_consult">
-    <form method="post" action="request_consult">
-        <div class="container-main">
-        <p class="block_header rel-con">Бесплатная консультация </p>
-            <p class="form-desc">Заполните форму и мы перезвоним Вам в течение 1 рабочего дня!</p>
-            <div class="container-row inputs">
-                <div>
-                    <label for="name"><span class="strong uppercase">Ваше имя</span></label>
-                    <input id="name" type="text"/></div>
-                <div>
-                    <label for="phone_num"><span class="strong uppercase">Ваш телефон</span></label>
-                    <input id="phone_num" type="text"/></div>
-            </div>
-         <div class="container-row">
-                <span class="strong uppercase">Я хочу </span>
-                <input id="6m" type="radio" name="request_year"/>
-                <label for="6m">6 месяцев</label>
-                <input id="12m" type="radio" name="request_year"/>
-                <label for="12m">1 года</label>
-                <input id="24m" type="radio" name="request_year"/>
-                <label for="24m">2 лет</label>
-            </div>
-            <div class="rel-con">
-                <p><span class="strong">Для  Вам понадобится только </span></p>
-                <p><span class="strong">Все остальные документы мы оформим за Вас!</span></p>
-            </div>
-            <hr class="desc_blue"/>
-            <input type="submit" value="Отправить заявку" class="rel-con"/>
-        </div>
-    </form>
-</div>!-->
-<div class="wrapper">
-  <section class="reviews reviews_index">
-<div class="index-title">
- <span>Видео о марихуане</span>
-</div>
-<div class="reviews-content reviews-content_index js-reviews-content js-reviews-1" style="display: block;"> <div class="reviews__video reviews__video_index">
-<object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/BYqCl4-AOYQ">
-
-
-
- <param name="movie" value="https://www.youtube.com/v/BYqCl4-AOYQ">
- </object>
- </div>
- <div class="reviews-i reviews-i_index">
-<div class="reviews-avatar reviews-avatar_index"><img title="Как растёт конопля-от начала и до конца от семени до шишки." width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Как растёт конопля-от начала и до конца от семени до шишки."><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
-</div>
-<div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Как растёт конопля - от начала и до конца, от семени до шишки. </div>
- <div class="reviews__text"><p>Пятиминутное видео о росте марихуаны. От зарождения в зернышке и до самой посленей стадии перед сбором урожая.</p>
-<p>Комплексная, многоракурсная съемка, ускоренная после в десятки раз, открывает новые границы познания растения.</p></div>
-</div>
- </div>
-</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-2" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/AOQdqBwp1EM">
- <param name="movie" value="https://www.youtube.com/v/AOQdqBwp1EM">
- </object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Как растёт конопля-от начала и до конца от семени до шишки." width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Как растёт конопля-от начала и до конца от семени до шишки."><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
-  </div>
-   <div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Бесценное растение конопля.</div>
- <div class="reviews__text"><p>Чем она так любима всеми миру и почему за марихуану ведеться такая ежедневная страншная борьба.</p>
-<p>Мнения приверженцев и сторонников. Интересные факты о бесценности каннабиса. Польза, вред и незаменимые элементы - обо всем этом и многом другом в видео.</p></div>
- </div>
-</div>
-</div>
-<div class="reviews-content reviews-content_index js-reviews-content js-reviews-3" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/NfH8zwz3Lio">
-<param name="movie" value="https://www.youtube.com/v/NfH8zwz3Lio">
-</object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="и"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
- </div>
-  <div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Марихуана - лекарство от более чем 50 болезней. </div>
- <div class="reviews__text"><p>Лечебные свойства конопли неоспоримы. Сотни ежедневных исследований вновь и вновь доказывают это.</p>
-<p>Запреты исследований ограничивают возможности медецины, но даже те исцеляющие свойства конопли которые найдены сегодня делают это растение по истине незаменимым.</p></div>
- </div>
-</div>
-</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-4" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/YzF6LhKJMr8">
-<param name="movie" value="https://www.youtube.com/v/YzF6LhKJMr8">
-</object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Обучение в Вене. Отзыв от студентки Ирины Сидоровой" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Обучение в Вене. Отзыв от студентки Ирины Сидоровой"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
- </div>
- <div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Лучший гровинг</div>
- <div class="reviews__text"><p>Советы от ТОП экспертов по гровингу конопли из Амстердама и Канады. Бесценные сектеры и хитрости выращивания.</p>
-<p>Подробные инструкции и методы преспособления. Узнайте как получить максимум пользы уже с первого раза.</p></div>
- </div>
-</div>
-</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-5" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/BYqCl4-AOYQ">
-<param name="movie" value="https://www.youtube.com/v/BYqCl4-AOYQ">
-</object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Венский университет отзыв Екатерины Кузиной" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Венский университет отзыв Екатерины Кузиной"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
- </div>
- <div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Как растёт конопля-от начала и до конца от семени до шишки. </div>
- <div class="reviews__text"><p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p>
-<p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p></div>
- </div>
-</div>
-</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-6" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/BYqCl4-AOYQ">
-<param name="movie" value="https://www.youtube.com/v/BYqCl4-AOYQ">
-</object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Образование в Австрии - отзыв студента Ольги Давыдовой" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Образование в Австрии - отзыв студента Ольги Давыдовой"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
- </div>
-<div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Как растёт конопля-от начала и до конца от семени до шишки. </div>
- <div class="reviews__text"><p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p>
-<p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p></div>
- </div>
-</div>
-</div>
-<div class="reviews-cycle-wrapper">
-  <ul class="cycle-slideshow reviews-cycle reviews-cycle_index js-reviews-cycle" data-cycle-fx="carousel" data-cycle-timeout="0" data-cycle-carousel-visible="6" data-cycle-next=".reviews-cycle-next" data-cycle-prev=".reviews-cycle-prev" data-cycle-slides="> li" style="position: relative; overflow: hidden; width: 900px;"><li data-tab=".js-reviews-1" class="is-active cycle-slide cycle-sentinel" style="top: 0px; left: 0px; opacity: 1; z-index: 100; position: static; visibility: hidden; display: block;"><img src="/assets/images/prev/v.png" alt="" style="visibility: hidden;"></li><div class="cycle-carousel-wrap" style="margin: 0px; padding: 0px; top: 0px; position: absolute; white-space: nowrap; left: -705px;"><li data-tab=".js-reviews-1" class="is-active cycle-slide" style="top: 0px; left: 0px; opacity: 1; visibility: visible; z-index: 100; display: inline-block; position: static;"><img src="/assets/img/1-78.jpg" alt=""></li><li data-tab=".js-reviews-2" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 99; display: inline-block; position: static;"><img src="/assets/img/097.png" alt=""></li><li data-tab=".js-reviews-3" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 97; display: inline-block; position: static;"><img src="/assets/img/098.png" alt=""></li><li data-tab=".js-reviews-4" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 96; display: inline-block; position: static;"><img src="/assets/img/099.png" alt=""></li><li data-tab=".js-reviews-5" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 95; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-1" class="is-active cycle-slide cycle-slide-active" style="top: 0px; left: 0px; opacity: 1; visibility: visible; z-index: 100; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-2" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 99; display: inline-block; position: static;"><img src="/assets/img/097.png" alt=""></li><li data-tab=".js-reviews-3" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 97; display: inline-block; position: static;"><img src="/assets/img/098.png" alt=""></li><li data-tab=".js-reviews-4" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 96; display: inline-block; position: static;"><img src="/assets/img/099.png" alt=""></li><li data-tab=".js-reviews-5" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 95; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-1" class="is-active cycle-slide" style="top: 0px; left: 0px; opacity: 1; visibility: visible; z-index: 100; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-2" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 99; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-3" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 97; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-4" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 96; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-5" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 95; display: inline-block; position: static;"><img src="14-88.jpg" alt=""></li></div></ul>
- <div class="reviews-cycle-next"></div>
- <div class="reviews-cycle-prev"></div>
-</div>
-</section>
-
-<!--	<section class="news_index">
- <div class="index-title"> <span>
-<a rel="nofollow" href="/news.html">Наши новости</a>    </span> </div>
- <ul class=\'col3\'>
-<li>
-    <a class="col3__title" href="sativa-indika.html">
-        <img class="col3__img" src="" alt="Сатива индика">
-    </a>
-
-    <div class="col3__info">
-        <div class="news-meta">
-            <div class="news-meta__date">03</div>
-            <div class="news-meta__month">12
-                <div class="news-meta__year">2015</div>
-            </div>
-        </div>
-        <a class="col3__title" href="sativa-indika.html">Сатива индика</a>
-        <div class="col3__text"><p></p></div>
-    </div>
+<a class="button button_adm" href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
 </li>
- </ul>
-</section> !-->
-[[!FormIt?
-   &formName=`sendmail`
-   &hooks=`spam,email,hook_FormIt_megaplanCreateClient,redirect`
-   &emailTpl=`sendEmailTpl_email`
-   &emailTo=`kim_55@bigmir.net`
-   &emailSubject=`Подписка на новости с главной http://4-20.com.ua/`
-   &redirectTo=`359`
-   &validate=`e_email:email:required`
-   &submitVar=`e-submit`
-]]
-<section class="send-mail-b send-mail-b_index" id="email" >
-        <div class="send-mail-b__title">
-            Отправь нам свою почту
-        </div>
-        <div class="send-mail-b__subtitle">
-            и будь вкурсе всех новостей связаных с Коноплей в Украине
-        </div>
-        <form name="email" class="send-mail-b__form cntmm" method="post" action="semena-marixuanyi.html#email">
-		<span class="error">[[!+fi.error.e_email]]</span>
-            <input name="e_email" id="emailz" class="send-mail-b__input" type="text" placeholder="Электронная почта" value="[[!+fi.email]]">
-            <input class="submit_button button button_apply js-telefon" name="e-submit" type="submit" value="Отправить">
-         </form>
-    </section>
-<!--<section class="index-form clear">
-<div class="advantage">
- <div class="advantage__title">Факт о марихуане</div>
- <div class="services-adv-in">
-<div class="services-adv__top"><span class="services-adv__num">01</span> <span class="services-adv__title services-adv__title_index">В период движения трезвенников в конце 19 века марихуана рекомендовалась как заменитель алкоголя. 
-</span></div>
-<p>Причиной для этого было то, что в отличие от злоупотребления алкоголем, употребление марихуаны не приводило к насилию в семье.</p>
- </div>
- <div class="services-adv-in">
-<div class="services-adv__top"><span class="services-adv__num">02</span> <span class="services-adv__title services-adv__title_index"> До того как ее запретили, конопля была одним из главных продуктов фермерского производства в ранней Америке.  </span></div>
-<p>Первые два проекта американской Декларации Независимости были написаны на бумаге, сделанной из конопли.</p>
- </div>
- <div class="services-adv-in">
-<div class="services-adv__top"><span class="services-adv__num">03</span> <span class="services-adv__title services-adv__title_index"> В 2007 году в США было проведено около 900 тысяч арестов за преступления, связанные с марихуаной. </span></div>
-<p>Около 90%  арестов было произведено всего лишь за хранение марихуаны.Во всем мире около 162 миллионов взрослых людей употребляют марихуану не реже одного раза в год.</p>
- </div>
- <a class="button button_hwmore" href=""> <span>Смотреть больше фактов</span> </a></div>  <div class="apply">
-<div class="apply__title">
- Вопросы, Заказы, Предложения 
+<li><a href="avtoczvetushhie-feminizirovannyie-semena.html"><img class="col3__img" title="Автоцветущие феменизированные сорта" src="assets/img/3.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="avtoczvetushhie-feminizirovannyie-semena.html">Автоцветущие феминизированные</a>
+<div class="col3__desc1">
+<p>Страны:</p>
 </div>
-[[!FormIt?
-   &formName=`form_main`
-   &hooks=`spam,email,hook_FormIt_megaplanCreateClient,redirect`
-   &emailTpl=`sendEmailTpl_main`
-   &emailTo=`kim_55@bigmir.net`
-   &emailSubject=`Оценка шансов на поступление http://4-20.com.ua/`
-   &redirectTo=`358`
-   &validate=`u_name:required,u_phone:required,u_name:required,u_email:email:required,u_text:required:stripTags`
-   &submitVar=`form-uslugi`
-]]
-[[!+fi.error_message:notempty=`<p>[[!+fi.error_message]]</p>`]]
-
-
-
-
-
-<form class="apply-form js-apply-form" action="semena-marixuanyi.html#form" method="post" id="form">
-<span class="error">[[!+fi.error.u_name]]</span>
-<div class="apply-form__fields"><label>Фамилия, Имя, Отчество</label> <input id="name" class="apply__input js-name" type="text" name="u_name" /></div>
-
-<span class="error">[[!+fi.error.u_phone]]</span>
-<div class="apply-form__fields"><label>Контактный телефон или Skype</label> <input id="phone" class="apply__input js-phone_skype" type="text" name="u_phone" /></div>
-
-<span class="error">[[!+fi.error.u_email]]</span>
-<div class="apply-form__fields"><label>Электронная почта</label> <input id="memail" class="apply__input js-email" type="text" name="u_email" /></div>
-
-<span class="error">[[!+fi.error.u_text]]</span>
-<div class="apply-form__fields"><label>Ваш вопрос</label><textarea id="message" class="apply__text js-text" name="u_text"></textarea></div>
-<input name="form-uslugi" type="submit" value="Отправить заявку" class="button button_apply  submit_button button button_apply  " />
-</form>
-</div> </section>!-->
+<a class="button button_adm" href="avtoczvetushhie-feminizirovannyie-semena.html" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
+</li>
+<li><a href="feminizirovannyie-semena.html"><img class="col3__img" title="Феменизированные семена марихуаны" src="assets/img/4.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="feminizirovannyie-semena.html">Феминизированные сорта</a>
+<div class="col3__desc1">
+<p>Страны:</p>
 </div>
+<a class="button button_adm" href="feminizirovannyie-semena.html" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
+</li>
+</ul>
+<ul class="col3">
+<li><a href="#"><img class="col3__img" title="Фотопериодичные семена" src="assets/img/2.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="#">Фотопериодичные сорта</a>
+<div class="col3__desc1">
+<p>Страны:</p>
+</div>
+<a class="button button_adm" href="#" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
+</li>
+<li><a href="slabopaxnushhie-sorta-marixuanyi.html"><img class="col3__img" title="Слабопахнущие сорта конопли" src="assets/img/1.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="slabopaxnushhie-sorta-marixuanyi.html">Слабопахнущие сорта</a>
+<div class="col3__desc1">
+<p>Страны:</p>
+</div>
+<a class="button button_adm" href="slabopaxnushhie-sorta-marixuanyi.html" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
+</li>
+<li><a href="#"><img class="col3__img" title="популярные семена конопли" src="assets/img/4.png" alt="" /></a>
+<div class="col3__info"><a class="col3__title col3__title_univer" href="#">Победители кубков</a>
+<div class="col3__desc1">
+<p>Самые популярные семена конопли и победители кубков !</p>
+</div>
+<a class="button button_adm" href="#" rel="nofollow"> <span>Перейти в раздел</span> </a></div>
+</li>
+</ul>
+<hr />
+<p style="text-align: center;"><em>Законодательством Украины выращивание конопли запрещено, <strong>купить семена марихуаны</strong> Вы можете лишь для использования как сувенирную продукцию, для корма попугаев, использования в пищу, так же можно заказать семена конопли технического сорта для посевной культуры, для рыбалки, или для выращивания в странах прошедших легализацию. Для использования семян конопли в последнем случае (для выращивания в странах прошедших легализацию) рекомендуем ознакомиться с нюансами от которые играют важную роль для дальнейшего развития всего процесса.</em></p>
+<hr />
+<h2>Вы можете купить семена марихуаны для выращивания в странах с легализацией</h2>
+<p>Перед началом покупки стоит разобраться в существующих различиях семян, которые в дальнейшем сыграют ключевую роль в процессе роста и созревания.</p>
+<p><img title="Семена марихуаны внутри и снаружи" src="assets/img/семена%20марихуаны.png" alt="семена марихуаны в разрезе" width="100%" /></p>
+<p style="font-size: 26px;">Семена конопли выбирают по таким показателям</p>
+<p style="font-size: 24px;">Тип сорта семечки конопли:</p>
+<p><span style="font-size: 16px; color: #4bd12e;">Обычные сорта</span> - средний цикл роста данного сорта марихуаны составляет от 3, 4 месяцев до 5. Высота растения чаще всего начинается от 50 сантиметром и может достигать высоты до 4 метров. Довольно прихотливы при выращивании и не особо устойчивы к вредителям. Такие растения популярны благодаря высокой урожайности.</p>
+<p><span style="font-size: 16px; color: #4bd12e;">Автоцветущие сорта</span> - это растения с автоцветущим геном. Семена конопли данного вида, особенно популярны благодаря своей скороспелости. Благодаря тому что начало стадии цветения у данных растений начинается автоматически по истечению вегетативного периода, такой сорт конопли вырастает довольно быстро, и в среднем уже через 2,5 месяца после посадки проводиться сбор.  Высота самого растения, обычно составляет не более 50 см и растет больше вширь чем вверх. Такие растения популярны благодаря 100% неприхотливому росту и достижением быстрого результата, но высокой урожайностью не балуют.</p>
+<p style="font-size: 24px;">Тип зерна конопли:</p>
+<p><span style="font-size: 16px; color: #4bd12e;">Регулярные семена</span> - из этих зерен могут вырастить как мужские так и женские растения. Но как известно, для плодоноса нам необходимы только женские. При это выращивание женский и мужских растений в одном боксе чревато опылением женских растений, что будет означать понижение уровня ТГК, а соответственно качество конечного результата гровинга. Именно поэтому в регулярных растениях важно вовремя отследить кто есть кто, и в случае нахождения мужского растения уничтожить его (не рассеяв при этом его пыльцу по всему боксу!). Дабы обезопасить себя, многие гроверы выбирают проверенный метод феменизированных зерен.</p>
+<p><span style="font-size: 16px; color: #4bd12e;">Феминизированные зерна</span> - обычно такой вид зерен обозначается как fem. Это исключительно женские растения. Такие семена являются искусственно созданные селекционерами-гроверами, и именно поэтому такие семена в несколько раз дороже обычных. Они любимы многими за 100% достижение ожидаемого результата и отличные характеристики.</p>
+<p style="font-size: 24px;">Семена каннабиса и генетика</p>
+<p>Селекционеры занимаются созданием наиболее разноплановых и интересных сортов конопли. Существуют чистые генетические растения, и скрещенные. Большое разнообразие сортов на рынке конопли, вызывает большой интерес у публики. Мастера разбирающиеся в том что представляют собой те или иные сорта, легко могут представить что за растение представляется в результате скрещивания и что вырастает по итогу.</p>
+<p><span style="font-size: 16px; color: #4bd12e;">Индичные семена канабиса</span> - растения довольно невысокие, с весьма непродолжительным периодом цветения. Такие растения больше устойчивы к стрессовым условиям выращивания. Растение имеет сильный расслабляющий (седативный) эффект, в результате чего нашли широкое применение в медицине. О лечебных свойствам марихуаны читайте здесь <a title="Польза от марихуаны для всех" href="polza-marixuanyi.html">4-20.com.ua/polza-marixuanyi.html</a></p>
+<p><span style="font-size: 16px; color: #4bd12e;">Семена сатива</span> - имеют более длительный период цветения, но при этом растения получаются более плодоносные. Растения требовательны к условиям выращивания и не особо стресоустойчивы. Поэтому семена и шишки сативы считаются более ценными чем индики. Эффект от употребления таких растений бодрящий и стимулятивный. В медицине используется для лечения депрессий и других расстройств.</p>
+<p>Так же существует канабис семена которого не имеют эффекта, тоесть их уровень ТГК довольно низкий. Это семена рудералис. Тем не менее при селекционировании такие растения так же важны. Они используются для скрещения с сортами сатива/индика для достижения стабильных гибридных растений с коротким сроком выращивания. Растения рудералис (тоесть кормовой конопли) автоцветущие.</p>
+<p style="font-size: 18px;">Подробнее о разнице растений сатива и индика по ссылке <a href="sativa-indika.html">4-20.com.ua/sativa-indika.html</a></p>
+<p><img title="Так выглядят семена конопли после прорастания" src="assets/img/семена-коноплии.png" alt="Семена конопли для продажи" width="100%" /></p>
+<p style="font-size: 24px;">Тип сорта марихуаны по ТГК:</p>
+<p>ТГК полная расшифровка которого тетрагидроканнабинол является основным психоактивным компонентом состава растения конопля. Именно ради этого гроверы занимаются выращиванием и усовершенствованием все новых и лучших сортов марихуаны.</p>
+<p>Уровень от 0+% ТГК — это техническая конопля рудералис. Практически не содержит психоактивных компонентов.</p>
+<p>Уровень от 8-16% ТГК — это сорта селекционеров. Наиболее популярны и просты для выращивания.</p>
+<p>Уровень от 16-25+% ТГК — самые мощные растения. Появляются исключительно в результате селекционирования мощных растений.</p>
+<h3 style="font-size: 26px;">Перед тем как купить семена марихуаны обратите внимание на такие моменты</h3>
+<p style="font-size: 24px;">Какой будет период цветения:</p>
+<p>При продаже семян производители указывают период роста растений. Это данные о том в какой срок после вегетативного периода (первого этапа), вы получите созревший урожай. Данные чаще всего приводятся для выращивания растений в открытом грунте, с теплым климатом. Поэтому важно разобраться и примерно рассчитать период роста растений чтоб осень-зима не настали раньше сбора урожая. Для выращивания аутдор в широтах с холодным непродолжительным летом, лучше использовать автоцветущие сорта каннабиса. Для тропических широт допустимо использование любым семян.<br />Для выращивания в закрытом помещении (индор) период цветения растений может быть значительно короче и производители так же указывают какие семена рекомендуются для такого процесса.</p>
+<p style="font-size: 24px;">Какой будет запах у растений:</p>
+<p>Для выращивания в закрытых условиях, важно обратить внимание на будущий запах растений, дабы не доставлять никому дискомфорта в период цветения. Этот вопрос конечно решается покупкой оборудования для устранения запахов такого как угольные фильтры и мощные вентиляционные системы. Но так же можно и выбрать растения обладающие низким уровнем запаха. Такими детали производители так же указывают на сортах семян. Популярными растениями обладающими слабым запахом являются: автоцветущие семена Pandora, Automaria №2. Подробнее о популярных семенах и их преимуществах по ссылке: *************</p>
+<p style="font-size: 24px;">Какой будет размер у растений:</p>
+<p>Для выращивания в открытом грунте такой вопрос Вас конечно не должен беспокоить, но что касается выращивания индор, то здесь лучше перестраховаться. Важно вписать в условия гроубокса чтобы все растения могли комфортно развиваться и не мешать росту других растений. Эта информация, так же указывается производителями при описании сортов, но если вы как новичек, хотите наверняка перестраховаться лучше использовать низкорослые автоцветущие семена индики.</p>
+<p style="font-size: 24px;">Какие условия необходимы для выращивания:</p>
+<p>При продаже семян производители указывают для какого типа окружающей среды подходят данные семена. Это может быть открытый грунт, закрытое помещение, а так же существуют универсальные сорта. Для получения хорошего результата желательно придерживаться данных рекомендаций. <br />Данный вопрос важно хорошо изучить перед стартом выращивания. Просмотрите что рекомендуют гроверы и специалисты на разных формах, относительно выращивания конкретного сорта марихуаны.</p>
+<p style="font-size: 24px;">Так же производители указывают такие дополнительные данные:</p>
+<p>Урожайность — указывается минимальный уровень урожая для конкретного растения. Эти данные будут реализованы только при хороших условиях выращивания.</p>
+<p>Уровень содержания ТГК КБД КБН — психоактивные вещества содержащиеся в растениях по окончанию выращивания. Зависят так же от хороших, подходящих условий выращивания.</p>
+<hr />
+<p style="text-align: center;"><em>Для новичка, желающего получить хороший результат довольно в короткие сроки, совет един - купить семена марихуаны автоцветущие феминизированные (женские). При выращивании таких семян Вы наверняка перестрахуетесь, а усилия и потраченное время/ресурсы не будут понапрасну.</em></p>
+<p><img title="На 4-20.com.ua можно купить семена марихуаны по доступным ценам" src="assets/img/купить%20семена%20марихуаны.png" alt="Купить семена марихуаны в Укарине и России" width="100%" /></p><div class="justy">
+<p style="font-size: 24px; color: #fd2901; text-align: center;">!!! ВНИМАНИЕ !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Информация представленная на ресурсе 4-20.com.ua предназначена исключительно для совершеннолетних! Лица не достигшие 18 лет обязаны покинуть страницы данного ресурса, и в магазине обслуживаться не будут !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Вся информация описанная на сайте, предоставляется исключительно в научно-образовательных целях и несет только ознакомительный характер! Мы никого не призываем к совершению незаконных действий!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Ответственность за неправомерное использование любых товаров приобретенных у нас, лежит исключительно на потребителе продукции!</p>
+</div></div></div>
 <!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
 </div></div>!-->
+
+
+</div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>
 <footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
@@ -1122,7 +737,7 @@
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>
 [[#!FormIt?
    &formName=`forms1`
@@ -1297,11 +912,11 @@
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="semena-marixuanyi.html">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -1313,6 +928,9 @@
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -1357,14 +975,14 @@
 
 <script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -1385,7 +1003,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -1633,7 +1251,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -1675,7 +1293,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -1778,16 +1396,18 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
 
+</script>
 </body>
-</html>
-
-
-
-
-
-',
+</html>',
     '_isForward' => false,
   ),
   'contentType' => 
@@ -1806,13 +1426,13 @@ $(".video_frame iframe")[0].src = path;
   'elementCache' => 
   array (
     '[[*longtitle]]' => 'Какие бывают семена марихуаны и лучшие сорта',
-    '[[*keywords]]' => '',
+    '[[*keywords]]' => 'семена марихуаны, купить семена марихуаны, семена конопли, семена каннабиса, семена канабиса, канабис семена, конопля семена, зерна конопли, семечки конопли, ',
     '[[*description]]' => 'Читайте о том как прорастить семена марихуаны, как выбрать лучшие для дома или улицы и почему все так любят голландские семена.',
     '[[$head]]' => '<head>
 <title>Какие бывают семена марихуаны и лучшие сорта</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
-<meta name="keywords" content="" />
+<meta name="keywords" content="семена марихуаны, купить семена марихуаны, семена конопли, семена каннабиса, семена канабиса, канабис семена, конопля семена, зерна конопли, семечки конопли, " />
 <meta name="description" content="Читайте о том как прорастить семена марихуаны, как выбрать лучшие для дома или улицы и почему все так любят голландские семена." />
 <meta name = "format-detection" content = "telephone=no">
 <link async="async" rel="stylesheet" type="text/css" href="/assets/css/style.css" />
@@ -1851,7 +1471,7 @@ $(".video_frame iframe")[0].src = path;
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -1867,7 +1487,7 @@ $(".video_frame iframe")[0].src = path;
 	<a href="kurenie-marixuanyi.html" title="Курение марихуаны"><i></i> Курение марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -1877,12 +1497,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -1954,7 +1579,22 @@ $(".video_frame iframe")[0].src = path;
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -1965,7 +1605,7 @@ $(".video_frame iframe")[0].src = path;
 	<a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html" title="Оборудование для выращивания"><i></i> Оборудование </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -1975,12 +1615,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -1996,7 +1656,7 @@ $(".video_frame iframe")[0].src = path;
 	<a href="kurenie-marixuanyi.html" title="Курение марихуаны"><i></i> Курение марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -2006,12 +1666,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -2083,7 +1748,22 @@ $(".video_frame iframe")[0].src = path;
 	<a href="semena-marixuanyi.html" title="Семена марихуаны"><i></i> Семена марихуаны </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -2094,7 +1774,7 @@ $(".video_frame iframe")[0].src = path;
 	<a href="oborudovanie-dlya-vyirashhivaniya-marixuanyi.html" title="Оборудование для выращивания"><i></i> Оборудование </a>
 	<ul class="menu-dropdown__list js-dropMenu" style="display: none;">
 		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -2104,12 +1784,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -2139,7 +1839,7 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -2149,12 +1849,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -2228,7 +1933,22 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -2240,7 +1960,7 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -2250,12 +1970,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -2276,7 +2016,7 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="vred-ot-marixuanyi.html" >Вред от марихуаны</a>
+	<a href="vred-ot-marixuanyi.html" >Вред марихуаны</a>
 	
 </li>
 
@@ -2286,12 +2026,17 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="polza-marixuanyi.html" >Польза употребления</a>
+	<a href="polza-marixuanyi.html" >Польза применения </a>
 	
 </li>
 
 <li >
-	<a href="lechenie-marixuanoj.html" >Лечебные свойства марихуаны</a>
+	<a href="lechenie-marixuanoj.html" >Лечебные свойства</a>
+	
+</li>
+
+<li >
+	<a href="sativa-indika.html" >Что такое сатива и индика</a>
 	
 </li>
 
@@ -2365,7 +2110,22 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="sativa-indika.html" >Что такое сатива и индика</a>
+	<a href="kupit-avtoczvetushhie-semena-marixuanyi-v-ukraine.html" >Автоцветущие семена</a>
+	
+</li>
+
+<li >
+	<a href="feminizirovannyie-semena.html" >Феминизированные семена</a>
+	
+</li>
+
+<li >
+	<a href="avtoczvetushhie-feminizirovannyie-semena.html" >Автоцветущие феминизированные</a>
+	
+</li>
+
+<li  class="last">
+	<a href="slabopaxnushhie-sorta-marixuanyi.html" >Слабопахнущие сорта </a>
 	
 </li>
 
@@ -2377,7 +2137,7 @@ $(".video_frame iframe")[0].src = path;
 <hr/>
 	<ul>
 		<li  class="first">
-	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы для марихуаны</a>
+	<a href="lampyi-dlya-vyirashhivaniya-marixuanyi.html" >Лампы и отражатели</a>
 	
 </li>
 
@@ -2387,12 +2147,32 @@ $(".video_frame iframe")[0].src = path;
 </li>
 
 <li >
-	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения для марихуаны</a>
+	<a href="udobreniya-dlya-marixuanyi.html" >Удобрения</a>
+	
+</li>
+
+<li >
+	<a href="ventilyatoryi-i-filtryi.html" >Вентиляторы и фильтры</a>
+	
+</li>
+
+<li >
+	<a href="substratyi-dlya-prorashhivaniya-i-rosta.html" >Субстраты и грунт</a>
+	
+</li>
+
+<li >
+	<a href="emkosti-i-gorshki-dlya-vyirashhivaniya-marixuanyi.html" >Емкости, горшки и другое</a>
+	
+</li>
+
+<li >
+	<a href="sistemyi-poliva.html" >Системы полива</a>
 	
 </li>
 
 <li  class="last">
-	<a href="otrazhateli.html" >Отражатели</a>
+	<a href="ph-metryi-i-priboryi-izmereniya.html" >Терморегуляторы, весы и прочее</a>
 	
 </li>
 
@@ -2405,764 +2185,57 @@ $(".video_frame iframe")[0].src = path;
   </div>
 </nav>
 ',
-    '[[*intro]]' => '',
+    '[[~47]]' => 'chto-takoe-anasha.html',
+    '[[*intro]]' => '<div class="university-intro" style="background: #e6e7e7 url(/assets/images/sok2/11.png) top no-repeat">   <div class="wrapper">     <div class="university-intro-i">     <!--  <h1>пупыпыукпк</h1>       <ul class="university-info"> <li></li> <li></li> <li></li> <li> <a href="#"></a></li> </ul>            <a class="button button_intro" href="chto-takoe-anasha.html"> <span></span> </a>!--> </div>   </div> </div>',
+    '[[Breadcrumb]]' => '<ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li>Семена марихуаны</li></ul>',
+    '[[$bread]]' => '<div  class="breadcrumbs">       <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><ul id="breadcrumb" itemprop="breadcrumb"><li><a href="http://4-20.com.ua/">Все о марихуане</a></li><li>Семена марихуаны</li></ul></div>     </div>',
     '[[*pagetitle]]' => 'Семена марихуаны',
     '[[*introtext]]' => '',
-    '[[$bestuniver]]' => '<!--<section class="tabs">
- <div class="title">
-	Товары и оборудование которые мы предлагаем <br> это лучшее что Вы найтете :
-  </div>
-  <div class="clear">
-	<div class="tabs-names">
-	  <button type="button" class="name">Гроубокс</button>
-	  <button type="button" class="name">Полив системы</button>
-	  <button type="button" class="name">Освещение</button>
-	  <button type="button" class="name">Автоматика</button>
-	  <button type="button" class="name">Вентиляция</button>
-	  <button type="button" class="name">Удобрения</button>
-	  <button type="button" class="name">Гидропонные системы</button>
-	</div>
-	<div class="tabs-contents">
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Гроутент <br> сборно-разборная конструкция</div>
-			  <div class="value">Габариты: 300х300х200 см.</div>
-			</div>
-			<div class="text">
-			  <div class="name">Гроубокс Mammoth Pro <br>(Dark Room) </div>
-			  <div class="value">13\'690.00 грн.<br>
-			  </div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее об товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Система:</div>
-			  <div class="value">Автомат</div>
-			</div>
-			<div class="text">
-			  <div class="name">Особенности работы:</div>
-			  <div class="value">Вожможность ручного полива <br>Возможность автоматизированной настройки</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Лампы:</div>
-			  <div class="value">ДНАТ</div>
-			</div>
-			<div class="text">
-			  <div class="name">Период работы:</div>!
-			  <div class="value">12 часов беспрерывно<br>20 часов беспрерывно</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Авто:</div>
-			  <div class="value">Авто</div>
-			</div>
-			<div class="text">
-			  <div class="name">Авто:</div>
-			  <div class="value">Авто</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="/kunst.html">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Схема работы:</div>
-			  <div class="value">По установленному времени</div>
-			</div>
-			<div class="text">
-			  <div class="name">Дополнительно:</div>
-			  <div class="value">Настрочка контроля температуры<br>Настройка контроля влажности</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Для гидропоники:</div>
-			  <div class="value">Значительное улучшение роста</div>
-			</div>
-			<div class="text">
-			  <div class="name">Для выращивания в открытом грунте:</div>
-			  <div class="value">От выредителей, перепадов температуры, YF и другие</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Габариты:</div>
-			  <div class="value">От 2 до 10 метров</div>
-			</div>
-			<div class="text">
-			  <div class="name">Потребление энергии:</div>
-			  <div class="value">220 В</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Язык обучения:</div>
-			  <div class="value">Английский</div>
-			</div>
-			<div class="text">
-			  <div class="name">Срок подачи документов:</div>
-			  <div class="value">1 июня по 15 августа<br>1 декабря - 15 февраля</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее</a>
-		  </div>
-		</article>
-	  </div>
-	</div>
-  </div>
-</section>
-
-!-->',
-    '[[$problems]]' => '<div class="problems">
-<div class="wrapper">
-<div class="problems__title">Проблемы и последствия<br> курения марихуаны</div>
-<div class="problems-r"><ol class="numlist numlist_problems">
-<li>Нарушенная координация направленных действий и движений;</li>
-<li>Увеличение времени реагирования на сказанное, увиденное, услышанное;</li>
-<li>Значительно ухудшение или потеря кратковременной памяти;</li>
-<li>Упадок остроты зрения, а так же деструктив цветопередачи;</li>
-<li>Возможно отрофирование сетчатки и зрительного нерва.</li>
-</ol></div>
-</div>
-</div>
-<div class="problems problems_solving">
-<div class="wrapper">
-<div class="problems__title problems__title_solving">Возможности применения марихуаны <br> в терапевтических или лечебных целях</div>
-<div class="problems-r"><ol class="numlist numlist_problems-solving">
-<li>Марихуана улучшает аппетит и качество работы вкусовых рецепторов у больных раком.</li>
-<li>Курение марихуаны значительно снижает симптомы нейропатической боли.</li>
-<li>Экстракт каннабиса может снимать болевой шок и симптомы после сложных операции.</li>
-<li>Марихуана способствует частичному снятию или облегчению симптома  спастичности.</li> 
-<li>Экстракт каннабиса используется в спрее «Sativex» - для лечения больных с рассеянным склерозом. Одобрен в Соединенном Королевстве.</li>
-<li>Активные вещества в составе конопли, способствуют остановке роста рака простаты.</li>
-<li>Применение марихуаны может защищать людей преклонного возвраста от остеопороза.</li>
-<li>Каннабис облегчает симптомы аллергического контактного  дерматита.</li>
-<li>Курение марихуаны снимает посттравматический синдром и зажимы.</li>
-</ol></div>
-</div>
-</div>
-<div class="problems">
-<div class="wrapper">
-<div class="problems_vid"><noindex><iframe rel="nofollow"src="https://www.youtube.com/embed/BYqCl4-AOYQ" width="500" height="350"frameborder="0"></iframe></noindex></div>
-<div class="problems-r">
-<ul>
-<li style="line-height: 22px;    padding-left: 50px;"> В Украине - марихуана является незаконным наркотиком. Выращивание, курение и распространение преследуется и карается законодательством Украины! <br /><br /></li>
-<li style="line-height: 22px;    padding-left: 50px;">Несмотря на то что существуют страны в которых лечебная марихуана легализированна, оценить ее пользу, смогут по достоинству действительно те кому она нужна в лечебных целях. Существуют самые различные мнения относительно легального статуса  конопли.  Ряд ученых, а также пациенты, особенно те из них, что страдают от хронической боли, могут  видеть плюсы и минусы медицинского применения конопли более объективно.
- <br />
-В большинстве стран мира производство марихуаны является незаконным. <p class="justy">Это означает, что ее выращивание и производство скрыто от глаз общественности. В отличие от законных лекарств  или продуктов  питания, здесь отсутствует общественный контроль, зато популярен черный рынок сбыта который стимулирет продажу более тяжелых наркотив. В отличии от такой ситуации, страны где конопля легалезированна и продается в специализированных местах, продажа тяжелых наркотических препаратов практически искоренена или отсутсвует вовсе. </p> </li>
-</ul></div>
-</div>
+    '[[$xxx]]' => '<div class="justy">
+<p style="font-size: 24px; color: #fd2901; text-align: center;">!!! ВНИМАНИЕ !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Информация представленная на ресурсе 4-20.com.ua предназначена исключительно для совершеннолетних! Лица не достигшие 18 лет обязаны покинуть страницы данного ресурса, и в магазине обслуживаться не будут !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Вся информация описанная на сайте, предоставляется исключительно в научно-образовательных целях и несет только ознакомительный характер! Мы никого не призываем к совершению незаконных действий!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Ответственность за неправомерное использование любых товаров приобретенных у нас, лежит исключительно на потребителе продукции!</p>
 </div>',
-    '[[~5]]' => 'sativa-indika.html',
-    '[[$bloks]]' => '
-<section class="how-work">
-  <div class="wrapper">
-	<div class="index-title">Как мы работаем?</div>
-	<ul class="how-work__list">
-	  <li><img class="how-work__ico" src="/assets/img/hw1.png" alt="">Вы оформляете заказ</li>
-	  <li><img class="how-work__ico" src="/assets/img/hw2.png" alt="">Связываемся с Вами для уточнения деталей</li>
-	  <li><img class="how-work__ico" src="/assets/img/hw3.png" alt="">Предоставляем реквизиты для оплаты</li>
-	  <li><img class="how-work__ico" src="/assets/img/hw4.png" alt="">Отправляем Вам посылку</li>
-	</ul>
-	<a class="button button_hwmore" href="/about.html"><span>Детальней ознакомиться</span></a>
-  <!--<ul class="facts">
-	<li>
-	  <div class="facts-b facts-1">
-		<div class="facts__title">Лутьшие сорта</div>
-	  </div>
-	  <div class="facts-hover facts-hover_1">
-		<div class="facts__title facts__title_hover">Лутьшие сорта</div>
-		<div class="facts__ico f1">&nbsp;</div>
-		<a class="button button_apply" href="/contact.html"><span>Подробнее</span></a></div>
-	</li>
-	<li>
-	  <div class="facts-b facts-2">
-		<div class="facts__title">8 лет на рынке</div>
-	  </div>
-	  <div class="facts-hover facts-hover_1">
-		<div class="facts__title facts__title_hover">8 лет на рынке</div>
-		<div class="facts__ico f2">&nbsp;</div>
-		<a class="button button_apply" href="/reports.html"><span>Подробнее</span></a></div>
-	</li>
-	<li>
-	  <div class="facts-b facts-3">
-		<div class="facts__title">Лучшие производители</div>
-	  </div>
-	  <div class="facts-hover facts-hover_1">
-		<div class="facts__title facts__title_hover">Лучшие производители</div>
-		<div class="facts__ico f3">&nbsp;</div>
-		<a class="button button_apply" href="sativa-indika.html"><span>Подробнее</span></a></div>
-	</li>
-	<li>
-	  <div class="facts-b facts-4">
-		<div class="facts__title">Лучшие семена</div>
-	  </div>
-	  <div class="facts-hover facts-hover_1">
-		<div class="facts__title facts__title_hover">Лучшие семена</div>
-		<div class="facts__ico f4">&nbsp;</div>
-		<a class="button button_apply" href="/reports.html"><span>Подробнее</span></a></div>
-	</li>
-  </ul>!-->
-  </div>
-</section>',
-    '[[$slider_text]]' => '<div class="slider-main-wrapper text-wrapper">
-    <section>
-        <p class="block_header">Отзывы студентов из Австрии</p>
-        <div class="slick-comment-slider">
-
-			  <div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="http://www.youtube.com/embed/emE6Lch3XBE">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/social_4.jpg" alt=""/>
-                        <p class="block_header_h4">Ольга Давыдова</p>
-                        <hr/>
-                        <p>Поступила: Международная экономика (магистратура)</p>
-                        <hr/>
-                        <p>Венский университет</p>
-                    </div>
-                    <p>Моя самостоятельная подача документов в Венский университет увенчалась отказом. Я потеряла пол года времени и решила больше не рисковать, поэтому обратилась в Education in Vienna. Через 3 месяца после передачи документов компании я получила приглашение на магистратуру...</p>
-                </div>
-            </div>
-
-            <div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="https://www.youtube.com/embed/JVFd3DE5m34">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/4-84.jpg" alt=""/>
-                        <p class="block_header_h4">Ирина Сидорова, 17 лет</p>
-                        <hr/>
-                        <p>Поступила: Международная экономика</p>
-                        <hr/>
-                        <p>Венский экономический университет</p>
-                    </div>
-                    <p>...Так как на момент поступления мне было только 17 лет, мы решили не рисковать и обратиться в образовательное агентство. Из трех компаний мы выбрали Education in Vienna. Нам быстро оформили все документы и уже в сентябре я получила приглашение из двух университетов: Венского Главного и Венского экономического...</p>
-                </div>
-            </div>
-
-            <div class="slide">
-                <div class="slide-info">
-                    <img src="assets/img/2-194.jpg" alt=""/>
-                    <p class="block_header_h4">Екатерина Захарова, 19 лет</p>
-                    <hr/>
-                    <p>Поступила: Лечебное дело</p>
-                    <hr/>
-                    <p>Венский медицинский университет</p>
-                </div>
-                <div class="slide-text">
-                    <p>Было много опасений, в основном связанных со временем, незнанием языка и непониманием всей процедуры оформления документов. На момент поступления в Вену я уже закончила 1 год Медицинского университета в Москве и продолжала обучение на втором курсе, поэтому я очень боялась, что потеряю много времени, если буду делать все сама. В итоге, уже через 6 недель после отправки документов в Вену, я получила приглашение из Венского медицинского университета! Моей радости не было предела! :) Документы на визу рассматривали долго - целых 10 недель. Но я, слава Богу, успела к началу учебного семестра, записалась на курсы и готовлюсь к стационарной учебе в Меде. Говорят, что учиться сложно, но очень интересно. Посмотрим! </p>
-                </div>
-            </div>
-
-			<div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="http://www.youtube.com/embed/AaIBTIx02DQ">
-                    </iframe>
-                </div>
-			    <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/social.jpg" alt=""/>
-                        <p class="block_header_h4">Полина Ковалевская, 21 год</p>
-                        <hr/>
-                        <p>Поступила: Публицистика (магистратура)</p>
-                        <hr/>
-                        <p>Венский Университет</p>
-                    </div>
-                    <p>Я поступила в Вену после окончания учебы в Киеве по специальности "Реклама и PR". Так как мой парень год назад приехал сюда учиться и у него с поступлением все прошло успешно, сомнений в выборе компании у меня не было. Сейчас мы переезжаем в квартиру и у нас все хорошо:) </p>
-                </div>
-            </div>
-
-			<div class="slide">
-                <div class="slide-info">
-                    <img src="assets/img/2-193.jpg" alt=""/>
-                    <p class="block_header_h4">Анастасия Фескова, 22 года</p>
-                    <hr/>
-                    <p>Поступила: Международная экономика</p>
-                    <hr/>
-                    <p>Венский университет</p>
-                </div>
-                <div class="slide-text">
-                    <p>Я поступала вместе с четырьмя одногрупниками из Киевского Экономического Университета. Мы переживали почти по любому поводу, особенно боялись столкнуться с мошенниками и потерять такую сумму денег. Настораживало, что другая фирма запросила в три раза больше! По факту мы получили даже больше чем расчитывали. Через несколько месяцев с разницей в 1-2 недели все получили визы, нас встретили по приезде, общежитие оказалось таким как на фотографиях, в течение первых недель нам помогли со всеми нужными документами и регистрациями для начала учебы. И самое главное, даже после выполнения всех оговоренных условий, нам продолжали помогать по разным вопросам еще долгое время.</p>
-                </div>
-            </div>
-
-            <div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="http://www.youtube.com/embed/ix8IXeNhx28">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/6-80.jpg" alt=""/>
-                        <p class="block_header_h4">Илья Давыденко, 19 лет</p>
-                        <hr/>
-                        <p>Поступил: Стоматология</p>
-                        <hr/>
-                        <p>Венский медицинский университет</p>
-                    </div>
-                    <p>Факт того, что я уже нахожусь в Вене по студенческой визе и учусь в Венском медицинском университете говорит о том, что организация Education in Vienna знает, что делает! Самостоятельно я, наверное, не справился бы. </p>
-                </div>
-            </div>
-
-            <div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="https://www.youtube.com/embed/jgDFawmvt1A">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/2-83.jpg" alt=""/>
-                        <p class="block_header_h4">Полина Филиппенко, 17 лет</p>
-                        <hr/>
-                        <p>Поступила: История</p>
-                        <hr/>
-                        <p>Венский университет</p>
-                    </div>
-                    <p>Родители уговорили меня поступать в Австрию в 11-м классе. Сначала мы с родителями пытались оформить все документы самостоятельно, но в процессе поняли, что все очень муторно и сложно, поэтому решили обратиться в компанию. Приглашение мне прислали уже через 8 недель, а с оформлением визы проблем не возникло...
-                </div>
-            </div>
-
-			<div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="http://www.youtube.com/embed/0OUuTegTBL0">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/3-82.jpg" alt=""/>
-                        <p class="block_header_h4">Екатерина Кузина, 18 лет</p>
-                        <hr/>
-                        <p>Поступила: Экономика и право</p>
-                        <hr/>
-                        <p>Венский экономический университет</p>
-                    </div>
-                    <p>Для поступления сперва я рассматривала Германию, но я не успела оформить документы до 31 мая, потому что аттестат мне выдали только в июне. Я не хотела учиться в России и хотела уехать сразу после школы, поэтому я выбрала Австрию. Мы очень боялись пролететь, но у нас все получилось и я уже учусь в Вене!</p>
-                </div>
-            </div>
-
-        </div>
-    </section>
-</div>
-<script type="text/javascript">
-    console.log(\'header\');
-    $(document).ready(function(){
-        if ($(\'.slick-comment-slider\').length) {
-            $(\'.slick-comment-slider\').slick({
-                infinite: true,
-                dots: true
-            });
-        }
-    });
-</script>',
-    '[[$form_request_consult]]' => '<div class="main-form-container request_consult">
-    <form method="post" action="request_consult">
-        <div class="container-main">
-        <p class="block_header rel-con">Бесплатная консультация </p>
-            <p class="form-desc">Заполните форму и мы перезвоним Вам в течение 1 рабочего дня!</p>
-            <div class="container-row inputs">
-                <div>
-                    <label for="name"><span class="strong uppercase">Ваше имя</span></label>
-                    <input id="name" type="text"/></div>
-                <div>
-                    <label for="phone_num"><span class="strong uppercase">Ваш телефон</span></label>
-                    <input id="phone_num" type="text"/></div>
-            </div>
-         <div class="container-row">
-                <span class="strong uppercase">Я хочу </span>
-                <input id="6m" type="radio" name="request_year"/>
-                <label for="6m">6 месяцев</label>
-                <input id="12m" type="radio" name="request_year"/>
-                <label for="12m">1 года</label>
-                <input id="24m" type="radio" name="request_year"/>
-                <label for="24m">2 лет</label>
-            </div>
-            <div class="rel-con">
-                <p><span class="strong">Для  Вам понадобится только </span></p>
-                <p><span class="strong">Все остальные документы мы оформим за Вас!</span></p>
-            </div>
-            <hr class="desc_blue"/>
-            <input type="submit" value="Отправить заявку" class="rel-con"/>
-        </div>
-    </form>
-</div>',
-    '[[getResources?
-&tpl=`new`
-&parents=`4`
-&showHidden=`1`
-&limit=`3`
-&includeTVs=`1` 
-&processTVs=`1`
-&includeTVList=`img`
-&includeContent=`1`
-&tvPrefix=``
-&processTVList=`img`
-
-]]' => '<li>
-    <a class="col3__title" href="sativa-indika.html">
-        <img class="col3__img" src="" alt="Сатива индика">
-    </a>
-
-    <div class="col3__info">
-        <div class="news-meta">
-            <div class="news-meta__date">03</div>
-            <div class="news-meta__month">12
-                <div class="news-meta__year">2015</div>
-            </div>
-        </div>
-        <a class="col3__title" href="sativa-indika.html">Сатива индика</a>
-        <div class="col3__text"><p></p></div>
-    </div>
-</li>',
-    '[[*id]]' => 4,
-    '[[~4]]' => 'semena-marixuanyi.html',
-    '[[$sendmail]]' => '[[!FormIt?
-   &formName=`sendmail`
-   &hooks=`spam,email,hook_FormIt_megaplanCreateClient,redirect`
-   &emailTpl=`sendEmailTpl_email`
-   &emailTo=`kim_55@bigmir.net`
-   &emailSubject=`Подписка на новости с главной http://4-20.com.ua/`
-   &redirectTo=`359`
-   &validate=`e_email:email:required`
-   &submitVar=`e-submit`
-]]
-<section class="send-mail-b send-mail-b_index" id="email" >
-        <div class="send-mail-b__title">
-            Отправь нам свою почту
-        </div>
-        <div class="send-mail-b__subtitle">
-            и будь вкурсе всех новостей связаных с Коноплей в Украине
-        </div>
-        <form name="email" class="send-mail-b__form cntmm" method="post" action="semena-marixuanyi.html#email">
-		<span class="error">[[!+fi.error.e_email]]</span>
-            <input name="e_email" id="emailz" class="send-mail-b__input" type="text" placeholder="Электронная почта" value="[[!+fi.email]]">
-            <input class="submit_button button button_apply js-telefon" name="e-submit" type="submit" value="Отправить">
-         </form>
-    </section>',
-    '[[$form_main]]' => '[[!FormIt?
-   &formName=`form_main`
-   &hooks=`spam,email,hook_FormIt_megaplanCreateClient,redirect`
-   &emailTpl=`sendEmailTpl_main`
-   &emailTo=`kim_55@bigmir.net`
-   &emailSubject=`Оценка шансов на поступление http://4-20.com.ua/`
-   &redirectTo=`358`
-   &validate=`u_name:required,u_phone:required,u_name:required,u_email:email:required,u_text:required:stripTags`
-   &submitVar=`form-uslugi`
-]]
-[[!+fi.error_message:notempty=`<p>[[!+fi.error_message]]</p>`]]
-
-
-
-
-
-<form class="apply-form js-apply-form" action="semena-marixuanyi.html#form" method="post" id="form">
-<span class="error">[[!+fi.error.u_name]]</span>
-<div class="apply-form__fields"><label>Фамилия, Имя, Отчество</label> <input id="name" class="apply__input js-name" type="text" name="u_name" /></div>
-
-<span class="error">[[!+fi.error.u_phone]]</span>
-<div class="apply-form__fields"><label>Контактный телефон или Skype</label> <input id="phone" class="apply__input js-phone_skype" type="text" name="u_phone" /></div>
-
-<span class="error">[[!+fi.error.u_email]]</span>
-<div class="apply-form__fields"><label>Электронная почта</label> <input id="memail" class="apply__input js-email" type="text" name="u_email" /></div>
-
-<span class="error">[[!+fi.error.u_text]]</span>
-<div class="apply-form__fields"><label>Ваш вопрос</label><textarea id="message" class="apply__text js-text" name="u_text"></textarea></div>
-<input name="form-uslugi" type="submit" value="Отправить заявку" class="button button_apply  submit_button button button_apply  " />
-</form>',
-    '[[$inform]]' => '<div class="wrapper">
-  <section class="reviews reviews_index">
-<div class="index-title">
- <span>Видео о марихуане</span>
-</div>
-<div class="reviews-content reviews-content_index js-reviews-content js-reviews-1" style="display: block;"> <div class="reviews__video reviews__video_index">
-<object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/BYqCl4-AOYQ">
-
-
-
- <param name="movie" value="https://www.youtube.com/v/BYqCl4-AOYQ">
- </object>
- </div>
- <div class="reviews-i reviews-i_index">
-<div class="reviews-avatar reviews-avatar_index"><img title="Как растёт конопля-от начала и до конца от семени до шишки." width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Как растёт конопля-от начала и до конца от семени до шишки."><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
-</div>
-<div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Как растёт конопля - от начала и до конца, от семени до шишки. </div>
- <div class="reviews__text"><p>Пятиминутное видео о росте марихуаны. От зарождения в зернышке и до самой посленей стадии перед сбором урожая.</p>
-<p>Комплексная, многоракурсная съемка, ускоренная после в десятки раз, открывает новые границы познания растения.</p></div>
-</div>
- </div>
-</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-2" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/AOQdqBwp1EM">
- <param name="movie" value="https://www.youtube.com/v/AOQdqBwp1EM">
- </object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Как растёт конопля-от начала и до конца от семени до шишки." width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Как растёт конопля-от начала и до конца от семени до шишки."><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
-  </div>
-   <div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Бесценное растение конопля.</div>
- <div class="reviews__text"><p>Чем она так любима всеми миру и почему за марихуану ведеться такая ежедневная страншная борьба.</p>
-<p>Мнения приверженцев и сторонников. Интересные факты о бесценности каннабиса. Польза, вред и незаменимые элементы - обо всем этом и многом другом в видео.</p></div>
- </div>
-</div>
-</div>
-<div class="reviews-content reviews-content_index js-reviews-content js-reviews-3" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/NfH8zwz3Lio">
-<param name="movie" value="https://www.youtube.com/v/NfH8zwz3Lio">
-</object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="и"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
- </div>
-  <div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Марихуана - лекарство от более чем 50 болезней. </div>
- <div class="reviews__text"><p>Лечебные свойства конопли неоспоримы. Сотни ежедневных исследований вновь и вновь доказывают это.</p>
-<p>Запреты исследований ограничивают возможности медецины, но даже те исцеляющие свойства конопли которые найдены сегодня делают это растение по истине незаменимым.</p></div>
- </div>
-</div>
-</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-4" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/YzF6LhKJMr8">
-<param name="movie" value="https://www.youtube.com/v/YzF6LhKJMr8">
-</object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Обучение в Вене. Отзыв от студентки Ирины Сидоровой" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Обучение в Вене. Отзыв от студентки Ирины Сидоровой"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
- </div>
- <div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Лучший гровинг</div>
- <div class="reviews__text"><p>Советы от ТОП экспертов по гровингу конопли из Амстердама и Канады. Бесценные сектеры и хитрости выращивания.</p>
-<p>Подробные инструкции и методы преспособления. Узнайте как получить максимум пользы уже с первого раза.</p></div>
- </div>
-</div>
-</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-5" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/BYqCl4-AOYQ">
-<param name="movie" value="https://www.youtube.com/v/BYqCl4-AOYQ">
-</object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Венский университет отзыв Екатерины Кузиной" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Венский университет отзыв Екатерины Кузиной"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
- </div>
- <div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Как растёт конопля-от начала и до конца от семени до шишки. </div>
- <div class="reviews__text"><p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p>
-<p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p></div>
- </div>
-</div>
-</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-6" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/BYqCl4-AOYQ">
-<param name="movie" value="https://www.youtube.com/v/BYqCl4-AOYQ">
-</object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Образование в Австрии - отзыв студента Ольги Давыдовой" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Образование в Австрии - отзыв студента Ольги Давыдовой"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
- </div>
-<div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Как растёт конопля-от начала и до конца от семени до шишки. </div>
- <div class="reviews__text"><p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p>
-<p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p></div>
- </div>
-</div>
-</div>
-<div class="reviews-cycle-wrapper">
-  <ul class="cycle-slideshow reviews-cycle reviews-cycle_index js-reviews-cycle" data-cycle-fx="carousel" data-cycle-timeout="0" data-cycle-carousel-visible="6" data-cycle-next=".reviews-cycle-next" data-cycle-prev=".reviews-cycle-prev" data-cycle-slides="> li" style="position: relative; overflow: hidden; width: 900px;"><li data-tab=".js-reviews-1" class="is-active cycle-slide cycle-sentinel" style="top: 0px; left: 0px; opacity: 1; z-index: 100; position: static; visibility: hidden; display: block;"><img src="/assets/images/prev/v.png" alt="" style="visibility: hidden;"></li><div class="cycle-carousel-wrap" style="margin: 0px; padding: 0px; top: 0px; position: absolute; white-space: nowrap; left: -705px;"><li data-tab=".js-reviews-1" class="is-active cycle-slide" style="top: 0px; left: 0px; opacity: 1; visibility: visible; z-index: 100; display: inline-block; position: static;"><img src="/assets/img/1-78.jpg" alt=""></li><li data-tab=".js-reviews-2" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 99; display: inline-block; position: static;"><img src="/assets/img/097.png" alt=""></li><li data-tab=".js-reviews-3" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 97; display: inline-block; position: static;"><img src="/assets/img/098.png" alt=""></li><li data-tab=".js-reviews-4" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 96; display: inline-block; position: static;"><img src="/assets/img/099.png" alt=""></li><li data-tab=".js-reviews-5" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 95; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-1" class="is-active cycle-slide cycle-slide-active" style="top: 0px; left: 0px; opacity: 1; visibility: visible; z-index: 100; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-2" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 99; display: inline-block; position: static;"><img src="/assets/img/097.png" alt=""></li><li data-tab=".js-reviews-3" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 97; display: inline-block; position: static;"><img src="/assets/img/098.png" alt=""></li><li data-tab=".js-reviews-4" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 96; display: inline-block; position: static;"><img src="/assets/img/099.png" alt=""></li><li data-tab=".js-reviews-5" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 95; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-1" class="is-active cycle-slide" style="top: 0px; left: 0px; opacity: 1; visibility: visible; z-index: 100; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-2" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 99; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-3" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 97; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-4" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 96; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-5" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 95; display: inline-block; position: static;"><img src="14-88.jpg" alt=""></li></div></ul>
- <div class="reviews-cycle-next"></div>
- <div class="reviews-cycle-prev"></div>
-</div>
-</section>
-
-<!--	<section class="news_index">
- <div class="index-title"> <span>
-<a rel="nofollow" href="/news.html">Наши новости</a>    </span> </div>
- <ul class=\'col3\'>
-<li>
-    <a class="col3__title" href="sativa-indika.html">
-        <img class="col3__img" src="" alt="Сатива индика">
-    </a>
-
-    <div class="col3__info">
-        <div class="news-meta">
-            <div class="news-meta__date">03</div>
-            <div class="news-meta__month">12
-                <div class="news-meta__year">2015</div>
-            </div>
-        </div>
-        <a class="col3__title" href="sativa-indika.html">Сатива индика</a>
-        <div class="col3__text"><p></p></div>
-    </div>
-</li>
- </ul>
-</section> !-->
-[[!FormIt?
-   &formName=`sendmail`
-   &hooks=`spam,email,hook_FormIt_megaplanCreateClient,redirect`
-   &emailTpl=`sendEmailTpl_email`
-   &emailTo=`kim_55@bigmir.net`
-   &emailSubject=`Подписка на новости с главной http://4-20.com.ua/`
-   &redirectTo=`359`
-   &validate=`e_email:email:required`
-   &submitVar=`e-submit`
-]]
-<section class="send-mail-b send-mail-b_index" id="email" >
-        <div class="send-mail-b__title">
-            Отправь нам свою почту
-        </div>
-        <div class="send-mail-b__subtitle">
-            и будь вкурсе всех новостей связаных с Коноплей в Украине
-        </div>
-        <form name="email" class="send-mail-b__form cntmm" method="post" action="semena-marixuanyi.html#email">
-		<span class="error">[[!+fi.error.e_email]]</span>
-            <input name="e_email" id="emailz" class="send-mail-b__input" type="text" placeholder="Электронная почта" value="[[!+fi.email]]">
-            <input class="submit_button button button_apply js-telefon" name="e-submit" type="submit" value="Отправить">
-         </form>
-    </section>
-<!--<section class="index-form clear">
-<div class="advantage">
- <div class="advantage__title">Факт о марихуане</div>
- <div class="services-adv-in">
-<div class="services-adv__top"><span class="services-adv__num">01</span> <span class="services-adv__title services-adv__title_index">В период движения трезвенников в конце 19 века марихуана рекомендовалась как заменитель алкоголя. 
-</span></div>
-<p>Причиной для этого было то, что в отличие от злоупотребления алкоголем, употребление марихуаны не приводило к насилию в семье.</p>
- </div>
- <div class="services-adv-in">
-<div class="services-adv__top"><span class="services-adv__num">02</span> <span class="services-adv__title services-adv__title_index"> До того как ее запретили, конопля была одним из главных продуктов фермерского производства в ранней Америке.  </span></div>
-<p>Первые два проекта американской Декларации Независимости были написаны на бумаге, сделанной из конопли.</p>
- </div>
- <div class="services-adv-in">
-<div class="services-adv__top"><span class="services-adv__num">03</span> <span class="services-adv__title services-adv__title_index"> В 2007 году в США было проведено около 900 тысяч арестов за преступления, связанные с марихуаной. </span></div>
-<p>Около 90%  арестов было произведено всего лишь за хранение марихуаны.Во всем мире около 162 миллионов взрослых людей употребляют марихуану не реже одного раза в год.</p>
- </div>
- <a class="button button_hwmore" href=""> <span>Смотреть больше фактов</span> </a></div>  <div class="apply">
-<div class="apply__title">
- Вопросы, Заказы, Предложения 
-</div>
-[[!FormIt?
-   &formName=`form_main`
-   &hooks=`spam,email,hook_FormIt_megaplanCreateClient,redirect`
-   &emailTpl=`sendEmailTpl_main`
-   &emailTo=`kim_55@bigmir.net`
-   &emailSubject=`Оценка шансов на поступление http://4-20.com.ua/`
-   &redirectTo=`358`
-   &validate=`u_name:required,u_phone:required,u_name:required,u_email:email:required,u_text:required:stripTags`
-   &submitVar=`form-uslugi`
-]]
-[[!+fi.error_message:notempty=`<p>[[!+fi.error_message]]</p>`]]
-
-
-
-
-
-<form class="apply-form js-apply-form" action="semena-marixuanyi.html#form" method="post" id="form">
-<span class="error">[[!+fi.error.u_name]]</span>
-<div class="apply-form__fields"><label>Фамилия, Имя, Отчество</label> <input id="name" class="apply__input js-name" type="text" name="u_name" /></div>
-
-<span class="error">[[!+fi.error.u_phone]]</span>
-<div class="apply-form__fields"><label>Контактный телефон или Skype</label> <input id="phone" class="apply__input js-phone_skype" type="text" name="u_phone" /></div>
-
-<span class="error">[[!+fi.error.u_email]]</span>
-<div class="apply-form__fields"><label>Электронная почта</label> <input id="memail" class="apply__input js-email" type="text" name="u_email" /></div>
-
-<span class="error">[[!+fi.error.u_text]]</span>
-<div class="apply-form__fields"><label>Ваш вопрос</label><textarea id="message" class="apply__text js-text" name="u_text"></textarea></div>
-<input name="form-uslugi" type="submit" value="Отправить заявку" class="button button_apply  submit_button button button_apply  " />
-</form>
-</div> </section>!-->
-</div>',
-    '[[$social]]' => '<div class="wrapper">Рассказать друзьям
+    '[[$social]]' => '<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
-</div></div>',
+</div></div>!-->
+
+
+</div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>',
     '[[$footer]]' => '<footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
@@ -3198,8 +2271,10 @@ $(".video_frame iframe")[0].src = path;
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>',
+    '[[*id]]' => 4,
+    '[[~4]]' => 'semena-marixuanyi.html',
     '[[$forms]]' => '[[#!FormIt?
    &formName=`forms1`
    &hooks=`email,hook_FormIt_megaplanCreateClient,redirect`
@@ -3373,11 +2448,11 @@ $(".video_frame iframe")[0].src = path;
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="semena-marixuanyi.html">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -3389,6 +2464,9 @@ $(".video_frame iframe")[0].src = path;
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -3433,14 +2511,14 @@ $(".video_frame iframe")[0].src = path;
 ',
     '[[$js]]' => '<script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -3461,7 +2539,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -3709,7 +2787,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -3751,7 +2829,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -3854,8 +2932,16 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
-',
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
+
+</script>',
   ),
   'sourceCache' => 
   array (
@@ -3965,7 +3051,7 @@ $(".video_frame iframe")[0].src = path;
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -4007,7 +3093,7 @@ $(".video_frame iframe")[0].src = path;
 						<a rel="nofollow" data-num="+00000000">+7 4000000000</a>
 					</div>
                 </div>!-->
-                <!--<a class="button phone-call" href="#" rel="nofollow">Обратный звонок</a>!--> 
+               <!-- <a class="button phone-call" href="#" rel="nofollow">Заказать</a>!-->
             </div>
         </div>
     </div>
@@ -4191,386 +3277,26 @@ $(".video_frame iframe")[0].src = path;
           'is_stream' => true,
         ),
       ),
-      'bestuniver' => 
+      'bread' => 
       array (
         'fields' => 
         array (
-          'id' => 33,
+          'id' => 31,
           'source' => 1,
           'property_preprocess' => false,
-          'name' => 'bestuniver',
+          'name' => 'bread',
           'description' => '',
           'editor_type' => 0,
           'category' => 0,
           'cache_type' => 0,
-          'snippet' => '<!--<section class="tabs">
- <div class="title">
-	Товары и оборудование которые мы предлагаем <br> это лучшее что Вы найтете :
-  </div>
-  <div class="clear">
-	<div class="tabs-names">
-	  <button type="button" class="name">Гроубокс</button>
-	  <button type="button" class="name">Полив системы</button>
-	  <button type="button" class="name">Освещение</button>
-	  <button type="button" class="name">Автоматика</button>
-	  <button type="button" class="name">Вентиляция</button>
-	  <button type="button" class="name">Удобрения</button>
-	  <button type="button" class="name">Гидропонные системы</button>
-	</div>
-	<div class="tabs-contents">
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Гроутент <br> сборно-разборная конструкция</div>
-			  <div class="value">Габариты: 300х300х200 см.</div>
-			</div>
-			<div class="text">
-			  <div class="name">Гроубокс Mammoth Pro <br>(Dark Room) </div>
-			  <div class="value">13\'690.00 грн.<br>
-			  </div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее об товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Система:</div>
-			  <div class="value">Автомат</div>
-			</div>
-			<div class="text">
-			  <div class="name">Особенности работы:</div>
-			  <div class="value">Вожможность ручного полива <br>Возможность автоматизированной настройки</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Лампы:</div>
-			  <div class="value">ДНАТ</div>
-			</div>
-			<div class="text">
-			  <div class="name">Период работы:</div>!
-			  <div class="value">12 часов беспрерывно<br>20 часов беспрерывно</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Авто:</div>
-			  <div class="value">Авто</div>
-			</div>
-			<div class="text">
-			  <div class="name">Авто:</div>
-			  <div class="value">Авто</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="/kunst.html">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Схема работы:</div>
-			  <div class="value">По установленному времени</div>
-			</div>
-			<div class="text">
-			  <div class="name">Дополнительно:</div>
-			  <div class="value">Настрочка контроля температуры<br>Настройка контроля влажности</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Для гидропоники:</div>
-			  <div class="value">Значительное улучшение роста</div>
-			</div>
-			<div class="text">
-			  <div class="name">Для выращивания в открытом грунте:</div>
-			  <div class="value">От выредителей, перепадов температуры, YF и другие</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Габариты:</div>
-			  <div class="value">От 2 до 10 метров</div>
-			</div>
-			<div class="text">
-			  <div class="name">Потребление энергии:</div>
-			  <div class="value">220 В</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Язык обучения:</div>
-			  <div class="value">Английский</div>
-			</div>
-			<div class="text">
-			  <div class="name">Срок подачи документов:</div>
-			  <div class="value">1 июня по 15 августа<br>1 декабря - 15 февраля</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее</a>
-		  </div>
-		</article>
-	  </div>
-	</div>
-  </div>
-</section>
-
-!-->',
+          'snippet' => '<div  class="breadcrumbs">       <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">[[Breadcrumb]]</div>     </div>',
           'locked' => false,
           'properties' => 
           array (
           ),
           'static' => false,
           'static_file' => '',
-          'content' => '<!--<section class="tabs">
- <div class="title">
-	Товары и оборудование которые мы предлагаем <br> это лучшее что Вы найтете :
-  </div>
-  <div class="clear">
-	<div class="tabs-names">
-	  <button type="button" class="name">Гроубокс</button>
-	  <button type="button" class="name">Полив системы</button>
-	  <button type="button" class="name">Освещение</button>
-	  <button type="button" class="name">Автоматика</button>
-	  <button type="button" class="name">Вентиляция</button>
-	  <button type="button" class="name">Удобрения</button>
-	  <button type="button" class="name">Гидропонные системы</button>
-	</div>
-	<div class="tabs-contents">
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Гроутент <br> сборно-разборная конструкция</div>
-			  <div class="value">Габариты: 300х300х200 см.</div>
-			</div>
-			<div class="text">
-			  <div class="name">Гроубокс Mammoth Pro <br>(Dark Room) </div>
-			  <div class="value">13\'690.00 грн.<br>
-			  </div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее об товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Система:</div>
-			  <div class="value">Автомат</div>
-			</div>
-			<div class="text">
-			  <div class="name">Особенности работы:</div>
-			  <div class="value">Вожможность ручного полива <br>Возможность автоматизированной настройки</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Лампы:</div>
-			  <div class="value">ДНАТ</div>
-			</div>
-			<div class="text">
-			  <div class="name">Период работы:</div>!
-			  <div class="value">12 часов беспрерывно<br>20 часов беспрерывно</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Авто:</div>
-			  <div class="value">Авто</div>
-			</div>
-			<div class="text">
-			  <div class="name">Авто:</div>
-			  <div class="value">Авто</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="/kunst.html">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Схема работы:</div>
-			  <div class="value">По установленному времени</div>
-			</div>
-			<div class="text">
-			  <div class="name">Дополнительно:</div>
-			  <div class="value">Настрочка контроля температуры<br>Настройка контроля влажности</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Для гидропоники:</div>
-			  <div class="value">Значительное улучшение роста</div>
-			</div>
-			<div class="text">
-			  <div class="name">Для выращивания в открытом грунте:</div>
-			  <div class="value">От выредителей, перепадов температуры, YF и другие</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Габариты:</div>
-			  <div class="value">От 2 до 10 метров</div>
-			</div>
-			<div class="text">
-			  <div class="name">Потребление энергии:</div>
-			  <div class="value">220 В</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее о товаре</a>
-		  </div>
-		</article>
-	  </div>
-	  <div class="tabs-content">
-		<article class="university-block">
-		  <div class="image">
-			<img src="/assets/img/uni/1_hauptuni_i.jpg" alt=""/>
-		  </div>
-		  <div class="info clear">
-			<div class="text">
-			  <div class="name">Язык обучения:</div>
-			  <div class="value">Английский</div>
-			</div>
-			<div class="text">
-			  <div class="name">Срок подачи документов:</div>
-			  <div class="value">1 июня по 15 августа<br>1 декабря - 15 февраля</div>
-			</div>
-		  </div>
-		  <div class="buttons">
-			<a class="button h30" href="#">Подробнее</a>
-		  </div>
-		</article>
-	  </div>
-	</div>
-  </div>
-</section>
-
-!-->',
+          'content' => '<div  class="breadcrumbs">       <div itemscope itemtype="http://data-vocabulary.org/Breadcrumb">[[Breadcrumb]]</div>     </div>',
         ),
         'policies' => 
         array (
@@ -4590,57 +3316,23 @@ $(".video_frame iframe")[0].src = path;
           'is_stream' => true,
         ),
       ),
-      'problems' => 
+      'xxx' => 
       array (
         'fields' => 
         array (
-          'id' => 15,
+          'id' => 48,
           'source' => 1,
           'property_preprocess' => false,
-          'name' => 'problems',
+          'name' => 'xxx',
           'description' => '',
           'editor_type' => 0,
           'category' => 0,
           'cache_type' => 0,
-          'snippet' => '<div class="problems">
-<div class="wrapper">
-<div class="problems__title">Проблемы и последствия<br> курения марихуаны</div>
-<div class="problems-r"><ol class="numlist numlist_problems">
-<li>Нарушенная координация направленных действий и движений;</li>
-<li>Увеличение времени реагирования на сказанное, увиденное, услышанное;</li>
-<li>Значительно ухудшение или потеря кратковременной памяти;</li>
-<li>Упадок остроты зрения, а так же деструктив цветопередачи;</li>
-<li>Возможно отрофирование сетчатки и зрительного нерва.</li>
-</ol></div>
-</div>
-</div>
-<div class="problems problems_solving">
-<div class="wrapper">
-<div class="problems__title problems__title_solving">Возможности применения марихуаны <br> в терапевтических или лечебных целях</div>
-<div class="problems-r"><ol class="numlist numlist_problems-solving">
-<li>Марихуана улучшает аппетит и качество работы вкусовых рецепторов у больных раком.</li>
-<li>Курение марихуаны значительно снижает симптомы нейропатической боли.</li>
-<li>Экстракт каннабиса может снимать болевой шок и симптомы после сложных операции.</li>
-<li>Марихуана способствует частичному снятию или облегчению симптома  спастичности.</li> 
-<li>Экстракт каннабиса используется в спрее «Sativex» - для лечения больных с рассеянным склерозом. Одобрен в Соединенном Королевстве.</li>
-<li>Активные вещества в составе конопли, способствуют остановке роста рака простаты.</li>
-<li>Применение марихуаны может защищать людей преклонного возвраста от остеопороза.</li>
-<li>Каннабис облегчает симптомы аллергического контактного  дерматита.</li>
-<li>Курение марихуаны снимает посттравматический синдром и зажимы.</li>
-</ol></div>
-</div>
-</div>
-<div class="problems">
-<div class="wrapper">
-<div class="problems_vid"><noindex><iframe rel="nofollow"src="https://www.youtube.com/embed/BYqCl4-AOYQ" width="500" height="350"frameborder="0"></iframe></noindex></div>
-<div class="problems-r">
-<ul>
-<li style="line-height: 22px;    padding-left: 50px;"> В Украине - марихуана является незаконным наркотиком. Выращивание, курение и распространение преследуется и карается законодательством Украины! <br /><br /></li>
-<li style="line-height: 22px;    padding-left: 50px;">Несмотря на то что существуют страны в которых лечебная марихуана легализированна, оценить ее пользу, смогут по достоинству действительно те кому она нужна в лечебных целях. Существуют самые различные мнения относительно легального статуса  конопли.  Ряд ученых, а также пациенты, особенно те из них, что страдают от хронической боли, могут  видеть плюсы и минусы медицинского применения конопли более объективно.
- <br />
-В большинстве стран мира производство марихуаны является незаконным. <p class="justy">Это означает, что ее выращивание и производство скрыто от глаз общественности. В отличие от законных лекарств  или продуктов  питания, здесь отсутствует общественный контроль, зато популярен черный рынок сбыта который стимулирет продажу более тяжелых наркотив. В отличии от такой ситуации, страны где конопля легалезированна и продается в специализированных местах, продажа тяжелых наркотических препаратов практически искоренена или отсутсвует вовсе. </p> </li>
-</ul></div>
-</div>
+          'snippet' => '<div class="justy">
+<p style="font-size: 24px; color: #fd2901; text-align: center;">!!! ВНИМАНИЕ !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Информация представленная на ресурсе 4-20.com.ua предназначена исключительно для совершеннолетних! Лица не достигшие 18 лет обязаны покинуть страницы данного ресурса, и в магазине обслуживаться не будут !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Вся информация описанная на сайте, предоставляется исключительно в научно-образовательных целях и несет только ознакомительный характер! Мы никого не призываем к совершению незаконных действий!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Ответственность за неправомерное использование любых товаров приобретенных у нас, лежит исключительно на потребителе продукции!</p>
 </div>',
           'locked' => false,
           'properties' => 
@@ -4648,1150 +3340,12 @@ $(".video_frame iframe")[0].src = path;
           ),
           'static' => false,
           'static_file' => '',
-          'content' => '<div class="problems">
-<div class="wrapper">
-<div class="problems__title">Проблемы и последствия<br> курения марихуаны</div>
-<div class="problems-r"><ol class="numlist numlist_problems">
-<li>Нарушенная координация направленных действий и движений;</li>
-<li>Увеличение времени реагирования на сказанное, увиденное, услышанное;</li>
-<li>Значительно ухудшение или потеря кратковременной памяти;</li>
-<li>Упадок остроты зрения, а так же деструктив цветопередачи;</li>
-<li>Возможно отрофирование сетчатки и зрительного нерва.</li>
-</ol></div>
-</div>
-</div>
-<div class="problems problems_solving">
-<div class="wrapper">
-<div class="problems__title problems__title_solving">Возможности применения марихуаны <br> в терапевтических или лечебных целях</div>
-<div class="problems-r"><ol class="numlist numlist_problems-solving">
-<li>Марихуана улучшает аппетит и качество работы вкусовых рецепторов у больных раком.</li>
-<li>Курение марихуаны значительно снижает симптомы нейропатической боли.</li>
-<li>Экстракт каннабиса может снимать болевой шок и симптомы после сложных операции.</li>
-<li>Марихуана способствует частичному снятию или облегчению симптома  спастичности.</li> 
-<li>Экстракт каннабиса используется в спрее «Sativex» - для лечения больных с рассеянным склерозом. Одобрен в Соединенном Королевстве.</li>
-<li>Активные вещества в составе конопли, способствуют остановке роста рака простаты.</li>
-<li>Применение марихуаны может защищать людей преклонного возвраста от остеопороза.</li>
-<li>Каннабис облегчает симптомы аллергического контактного  дерматита.</li>
-<li>Курение марихуаны снимает посттравматический синдром и зажимы.</li>
-</ol></div>
-</div>
-</div>
-<div class="problems">
-<div class="wrapper">
-<div class="problems_vid"><noindex><iframe rel="nofollow"src="https://www.youtube.com/embed/BYqCl4-AOYQ" width="500" height="350"frameborder="0"></iframe></noindex></div>
-<div class="problems-r">
-<ul>
-<li style="line-height: 22px;    padding-left: 50px;"> В Украине - марихуана является незаконным наркотиком. Выращивание, курение и распространение преследуется и карается законодательством Украины! <br /><br /></li>
-<li style="line-height: 22px;    padding-left: 50px;">Несмотря на то что существуют страны в которых лечебная марихуана легализированна, оценить ее пользу, смогут по достоинству действительно те кому она нужна в лечебных целях. Существуют самые различные мнения относительно легального статуса  конопли.  Ряд ученых, а также пациенты, особенно те из них, что страдают от хронической боли, могут  видеть плюсы и минусы медицинского применения конопли более объективно.
- <br />
-В большинстве стран мира производство марихуаны является незаконным. <p class="justy">Это означает, что ее выращивание и производство скрыто от глаз общественности. В отличие от законных лекарств  или продуктов  питания, здесь отсутствует общественный контроль, зато популярен черный рынок сбыта который стимулирет продажу более тяжелых наркотив. В отличии от такой ситуации, страны где конопля легалезированна и продается в специализированных местах, продажа тяжелых наркотических препаратов практически искоренена или отсутсвует вовсе. </p> </li>
-</ul></div>
-</div>
+          'content' => '<div class="justy">
+<p style="font-size: 24px; color: #fd2901; text-align: center;">!!! ВНИМАНИЕ !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Информация представленная на ресурсе 4-20.com.ua предназначена исключительно для совершеннолетних! Лица не достигшие 18 лет обязаны покинуть страницы данного ресурса, и в магазине обслуживаться не будут !!!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Вся информация описанная на сайте, предоставляется исключительно в научно-образовательных целях и несет только ознакомительный характер! Мы никого не призываем к совершению незаконных действий!</p>
+<p style="font-size: 24px; color: #fd2901; text-align: center;">Ответственность за неправомерное использование любых товаров приобретенных у нас, лежит исключительно на потребителе продукции!</p>
 </div>',
-        ),
-        'policies' => 
-        array (
-          'web' => 
-          array (
-          ),
-        ),
-        'source' => 
-        array (
-          'id' => 1,
-          'name' => 'Filesystem',
-          'description' => '',
-          'class_key' => 'sources.modFileMediaSource',
-          'properties' => 
-          array (
-          ),
-          'is_stream' => true,
-        ),
-      ),
-      'bloks' => 
-      array (
-        'fields' => 
-        array (
-          'id' => 32,
-          'source' => 1,
-          'property_preprocess' => false,
-          'name' => 'bloks',
-          'description' => '',
-          'editor_type' => 0,
-          'category' => 0,
-          'cache_type' => 0,
-          'snippet' => '
-<section class="how-work">
-  <div class="wrapper">
-	<div class="index-title">Как мы работаем?</div>
-	<ul class="how-work__list">
-	  <li><img class="how-work__ico" src="/assets/img/hw1.png" alt="">Вы оформляете заказ</li>
-	  <li><img class="how-work__ico" src="/assets/img/hw2.png" alt="">Связываемся с Вами для уточнения деталей</li>
-	  <li><img class="how-work__ico" src="/assets/img/hw3.png" alt="">Предоставляем реквизиты для оплаты</li>
-	  <li><img class="how-work__ico" src="/assets/img/hw4.png" alt="">Отправляем Вам посылку</li>
-	</ul>
-	<a class="button button_hwmore" href="/about.html"><span>Детальней ознакомиться</span></a>
-  <!--<ul class="facts">
-	<li>
-	  <div class="facts-b facts-1">
-		<div class="facts__title">Лутьшие сорта</div>
-	  </div>
-	  <div class="facts-hover facts-hover_1">
-		<div class="facts__title facts__title_hover">Лутьшие сорта</div>
-		<div class="facts__ico f1">&nbsp;</div>
-		<a class="button button_apply" href="/contact.html"><span>Подробнее</span></a></div>
-	</li>
-	<li>
-	  <div class="facts-b facts-2">
-		<div class="facts__title">8 лет на рынке</div>
-	  </div>
-	  <div class="facts-hover facts-hover_1">
-		<div class="facts__title facts__title_hover">8 лет на рынке</div>
-		<div class="facts__ico f2">&nbsp;</div>
-		<a class="button button_apply" href="/reports.html"><span>Подробнее</span></a></div>
-	</li>
-	<li>
-	  <div class="facts-b facts-3">
-		<div class="facts__title">Лучшие производители</div>
-	  </div>
-	  <div class="facts-hover facts-hover_1">
-		<div class="facts__title facts__title_hover">Лучшие производители</div>
-		<div class="facts__ico f3">&nbsp;</div>
-		<a class="button button_apply" href="[[~5]]"><span>Подробнее</span></a></div>
-	</li>
-	<li>
-	  <div class="facts-b facts-4">
-		<div class="facts__title">Лучшие семена</div>
-	  </div>
-	  <div class="facts-hover facts-hover_1">
-		<div class="facts__title facts__title_hover">Лучшие семена</div>
-		<div class="facts__ico f4">&nbsp;</div>
-		<a class="button button_apply" href="/reports.html"><span>Подробнее</span></a></div>
-	</li>
-  </ul>!-->
-  </div>
-</section>',
-          'locked' => false,
-          'properties' => 
-          array (
-          ),
-          'static' => false,
-          'static_file' => '',
-          'content' => '
-<section class="how-work">
-  <div class="wrapper">
-	<div class="index-title">Как мы работаем?</div>
-	<ul class="how-work__list">
-	  <li><img class="how-work__ico" src="/assets/img/hw1.png" alt="">Вы оформляете заказ</li>
-	  <li><img class="how-work__ico" src="/assets/img/hw2.png" alt="">Связываемся с Вами для уточнения деталей</li>
-	  <li><img class="how-work__ico" src="/assets/img/hw3.png" alt="">Предоставляем реквизиты для оплаты</li>
-	  <li><img class="how-work__ico" src="/assets/img/hw4.png" alt="">Отправляем Вам посылку</li>
-	</ul>
-	<a class="button button_hwmore" href="/about.html"><span>Детальней ознакомиться</span></a>
-  <!--<ul class="facts">
-	<li>
-	  <div class="facts-b facts-1">
-		<div class="facts__title">Лутьшие сорта</div>
-	  </div>
-	  <div class="facts-hover facts-hover_1">
-		<div class="facts__title facts__title_hover">Лутьшие сорта</div>
-		<div class="facts__ico f1">&nbsp;</div>
-		<a class="button button_apply" href="/contact.html"><span>Подробнее</span></a></div>
-	</li>
-	<li>
-	  <div class="facts-b facts-2">
-		<div class="facts__title">8 лет на рынке</div>
-	  </div>
-	  <div class="facts-hover facts-hover_1">
-		<div class="facts__title facts__title_hover">8 лет на рынке</div>
-		<div class="facts__ico f2">&nbsp;</div>
-		<a class="button button_apply" href="/reports.html"><span>Подробнее</span></a></div>
-	</li>
-	<li>
-	  <div class="facts-b facts-3">
-		<div class="facts__title">Лучшие производители</div>
-	  </div>
-	  <div class="facts-hover facts-hover_1">
-		<div class="facts__title facts__title_hover">Лучшие производители</div>
-		<div class="facts__ico f3">&nbsp;</div>
-		<a class="button button_apply" href="[[~5]]"><span>Подробнее</span></a></div>
-	</li>
-	<li>
-	  <div class="facts-b facts-4">
-		<div class="facts__title">Лучшие семена</div>
-	  </div>
-	  <div class="facts-hover facts-hover_1">
-		<div class="facts__title facts__title_hover">Лучшие семена</div>
-		<div class="facts__ico f4">&nbsp;</div>
-		<a class="button button_apply" href="/reports.html"><span>Подробнее</span></a></div>
-	</li>
-  </ul>!-->
-  </div>
-</section>',
-        ),
-        'policies' => 
-        array (
-          'web' => 
-          array (
-          ),
-        ),
-        'source' => 
-        array (
-          'id' => 1,
-          'name' => 'Filesystem',
-          'description' => '',
-          'class_key' => 'sources.modFileMediaSource',
-          'properties' => 
-          array (
-          ),
-          'is_stream' => true,
-        ),
-      ),
-      'slider_text' => 
-      array (
-        'fields' => 
-        array (
-          'id' => 47,
-          'source' => 1,
-          'property_preprocess' => false,
-          'name' => 'slider_text',
-          'description' => '',
-          'editor_type' => 0,
-          'category' => 0,
-          'cache_type' => 0,
-          'snippet' => '<div class="slider-main-wrapper text-wrapper">
-    <section>
-        <p class="block_header">Отзывы студентов из Австрии</p>
-        <div class="slick-comment-slider">
-
-			  <div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="http://www.youtube.com/embed/emE6Lch3XBE">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/social_4.jpg" alt=""/>
-                        <p class="block_header_h4">Ольга Давыдова</p>
-                        <hr/>
-                        <p>Поступила: Международная экономика (магистратура)</p>
-                        <hr/>
-                        <p>Венский университет</p>
-                    </div>
-                    <p>Моя самостоятельная подача документов в Венский университет увенчалась отказом. Я потеряла пол года времени и решила больше не рисковать, поэтому обратилась в Education in Vienna. Через 3 месяца после передачи документов компании я получила приглашение на магистратуру...</p>
-                </div>
-            </div>
-
-            <div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="https://www.youtube.com/embed/JVFd3DE5m34">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/4-84.jpg" alt=""/>
-                        <p class="block_header_h4">Ирина Сидорова, 17 лет</p>
-                        <hr/>
-                        <p>Поступила: Международная экономика</p>
-                        <hr/>
-                        <p>Венский экономический университет</p>
-                    </div>
-                    <p>...Так как на момент поступления мне было только 17 лет, мы решили не рисковать и обратиться в образовательное агентство. Из трех компаний мы выбрали Education in Vienna. Нам быстро оформили все документы и уже в сентябре я получила приглашение из двух университетов: Венского Главного и Венского экономического...</p>
-                </div>
-            </div>
-
-            <div class="slide">
-                <div class="slide-info">
-                    <img src="assets/img/2-194.jpg" alt=""/>
-                    <p class="block_header_h4">Екатерина Захарова, 19 лет</p>
-                    <hr/>
-                    <p>Поступила: Лечебное дело</p>
-                    <hr/>
-                    <p>Венский медицинский университет</p>
-                </div>
-                <div class="slide-text">
-                    <p>Было много опасений, в основном связанных со временем, незнанием языка и непониманием всей процедуры оформления документов. На момент поступления в Вену я уже закончила 1 год Медицинского университета в Москве и продолжала обучение на втором курсе, поэтому я очень боялась, что потеряю много времени, если буду делать все сама. В итоге, уже через 6 недель после отправки документов в Вену, я получила приглашение из Венского медицинского университета! Моей радости не было предела! :) Документы на визу рассматривали долго - целых 10 недель. Но я, слава Богу, успела к началу учебного семестра, записалась на курсы и готовлюсь к стационарной учебе в Меде. Говорят, что учиться сложно, но очень интересно. Посмотрим! </p>
-                </div>
-            </div>
-
-			<div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="http://www.youtube.com/embed/AaIBTIx02DQ">
-                    </iframe>
-                </div>
-			    <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/social.jpg" alt=""/>
-                        <p class="block_header_h4">Полина Ковалевская, 21 год</p>
-                        <hr/>
-                        <p>Поступила: Публицистика (магистратура)</p>
-                        <hr/>
-                        <p>Венский Университет</p>
-                    </div>
-                    <p>Я поступила в Вену после окончания учебы в Киеве по специальности "Реклама и PR". Так как мой парень год назад приехал сюда учиться и у него с поступлением все прошло успешно, сомнений в выборе компании у меня не было. Сейчас мы переезжаем в квартиру и у нас все хорошо:) </p>
-                </div>
-            </div>
-
-			<div class="slide">
-                <div class="slide-info">
-                    <img src="assets/img/2-193.jpg" alt=""/>
-                    <p class="block_header_h4">Анастасия Фескова, 22 года</p>
-                    <hr/>
-                    <p>Поступила: Международная экономика</p>
-                    <hr/>
-                    <p>Венский университет</p>
-                </div>
-                <div class="slide-text">
-                    <p>Я поступала вместе с четырьмя одногрупниками из Киевского Экономического Университета. Мы переживали почти по любому поводу, особенно боялись столкнуться с мошенниками и потерять такую сумму денег. Настораживало, что другая фирма запросила в три раза больше! По факту мы получили даже больше чем расчитывали. Через несколько месяцев с разницей в 1-2 недели все получили визы, нас встретили по приезде, общежитие оказалось таким как на фотографиях, в течение первых недель нам помогли со всеми нужными документами и регистрациями для начала учебы. И самое главное, даже после выполнения всех оговоренных условий, нам продолжали помогать по разным вопросам еще долгое время.</p>
-                </div>
-            </div>
-
-            <div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="http://www.youtube.com/embed/ix8IXeNhx28">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/6-80.jpg" alt=""/>
-                        <p class="block_header_h4">Илья Давыденко, 19 лет</p>
-                        <hr/>
-                        <p>Поступил: Стоматология</p>
-                        <hr/>
-                        <p>Венский медицинский университет</p>
-                    </div>
-                    <p>Факт того, что я уже нахожусь в Вене по студенческой визе и учусь в Венском медицинском университете говорит о том, что организация Education in Vienna знает, что делает! Самостоятельно я, наверное, не справился бы. </p>
-                </div>
-            </div>
-
-            <div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="https://www.youtube.com/embed/jgDFawmvt1A">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/2-83.jpg" alt=""/>
-                        <p class="block_header_h4">Полина Филиппенко, 17 лет</p>
-                        <hr/>
-                        <p>Поступила: История</p>
-                        <hr/>
-                        <p>Венский университет</p>
-                    </div>
-                    <p>Родители уговорили меня поступать в Австрию в 11-м классе. Сначала мы с родителями пытались оформить все документы самостоятельно, но в процессе поняли, что все очень муторно и сложно, поэтому решили обратиться в компанию. Приглашение мне прислали уже через 8 недель, а с оформлением визы проблем не возникло...
-                </div>
-            </div>
-
-			<div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="http://www.youtube.com/embed/0OUuTegTBL0">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/3-82.jpg" alt=""/>
-                        <p class="block_header_h4">Екатерина Кузина, 18 лет</p>
-                        <hr/>
-                        <p>Поступила: Экономика и право</p>
-                        <hr/>
-                        <p>Венский экономический университет</p>
-                    </div>
-                    <p>Для поступления сперва я рассматривала Германию, но я не успела оформить документы до 31 мая, потому что аттестат мне выдали только в июне. Я не хотела учиться в России и хотела уехать сразу после школы, поэтому я выбрала Австрию. Мы очень боялись пролететь, но у нас все получилось и я уже учусь в Вене!</p>
-                </div>
-            </div>
-
-        </div>
-    </section>
-</div>
-<script type="text/javascript">
-    console.log(\'header\');
-    $(document).ready(function(){
-        if ($(\'.slick-comment-slider\').length) {
-            $(\'.slick-comment-slider\').slick({
-                infinite: true,
-                dots: true
-            });
-        }
-    });
-</script>',
-          'locked' => false,
-          'properties' => 
-          array (
-          ),
-          'static' => false,
-          'static_file' => '',
-          'content' => '<div class="slider-main-wrapper text-wrapper">
-    <section>
-        <p class="block_header">Отзывы студентов из Австрии</p>
-        <div class="slick-comment-slider">
-
-			  <div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="http://www.youtube.com/embed/emE6Lch3XBE">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/social_4.jpg" alt=""/>
-                        <p class="block_header_h4">Ольга Давыдова</p>
-                        <hr/>
-                        <p>Поступила: Международная экономика (магистратура)</p>
-                        <hr/>
-                        <p>Венский университет</p>
-                    </div>
-                    <p>Моя самостоятельная подача документов в Венский университет увенчалась отказом. Я потеряла пол года времени и решила больше не рисковать, поэтому обратилась в Education in Vienna. Через 3 месяца после передачи документов компании я получила приглашение на магистратуру...</p>
-                </div>
-            </div>
-
-            <div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="https://www.youtube.com/embed/JVFd3DE5m34">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/4-84.jpg" alt=""/>
-                        <p class="block_header_h4">Ирина Сидорова, 17 лет</p>
-                        <hr/>
-                        <p>Поступила: Международная экономика</p>
-                        <hr/>
-                        <p>Венский экономический университет</p>
-                    </div>
-                    <p>...Так как на момент поступления мне было только 17 лет, мы решили не рисковать и обратиться в образовательное агентство. Из трех компаний мы выбрали Education in Vienna. Нам быстро оформили все документы и уже в сентябре я получила приглашение из двух университетов: Венского Главного и Венского экономического...</p>
-                </div>
-            </div>
-
-            <div class="slide">
-                <div class="slide-info">
-                    <img src="assets/img/2-194.jpg" alt=""/>
-                    <p class="block_header_h4">Екатерина Захарова, 19 лет</p>
-                    <hr/>
-                    <p>Поступила: Лечебное дело</p>
-                    <hr/>
-                    <p>Венский медицинский университет</p>
-                </div>
-                <div class="slide-text">
-                    <p>Было много опасений, в основном связанных со временем, незнанием языка и непониманием всей процедуры оформления документов. На момент поступления в Вену я уже закончила 1 год Медицинского университета в Москве и продолжала обучение на втором курсе, поэтому я очень боялась, что потеряю много времени, если буду делать все сама. В итоге, уже через 6 недель после отправки документов в Вену, я получила приглашение из Венского медицинского университета! Моей радости не было предела! :) Документы на визу рассматривали долго - целых 10 недель. Но я, слава Богу, успела к началу учебного семестра, записалась на курсы и готовлюсь к стационарной учебе в Меде. Говорят, что учиться сложно, но очень интересно. Посмотрим! </p>
-                </div>
-            </div>
-
-			<div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="http://www.youtube.com/embed/AaIBTIx02DQ">
-                    </iframe>
-                </div>
-			    <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/social.jpg" alt=""/>
-                        <p class="block_header_h4">Полина Ковалевская, 21 год</p>
-                        <hr/>
-                        <p>Поступила: Публицистика (магистратура)</p>
-                        <hr/>
-                        <p>Венский Университет</p>
-                    </div>
-                    <p>Я поступила в Вену после окончания учебы в Киеве по специальности "Реклама и PR". Так как мой парень год назад приехал сюда учиться и у него с поступлением все прошло успешно, сомнений в выборе компании у меня не было. Сейчас мы переезжаем в квартиру и у нас все хорошо:) </p>
-                </div>
-            </div>
-
-			<div class="slide">
-                <div class="slide-info">
-                    <img src="assets/img/2-193.jpg" alt=""/>
-                    <p class="block_header_h4">Анастасия Фескова, 22 года</p>
-                    <hr/>
-                    <p>Поступила: Международная экономика</p>
-                    <hr/>
-                    <p>Венский университет</p>
-                </div>
-                <div class="slide-text">
-                    <p>Я поступала вместе с четырьмя одногрупниками из Киевского Экономического Университета. Мы переживали почти по любому поводу, особенно боялись столкнуться с мошенниками и потерять такую сумму денег. Настораживало, что другая фирма запросила в три раза больше! По факту мы получили даже больше чем расчитывали. Через несколько месяцев с разницей в 1-2 недели все получили визы, нас встретили по приезде, общежитие оказалось таким как на фотографиях, в течение первых недель нам помогли со всеми нужными документами и регистрациями для начала учебы. И самое главное, даже после выполнения всех оговоренных условий, нам продолжали помогать по разным вопросам еще долгое время.</p>
-                </div>
-            </div>
-
-            <div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="http://www.youtube.com/embed/ix8IXeNhx28">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/6-80.jpg" alt=""/>
-                        <p class="block_header_h4">Илья Давыденко, 19 лет</p>
-                        <hr/>
-                        <p>Поступил: Стоматология</p>
-                        <hr/>
-                        <p>Венский медицинский университет</p>
-                    </div>
-                    <p>Факт того, что я уже нахожусь в Вене по студенческой визе и учусь в Венском медицинском университете говорит о том, что организация Education in Vienna знает, что делает! Самостоятельно я, наверное, не справился бы. </p>
-                </div>
-            </div>
-
-            <div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="https://www.youtube.com/embed/jgDFawmvt1A">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/2-83.jpg" alt=""/>
-                        <p class="block_header_h4">Полина Филиппенко, 17 лет</p>
-                        <hr/>
-                        <p>Поступила: История</p>
-                        <hr/>
-                        <p>Венский университет</p>
-                    </div>
-                    <p>Родители уговорили меня поступать в Австрию в 11-м классе. Сначала мы с родителями пытались оформить все документы самостоятельно, но в процессе поняли, что все очень муторно и сложно, поэтому решили обратиться в компанию. Приглашение мне прислали уже через 8 недель, а с оформлением визы проблем не возникло...
-                </div>
-            </div>
-
-			<div class="slide">
-                <div class="slide-video">
-                    <iframe width="350" height="270" src="http://www.youtube.com/embed/0OUuTegTBL0">
-                    </iframe>
-                </div>
-                <div class="slide-desc">
-                    <div class="slide-header">
-                        <img src="assets/images/3-82.jpg" alt=""/>
-                        <p class="block_header_h4">Екатерина Кузина, 18 лет</p>
-                        <hr/>
-                        <p>Поступила: Экономика и право</p>
-                        <hr/>
-                        <p>Венский экономический университет</p>
-                    </div>
-                    <p>Для поступления сперва я рассматривала Германию, но я не успела оформить документы до 31 мая, потому что аттестат мне выдали только в июне. Я не хотела учиться в России и хотела уехать сразу после школы, поэтому я выбрала Австрию. Мы очень боялись пролететь, но у нас все получилось и я уже учусь в Вене!</p>
-                </div>
-            </div>
-
-        </div>
-    </section>
-</div>
-<script type="text/javascript">
-    console.log(\'header\');
-    $(document).ready(function(){
-        if ($(\'.slick-comment-slider\').length) {
-            $(\'.slick-comment-slider\').slick({
-                infinite: true,
-                dots: true
-            });
-        }
-    });
-</script>',
-        ),
-        'policies' => 
-        array (
-          'web' => 
-          array (
-          ),
-        ),
-        'source' => 
-        array (
-          'id' => 1,
-          'name' => 'Filesystem',
-          'description' => '',
-          'class_key' => 'sources.modFileMediaSource',
-          'properties' => 
-          array (
-          ),
-          'is_stream' => true,
-        ),
-      ),
-      'form_request_consult' => 
-      array (
-        'fields' => 
-        array (
-          'id' => 46,
-          'source' => 1,
-          'property_preprocess' => false,
-          'name' => 'form_request_consult',
-          'description' => '',
-          'editor_type' => 0,
-          'category' => 0,
-          'cache_type' => 0,
-          'snippet' => '<div class="main-form-container request_consult">
-    <form method="post" action="request_consult">
-        <div class="container-main">
-        <p class="block_header rel-con">Бесплатная консультация </p>
-            <p class="form-desc">Заполните форму и мы перезвоним Вам в течение 1 рабочего дня!</p>
-            <div class="container-row inputs">
-                <div>
-                    <label for="name"><span class="strong uppercase">Ваше имя</span></label>
-                    <input id="name" type="text"/></div>
-                <div>
-                    <label for="phone_num"><span class="strong uppercase">Ваш телефон</span></label>
-                    <input id="phone_num" type="text"/></div>
-            </div>
-         <div class="container-row">
-                <span class="strong uppercase">Я хочу </span>
-                <input id="6m" type="radio" name="request_year"/>
-                <label for="6m">6 месяцев</label>
-                <input id="12m" type="radio" name="request_year"/>
-                <label for="12m">1 года</label>
-                <input id="24m" type="radio" name="request_year"/>
-                <label for="24m">2 лет</label>
-            </div>
-            <div class="rel-con">
-                <p><span class="strong">Для  Вам понадобится только </span></p>
-                <p><span class="strong">Все остальные документы мы оформим за Вас!</span></p>
-            </div>
-            <hr class="desc_blue"/>
-            <input type="submit" value="Отправить заявку" class="rel-con"/>
-        </div>
-    </form>
-</div>',
-          'locked' => false,
-          'properties' => 
-          array (
-          ),
-          'static' => false,
-          'static_file' => '',
-          'content' => '<div class="main-form-container request_consult">
-    <form method="post" action="request_consult">
-        <div class="container-main">
-        <p class="block_header rel-con">Бесплатная консультация </p>
-            <p class="form-desc">Заполните форму и мы перезвоним Вам в течение 1 рабочего дня!</p>
-            <div class="container-row inputs">
-                <div>
-                    <label for="name"><span class="strong uppercase">Ваше имя</span></label>
-                    <input id="name" type="text"/></div>
-                <div>
-                    <label for="phone_num"><span class="strong uppercase">Ваш телефон</span></label>
-                    <input id="phone_num" type="text"/></div>
-            </div>
-         <div class="container-row">
-                <span class="strong uppercase">Я хочу </span>
-                <input id="6m" type="radio" name="request_year"/>
-                <label for="6m">6 месяцев</label>
-                <input id="12m" type="radio" name="request_year"/>
-                <label for="12m">1 года</label>
-                <input id="24m" type="radio" name="request_year"/>
-                <label for="24m">2 лет</label>
-            </div>
-            <div class="rel-con">
-                <p><span class="strong">Для  Вам понадобится только </span></p>
-                <p><span class="strong">Все остальные документы мы оформим за Вас!</span></p>
-            </div>
-            <hr class="desc_blue"/>
-            <input type="submit" value="Отправить заявку" class="rel-con"/>
-        </div>
-    </form>
-</div>',
-        ),
-        'policies' => 
-        array (
-          'web' => 
-          array (
-          ),
-        ),
-        'source' => 
-        array (
-          'id' => 1,
-          'name' => 'Filesystem',
-          'description' => '',
-          'class_key' => 'sources.modFileMediaSource',
-          'properties' => 
-          array (
-          ),
-          'is_stream' => true,
-        ),
-      ),
-      'inform' => 
-      array (
-        'fields' => 
-        array (
-          'id' => 21,
-          'source' => 1,
-          'property_preprocess' => false,
-          'name' => 'inform',
-          'description' => '',
-          'editor_type' => 0,
-          'category' => 0,
-          'cache_type' => 0,
-          'snippet' => '<div class="wrapper">
-  <section class="reviews reviews_index">
-<div class="index-title">
- <span>Видео о марихуане</span>
-</div>
-<div class="reviews-content reviews-content_index js-reviews-content js-reviews-1" style="display: block;"> <div class="reviews__video reviews__video_index">
-<object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/BYqCl4-AOYQ">
-
-
-
- <param name="movie" value="https://www.youtube.com/v/BYqCl4-AOYQ">
- </object>
- </div>
- <div class="reviews-i reviews-i_index">
-<div class="reviews-avatar reviews-avatar_index"><img title="Как растёт конопля-от начала и до конца от семени до шишки." width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Как растёт конопля-от начала и до конца от семени до шишки."><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
-</div>
-<div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Как растёт конопля - от начала и до конца, от семени до шишки. </div>
- <div class="reviews__text"><p>Пятиминутное видео о росте марихуаны. От зарождения в зернышке и до самой посленей стадии перед сбором урожая.</p>
-<p>Комплексная, многоракурсная съемка, ускоренная после в десятки раз, открывает новые границы познания растения.</p></div>
-</div>
- </div>
-</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-2" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/AOQdqBwp1EM">
- <param name="movie" value="https://www.youtube.com/v/AOQdqBwp1EM">
- </object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Как растёт конопля-от начала и до конца от семени до шишки." width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Как растёт конопля-от начала и до конца от семени до шишки."><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
-  </div>
-   <div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Бесценное растение конопля.</div>
- <div class="reviews__text"><p>Чем она так любима всеми миру и почему за марихуану ведеться такая ежедневная страншная борьба.</p>
-<p>Мнения приверженцев и сторонников. Интересные факты о бесценности каннабиса. Польза, вред и незаменимые элементы - обо всем этом и многом другом в видео.</p></div>
- </div>
-</div>
-</div>
-<div class="reviews-content reviews-content_index js-reviews-content js-reviews-3" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/NfH8zwz3Lio">
-<param name="movie" value="https://www.youtube.com/v/NfH8zwz3Lio">
-</object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="и"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
- </div>
-  <div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Марихуана - лекарство от более чем 50 болезней. </div>
- <div class="reviews__text"><p>Лечебные свойства конопли неоспоримы. Сотни ежедневных исследований вновь и вновь доказывают это.</p>
-<p>Запреты исследований ограничивают возможности медецины, но даже те исцеляющие свойства конопли которые найдены сегодня делают это растение по истине незаменимым.</p></div>
- </div>
-</div>
-</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-4" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/YzF6LhKJMr8">
-<param name="movie" value="https://www.youtube.com/v/YzF6LhKJMr8">
-</object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Обучение в Вене. Отзыв от студентки Ирины Сидоровой" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Обучение в Вене. Отзыв от студентки Ирины Сидоровой"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
- </div>
- <div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Лучший гровинг</div>
- <div class="reviews__text"><p>Советы от ТОП экспертов по гровингу конопли из Амстердама и Канады. Бесценные сектеры и хитрости выращивания.</p>
-<p>Подробные инструкции и методы преспособления. Узнайте как получить максимум пользы уже с первого раза.</p></div>
- </div>
-</div>
-</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-5" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/BYqCl4-AOYQ">
-<param name="movie" value="https://www.youtube.com/v/BYqCl4-AOYQ">
-</object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Венский университет отзыв Екатерины Кузиной" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Венский университет отзыв Екатерины Кузиной"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
- </div>
- <div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Как растёт конопля-от начала и до конца от семени до шишки. </div>
- <div class="reviews__text"><p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p>
-<p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p></div>
- </div>
-</div>
-</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-6" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/BYqCl4-AOYQ">
-<param name="movie" value="https://www.youtube.com/v/BYqCl4-AOYQ">
-</object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Образование в Австрии - отзыв студента Ольги Давыдовой" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Образование в Австрии - отзыв студента Ольги Давыдовой"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
- </div>
-<div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Как растёт конопля-от начала и до конца от семени до шишки. </div>
- <div class="reviews__text"><p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p>
-<p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p></div>
- </div>
-</div>
-</div>
-<div class="reviews-cycle-wrapper">
-  <ul class="cycle-slideshow reviews-cycle reviews-cycle_index js-reviews-cycle" data-cycle-fx="carousel" data-cycle-timeout="0" data-cycle-carousel-visible="6" data-cycle-next=".reviews-cycle-next" data-cycle-prev=".reviews-cycle-prev" data-cycle-slides="> li" style="position: relative; overflow: hidden; width: 900px;"><li data-tab=".js-reviews-1" class="is-active cycle-slide cycle-sentinel" style="top: 0px; left: 0px; opacity: 1; z-index: 100; position: static; visibility: hidden; display: block;"><img src="/assets/images/prev/v.png" alt="" style="visibility: hidden;"></li><div class="cycle-carousel-wrap" style="margin: 0px; padding: 0px; top: 0px; position: absolute; white-space: nowrap; left: -705px;"><li data-tab=".js-reviews-1" class="is-active cycle-slide" style="top: 0px; left: 0px; opacity: 1; visibility: visible; z-index: 100; display: inline-block; position: static;"><img src="/assets/img/1-78.jpg" alt=""></li><li data-tab=".js-reviews-2" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 99; display: inline-block; position: static;"><img src="/assets/img/097.png" alt=""></li><li data-tab=".js-reviews-3" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 97; display: inline-block; position: static;"><img src="/assets/img/098.png" alt=""></li><li data-tab=".js-reviews-4" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 96; display: inline-block; position: static;"><img src="/assets/img/099.png" alt=""></li><li data-tab=".js-reviews-5" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 95; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-1" class="is-active cycle-slide cycle-slide-active" style="top: 0px; left: 0px; opacity: 1; visibility: visible; z-index: 100; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-2" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 99; display: inline-block; position: static;"><img src="/assets/img/097.png" alt=""></li><li data-tab=".js-reviews-3" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 97; display: inline-block; position: static;"><img src="/assets/img/098.png" alt=""></li><li data-tab=".js-reviews-4" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 96; display: inline-block; position: static;"><img src="/assets/img/099.png" alt=""></li><li data-tab=".js-reviews-5" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 95; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-1" class="is-active cycle-slide" style="top: 0px; left: 0px; opacity: 1; visibility: visible; z-index: 100; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-2" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 99; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-3" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 97; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-4" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 96; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-5" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 95; display: inline-block; position: static;"><img src="14-88.jpg" alt=""></li></div></ul>
- <div class="reviews-cycle-next"></div>
- <div class="reviews-cycle-prev"></div>
-</div>
-</section>
-
-<!--	<section class="news_index">
- <div class="index-title"> <span>
-<a rel="nofollow" href="/news.html">Наши новости</a>    </span> </div>
- <ul class=\'col3\'>
-[[getResources?
-&tpl=`new`
-&parents=`4`
-&showHidden=`1`
-&limit=`3`
-&includeTVs=`1` 
-&processTVs=`1`
-&includeTVList=`img`
-&includeContent=`1`
-&tvPrefix=``
-&processTVList=`img`
-
-]]
- </ul>
-</section> !-->
-[[$sendmail]]
-<!--<section class="index-form clear">
-<div class="advantage">
- <div class="advantage__title">Факт о марихуане</div>
- <div class="services-adv-in">
-<div class="services-adv__top"><span class="services-adv__num">01</span> <span class="services-adv__title services-adv__title_index">В период движения трезвенников в конце 19 века марихуана рекомендовалась как заменитель алкоголя. 
-</span></div>
-<p>Причиной для этого было то, что в отличие от злоупотребления алкоголем, употребление марихуаны не приводило к насилию в семье.</p>
- </div>
- <div class="services-adv-in">
-<div class="services-adv__top"><span class="services-adv__num">02</span> <span class="services-adv__title services-adv__title_index"> До того как ее запретили, конопля была одним из главных продуктов фермерского производства в ранней Америке.  </span></div>
-<p>Первые два проекта американской Декларации Независимости были написаны на бумаге, сделанной из конопли.</p>
- </div>
- <div class="services-adv-in">
-<div class="services-adv__top"><span class="services-adv__num">03</span> <span class="services-adv__title services-adv__title_index"> В 2007 году в США было проведено около 900 тысяч арестов за преступления, связанные с марихуаной. </span></div>
-<p>Около 90%  арестов было произведено всего лишь за хранение марихуаны.Во всем мире около 162 миллионов взрослых людей употребляют марихуану не реже одного раза в год.</p>
- </div>
- <a class="button button_hwmore" href="[[~354]]"> <span>Смотреть больше фактов</span> </a></div>  <div class="apply">
-<div class="apply__title">
- Вопросы, Заказы, Предложения 
-</div>
-[[$form_main]]
-</div> </section>!-->
-</div>',
-          'locked' => false,
-          'properties' => 
-          array (
-          ),
-          'static' => false,
-          'static_file' => '',
-          'content' => '<div class="wrapper">
-  <section class="reviews reviews_index">
-<div class="index-title">
- <span>Видео о марихуане</span>
-</div>
-<div class="reviews-content reviews-content_index js-reviews-content js-reviews-1" style="display: block;"> <div class="reviews__video reviews__video_index">
-<object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/BYqCl4-AOYQ">
-
-
-
- <param name="movie" value="https://www.youtube.com/v/BYqCl4-AOYQ">
- </object>
- </div>
- <div class="reviews-i reviews-i_index">
-<div class="reviews-avatar reviews-avatar_index"><img title="Как растёт конопля-от начала и до конца от семени до шишки." width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Как растёт конопля-от начала и до конца от семени до шишки."><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
-</div>
-<div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Как растёт конопля - от начала и до конца, от семени до шишки. </div>
- <div class="reviews__text"><p>Пятиминутное видео о росте марихуаны. От зарождения в зернышке и до самой посленей стадии перед сбором урожая.</p>
-<p>Комплексная, многоракурсная съемка, ускоренная после в десятки раз, открывает новые границы познания растения.</p></div>
-</div>
- </div>
-</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-2" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/AOQdqBwp1EM">
- <param name="movie" value="https://www.youtube.com/v/AOQdqBwp1EM">
- </object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Как растёт конопля-от начала и до конца от семени до шишки." width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Как растёт конопля-от начала и до конца от семени до шишки."><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
-  </div>
-   <div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Бесценное растение конопля.</div>
- <div class="reviews__text"><p>Чем она так любима всеми миру и почему за марихуану ведеться такая ежедневная страншная борьба.</p>
-<p>Мнения приверженцев и сторонников. Интересные факты о бесценности каннабиса. Польза, вред и незаменимые элементы - обо всем этом и многом другом в видео.</p></div>
- </div>
-</div>
-</div>
-<div class="reviews-content reviews-content_index js-reviews-content js-reviews-3" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/NfH8zwz3Lio">
-<param name="movie" value="https://www.youtube.com/v/NfH8zwz3Lio">
-</object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="и"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
- </div>
-  <div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Марихуана - лекарство от более чем 50 болезней. </div>
- <div class="reviews__text"><p>Лечебные свойства конопли неоспоримы. Сотни ежедневных исследований вновь и вновь доказывают это.</p>
-<p>Запреты исследований ограничивают возможности медецины, но даже те исцеляющие свойства конопли которые найдены сегодня делают это растение по истине незаменимым.</p></div>
- </div>
-</div>
-</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-4" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/YzF6LhKJMr8">
-<param name="movie" value="https://www.youtube.com/v/YzF6LhKJMr8">
-</object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Обучение в Вене. Отзыв от студентки Ирины Сидоровой" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Обучение в Вене. Отзыв от студентки Ирины Сидоровой"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
- </div>
- <div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Лучший гровинг</div>
- <div class="reviews__text"><p>Советы от ТОП экспертов по гровингу конопли из Амстердама и Канады. Бесценные сектеры и хитрости выращивания.</p>
-<p>Подробные инструкции и методы преспособления. Узнайте как получить максимум пользы уже с первого раза.</p></div>
- </div>
-</div>
-</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-5" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/BYqCl4-AOYQ">
-<param name="movie" value="https://www.youtube.com/v/BYqCl4-AOYQ">
-</object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Венский университет отзыв Екатерины Кузиной" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Венский университет отзыв Екатерины Кузиной"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
- </div>
- <div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Как растёт конопля-от начала и до конца от семени до шишки. </div>
- <div class="reviews__text"><p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p>
-<p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p></div>
- </div>
-</div>
-</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-6" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/BYqCl4-AOYQ">
-<param name="movie" value="https://www.youtube.com/v/BYqCl4-AOYQ">
-</object>
-</div>
-<div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Образование в Австрии - отзыв студента Ольги Давыдовой" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Образование в Австрии - отзыв студента Ольги Давыдовой"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
- </a>!-->
- </div>
-<div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Как растёт конопля-от начала и до конца от семени до шишки. </div>
- <div class="reviews__text"><p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p>
-<p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p></div>
- </div>
-</div>
-</div>
-<div class="reviews-cycle-wrapper">
-  <ul class="cycle-slideshow reviews-cycle reviews-cycle_index js-reviews-cycle" data-cycle-fx="carousel" data-cycle-timeout="0" data-cycle-carousel-visible="6" data-cycle-next=".reviews-cycle-next" data-cycle-prev=".reviews-cycle-prev" data-cycle-slides="> li" style="position: relative; overflow: hidden; width: 900px;"><li data-tab=".js-reviews-1" class="is-active cycle-slide cycle-sentinel" style="top: 0px; left: 0px; opacity: 1; z-index: 100; position: static; visibility: hidden; display: block;"><img src="/assets/images/prev/v.png" alt="" style="visibility: hidden;"></li><div class="cycle-carousel-wrap" style="margin: 0px; padding: 0px; top: 0px; position: absolute; white-space: nowrap; left: -705px;"><li data-tab=".js-reviews-1" class="is-active cycle-slide" style="top: 0px; left: 0px; opacity: 1; visibility: visible; z-index: 100; display: inline-block; position: static;"><img src="/assets/img/1-78.jpg" alt=""></li><li data-tab=".js-reviews-2" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 99; display: inline-block; position: static;"><img src="/assets/img/097.png" alt=""></li><li data-tab=".js-reviews-3" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 97; display: inline-block; position: static;"><img src="/assets/img/098.png" alt=""></li><li data-tab=".js-reviews-4" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 96; display: inline-block; position: static;"><img src="/assets/img/099.png" alt=""></li><li data-tab=".js-reviews-5" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 95; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-1" class="is-active cycle-slide cycle-slide-active" style="top: 0px; left: 0px; opacity: 1; visibility: visible; z-index: 100; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-2" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 99; display: inline-block; position: static;"><img src="/assets/img/097.png" alt=""></li><li data-tab=".js-reviews-3" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 97; display: inline-block; position: static;"><img src="/assets/img/098.png" alt=""></li><li data-tab=".js-reviews-4" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 96; display: inline-block; position: static;"><img src="/assets/img/099.png" alt=""></li><li data-tab=".js-reviews-5" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 95; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-1" class="is-active cycle-slide" style="top: 0px; left: 0px; opacity: 1; visibility: visible; z-index: 100; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-2" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 99; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-3" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 97; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-4" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 96; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-5" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 95; display: inline-block; position: static;"><img src="14-88.jpg" alt=""></li></div></ul>
- <div class="reviews-cycle-next"></div>
- <div class="reviews-cycle-prev"></div>
-</div>
-</section>
-
-<!--	<section class="news_index">
- <div class="index-title"> <span>
-<a rel="nofollow" href="/news.html">Наши новости</a>    </span> </div>
- <ul class=\'col3\'>
-[[getResources?
-&tpl=`new`
-&parents=`4`
-&showHidden=`1`
-&limit=`3`
-&includeTVs=`1` 
-&processTVs=`1`
-&includeTVList=`img`
-&includeContent=`1`
-&tvPrefix=``
-&processTVList=`img`
-
-]]
- </ul>
-</section> !-->
-[[$sendmail]]
-<!--<section class="index-form clear">
-<div class="advantage">
- <div class="advantage__title">Факт о марихуане</div>
- <div class="services-adv-in">
-<div class="services-adv__top"><span class="services-adv__num">01</span> <span class="services-adv__title services-adv__title_index">В период движения трезвенников в конце 19 века марихуана рекомендовалась как заменитель алкоголя. 
-</span></div>
-<p>Причиной для этого было то, что в отличие от злоупотребления алкоголем, употребление марихуаны не приводило к насилию в семье.</p>
- </div>
- <div class="services-adv-in">
-<div class="services-adv__top"><span class="services-adv__num">02</span> <span class="services-adv__title services-adv__title_index"> До того как ее запретили, конопля была одним из главных продуктов фермерского производства в ранней Америке.  </span></div>
-<p>Первые два проекта американской Декларации Независимости были написаны на бумаге, сделанной из конопли.</p>
- </div>
- <div class="services-adv-in">
-<div class="services-adv__top"><span class="services-adv__num">03</span> <span class="services-adv__title services-adv__title_index"> В 2007 году в США было проведено около 900 тысяч арестов за преступления, связанные с марихуаной. </span></div>
-<p>Около 90%  арестов было произведено всего лишь за хранение марихуаны.Во всем мире около 162 миллионов взрослых людей употребляют марихуану не реже одного раза в год.</p>
- </div>
- <a class="button button_hwmore" href="[[~354]]"> <span>Смотреть больше фактов</span> </a></div>  <div class="apply">
-<div class="apply__title">
- Вопросы, Заказы, Предложения 
-</div>
-[[$form_main]]
-</div> </section>!-->
-</div>',
-        ),
-        'policies' => 
-        array (
-          'web' => 
-          array (
-          ),
-        ),
-        'source' => 
-        array (
-          'id' => 1,
-          'name' => 'Filesystem',
-          'description' => '',
-          'class_key' => 'sources.modFileMediaSource',
-          'properties' => 
-          array (
-          ),
-          'is_stream' => true,
-        ),
-      ),
-      'sendmail' => 
-      array (
-        'fields' => 
-        array (
-          'id' => 7,
-          'source' => 1,
-          'property_preprocess' => false,
-          'name' => 'sendmail',
-          'description' => '',
-          'editor_type' => 0,
-          'category' => 0,
-          'cache_type' => 0,
-          'snippet' => '[[!FormIt?
-   &formName=`sendmail`
-   &hooks=`spam,email,hook_FormIt_megaplanCreateClient,redirect`
-   &emailTpl=`sendEmailTpl_email`
-   &emailTo=`kim_55@bigmir.net`
-   &emailSubject=`Подписка на новости с главной [[++site_url]]`
-   &redirectTo=`359`
-   &validate=`e_email:email:required`
-   &submitVar=`e-submit`
-]]
-<section class="send-mail-b send-mail-b_index" id="email" >
-        <div class="send-mail-b__title">
-            Отправь нам свою почту
-        </div>
-        <div class="send-mail-b__subtitle">
-            и будь вкурсе всех новостей связаных с Коноплей в Украине
-        </div>
-        <form name="email" class="send-mail-b__form cntmm" method="post" action="[[~[[*id]]]]#email">
-		<span class="error">[[!+fi.error.e_email]]</span>
-            <input name="e_email" id="emailz" class="send-mail-b__input" type="text" placeholder="Электронная почта" value="[[!+fi.email]]">
-            <input class="submit_button button button_apply js-telefon" name="e-submit" type="submit" value="Отправить">
-         </form>
-    </section>',
-          'locked' => false,
-          'properties' => 
-          array (
-          ),
-          'static' => false,
-          'static_file' => '',
-          'content' => '[[!FormIt?
-   &formName=`sendmail`
-   &hooks=`spam,email,hook_FormIt_megaplanCreateClient,redirect`
-   &emailTpl=`sendEmailTpl_email`
-   &emailTo=`kim_55@bigmir.net`
-   &emailSubject=`Подписка на новости с главной [[++site_url]]`
-   &redirectTo=`359`
-   &validate=`e_email:email:required`
-   &submitVar=`e-submit`
-]]
-<section class="send-mail-b send-mail-b_index" id="email" >
-        <div class="send-mail-b__title">
-            Отправь нам свою почту
-        </div>
-        <div class="send-mail-b__subtitle">
-            и будь вкурсе всех новостей связаных с Коноплей в Украине
-        </div>
-        <form name="email" class="send-mail-b__form cntmm" method="post" action="[[~[[*id]]]]#email">
-		<span class="error">[[!+fi.error.e_email]]</span>
-            <input name="e_email" id="emailz" class="send-mail-b__input" type="text" placeholder="Электронная почта" value="[[!+fi.email]]">
-            <input class="submit_button button button_apply js-telefon" name="e-submit" type="submit" value="Отправить">
-         </form>
-    </section>',
-        ),
-        'policies' => 
-        array (
-          'web' => 
-          array (
-          ),
-        ),
-        'source' => 
-        array (
-          'id' => 1,
-          'name' => 'Filesystem',
-          'description' => '',
-          'class_key' => 'sources.modFileMediaSource',
-          'properties' => 
-          array (
-          ),
-          'is_stream' => true,
-        ),
-      ),
-      'form_main' => 
-      array (
-        'fields' => 
-        array (
-          'id' => 24,
-          'source' => 1,
-          'property_preprocess' => false,
-          'name' => 'form_main',
-          'description' => '',
-          'editor_type' => 0,
-          'category' => 0,
-          'cache_type' => 0,
-          'snippet' => '[[!FormIt?
-   &formName=`form_main`
-   &hooks=`spam,email,hook_FormIt_megaplanCreateClient,redirect`
-   &emailTpl=`sendEmailTpl_main`
-   &emailTo=`kim_55@bigmir.net`
-   &emailSubject=`Оценка шансов на поступление [[++site_url]]`
-   &redirectTo=`358`
-   &validate=`u_name:required,u_phone:required,u_name:required,u_email:email:required,u_text:required:stripTags`
-   &submitVar=`form-uslugi`
-]]
-[[!+fi.error_message:notempty=`<p>[[!+fi.error_message]]</p>`]]
-
-
-
-
-
-<form class="apply-form js-apply-form" action="[[~[[*id]]]]#form" method="post" id="form">
-<span class="error">[[!+fi.error.u_name]]</span>
-<div class="apply-form__fields"><label>Фамилия, Имя, Отчество</label> <input id="name" class="apply__input js-name" type="text" name="u_name" /></div>
-
-<span class="error">[[!+fi.error.u_phone]]</span>
-<div class="apply-form__fields"><label>Контактный телефон или Skype</label> <input id="phone" class="apply__input js-phone_skype" type="text" name="u_phone" /></div>
-
-<span class="error">[[!+fi.error.u_email]]</span>
-<div class="apply-form__fields"><label>Электронная почта</label> <input id="memail" class="apply__input js-email" type="text" name="u_email" /></div>
-
-<span class="error">[[!+fi.error.u_text]]</span>
-<div class="apply-form__fields"><label>Ваш вопрос</label><textarea id="message" class="apply__text js-text" name="u_text"></textarea></div>
-<input name="form-uslugi" type="submit" value="Отправить заявку" class="button button_apply  submit_button button button_apply  " />
-</form>',
-          'locked' => false,
-          'properties' => 
-          array (
-          ),
-          'static' => false,
-          'static_file' => '',
-          'content' => '[[!FormIt?
-   &formName=`form_main`
-   &hooks=`spam,email,hook_FormIt_megaplanCreateClient,redirect`
-   &emailTpl=`sendEmailTpl_main`
-   &emailTo=`kim_55@bigmir.net`
-   &emailSubject=`Оценка шансов на поступление [[++site_url]]`
-   &redirectTo=`358`
-   &validate=`u_name:required,u_phone:required,u_name:required,u_email:email:required,u_text:required:stripTags`
-   &submitVar=`form-uslugi`
-]]
-[[!+fi.error_message:notempty=`<p>[[!+fi.error_message]]</p>`]]
-
-
-
-
-
-<form class="apply-form js-apply-form" action="[[~[[*id]]]]#form" method="post" id="form">
-<span class="error">[[!+fi.error.u_name]]</span>
-<div class="apply-form__fields"><label>Фамилия, Имя, Отчество</label> <input id="name" class="apply__input js-name" type="text" name="u_name" /></div>
-
-<span class="error">[[!+fi.error.u_phone]]</span>
-<div class="apply-form__fields"><label>Контактный телефон или Skype</label> <input id="phone" class="apply__input js-phone_skype" type="text" name="u_phone" /></div>
-
-<span class="error">[[!+fi.error.u_email]]</span>
-<div class="apply-form__fields"><label>Электронная почта</label> <input id="memail" class="apply__input js-email" type="text" name="u_email" /></div>
-
-<span class="error">[[!+fi.error.u_text]]</span>
-<div class="apply-form__fields"><label>Ваш вопрос</label><textarea id="message" class="apply__text js-text" name="u_text"></textarea></div>
-<input name="form-uslugi" type="submit" value="Отправить заявку" class="button button_apply  submit_button button button_apply  " />
-</form>',
         ),
         'policies' => 
         array (
@@ -5823,20 +3377,72 @@ $(".video_frame iframe")[0].src = path;
           'editor_type' => 0,
           'category' => 0,
           'cache_type' => 0,
-          'snippet' => '<div class="wrapper">Рассказать друзьям
+          'snippet' => '<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
-</div></div>',
+</div></div>!-->
+
+
+</div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>',
           'locked' => false,
           'properties' => 
           array (
           ),
           'static' => false,
           'static_file' => '',
-          'content' => '<div class="wrapper">Рассказать друзьям
+          'content' => '<!--<div class="wrapper">Рассказать друзьям
 <script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
 <div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote">
-</div></div>',
+</div></div>!-->
+
+
+</div></div>
+<div class="wrapper">
+<div>Рассказать друзьям</div>
+<script type="text/javascript" src="//yastatic.net/share/share.js" charset="utf-8"></script>
+<div class="yashare-auto-init" data-yashareL10n="ru" data-yashareType="none" data-yashareQuickServices="vkontakte,facebook,twitter,gplus,linkedin,blogger,odnoklassniki,myspace,moimir,lj,evernote" style="display:inline-block; wigth: 238px;" rel="nofollow">
+</div>
+  <!--  <div class="social_cont" rel="nofollow">
+        <div id="vk_like" style="display:inline-block;"></div>
+        <script type="text/javascript">
+                VK.Widgets.Like("vk_like", {type: "10", pageUrl: "http://4-20.com.ua", width: "280"});
+        </script>
+        <g:plusone annotation="inline" width="230" data-href="http://4-20.com.ua"></g:plusone>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ru_RU/sdk.js#xfbml=1&version=v2.5";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, \'script\', \'facebook-jssdk\'));</script>
+
+<div class="fb-like" data-href="http://4-20.com.ua" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+    </div> !-->
+</div>',
         ),
         'policies' => 
         array (
@@ -5871,7 +3477,12 @@ $(".video_frame iframe")[0].src = path;
           'snippet' => '<footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
@@ -5907,7 +3518,7 @@ $(".video_frame iframe")[0].src = path;
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>',
           'locked' => false,
           'properties' => 
@@ -5918,7 +3529,12 @@ $(".video_frame iframe")[0].src = path;
           'content' => '<footer class="footer">
   <div class="wrapper">
        <a href="ua.html" class="question-link" style="display: none;">Социальные сети</a>
-    <div class="social"> <a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" title=""></a> <a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" title=""></a> <a class="social__tw" rel="nofollow" href="#" title=""></a> <a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> <a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" title=""></a> </div>
+    <div class="social">
+	<a class="social__vk" rel="nofollow" href="https://vk.com/cannabis_time_4_20" target="_blank" title=""></a> 
+	<a class="social__fb" rel="nofollow" href="https://www.facebook.com/420-_-Марихуана-146793262340825/" target="_blank" title=""></a> 
+	<a class="social__tw" rel="nofollow" href="https://twitter.com/4_20_com_ua" target="_blank" title=""></a> 
+	<a class="social__gp" rel="nofollow" href=" https://plus.google.com/101635014315474978799/" target="_blank" title=""></a> <a class="social__in" rel="nofollow" href="#" title=""></a> 
+	<a class="social__yt" rel="nofollow" href="https://www.youtube.com/channel/UCmpy1wBirDVp6d4UF3F48xA" target="_blank" title=""></a> </div>
 <div class="justi"> <div class="f-info">
       <div class="f-logo"> <img src="/assets/img/1-78.png" alt=""/> </div>
       <div class="f-copy">
@@ -5954,7 +3570,7 @@ $(".video_frame iframe")[0].src = path;
     })(document, window, "yandex_metrika_callbacks");
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/33922869" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+<!-- /Yandex.Metrika counter !-->
 </footer>',
         ),
         'policies' => 
@@ -6160,11 +3776,11 @@ $(".video_frame iframe")[0].src = path;
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="[[~[[*id]]]]">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -6176,6 +3792,9 @@ $(".video_frame iframe")[0].src = path;
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -6397,11 +4016,11 @@ $(".video_frame iframe")[0].src = path;
 <div class="modal-forms js-telefon-form">
         <div class="box-modal_close arcticmodal-close arcticmodal-forms-close">Закрыть</div>
         <div class="modal-forms__title">
-            Заказать звонок
+            Заказать
         </div>
         <div class="modal-forms-i">
  <form class="apply-form apply-form_modal js-apply-form validate" method="post" id="phone_form"  action="[[~[[*id]]]]">
-			<input name="sub" id="sub" type="hidden" value="Заказать звонок"/>
+			<input name="sub" id="sub" type="hidden" value="Заказать"/>
 
 				<span class="error">[[!+fi.error.phone_name]]</span>
                 <div class="apply-form__fields">
@@ -6413,6 +4032,9 @@ $(".video_frame iframe")[0].src = path;
                     <label>Номер телефона</label>
                     <input id="phone" name="phone_phone" class="apply__input js-field" type="text" placeholder="+7 925 123 45 67" value=\'[[!+fi.phone]]\'/>
                 </div>
+				<span class="error" >[[+theme]]</span>
+<div class="apply-form__fields"><label value=" [[!getname]]">Товар</label> <input id="theme" class="apply__input js-theme" type="text" name="theme"   value=" [[!getname]]" /></div>
+
 				<span class="error">[[!+fi.error.phone_text]]</span>
                 <div class="apply-form__fields">
                     <label>Коментарий</label>
@@ -6488,14 +4110,14 @@ $(".video_frame iframe")[0].src = path;
           'cache_type' => 0,
           'snippet' => '<script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -6516,7 +4138,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -6764,7 +4386,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -6806,7 +4428,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -6909,8 +4531,16 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
-',
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
+
+</script>',
           'locked' => false,
           'properties' => 
           array (
@@ -6919,14 +4549,14 @@ $(".video_frame iframe")[0].src = path;
           'static_file' => '',
           'content' => '<script src="/assets/js/jquery-1.11.0.min.js"></script>
 <script src="/assets/js/countdown.js"></script>
-<!--script type="text/javascript" src="/assets/js/jquery.js"></script-->
+<!--script type="text/javascript" src="/assets/js/jquery.js"></script !-->
 <script src="/assets/js/sliderf.js"></script>
 <script src="/assets/js/jquery.cycle2.min.js"></script>
 <script src="/assets/js/script.js"></script>
 <script src="/assets/js/jquery.validate.min.js"></script>
 <script src="/assets/js/jquery.easyModal.js"></script>
 <script src="/assets/js/main.js"></script>
-<!--<script>
+<!-- <script>
 var cb1 = function() {
 var l = document.createElement(\'link\'); l.rel = \'stylesheet\';
 l.href = \'/assets/css/slick.css\';
@@ -6947,7 +4577,7 @@ else {
 window.addEventListener(\'load\', cb1);
 window.addEventListener(\'load\', cb2);
 }
-</script>-->
+</script> !-->
 
 <script>
     $(document).ready(function(){
@@ -7195,7 +4825,7 @@ window.addEventListener(\'load\', cb2);
         });
 
 
-        $.getJSON("http://freegeoip.net/json/", function (data) {
+      $.getJSON("http://freegeoip.net/json/", function (data) {
             var country = data.country_name;
             var ip = data.ip;
             $(".tel a").removeClass("active");
@@ -7237,7 +4867,7 @@ jQuery(\'body\').on(\'click\', \'a[href^="tel:"]\', function() {
             });
 		}
 
-    });
+    });  
 </script>
 <script>
   window.___gcfg = {
@@ -7340,8 +4970,16 @@ $(".video_frame iframe")[0].src = path;
 </script>
 <script type="text/javascript" src="assets/js/slick.min.js"></script>
 <a class="scrollup">Наверх</a>
+<script>
+  (function(i,s,o,g,r,a,m){i[\'GoogleAnalyticsObject\']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,\'script\',\'//www.google-analytics.com/analytics.js\',\'ga\');
 
-',
+  ga(\'create\', \'UA-72128934-1\', \'auto\');
+  ga(\'send\', \'pageview\');
+
+</script>',
         ),
         'policies' => 
         array (
@@ -8268,1281 +5906,435 @@ if ($wf->_config[\'ph\']) {
         array (
         ),
       ),
-      'getResources' => 
+      'Breadcrumb' => 
       array (
         'fields' => 
         array (
-          'id' => 10,
+          'id' => 1,
           'source' => 0,
           'property_preprocess' => false,
-          'name' => 'getResources',
-          'description' => '<strong>1.6.1-pl</strong> A general purpose Resource listing and summarization snippet for MODX Revolution',
+          'name' => 'BreadCrumb',
+          'description' => 'This snippet will create a breadcrumb navigation for the current resource or a specific resource.',
           'editor_type' => 0,
-          'category' => 0,
+          'category' => 1,
           'cache_type' => 0,
           'snippet' => '/**
- * getResources
+ * BreadCrumb
+ * Copyright 2011 Benjamin Vauchel <contact@omycode.fr>
  *
- * A general purpose Resource listing and summarization snippet for MODX 2.x.
+ * BreadCrumb is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU General Public License as published by the Free
+ * Software Foundation; either version 2 of the License, or (at your option) any
+ * later version.
  *
- * @author Jason Coward
- * @copyright Copyright 2010-2013, Jason Coward
+ * BreadCrumb is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU General Public License for more details.
  *
- * TEMPLATES
+ * You should have received a copy of the GNU General Public License along with
+ * BreadCrumb; if not, write to the Free Software Foundation, Inc., 59 Temple Place,
+ * Suite 330, Boston, MA 02111-1307 USA
  *
- * tpl - Name of a chunk serving as a resource template
- * [NOTE: if not provided, properties are dumped to output for each resource]
+ * @package breadcrumb
+ * @author Benjamin Vauchel <contact@omycode.fr>
  *
- * tplOdd - (Opt) Name of a chunk serving as resource template for resources with an odd idx value
- * (see idx property)
- * tplFirst - (Opt) Name of a chunk serving as resource template for the first resource (see first
- * property)
- * tplLast - (Opt) Name of a chunk serving as resource template for the last resource (see last
- * property)
- * tpl_{n} - (Opt) Name of a chunk serving as resource template for the nth resource
+ * @version Version 1.4.3 pl
+ * 07/03/15
  *
- * tplCondition - (Opt) Defines a field of the resource to evaluate against keys defined in the
- * conditionalTpls property. Must be a resource field; does not work with Template Variables.
- * conditionalTpls - (Opt) A JSON object defining a map of field values and the associated tpl to
- * use when the field defined by tplCondition matches the value. [NOTE: tplOdd, tplFirst, tplLast,
- * and tpl_{n} will take precedence over any defined conditionalTpls]
+ * Breadcrumb is a snippet for MODx Revolution, inspired by the Jared\'s BreadCrumbs snippet.
+ * It will create a breadcrumb navigation for the current resource or a specific resource.
  *
- * tplWrapper - (Opt) Name of a chunk serving as a wrapper template for the output
- * [NOTE: Does not work with toSeparatePlaceholders]
+ * Optional properties:
  *
- * SELECTION
+ * @property from - (int) Resource ID of the first crumb; [Default value : 0].
+ * @property to - (int) Resource ID of the last crumb; [Default value : current resource id].
+ * @property exclude - (string) Comma separated list of resources IDs not shown in breadcrumb. [Default value : []]
+ * @property maxCrumbs - (int) Max crumbs shown in breadcrumb. Max delimiter template can be customize with property maxCrumbTpl ; [Default value : 100].
+ * @property showHidden - (bool) Show hidden resources in breadcrumb; [Default value : true].
+ * @property showContainer - (bool) Show container resources in breadcrumb; [Default value : true].
+ * @property showUnPub - (bool) Show unpublished resources in breadcrumb; [Default value : true].
+ * @property showCurrentCrumb - (bool) Show current resource as a crumb; [Default value : true].
+ * @property showBreadCrumbAtHome - (bool) Show BreadCrumb on the home page; [Default value : true].
+ * @property showHomeCrumb - (bool) Add the home page crumb at the start of the breadcrumb; [Default value : true].
+ * @property useWebLinkUrl - (bool) Use the weblink url instead of the url to the weblink; [Default value : true].
+ * @property direction - (string) Direction or breadcrumb : Left To Right (ltr) or Right To Left (rtl) for Arabic language for example; [Default value : ltr].
+ * @property scheme - (string) URL Generation Scheme; [Default value : -1].
  *
- * parents - Comma-delimited list of ids serving as parents
+ * Templates :
  *
- * context - (Opt) Comma-delimited list of context keys to limit results by; if empty, contexts for all specified
- * parents will be used (all contexts if 0 is specified) [default=]
- *
- * depth - (Opt) Integer value indicating depth to search for resources from each parent [default=10]
- *
- * tvFilters - (Opt) Delimited-list of TemplateVar values to filter resources by. Supports two
- * delimiters and two value search formats. The first delimiter || represents a logical OR and the
- * primary grouping mechanism.  Within each group you can provide a comma-delimited list of values.
- * These values can be either tied to a specific TemplateVar by name, e.g. myTV==value, or just the
- * value, indicating you are searching for the value in any TemplateVar tied to the Resource. An
- * example would be &tvFilters=`filter2==one,filter1==bar%||filter1==foo`
- * [NOTE: filtering by values uses a LIKE query and % is considered a wildcard.]
- * [NOTE: this only looks at the raw value set for specific Resource, i. e. there must be a value
- * specifically set for the Resource and it is not evaluated.]
- *
- * tvFiltersAndDelimiter - (Opt) Custom delimiter for logical AND, default \',\', in case you want to
- * match a literal comma in the tvFilters. E.g. &tvFiltersAndDelimiter=`&&`
- * &tvFilters=`filter1==foo,bar&&filter2==baz` [default=,]
- *
- * tvFiltersOrDelimiter - (Opt) Custom delimiter for logical OR, default \'||\', in case you want to
- * match a literal \'||\' in the tvFilters. E.g. &tvFiltersOrDelimiter=`|OR|`
- * &tvFilters=`filter1==foo||bar|OR|filter2==baz` [default=||]
- *
- * where - (Opt) A JSON expression of criteria to build any additional where clauses from. An example would be
- * &where=`{{"alias:LIKE":"foo%", "OR:alias:LIKE":"%bar"},{"OR:pagetitle:=":"foobar", "AND:description:=":"raboof"}}`
- *
- * sortby - (Opt) Field to sort by or a JSON array, e.g. {"publishedon":"ASC","createdon":"DESC"} [default=publishedon]
- * sortbyTV - (opt) A Template Variable name to sort by (if supplied, this precedes the sortby value) [default=]
- * sortbyTVType - (Opt) A data type to CAST a TV Value to in order to sort on it properly [default=string]
- * sortbyAlias - (Opt) Query alias for sortby field [default=]
- * sortbyEscaped - (Opt) Escapes the field name(s) specified in sortby [default=0]
- * sortdir - (Opt) Order which to sort by [default=DESC]
- * sortdirTV - (Opt) Order which to sort by a TV [default=DESC]
- * limit - (Opt) Limits the number of resources returned [default=5]
- * offset - (Opt) An offset of resources returned by the criteria to skip [default=0]
- * dbCacheFlag - (Opt) Controls caching of db queries; 0|false = do not cache result set; 1 = cache result set
- * according to cache settings, any other integer value = number of seconds to cache result set [default=0]
- *
- * OPTIONS
- *
- * includeContent - (Opt) Indicates if the content of each resource should be returned in the
- * results [default=0]
- * includeTVs - (Opt) Indicates if TemplateVar values should be included in the properties available
- * to each resource template [default=0]
- * includeTVList - (Opt) Limits the TemplateVars that are included if includeTVs is true to those specified
- * by name in a comma-delimited list [default=]
- * prepareTVs - (Opt) Prepares media-source dependent TemplateVar values [default=1]
- * prepareTVList - (Opt) Limits the TVs that are prepared to those specified by name in a comma-delimited
- * list [default=]
- * processTVs - (Opt) Indicates if TemplateVar values should be rendered as they would on the
- * resource being summarized [default=0]
- * processTVList - (opt) Limits the TemplateVars that are processed if included to those specified
- * by name in a comma-delimited list [default=]
- * tvPrefix - (Opt) The prefix for TemplateVar properties [default=tv.]
- * idx - (Opt) You can define the starting idx of the resources, which is an property that is
- * incremented as each resource is rendered [default=1]
- * first - (Opt) Define the idx which represents the first resource (see tplFirst) [default=1]
- * last - (Opt) Define the idx which represents the last resource (see tplLast) [default=# of
- * resources being summarized + first - 1]
- * outputSeparator - (Opt) An optional string to separate each tpl instance [default="\\n"]
- * wrapIfEmpty - (Opt) Indicates if the tplWrapper should be applied if the output is empty [default=0]
- *
+ * @property containerTpl - (string) Container template for BreadCrumb; [Default value : BreadCrumbContainerTpl].
+ * @property currentCrumbTpl - (string) Current crumb template for BreadCrumb; [Default value : BreadCrumbCurrentCrumbTpl].
+ * @property linkCrumbTpl - (string) Default crumb template for BreadCrumb; [Default value : BreadCrumbLinkCrumbTpl].
+ * @property categoryCrumbTpl - (string) Default category crumb template for BreadCrumb; [Default value : BreadCrumbCategoryCrumbTpl].
+ * @property maxCrumbTpl - (string) Max delimiter crumb template for BreadCrumb; [Default value : BreadCrumbMaxCrumbTpl].
  */
-$output = array();
-$outputSeparator = isset($outputSeparator) ? $outputSeparator : "\\n";
 
-/* set default properties */
-$tpl = !empty($tpl) ? $tpl : \'\';
-$includeContent = !empty($includeContent) ? true : false;
-$includeTVs = !empty($includeTVs) ? true : false;
-$includeTVList = !empty($includeTVList) ? explode(\',\', $includeTVList) : array();
-$processTVs = !empty($processTVs) ? true : false;
-$processTVList = !empty($processTVList) ? explode(\',\', $processTVList) : array();
-$prepareTVs = !empty($prepareTVs) ? true : false;
-$prepareTVList = !empty($prepareTVList) ? explode(\',\', $prepareTVList) : array();
-$tvPrefix = isset($tvPrefix) ? $tvPrefix : \'tv.\';
-$parents = (!empty($parents) || $parents === \'0\') ? explode(\',\', $parents) : array($modx->resource->get(\'id\'));
-array_walk($parents, \'trim\');
-$parents = array_unique($parents);
-$depth = isset($depth) ? (integer) $depth : 10;
+// Script Properties
+$from                 = !empty($from) ? $from : $modx->getOption(\'from\', $scriptProperties, 0, true, true);
+$to                   = $currentResourceId = !empty($to) ? $to : $modx->getOption(\'to\', $scriptProperties, $modx->resource->get(\'id\'), true);
+$exclude              = !empty($exclude) ? explode(\',\', $exclude) : array();
+$maxCrumbs            = !empty($maxCrumbs) ? abs(intval($maxCrumbs)) : $modx->getOption(\'maxCrumbs\', $scriptProperties, 100, true);
+$showHidden           = isset($showHidden) ? (bool)$showHidden : (bool)$modx->getOption(\'showHidden\', $scriptProperties, true, true);
+$showContainer        = isset($showContainer) ? (bool)$showContainer : (bool)$modx->getOption(\'showContainer\', $scriptProperties, true, true);
+$showUnPub            = isset($showUnPub) ? (bool)$showUnPub : (bool)$modx->getOption(\'showUnPub\', $scriptProperties, true, true);
+$showCurrentCrumb     = isset($showCurrentCrumb) ? (bool)$showCurrentCrumb : (bool)$modx->getOption(\'showCurrentCrumb\', $scriptProperties, true, true);
+$showBreadCrumbAtHome = isset($showBreadCrumbAtHome) ? (bool)$showBreadCrumbAtHome : (bool)$modx->getOption(\'showBreadCrumbAtHome\', $scriptProperties, true, true);
+$showHomeCrumb        = isset($showHomeCrumb) ? (bool)$showHomeCrumb : (bool)$modx->getOption(\'showHomeCrumb\', $scriptProperties, true, true);
+$useWebLinkUrl        = isset($useWebLinkUrl) ? (bool)$useWebLinkUrl : (bool)$modx->getOption(\'useWebLinkUrl\', $scriptProperties, true, true);
+$direction            = !empty($direction) ? $direction : $modx->getOption(\'direction\', $scriptProperties, \'ltr\', true);
+$scheme               = !empty($scheme) ? $scheme : $modx->getOption(\'scheme\', $scriptProperties, $modx->getOption(\'link_tag_scheme\'), true);
+$containerTpl         = !empty($containerTpl) ? $containerTpl : $modx->getOption(\'containerTpl\', $scriptProperties, \'@INLINE <ul id="breadcrumb" itemprop="breadcrumb">[[+crumbs]]</ul>\');
+$homeCrumbTpl         = !empty($homeCrumbTpl) ? $homeCrumbTpl : $modx->getOption(\'homeCrumbTpl\', $scriptProperties, \'@INLINE <li><a href="[[+link]]">[[+pagetitle]]</a></li>\');
+$currentCrumbTpl      = !empty($currentCrumbTpl) ? $currentCrumbTpl : $modx->getOption(\'currentCrumbTpl\', $scriptProperties, \'@INLINE <li>[[+pagetitle]]</li>\');
+$linkCrumbTpl         = !empty($linkCrumbTpl) ? $linkCrumbTpl : $modx->getOption(\'linkCrumbTpl\', $scriptProperties, \'@INLINE <li><a href="[[+link]]">[[+pagetitle]]</a></li>\');
+$categoryCrumbTpl     = !empty($categoryCrumbTpl) ? $categoryCrumbTpl : $modx->getOption(\'categoryCrumbTpl\', $scriptProperties, \'@INLINE <li><a href="[[+link]]">[[+pagetitle]]</a></li>\');
+$maxCrumbTpl          = !empty($maxCrumbTpl) ? $maxCrumbTpl : $modx->getOption(\'maxCrumbTpl\', $scriptProperties, \'@INLINE <li>...</li>\');
 
-$tvFiltersOrDelimiter = isset($tvFiltersOrDelimiter) ? $tvFiltersOrDelimiter : \'||\';
-$tvFiltersAndDelimiter = isset($tvFiltersAndDelimiter) ? $tvFiltersAndDelimiter : \',\';
-$tvFilters = !empty($tvFilters) ? explode($tvFiltersOrDelimiter, $tvFilters) : array();
+// include parseTpl
+include_once $modx->getOption(\'breadcrumb.core_path\',null,$modx->getOption(\'core_path\').\'components/breadcrumb/includes/\').\'include.parsetpl.php\';
 
-$where = !empty($where) ? $modx->fromJSON($where) : array();
-$showUnpublished = !empty($showUnpublished) ? true : false;
-$showDeleted = !empty($showDeleted) ? true : false;
+// Output variable
+$output = \'\';
 
-$sortby = isset($sortby) ? $sortby : \'publishedon\';
-$sortbyTV = isset($sortbyTV) ? $sortbyTV : \'\';
-$sortbyAlias = isset($sortbyAlias) ? $sortbyAlias : \'modResource\';
-$sortbyEscaped = !empty($sortbyEscaped) ? true : false;
-$sortdir = isset($sortdir) ? $sortdir : \'DESC\';
-$sortdirTV = isset($sortdirTV) ? $sortdirTV : \'DESC\';
-$limit = isset($limit) ? (integer) $limit : 5;
-$offset = isset($offset) ? (integer) $offset : 0;
-$totalVar = !empty($totalVar) ? $totalVar : \'total\';
-
-$dbCacheFlag = !isset($dbCacheFlag) ? false : $dbCacheFlag;
-if (is_string($dbCacheFlag) || is_numeric($dbCacheFlag)) {
-    if ($dbCacheFlag == \'0\') {
-        $dbCacheFlag = false;
-    } elseif ($dbCacheFlag == \'1\') {
-        $dbCacheFlag = true;
-    } else {
-        $dbCacheFlag = (integer) $dbCacheFlag;
-    }
-}
-
-/* multiple context support */
-$contextArray = array();
-$contextSpecified = false;
-if (!empty($context)) {
-    $contextArray = explode(\',\',$context);
-    array_walk($contextArray, \'trim\');
-    $contexts = array();
-    foreach ($contextArray as $ctx) {
-        $contexts[] = $modx->quote($ctx);
-    }
-    $context = implode(\',\',$contexts);
-    $contextSpecified = true;
-    unset($contexts,$ctx);
-} else {
-    $context = $modx->quote($modx->context->get(\'key\'));
-}
-
-$pcMap = array();
-$pcQuery = $modx->newQuery(\'modResource\', array(\'id:IN\' => $parents), $dbCacheFlag);
-$pcQuery->select(array(\'id\', \'context_key\'));
-if ($pcQuery->prepare() && $pcQuery->stmt->execute()) {
-    foreach ($pcQuery->stmt->fetchAll(PDO::FETCH_ASSOC) as $pcRow) {
-        $pcMap[(integer) $pcRow[\'id\']] = $pcRow[\'context_key\'];
-    }
-}
-
-$children = array();
-$parentArray = array();
-foreach ($parents as $parent) {
-    $parent = (integer) $parent;
-    if ($parent === 0) {
-        $pchildren = array();
-        if ($contextSpecified) {
-            foreach ($contextArray as $pCtx) {
-                if (!in_array($pCtx, $contextArray)) {
-                    continue;
-                }
-                $options = $pCtx !== $modx->context->get(\'key\') ? array(\'context\' => $pCtx) : array();
-                $pcchildren = $modx->getChildIds($parent, $depth, $options);
-                if (!empty($pcchildren)) $pchildren = array_merge($pchildren, $pcchildren);
-            }
-        } else {
-            $cQuery = $modx->newQuery(\'modContext\', array(\'key:!=\' => \'mgr\'));
-            $cQuery->select(array(\'key\'));
-            if ($cQuery->prepare() && $cQuery->stmt->execute()) {
-                foreach ($cQuery->stmt->fetchAll(PDO::FETCH_COLUMN) as $pCtx) {
-                    $options = $pCtx !== $modx->context->get(\'key\') ? array(\'context\' => $pCtx) : array();
-                    $pcchildren = $modx->getChildIds($parent, $depth, $options);
-                    if (!empty($pcchildren)) $pchildren = array_merge($pchildren, $pcchildren);
-                }
-            }
-        }
-        $parentArray[] = $parent;
-    } else {
-        $pContext = array_key_exists($parent, $pcMap) ? $pcMap[$parent] : false;
-        if ($debug) $modx->log(modX::LOG_LEVEL_ERROR, "context for {$parent} is {$pContext}");
-        if ($pContext && $contextSpecified && !in_array($pContext, $contextArray, true)) {
-            $parent = next($parents);
-            continue;
-        }
-        $parentArray[] = $parent;
-        $options = !empty($pContext) && $pContext !== $modx->context->get(\'key\') ? array(\'context\' => $pContext) : array();
-        $pchildren = $modx->getChildIds($parent, $depth, $options);
-    }
-    if (!empty($pchildren)) $children = array_merge($children, $pchildren);
-    $parent = next($parents);
-}
-$parents = array_merge($parentArray, $children);
-
-/* build query */
-$criteria = array("modResource.parent IN (" . implode(\',\', $parents) . ")");
-if ($contextSpecified) {
-    $contextResourceTbl = $modx->getTableName(\'modContextResource\');
-    $criteria[] = "(modResource.context_key IN ({$context}) OR EXISTS(SELECT 1 FROM {$contextResourceTbl} ctx WHERE ctx.resource = modResource.id AND ctx.context_key IN ({$context})))";
-}
-if (empty($showDeleted)) {
-    $criteria[\'deleted\'] = \'0\';
-}
-if (empty($showUnpublished)) {
-    $criteria[\'published\'] = \'1\';
-}
-if (empty($showHidden)) {
-    $criteria[\'hidemenu\'] = \'0\';
-}
-if (!empty($hideContainers)) {
-    $criteria[\'isfolder\'] = \'0\';
-}
-$criteria = $modx->newQuery(\'modResource\', $criteria);
-if (!empty($tvFilters)) {
-    $tmplVarTbl = $modx->getTableName(\'modTemplateVar\');
-    $tmplVarResourceTbl = $modx->getTableName(\'modTemplateVarResource\');
-    $conditions = array();
-    $operators = array(
-        \'<=>\' => \'<=>\',
-        \'===\' => \'=\',
-        \'!==\' => \'!=\',
-        \'<>\' => \'<>\',
-        \'==\' => \'LIKE\',
-        \'!=\' => \'NOT LIKE\',
-        \'<<\' => \'<\',
-        \'<=\' => \'<=\',
-        \'=<\' => \'=<\',
-        \'>>\' => \'>\',
-        \'>=\' => \'>=\',
-        \'=>\' => \'=>\'
-    );
-    foreach ($tvFilters as $fGroup => $tvFilter) {
-        $filterGroup = array();
-        $filters = explode($tvFiltersAndDelimiter, $tvFilter);
-        $multiple = count($filters) > 0;
-        foreach ($filters as $filter) {
-            $operator = \'==\';
-            $sqlOperator = \'LIKE\';
-            foreach ($operators as $op => $opSymbol) {
-                if (strpos($filter, $op, 1) !== false) {
-                    $operator = $op;
-                    $sqlOperator = $opSymbol;
-                    break;
-                }
-            }
-            $tvValueField = \'tvr.value\';
-            $tvDefaultField = \'tv.default_text\';
-            $f = explode($operator, $filter);
-            if (count($f) >= 2) {
-                if (count($f) > 2) {
-                    $k = array_shift($f);
-                    $b = join($operator, $f);
-                    $f = array($k, $b);
-                }
-                $tvName = $modx->quote($f[0]);
-                if (is_numeric($f[1]) && !in_array($sqlOperator, array(\'LIKE\', \'NOT LIKE\'))) {
-                    $tvValue = $f[1];
-                    if ($f[1] == (integer)$f[1]) {
-                        $tvValueField = "CAST({$tvValueField} AS SIGNED INTEGER)";
-                        $tvDefaultField = "CAST({$tvDefaultField} AS SIGNED INTEGER)";
-                    } else {
-                        $tvValueField = "CAST({$tvValueField} AS DECIMAL)";
-                        $tvDefaultField = "CAST({$tvDefaultField} AS DECIMAL)";
-                    }
-                } else {
-                    $tvValue = $modx->quote($f[1]);
-                }
-                if ($multiple) {
-                    $filterGroup[] =
-                        "(EXISTS (SELECT 1 FROM {$tmplVarResourceTbl} tvr JOIN {$tmplVarTbl} tv ON {$tvValueField} {$sqlOperator} {$tvValue} AND tv.name = {$tvName} AND tv.id = tvr.tmplvarid WHERE tvr.contentid = modResource.id) " .
-                        "OR EXISTS (SELECT 1 FROM {$tmplVarTbl} tv WHERE tv.name = {$tvName} AND {$tvDefaultField} {$sqlOperator} {$tvValue} AND tv.id NOT IN (SELECT tmplvarid FROM {$tmplVarResourceTbl} WHERE contentid = modResource.id)) " .
-                        ")";
-                } else {
-                    $filterGroup =
-                        "(EXISTS (SELECT 1 FROM {$tmplVarResourceTbl} tvr JOIN {$tmplVarTbl} tv ON {$tvValueField} {$sqlOperator} {$tvValue} AND tv.name = {$tvName} AND tv.id = tvr.tmplvarid WHERE tvr.contentid = modResource.id) " .
-                        "OR EXISTS (SELECT 1 FROM {$tmplVarTbl} tv WHERE tv.name = {$tvName} AND {$tvDefaultField} {$sqlOperator} {$tvValue} AND tv.id NOT IN (SELECT tmplvarid FROM {$tmplVarResourceTbl} WHERE contentid = modResource.id)) " .
-                        ")";
-                }
-            } elseif (count($f) == 1) {
-                $tvValue = $modx->quote($f[0]);
-                if ($multiple) {
-                    $filterGroup[] = "EXISTS (SELECT 1 FROM {$tmplVarResourceTbl} tvr JOIN {$tmplVarTbl} tv ON {$tvValueField} {$sqlOperator} {$tvValue} AND tv.id = tvr.tmplvarid WHERE tvr.contentid = modResource.id)";
-                } else {
-                    $filterGroup = "EXISTS (SELECT 1 FROM {$tmplVarResourceTbl} tvr JOIN {$tmplVarTbl} tv ON {$tvValueField} {$sqlOperator} {$tvValue} AND tv.id = tvr.tmplvarid WHERE tvr.contentid = modResource.id)";
-                }
-            }
-        }
-        $conditions[] = $filterGroup;
-    }
-    if (!empty($conditions)) {
-        $firstGroup = true;
-        foreach ($conditions as $cGroup => $c) {
-            if (is_array($c)) {
-                $first = true;
-                foreach ($c as $cond) {
-                    if ($first && !$firstGroup) {
-                        $criteria->condition($criteria->query[\'where\'][0][1], $cond, xPDOQuery::SQL_OR, null, $cGroup);
-                    } else {
-                        $criteria->condition($criteria->query[\'where\'][0][1], $cond, xPDOQuery::SQL_AND, null, $cGroup);
-                    }
-                    $first = false;
-                }
-            } else {
-                $criteria->condition($criteria->query[\'where\'][0][1], $c, $firstGroup ? xPDOQuery::SQL_AND : xPDOQuery::SQL_OR, null, $cGroup);
-            }
-            $firstGroup = false;
-        }
-    }
-}
-/* include/exclude resources, via &resources=`123,-456` prop */
-if (!empty($resources)) {
-    $resourceConditions = array();
-    $resources = explode(\',\',$resources);
-    $include = array();
-    $exclude = array();
-    foreach ($resources as $resource) {
-        $resource = (int)$resource;
-        if ($resource == 0) continue;
-        if ($resource < 0) {
-            $exclude[] = abs($resource);
-        } else {
-            $include[] = $resource;
-        }
-    }
-    if (!empty($include)) {
-        $criteria->where(array(\'OR:modResource.id:IN\' => $include), xPDOQuery::SQL_OR);
-    }
-    if (!empty($exclude)) {
-        $criteria->where(array(\'modResource.id:NOT IN\' => $exclude), xPDOQuery::SQL_AND, null, 1);
-    }
-}
-if (!empty($where)) {
-    $criteria->where($where);
-}
-
-$total = $modx->getCount(\'modResource\', $criteria);
-$modx->setPlaceholder($totalVar, $total);
-
-$fields = array_keys($modx->getFields(\'modResource\'));
-if (empty($includeContent)) {
-    $fields = array_diff($fields, array(\'content\'));
-}
-$columns = $includeContent ? $modx->getSelectColumns(\'modResource\', \'modResource\') : $modx->getSelectColumns(\'modResource\', \'modResource\', \'\', array(\'content\'), true);
-$criteria->select($columns);
-if (!empty($sortbyTV)) {
-    $criteria->leftJoin(\'modTemplateVar\', \'tvDefault\', array(
-        "tvDefault.name" => $sortbyTV
-    ));
-    $criteria->leftJoin(\'modTemplateVarResource\', \'tvSort\', array(
-        "tvSort.contentid = modResource.id",
-        "tvSort.tmplvarid = tvDefault.id"
-    ));
-    if (empty($sortbyTVType)) $sortbyTVType = \'string\';
-    if ($modx->getOption(\'dbtype\') === \'mysql\') {
-        switch ($sortbyTVType) {
-            case \'integer\':
-                $criteria->select("CAST(IFNULL(tvSort.value, tvDefault.default_text) AS SIGNED INTEGER) AS sortTV");
-                break;
-            case \'decimal\':
-                $criteria->select("CAST(IFNULL(tvSort.value, tvDefault.default_text) AS DECIMAL) AS sortTV");
-                break;
-            case \'datetime\':
-                $criteria->select("CAST(IFNULL(tvSort.value, tvDefault.default_text) AS DATETIME) AS sortTV");
-                break;
-            case \'string\':
-            default:
-                $criteria->select("IFNULL(tvSort.value, tvDefault.default_text) AS sortTV");
-                break;
-        }
-    } elseif ($modx->getOption(\'dbtype\') === \'sqlsrv\') {
-        switch ($sortbyTVType) {
-            case \'integer\':
-                $criteria->select("CAST(ISNULL(tvSort.value, tvDefault.default_text) AS BIGINT) AS sortTV");
-                break;
-            case \'decimal\':
-                $criteria->select("CAST(ISNULL(tvSort.value, tvDefault.default_text) AS DECIMAL) AS sortTV");
-                break;
-            case \'datetime\':
-                $criteria->select("CAST(ISNULL(tvSort.value, tvDefault.default_text) AS DATETIME) AS sortTV");
-                break;
-            case \'string\':
-            default:
-                $criteria->select("ISNULL(tvSort.value, tvDefault.default_text) AS sortTV");
-                break;
-        }
-    }
-    $criteria->sortby("sortTV", $sortdirTV);
-}
-if (!empty($sortby)) {
-    if (strpos($sortby, \'{\') === 0) {
-        $sorts = $modx->fromJSON($sortby);
-    } else {
-        $sorts = array($sortby => $sortdir);
-    }
-    if (is_array($sorts)) {
-        while (list($sort, $dir) = each($sorts)) {
-            if ($sortbyEscaped) $sort = $modx->escape($sort);
-            if (!empty($sortbyAlias)) $sort = $modx->escape($sortbyAlias) . ".{$sort}";
-            $criteria->sortby($sort, $dir);
-        }
-    }
-}
-if (!empty($limit)) $criteria->limit($limit, $offset);
-
-if (!empty($debug)) {
-    $criteria->prepare();
-    $modx->log(modX::LOG_LEVEL_ERROR, $criteria->toSQL());
-}
-$collection = $modx->getCollection(\'modResource\', $criteria, $dbCacheFlag);
-
-$idx = !empty($idx) || $idx === \'0\' ? (integer) $idx : 1;
-$first = empty($first) && $first !== \'0\' ? 1 : (integer) $first;
-$last = empty($last) ? (count($collection) + $idx - 1) : (integer) $last;
-
-/* include parseTpl */
-include_once $modx->getOption(\'getresources.core_path\',null,$modx->getOption(\'core_path\').\'components/getresources/\').\'include.parsetpl.php\';
-
-$templateVars = array();
-if (!empty($includeTVs) && !empty($includeTVList)) {
-    $templateVars = $modx->getCollection(\'modTemplateVar\', array(\'name:IN\' => $includeTVList));
-}
-/** @var modResource $resource */
-foreach ($collection as $resourceId => $resource) {
-    $tvs = array();
-    if (!empty($includeTVs)) {
-        if (empty($includeTVList)) {
-            $templateVars = $resource->getMany(\'TemplateVars\');
-        }
-        /** @var modTemplateVar $templateVar */
-        foreach ($templateVars as $tvId => $templateVar) {
-            if (!empty($includeTVList) && !in_array($templateVar->get(\'name\'), $includeTVList)) continue;
-            if ($processTVs && (empty($processTVList) || in_array($templateVar->get(\'name\'), $processTVList))) {
-                $tvs[$tvPrefix . $templateVar->get(\'name\')] = $templateVar->renderOutput($resource->get(\'id\'));
-            } else {
-                $value = $templateVar->getValue($resource->get(\'id\'));
-                if ($prepareTVs && method_exists($templateVar, \'prepareOutput\') && (empty($prepareTVList) || in_array($templateVar->get(\'name\'), $prepareTVList))) {
-                    $value = $templateVar->prepareOutput($value);
-                }
-                $tvs[$tvPrefix . $templateVar->get(\'name\')] = $value;
-            }
-        }
-    }
-    $odd = ($idx & 1);
-    $properties = array_merge(
-        $scriptProperties
-        ,array(
-            \'idx\' => $idx
-            ,\'first\' => $first
-            ,\'last\' => $last
-            ,\'odd\' => $odd
-        )
-        ,$includeContent ? $resource->toArray() : $resource->get($fields)
-        ,$tvs
-    );
-    $resourceTpl = false;
-    if ($idx == $first && !empty($tplFirst)) {
-        $resourceTpl = parseTpl($tplFirst, $properties);
-    }
-    if ($idx == $last && empty($resourceTpl) && !empty($tplLast)) {
-        $resourceTpl = parseTpl($tplLast, $properties);
-    }
-    $tplidx = \'tpl_\' . $idx;
-    if (empty($resourceTpl) && !empty($$tplidx)) {
-        $resourceTpl = parseTpl($$tplidx, $properties);
-    }
-    if ($idx > 1 && empty($resourceTpl)) {
-        $divisors = getDivisors($idx);
-        if (!empty($divisors)) {
-            foreach ($divisors as $divisor) {
-                $tplnth = \'tpl_n\' . $divisor;
-                if (!empty($$tplnth)) {
-                    $resourceTpl = parseTpl($$tplnth, $properties);
-                    if (!empty($resourceTpl)) {
-                        break;
-                    }
-                }
-            }
-        }
-    }
-    if ($odd && empty($resourceTpl) && !empty($tplOdd)) {
-        $resourceTpl = parseTpl($tplOdd, $properties);
-    }
-    if (!empty($tplCondition) && !empty($conditionalTpls) && empty($resourceTpl)) {
-        $conTpls = $modx->fromJSON($conditionalTpls);
-        $subject = $properties[$tplCondition];
-        $tplOperator = !empty($tplOperator) ? $tplOperator : \'=\';
-        $tplOperator = strtolower($tplOperator);
-        $tplCon = \'\';
-        foreach ($conTpls as $operand => $conditionalTpl) {
-            switch ($tplOperator) {
-                case \'!=\':
-                case \'neq\':
-                case \'not\':
-                case \'isnot\':
-                case \'isnt\':
-                case \'unequal\':
-                case \'notequal\':
-                    $tplCon = (($subject != $operand) ? $conditionalTpl : $tplCon);
-                    break;
-                case \'<\':
-                case \'lt\':
-                case \'less\':
-                case \'lessthan\':
-                    $tplCon = (($subject < $operand) ? $conditionalTpl : $tplCon);
-                    break;
-                case \'>\':
-                case \'gt\':
-                case \'greater\':
-                case \'greaterthan\':
-                    $tplCon = (($subject > $operand) ? $conditionalTpl : $tplCon);
-                    break;
-                case \'<=\':
-                case \'lte\':
-                case \'lessthanequals\':
-                case \'lessthanorequalto\':
-                    $tplCon = (($subject <= $operand) ? $conditionalTpl : $tplCon);
-                    break;
-                case \'>=\':
-                case \'gte\':
-                case \'greaterthanequals\':
-                case \'greaterthanequalto\':
-                    $tplCon = (($subject >= $operand) ? $conditionalTpl : $tplCon);
-                    break;
-                case \'isempty\':
-                case \'empty\':
-                    $tplCon = empty($subject) ? $conditionalTpl : $tplCon;
-                    break;
-                case \'!empty\':
-                case \'notempty\':
-                case \'isnotempty\':
-                    $tplCon = !empty($subject) && $subject != \'\' ? $conditionalTpl : $tplCon;
-                    break;
-                case \'isnull\':
-                case \'null\':
-                    $tplCon = $subject == null || strtolower($subject) == \'null\' ? $conditionalTpl : $tplCon;
-                    break;
-                case \'inarray\':
-                case \'in_array\':
-                case \'ia\':
-                    $operand = explode(\',\', $operand);
-                    $tplCon = in_array($subject, $operand) ? $conditionalTpl : $tplCon;
-                    break;
-                case \'between\':
-                case \'range\':
-                case \'>=<\':
-                case \'><\':
-                    $operand = explode(\',\', $operand);
-                    $tplCon = ($subject >= min($operand) && $subject <= max($operand)) ? $conditionalTpl : $tplCon;
-                    break;
-                case \'==\':
-                case \'=\':
-                case \'eq\':
-                case \'is\':
-                case \'equal\':
-                case \'equals\':
-                case \'equalto\':
-                default:
-                    $tplCon = (($subject == $operand) ? $conditionalTpl : $tplCon);
-                    break;
-            }
-        }
-        if (!empty($tplCon)) {
-            $resourceTpl = parseTpl($tplCon, $properties);
-        }
-    }
-    if (!empty($tpl) && empty($resourceTpl)) {
-        $resourceTpl = parseTpl($tpl, $properties);
-    }
-    if ($resourceTpl === false && !empty($debug)) {
-        $chunk = $modx->newObject(\'modChunk\');
-        $chunk->setCacheable(false);
-        $output[]= $chunk->process(array(), \'<pre>\' . print_r($properties, true) .\'</pre>\');
-    } else {
-        $output[]= $resourceTpl;
-    }
-    $idx++;
-}
-
-/* output */
-$toSeparatePlaceholders = $modx->getOption(\'toSeparatePlaceholders\', $scriptProperties, false);
-if (!empty($toSeparatePlaceholders)) {
-    $modx->setPlaceholders($output, $toSeparatePlaceholders);
+// We check if current resource is the homepage and if breadcrumb is shown for the homepage
+if (!$showBreadCrumbAtHome && $modx->resource->get(\'id\') == $modx->getOption(\'site_start\')) {
     return \'\';
 }
 
-$output = implode($outputSeparator, $output);
+// We get all the other crumbs
+$crumbs = array();
+$crumbsCount = 0;
+$resourceId = $to;
+while ($resourceId != $from && $crumbsCount < $maxCrumbs)
+{
+    if (!$resource = $modx->getObject(\'modResource\', $resourceId)) {
+        break;
+    }
 
-$tplWrapper = $modx->getOption(\'tplWrapper\', $scriptProperties, false);
-$wrapIfEmpty = $modx->getOption(\'wrapIfEmpty\', $scriptProperties, false);
-if (!empty($tplWrapper) && ($wrapIfEmpty || !empty($output))) {
-    $output = parseTpl($tplWrapper, array_merge($scriptProperties, array(\'output\' => $output)));
+    // We check the conditions to show crumb
+    if (
+        $resourceId != $modx->getOption(\'site_start\')                                                                           // ShowHomeCrumb
+        && (($resource->get(\'hidemenu\') && $showHidden) || !$resource->get(\'hidemenu\'))                                         // ShowHidden
+        && (($resource->get(\'isfolder\') && $showContainer) || !$resource->get(\'isfolder\'))                                      // ShowContainer
+        && ((!$resource->get(\'published\') && $showUnPub) || $resource->get(\'published\'))                                        // UnPub
+        && (($resourceId == $currentResourceId && $showCurrentCrumb) || $resourceId != $currentResourceId)                      // ShowCurrent
+        && !in_array($resourceId, $exclude)                                                                                     // Excluded resources
+    ) {
+        // If is LTR direction, we push resource at the beginning of the array
+        if ($direction == \'ltr\') {
+            array_unshift($crumbs, $resource);
+        }
+        // Else we push it at the end
+        else {
+            $crumbs[] = $resource;
+        }
+
+        $crumbsCount++;
+    }
+    $resourceId = $resource->get(\'parent\');
 }
 
-$toPlaceholder = $modx->getOption(\'toPlaceholder\', $scriptProperties, false);
-if (!empty($toPlaceholder)) {
-    $modx->setPlaceholder($toPlaceholder, $output);
-    return \'\';
+// Add home crumb
+if ($showHomeCrumb && $resource = $modx->getObject(\'modResource\', $modx->getOption(\'site_start\'))) {
+    if ($direction == \'ltr\') {
+        array_unshift($crumbs, $resource);
+    } else {
+        $crumbs[] = $resource;
+    }
 }
+
+// We build the output of crumbs
+foreach($crumbs as $key => $resource)
+{
+    // Home crumb tpl ?
+    if ($resource->get(\'id\') == $modx->getOption(\'site_start\'))
+    {
+        $tpl = $homeCrumbTpl;
+    }
+    // Current crumb tpl ?
+    elseif ($showCurrentCrumb && ($resource->get(\'id\') == $currentResourceId))
+    {
+        $tpl = $currentCrumbTpl;
+    }
+    // resource is a container only, calculated in a similar manner to Wayfinder
+    elseif ($resource->get(\'isfolder\')
+        && ( $resource->get(\'template\') == 0
+            || strpos($resource->get(\'link_attributes\'), \'rel="category"\') !== false
+            )
+    ) {
+        $tpl = $categoryCrumbTpl;
+    }
+    // or default crumb tpl ?
+    else {
+        $tpl = $linkCrumbTpl;
+    }
+
+    // Placeholders
+    $placeholders = $resource->toArray();
+    if ($resource->get(\'class_key\') == \'modWebLink\' && $useWebLinkUrl) {
+        if (is_numeric($resource->get(\'content\'))) {
+            $link = $modx->makeUrl($resource->get(\'content\'), \'\', \'\', $scheme);
+        } else {
+            $link = $resource->get(\'content\');
+        }
+    } else {
+        $link = $modx->makeUrl($resource->get(\'id\'), \'\', \'\', $scheme);
+    }
+    $placeholders = array_merge($resource->toArray(), array(\'link\' => $link));
+
+    // Output
+    $output .= parseTpl($tpl, $placeholders);
+}
+
+// We add the max delimiter to the crumbs output, if the max limit was reached
+if ($crumbsCount == $maxCrumbs) {
+    // If is LTR direction, we push the max delimiter at the beginning of the crumbs
+    if ($direction == \'ltr\') {
+        $output = parseTpl($maxCrumbTpl).$output;
+    }
+    // Else we push it at the end
+    else {
+        $output .= parseTpl($maxCrumbTpl);
+    }
+}
+
+// We build the breadcrumb output
+$output = parseTpl($containerTpl, array(
+    \'crumbs\' => $output,
+));
+
 return $output;',
           'locked' => false,
           'properties' => 
           array (
-            'tpl' => 
+            'from' => 
             array (
-              'name' => 'tpl',
-              'desc' => 'Name of a chunk serving as a resource template. NOTE: if not provided, properties are dumped to output for each resource.',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Name of a chunk serving as a resource template. NOTE: if not provided, properties are dumped to output for each resource.',
-              'area_trans' => '',
-            ),
-            'tplOdd' => 
-            array (
-              'name' => 'tplOdd',
-              'desc' => 'Name of a chunk serving as resource template for resources with an odd idx value (see idx property).',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Name of a chunk serving as resource template for resources with an odd idx value (see idx property).',
-              'area_trans' => '',
-            ),
-            'tplFirst' => 
-            array (
-              'name' => 'tplFirst',
-              'desc' => 'Name of a chunk serving as resource template for the first resource (see first property).',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Name of a chunk serving as resource template for the first resource (see first property).',
-              'area_trans' => '',
-            ),
-            'tplLast' => 
-            array (
-              'name' => 'tplLast',
-              'desc' => 'Name of a chunk serving as resource template for the last resource (see last property).',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Name of a chunk serving as resource template for the last resource (see last property).',
-              'area_trans' => '',
-            ),
-            'tplWrapper' => 
-            array (
-              'name' => 'tplWrapper',
-              'desc' => 'Name of a chunk serving as wrapper template for the Snippet output. This does not work with toSeparatePlaceholders.',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Name of a chunk serving as wrapper template for the Snippet output. This does not work with toSeparatePlaceholders.',
-              'area_trans' => '',
-            ),
-            'wrapIfEmpty' => 
-            array (
-              'name' => 'wrapIfEmpty',
-              'desc' => 'Indicates if empty output should be wrapped by the tplWrapper, if specified. Defaults to false.',
-              'type' => 'combo-boolean',
-              'options' => '',
-              'value' => false,
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Indicates if empty output should be wrapped by the tplWrapper, if specified. Defaults to false.',
-              'area_trans' => '',
-            ),
-            'sortby' => 
-            array (
-              'name' => 'sortby',
-              'desc' => 'A field name to sort by or JSON object of field names and sortdir for each field, e.g. {"publishedon":"ASC","createdon":"DESC"}. Defaults to publishedon.',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => 'publishedon',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'A field name to sort by or JSON object of field names and sortdir for each field, e.g. {"publishedon":"ASC","createdon":"DESC"}. Defaults to publishedon.',
-              'area_trans' => '',
-            ),
-            'sortbyTV' => 
-            array (
-              'name' => 'sortbyTV',
-              'desc' => 'Name of a Template Variable to sort by. Defaults to empty string.',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Name of a Template Variable to sort by. Defaults to empty string.',
-              'area_trans' => '',
-            ),
-            'sortbyTVType' => 
-            array (
-              'name' => 'sortbyTVType',
-              'desc' => 'An optional type to indicate how to sort on the Template Variable value.',
-              'type' => 'list',
-              'options' => 
-              array (
-                0 => 
-                array (
-                  'text' => 'string',
-                  'value' => 'string',
-                  'name' => 'Строка',
-                ),
-                1 => 
-                array (
-                  'text' => 'integer',
-                  'value' => 'integer',
-                  'name' => 'integer',
-                ),
-                2 => 
-                array (
-                  'text' => 'decimal',
-                  'value' => 'decimal',
-                  'name' => 'decimal',
-                ),
-                3 => 
-                array (
-                  'text' => 'datetime',
-                  'value' => 'datetime',
-                  'name' => 'datetime',
-                ),
-              ),
-              'value' => 'string',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'An optional type to indicate how to sort on the Template Variable value.',
-              'area_trans' => '',
-            ),
-            'sortbyAlias' => 
-            array (
-              'name' => 'sortbyAlias',
-              'desc' => 'Query alias for sortby field. Defaults to an empty string.',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Query alias for sortby field. Defaults to an empty string.',
-              'area_trans' => '',
-            ),
-            'sortbyEscaped' => 
-            array (
-              'name' => 'sortbyEscaped',
-              'desc' => 'Determines if the field name specified in sortby should be escaped. Defaults to 0.',
+              'name' => 'from',
+              'desc' => 'breadcrumb_snippet_from_desc',
               'type' => 'textfield',
               'options' => '',
               'value' => '0',
-              'lexicon' => NULL,
+              'lexicon' => 'breadcrumb:properties',
               'area' => '',
-              'desc_trans' => 'Determines if the field name specified in sortby should be escaped. Defaults to 0.',
+              'desc_trans' => 'Resource ID of the first crumb.',
               'area_trans' => '',
             ),
-            'sortdir' => 
+            'to' => 
             array (
-              'name' => 'sortdir',
-              'desc' => 'Order which to sort by. Defaults to DESC.',
-              'type' => 'list',
-              'options' => 
-              array (
-                0 => 
-                array (
-                  'text' => 'ASC',
-                  'value' => 'ASC',
-                  'name' => 'ASC',
-                ),
-                1 => 
-                array (
-                  'text' => 'DESC',
-                  'value' => 'DESC',
-                  'name' => 'DESC',
-                ),
-              ),
-              'value' => 'DESC',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Order which to sort by. Defaults to DESC.',
-              'area_trans' => '',
-            ),
-            'sortdirTV' => 
-            array (
-              'name' => 'sortdirTV',
-              'desc' => 'Order which to sort a Template Variable by. Defaults to DESC.',
-              'type' => 'list',
-              'options' => 
-              array (
-                0 => 
-                array (
-                  'text' => 'ASC',
-                  'value' => 'ASC',
-                  'name' => 'ASC',
-                ),
-                1 => 
-                array (
-                  'text' => 'DESC',
-                  'value' => 'DESC',
-                  'name' => 'DESC',
-                ),
-              ),
-              'value' => 'DESC',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Order which to sort a Template Variable by. Defaults to DESC.',
-              'area_trans' => '',
-            ),
-            'limit' => 
-            array (
-              'name' => 'limit',
-              'desc' => 'Limits the number of resources returned. Defaults to 5.',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '5',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Limits the number of resources returned. Defaults to 5.',
-              'area_trans' => '',
-            ),
-            'offset' => 
-            array (
-              'name' => 'offset',
-              'desc' => 'An offset of resources returned by the criteria to skip.',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '0',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'An offset of resources returned by the criteria to skip.',
-              'area_trans' => '',
-            ),
-            'tvFilters' => 
-            array (
-              'name' => 'tvFilters',
-              'desc' => 'Delimited-list of TemplateVar values to filter resources by. Supports two delimiters and two value search formats. THe first delimiter || represents a logical OR and the primary grouping mechanism.  Within each group you can provide a comma-delimited list of values. These values can be either tied to a specific TemplateVar by name, e.g. myTV==value, or just the value, indicating you are searching for the value in any TemplateVar tied to the Resource. An example would be &tvFilters=`filter2==one,filter1==bar%||filter1==foo`. <br />NOTE: filtering by values uses a LIKE query and % is considered a wildcard. <br />ANOTHER NOTE: This only looks at the raw value set for specific Resource, i. e. there must be a value specifically set for the Resource and it is not evaluated.',
+              'name' => 'to',
+              'desc' => 'breadcrumb_snippet_to_desc',
               'type' => 'textfield',
               'options' => '',
               'value' => '',
-              'lexicon' => NULL,
+              'lexicon' => 'breadcrumb:properties',
               'area' => '',
-              'desc_trans' => 'Delimited-list of TemplateVar values to filter resources by. Supports two delimiters and two value search formats. THe first delimiter || represents a logical OR and the primary grouping mechanism.  Within each group you can provide a comma-delimited list of values. These values can be either tied to a specific TemplateVar by name, e.g. myTV==value, or just the value, indicating you are searching for the value in any TemplateVar tied to the Resource. An example would be &tvFilters=`filter2==one,filter1==bar%||filter1==foo`. <br />NOTE: filtering by values uses a LIKE query and % is considered a wildcard. <br />ANOTHER NOTE: This only looks at the raw value set for specific Resource, i. e. there must be a value specifically set for the Resource and it is not evaluated.',
+              'desc_trans' => 'Resource ID of the last crumb.',
               'area_trans' => '',
             ),
-            'tvFiltersAndDelimiter' => 
+            'maxCrumbs' => 
             array (
-              'name' => 'tvFiltersAndDelimiter',
-              'desc' => 'The delimiter to use to separate logical AND expressions in tvFilters. Default is ,',
+              'name' => 'maxCrumbs',
+              'desc' => 'breadcrumb_snippet_maxcrumbs_desc',
               'type' => 'textfield',
               'options' => '',
-              'value' => ',',
-              'lexicon' => NULL,
+              'value' => '100',
+              'lexicon' => 'breadcrumb:properties',
               'area' => '',
-              'desc_trans' => 'The delimiter to use to separate logical AND expressions in tvFilters. Default is ,',
-              'area_trans' => '',
-            ),
-            'tvFiltersOrDelimiter' => 
-            array (
-              'name' => 'tvFiltersOrDelimiter',
-              'desc' => 'The delimiter to use to separate logical OR expressions in tvFilters. Default is ||',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '||',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'The delimiter to use to separate logical OR expressions in tvFilters. Default is ||',
-              'area_trans' => '',
-            ),
-            'depth' => 
-            array (
-              'name' => 'depth',
-              'desc' => 'Integer value indicating depth to search for resources from each parent. Defaults to 10.',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '10',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Integer value indicating depth to search for resources from each parent. Defaults to 10.',
-              'area_trans' => '',
-            ),
-            'parents' => 
-            array (
-              'name' => 'parents',
-              'desc' => 'Optional. Comma-delimited list of ids serving as parents.',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Optional. Comma-delimited list of ids serving as parents.',
-              'area_trans' => '',
-            ),
-            'includeContent' => 
-            array (
-              'name' => 'includeContent',
-              'desc' => 'Indicates if the content of each resource should be returned in the results. Defaults to false.',
-              'type' => 'combo-boolean',
-              'options' => '',
-              'value' => false,
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Indicates if the content of each resource should be returned in the results. Defaults to false.',
-              'area_trans' => '',
-            ),
-            'includeTVs' => 
-            array (
-              'name' => 'includeTVs',
-              'desc' => 'Indicates if TemplateVar values should be included in the properties available to each resource template. Defaults to false.',
-              'type' => 'combo-boolean',
-              'options' => '',
-              'value' => false,
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Indicates if TemplateVar values should be included in the properties available to each resource template. Defaults to false.',
-              'area_trans' => '',
-            ),
-            'includeTVList' => 
-            array (
-              'name' => 'includeTVList',
-              'desc' => 'Limits included TVs to those specified as a comma-delimited list of TV names. Defaults to empty.',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Limits included TVs to those specified as a comma-delimited list of TV names. Defaults to empty.',
+              'desc_trans' => 'Max crumbs shown in breadcrumb',
               'area_trans' => '',
             ),
             'showHidden' => 
             array (
               'name' => 'showHidden',
-              'desc' => 'Indicates if Resources that are hidden from menus should be shown. Defaults to false.',
-              'type' => 'combo-boolean',
-              'options' => '',
-              'value' => false,
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Indicates if Resources that are hidden from menus should be shown. Defaults to false.',
-              'area_trans' => '',
-            ),
-            'showUnpublished' => 
-            array (
-              'name' => 'showUnpublished',
-              'desc' => 'Indicates if Resources that are unpublished should be shown. Defaults to false.',
-              'type' => 'combo-boolean',
-              'options' => '',
-              'value' => false,
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Indicates if Resources that are unpublished should be shown. Defaults to false.',
-              'area_trans' => '',
-            ),
-            'showDeleted' => 
-            array (
-              'name' => 'showDeleted',
-              'desc' => 'Indicates if Resources that are deleted should be shown. Defaults to false.',
-              'type' => 'combo-boolean',
-              'options' => '',
-              'value' => false,
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Indicates if Resources that are deleted should be shown. Defaults to false.',
-              'area_trans' => '',
-            ),
-            'resources' => 
-            array (
-              'name' => 'resources',
-              'desc' => 'A comma-separated list of resource IDs to exclude or include. IDs with a - in front mean to exclude. Ex: 123,-456 means to include Resource 123, but always exclude Resource 456.',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'A comma-separated list of resource IDs to exclude or include. IDs with a - in front mean to exclude. Ex: 123,-456 means to include Resource 123, but always exclude Resource 456.',
-              'area_trans' => '',
-            ),
-            'processTVs' => 
-            array (
-              'name' => 'processTVs',
-              'desc' => 'Indicates if TemplateVar values should be rendered as they would on the resource being summarized. Defaults to false.',
-              'type' => 'combo-boolean',
-              'options' => '',
-              'value' => false,
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Indicates if TemplateVar values should be rendered as they would on the resource being summarized. Defaults to false.',
-              'area_trans' => '',
-            ),
-            'processTVList' => 
-            array (
-              'name' => 'processTVList',
-              'desc' => 'Limits processed TVs to those specified as a comma-delimited list of TV names; note only includedTVs will be available for processing if specified. Defaults to empty.',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Limits processed TVs to those specified as a comma-delimited list of TV names; note only includedTVs will be available for processing if specified. Defaults to empty.',
-              'area_trans' => '',
-            ),
-            'prepareTVs' => 
-            array (
-              'name' => 'prepareTVs',
-              'desc' => 'Indicates if TemplateVar values that are not processed fully should be prepared before being returned. Defaults to true.',
+              'desc' => 'breadcrumb_snippet_showhidden_desc',
               'type' => 'combo-boolean',
               'options' => '',
               'value' => true,
-              'lexicon' => NULL,
+              'lexicon' => 'breadcrumb:properties',
               'area' => '',
-              'desc_trans' => 'Indicates if TemplateVar values that are not processed fully should be prepared before being returned. Defaults to true.',
+              'desc_trans' => 'Show hidden resources in breadcrumb.',
               'area_trans' => '',
             ),
-            'prepareTVList' => 
+            'showContainer' => 
             array (
-              'name' => 'prepareTVList',
-              'desc' => 'Limits prepared TVs to those specified as a comma-delimited list of TV names; note only includedTVs will be available for preparing if specified. Defaults to empty.',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Limits prepared TVs to those specified as a comma-delimited list of TV names; note only includedTVs will be available for preparing if specified. Defaults to empty.',
-              'area_trans' => '',
-            ),
-            'tvPrefix' => 
-            array (
-              'name' => 'tvPrefix',
-              'desc' => 'The prefix for TemplateVar properties. Defaults to: tv.',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => 'tv.',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'The prefix for TemplateVar properties. Defaults to: tv.',
-              'area_trans' => '',
-            ),
-            'idx' => 
-            array (
-              'name' => 'idx',
-              'desc' => 'You can define the starting idx of the resources, which is an property that is incremented as each resource is rendered.',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'You can define the starting idx of the resources, which is an property that is incremented as each resource is rendered.',
-              'area_trans' => '',
-            ),
-            'first' => 
-            array (
-              'name' => 'first',
-              'desc' => 'Define the idx which represents the first resource (see tplFirst). Defaults to 1.',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Define the idx which represents the first resource (see tplFirst). Defaults to 1.',
-              'area_trans' => '',
-            ),
-            'last' => 
-            array (
-              'name' => 'last',
-              'desc' => 'Define the idx which represents the last resource (see tplLast). Defaults to the number of resources being summarized + first - 1',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'Define the idx which represents the last resource (see tplLast). Defaults to the number of resources being summarized + first - 1',
-              'area_trans' => '',
-            ),
-            'toPlaceholder' => 
-            array (
-              'name' => 'toPlaceholder',
-              'desc' => 'If set, will assign the result to this placeholder instead of outputting it directly.',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'If set, will assign the result to this placeholder instead of outputting it directly.',
-              'area_trans' => '',
-            ),
-            'toSeparatePlaceholders' => 
-            array (
-              'name' => 'toSeparatePlaceholders',
-              'desc' => 'If set, will assign EACH result to a separate placeholder named by this param suffixed with a sequential number (starting from 0).',
-              'type' => 'textfield',
-              'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
-              'area' => '',
-              'desc_trans' => 'If set, will assign EACH result to a separate placeholder named by this param suffixed with a sequential number (starting from 0).',
-              'area_trans' => '',
-            ),
-            'debug' => 
-            array (
-              'name' => 'debug',
-              'desc' => 'If true, will send the SQL query to the MODX log. Defaults to false.',
+              'name' => 'showContainer',
+              'desc' => 'breadcrumb_snippet_showcontainer_desc',
               'type' => 'combo-boolean',
               'options' => '',
-              'value' => false,
-              'lexicon' => NULL,
+              'value' => true,
+              'lexicon' => 'breadcrumb:properties',
               'area' => '',
-              'desc_trans' => 'If true, will send the SQL query to the MODX log. Defaults to false.',
+              'desc_trans' => 'Show container resources in breadcrumb.',
               'area_trans' => '',
             ),
-            'where' => 
+            'showUnPub' => 
             array (
-              'name' => 'where',
-              'desc' => 'A JSON expression of criteria to build any additional where clauses from, e.g. &where=`{{"alias:LIKE":"foo%", "OR:alias:LIKE":"%bar"},{"OR:pagetitle:=":"foobar", "AND:description:=":"raboof"}}`',
-              'type' => 'textfield',
+              'name' => 'showUnPub',
+              'desc' => 'breadcrumb_snippet_showunpub_desc',
+              'type' => 'combo-boolean',
               'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
+              'value' => true,
+              'lexicon' => 'breadcrumb:properties',
               'area' => '',
-              'desc_trans' => 'A JSON expression of criteria to build any additional where clauses from, e.g. &where=`{{"alias:LIKE":"foo%", "OR:alias:LIKE":"%bar"},{"OR:pagetitle:=":"foobar", "AND:description:=":"raboof"}}`',
+              'desc_trans' => 'Show unpublished resources in breadcrumb.',
               'area_trans' => '',
             ),
-            'dbCacheFlag' => 
+            'showCurrentCrumb' => 
             array (
-              'name' => 'dbCacheFlag',
-              'desc' => 'Determines how result sets are cached if cache_db is enabled in MODX. 0|false = do not cache result set; 1 = cache result set according to cache settings, any other integer value = number of seconds to cache result set',
-              'type' => 'textfield',
+              'name' => 'showCurrentCrumb',
+              'desc' => 'breadcrumb_snippet_showcurrentcrumb_desc',
+              'type' => 'combo-boolean',
               'options' => '',
-              'value' => '0',
-              'lexicon' => NULL,
+              'value' => true,
+              'lexicon' => 'breadcrumb:properties',
               'area' => '',
-              'desc_trans' => 'Determines how result sets are cached if cache_db is enabled in MODX. 0|false = do not cache result set; 1 = cache result set according to cache settings, any other integer value = number of seconds to cache result set',
+              'desc_trans' => 'Show current resource as a crumb.',
               'area_trans' => '',
             ),
-            'context' => 
+            'showBreadCrumbAtHome' => 
             array (
-              'name' => 'context',
-              'desc' => 'A comma-delimited list of context keys for limiting results. Default is empty, i.e. do not limit results by context.',
-              'type' => 'textfield',
+              'name' => 'showBreadCrumbAtHome',
+              'desc' => 'breadcrumb_snippet_showbreadcrumbatHome_desc',
+              'type' => 'combo-boolean',
               'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
+              'value' => true,
+              'lexicon' => 'breadcrumb:properties',
               'area' => '',
-              'desc_trans' => 'A comma-delimited list of context keys for limiting results. Default is empty, i.e. do not limit results by context.',
+              'desc_trans' => 'Show BreadCrumb on the home page.',
               'area_trans' => '',
             ),
-            'tplCondition' => 
+            'showHomeCrumb' => 
             array (
-              'name' => 'tplCondition',
-              'desc' => 'A condition to compare against the conditionalTpls property to map Resources to different tpls based on custom conditional logic.',
-              'type' => 'textfield',
+              'name' => 'showHomeCrumb',
+              'desc' => 'breadcrumb_snippet_showhomecrumb_desc',
+              'type' => 'combo-boolean',
               'options' => '',
-              'value' => '',
-              'lexicon' => NULL,
+              'value' => true,
+              'lexicon' => 'breadcrumb:properties',
               'area' => '',
-              'desc_trans' => 'A condition to compare against the conditionalTpls property to map Resources to different tpls based on custom conditional logic.',
+              'desc_trans' => 'Show the home page as a crumb.',
               'area_trans' => '',
             ),
-            'tplOperator' => 
+            'useWebLinkUrl' => 
             array (
-              'name' => 'tplOperator',
-              'desc' => 'An optional operator to use for the tplCondition when comparing against the conditionalTpls operands. Default is == (equals).',
+              'name' => 'useWebLinkUrl',
+              'desc' => 'breadcrumb_snippet_useweblinkurl_desc',
+              'type' => 'combo-boolean',
+              'options' => '',
+              'value' => true,
+              'lexicon' => 'breadcrumb:properties',
+              'area' => '',
+              'desc_trans' => 'Use the weblink url instead of the url to the weblink.',
+              'area_trans' => '',
+            ),
+            'direction' => 
+            array (
+              'name' => 'direction',
+              'desc' => 'breadcrumb_snippet_direction_desc',
               'type' => 'list',
               'options' => 
               array (
                 0 => 
                 array (
-                  'text' => 'is equal to',
-                  'value' => '==',
-                  'name' => 'is equal to',
+                  'value' => 'ltr',
+                  'text' => 'Left To Right (ltr)',
+                  'name' => 'Left To Right (ltr)',
                 ),
                 1 => 
                 array (
-                  'text' => 'is not equal to',
-                  'value' => '!=',
-                  'name' => 'is not equal to',
-                ),
-                2 => 
-                array (
-                  'text' => 'less than',
-                  'value' => '<',
-                  'name' => 'less than',
-                ),
-                3 => 
-                array (
-                  'text' => 'less than or equal to',
-                  'value' => '<=',
-                  'name' => 'less than or equal to',
-                ),
-                4 => 
-                array (
-                  'text' => 'greater than or equal to',
-                  'value' => '>=',
-                  'name' => 'greater than or equal to',
-                ),
-                5 => 
-                array (
-                  'text' => 'is empty',
-                  'value' => 'empty',
-                  'name' => 'is empty',
-                ),
-                6 => 
-                array (
-                  'text' => 'is not empty',
-                  'value' => '!empty',
-                  'name' => 'is not empty',
-                ),
-                7 => 
-                array (
-                  'text' => 'is null',
-                  'value' => 'null',
-                  'name' => 'is null',
-                ),
-                8 => 
-                array (
-                  'text' => 'is in array',
-                  'value' => 'inarray',
-                  'name' => 'is in array',
-                ),
-                9 => 
-                array (
-                  'text' => 'is between',
-                  'value' => 'between',
-                  'name' => 'is between',
+                  'value' => 'rtl',
+                  'text' => ' Right To Left (rtl)',
+                  'name' => ' Right To Left (rtl)',
                 ),
               ),
-              'value' => '==',
-              'lexicon' => NULL,
+              'value' => 'ltr',
+              'lexicon' => 'breadcrumb:properties',
               'area' => '',
-              'desc_trans' => 'An optional operator to use for the tplCondition when comparing against the conditionalTpls operands. Default is == (equals).',
+              'desc_trans' => 'Direction or breadcrumb : Left To Right (ltr) or Right To Left (rtl) for Arabic language for example.',
               'area_trans' => '',
             ),
-            'conditionalTpls' => 
+            'scheme' => 
             array (
-              'name' => 'conditionalTpls',
-              'desc' => 'A JSON map of conditional operands and tpls to compare against the tplCondition property using the specified tplOperator.',
+              'name' => 'scheme',
+              'desc' => 'breadcrumb_snippet_scheme_desc',
               'type' => 'textfield',
               'options' => '',
               'value' => '',
-              'lexicon' => NULL,
+              'lexicon' => 'breadcrumb:properties',
               'area' => '',
-              'desc_trans' => 'A JSON map of conditional operands and tpls to compare against the tplCondition property using the specified tplOperator.',
+              'desc_trans' => 'URL Generation Scheme.',
+              'area_trans' => '',
+            ),
+            'containerTpl' => 
+            array (
+              'name' => 'containerTpl',
+              'desc' => 'breadcrumb_snippet_containertpl_desc',
+              'type' => 'textfield',
+              'options' => '',
+              'value' => '@INLINE <ul id="breadcrumb" itemprop="breadcrumb">[[+crumbs]]</ul>',
+              'lexicon' => 'breadcrumb:properties',
+              'area' => '',
+              'desc_trans' => 'Container template for BreadCrumb. Can be file (@FILE ), code (@INLINE ) or chunk name.',
+              'area_trans' => '',
+            ),
+            'homeCrumbTpl' => 
+            array (
+              'name' => 'homeCrumbTpl',
+              'desc' => 'breadcrumb_snippet_homecrumbtpl_desc',
+              'type' => 'textfield',
+              'options' => '',
+              'value' => '@INLINE <li><a href="[[+link]]">[[+pagetitle]]</a></li>',
+              'lexicon' => 'breadcrumb:properties',
+              'area' => '',
+              'desc_trans' => 'Home crumb template for BreadCrumb. Can be file (@FILE ), code (@INLINE ) or chunk name.',
+              'area_trans' => '',
+            ),
+            'currentCrumbTpl' => 
+            array (
+              'name' => 'currentCrumbTpl',
+              'desc' => 'breadcrumb_snippet_currentcrumbtpl_desc',
+              'type' => 'textfield',
+              'options' => '',
+              'value' => '@INLINE <li>[[+pagetitle]]</li>',
+              'lexicon' => 'breadcrumb:properties',
+              'area' => '',
+              'desc_trans' => 'Current crumb template for BreadCrumb. Can be file (@FILE ), code (@INLINE ) or chunk name.',
+              'area_trans' => '',
+            ),
+            'linkCrumbTpl' => 
+            array (
+              'name' => 'linkCrumbTpl',
+              'desc' => 'breadcrumb_snippet_linkcrumbtpl_desc',
+              'type' => 'textfield',
+              'options' => '',
+              'value' => '@INLINE <li><a href="[[+link]]">[[+pagetitle]]</a></li>',
+              'lexicon' => 'breadcrumb:properties',
+              'area' => '',
+              'desc_trans' => 'Default crumb template for BreadCrumb. Can be file (@FILE ), code (@INLINE ) or chunk name.',
+              'area_trans' => '',
+            ),
+            'categoryCrumbTpl' => 
+            array (
+              'name' => 'categoryCrumbTpl',
+              'desc' => 'breadcrumb_snippet_categorycrumbtpl_desc',
+              'type' => 'textfield',
+              'options' => '',
+              'value' => '@INLINE <li><a href="[[+link]]">[[+pagetitle]]</a></li>',
+              'lexicon' => 'breadcrumb:properties',
+              'area' => '',
+              'desc_trans' => 'Default category crumb template for BreadCrumb. Can be file (@FILE ), code (@INLINE ) or chunk name.',
+              'area_trans' => '',
+            ),
+            'maxCrumbTpl' => 
+            array (
+              'name' => 'maxCrumbTpl',
+              'desc' => 'breadcrumb_snippet_maxcrumbtpl_desc',
+              'type' => 'textfield',
+              'options' => '',
+              'value' => '@INLINE <li>...</li>',
+              'lexicon' => 'breadcrumb:properties',
+              'area' => '',
+              'desc_trans' => 'Max delimiter crumb template for BreadCrumb. Can be file (@FILE ), code (@INLINE ) or chunk name.',
               'area_trans' => '',
             ),
           ),
@@ -9550,755 +6342,191 @@ return $output;',
           'static' => false,
           'static_file' => '',
           'content' => '/**
- * getResources
+ * BreadCrumb
+ * Copyright 2011 Benjamin Vauchel <contact@omycode.fr>
  *
- * A general purpose Resource listing and summarization snippet for MODX 2.x.
+ * BreadCrumb is free software; you can redistribute it and/or modify it
+ * under the terms of the GNU General Public License as published by the Free
+ * Software Foundation; either version 2 of the License, or (at your option) any
+ * later version.
  *
- * @author Jason Coward
- * @copyright Copyright 2010-2013, Jason Coward
+ * BreadCrumb is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU General Public License for more details.
  *
- * TEMPLATES
+ * You should have received a copy of the GNU General Public License along with
+ * BreadCrumb; if not, write to the Free Software Foundation, Inc., 59 Temple Place,
+ * Suite 330, Boston, MA 02111-1307 USA
  *
- * tpl - Name of a chunk serving as a resource template
- * [NOTE: if not provided, properties are dumped to output for each resource]
+ * @package breadcrumb
+ * @author Benjamin Vauchel <contact@omycode.fr>
  *
- * tplOdd - (Opt) Name of a chunk serving as resource template for resources with an odd idx value
- * (see idx property)
- * tplFirst - (Opt) Name of a chunk serving as resource template for the first resource (see first
- * property)
- * tplLast - (Opt) Name of a chunk serving as resource template for the last resource (see last
- * property)
- * tpl_{n} - (Opt) Name of a chunk serving as resource template for the nth resource
+ * @version Version 1.4.3 pl
+ * 07/03/15
  *
- * tplCondition - (Opt) Defines a field of the resource to evaluate against keys defined in the
- * conditionalTpls property. Must be a resource field; does not work with Template Variables.
- * conditionalTpls - (Opt) A JSON object defining a map of field values and the associated tpl to
- * use when the field defined by tplCondition matches the value. [NOTE: tplOdd, tplFirst, tplLast,
- * and tpl_{n} will take precedence over any defined conditionalTpls]
+ * Breadcrumb is a snippet for MODx Revolution, inspired by the Jared\'s BreadCrumbs snippet.
+ * It will create a breadcrumb navigation for the current resource or a specific resource.
  *
- * tplWrapper - (Opt) Name of a chunk serving as a wrapper template for the output
- * [NOTE: Does not work with toSeparatePlaceholders]
+ * Optional properties:
  *
- * SELECTION
+ * @property from - (int) Resource ID of the first crumb; [Default value : 0].
+ * @property to - (int) Resource ID of the last crumb; [Default value : current resource id].
+ * @property exclude - (string) Comma separated list of resources IDs not shown in breadcrumb. [Default value : []]
+ * @property maxCrumbs - (int) Max crumbs shown in breadcrumb. Max delimiter template can be customize with property maxCrumbTpl ; [Default value : 100].
+ * @property showHidden - (bool) Show hidden resources in breadcrumb; [Default value : true].
+ * @property showContainer - (bool) Show container resources in breadcrumb; [Default value : true].
+ * @property showUnPub - (bool) Show unpublished resources in breadcrumb; [Default value : true].
+ * @property showCurrentCrumb - (bool) Show current resource as a crumb; [Default value : true].
+ * @property showBreadCrumbAtHome - (bool) Show BreadCrumb on the home page; [Default value : true].
+ * @property showHomeCrumb - (bool) Add the home page crumb at the start of the breadcrumb; [Default value : true].
+ * @property useWebLinkUrl - (bool) Use the weblink url instead of the url to the weblink; [Default value : true].
+ * @property direction - (string) Direction or breadcrumb : Left To Right (ltr) or Right To Left (rtl) for Arabic language for example; [Default value : ltr].
+ * @property scheme - (string) URL Generation Scheme; [Default value : -1].
  *
- * parents - Comma-delimited list of ids serving as parents
+ * Templates :
  *
- * context - (Opt) Comma-delimited list of context keys to limit results by; if empty, contexts for all specified
- * parents will be used (all contexts if 0 is specified) [default=]
- *
- * depth - (Opt) Integer value indicating depth to search for resources from each parent [default=10]
- *
- * tvFilters - (Opt) Delimited-list of TemplateVar values to filter resources by. Supports two
- * delimiters and two value search formats. The first delimiter || represents a logical OR and the
- * primary grouping mechanism.  Within each group you can provide a comma-delimited list of values.
- * These values can be either tied to a specific TemplateVar by name, e.g. myTV==value, or just the
- * value, indicating you are searching for the value in any TemplateVar tied to the Resource. An
- * example would be &tvFilters=`filter2==one,filter1==bar%||filter1==foo`
- * [NOTE: filtering by values uses a LIKE query and % is considered a wildcard.]
- * [NOTE: this only looks at the raw value set for specific Resource, i. e. there must be a value
- * specifically set for the Resource and it is not evaluated.]
- *
- * tvFiltersAndDelimiter - (Opt) Custom delimiter for logical AND, default \',\', in case you want to
- * match a literal comma in the tvFilters. E.g. &tvFiltersAndDelimiter=`&&`
- * &tvFilters=`filter1==foo,bar&&filter2==baz` [default=,]
- *
- * tvFiltersOrDelimiter - (Opt) Custom delimiter for logical OR, default \'||\', in case you want to
- * match a literal \'||\' in the tvFilters. E.g. &tvFiltersOrDelimiter=`|OR|`
- * &tvFilters=`filter1==foo||bar|OR|filter2==baz` [default=||]
- *
- * where - (Opt) A JSON expression of criteria to build any additional where clauses from. An example would be
- * &where=`{{"alias:LIKE":"foo%", "OR:alias:LIKE":"%bar"},{"OR:pagetitle:=":"foobar", "AND:description:=":"raboof"}}`
- *
- * sortby - (Opt) Field to sort by or a JSON array, e.g. {"publishedon":"ASC","createdon":"DESC"} [default=publishedon]
- * sortbyTV - (opt) A Template Variable name to sort by (if supplied, this precedes the sortby value) [default=]
- * sortbyTVType - (Opt) A data type to CAST a TV Value to in order to sort on it properly [default=string]
- * sortbyAlias - (Opt) Query alias for sortby field [default=]
- * sortbyEscaped - (Opt) Escapes the field name(s) specified in sortby [default=0]
- * sortdir - (Opt) Order which to sort by [default=DESC]
- * sortdirTV - (Opt) Order which to sort by a TV [default=DESC]
- * limit - (Opt) Limits the number of resources returned [default=5]
- * offset - (Opt) An offset of resources returned by the criteria to skip [default=0]
- * dbCacheFlag - (Opt) Controls caching of db queries; 0|false = do not cache result set; 1 = cache result set
- * according to cache settings, any other integer value = number of seconds to cache result set [default=0]
- *
- * OPTIONS
- *
- * includeContent - (Opt) Indicates if the content of each resource should be returned in the
- * results [default=0]
- * includeTVs - (Opt) Indicates if TemplateVar values should be included in the properties available
- * to each resource template [default=0]
- * includeTVList - (Opt) Limits the TemplateVars that are included if includeTVs is true to those specified
- * by name in a comma-delimited list [default=]
- * prepareTVs - (Opt) Prepares media-source dependent TemplateVar values [default=1]
- * prepareTVList - (Opt) Limits the TVs that are prepared to those specified by name in a comma-delimited
- * list [default=]
- * processTVs - (Opt) Indicates if TemplateVar values should be rendered as they would on the
- * resource being summarized [default=0]
- * processTVList - (opt) Limits the TemplateVars that are processed if included to those specified
- * by name in a comma-delimited list [default=]
- * tvPrefix - (Opt) The prefix for TemplateVar properties [default=tv.]
- * idx - (Opt) You can define the starting idx of the resources, which is an property that is
- * incremented as each resource is rendered [default=1]
- * first - (Opt) Define the idx which represents the first resource (see tplFirst) [default=1]
- * last - (Opt) Define the idx which represents the last resource (see tplLast) [default=# of
- * resources being summarized + first - 1]
- * outputSeparator - (Opt) An optional string to separate each tpl instance [default="\\n"]
- * wrapIfEmpty - (Opt) Indicates if the tplWrapper should be applied if the output is empty [default=0]
- *
+ * @property containerTpl - (string) Container template for BreadCrumb; [Default value : BreadCrumbContainerTpl].
+ * @property currentCrumbTpl - (string) Current crumb template for BreadCrumb; [Default value : BreadCrumbCurrentCrumbTpl].
+ * @property linkCrumbTpl - (string) Default crumb template for BreadCrumb; [Default value : BreadCrumbLinkCrumbTpl].
+ * @property categoryCrumbTpl - (string) Default category crumb template for BreadCrumb; [Default value : BreadCrumbCategoryCrumbTpl].
+ * @property maxCrumbTpl - (string) Max delimiter crumb template for BreadCrumb; [Default value : BreadCrumbMaxCrumbTpl].
  */
-$output = array();
-$outputSeparator = isset($outputSeparator) ? $outputSeparator : "\\n";
 
-/* set default properties */
-$tpl = !empty($tpl) ? $tpl : \'\';
-$includeContent = !empty($includeContent) ? true : false;
-$includeTVs = !empty($includeTVs) ? true : false;
-$includeTVList = !empty($includeTVList) ? explode(\',\', $includeTVList) : array();
-$processTVs = !empty($processTVs) ? true : false;
-$processTVList = !empty($processTVList) ? explode(\',\', $processTVList) : array();
-$prepareTVs = !empty($prepareTVs) ? true : false;
-$prepareTVList = !empty($prepareTVList) ? explode(\',\', $prepareTVList) : array();
-$tvPrefix = isset($tvPrefix) ? $tvPrefix : \'tv.\';
-$parents = (!empty($parents) || $parents === \'0\') ? explode(\',\', $parents) : array($modx->resource->get(\'id\'));
-array_walk($parents, \'trim\');
-$parents = array_unique($parents);
-$depth = isset($depth) ? (integer) $depth : 10;
+// Script Properties
+$from                 = !empty($from) ? $from : $modx->getOption(\'from\', $scriptProperties, 0, true, true);
+$to                   = $currentResourceId = !empty($to) ? $to : $modx->getOption(\'to\', $scriptProperties, $modx->resource->get(\'id\'), true);
+$exclude              = !empty($exclude) ? explode(\',\', $exclude) : array();
+$maxCrumbs            = !empty($maxCrumbs) ? abs(intval($maxCrumbs)) : $modx->getOption(\'maxCrumbs\', $scriptProperties, 100, true);
+$showHidden           = isset($showHidden) ? (bool)$showHidden : (bool)$modx->getOption(\'showHidden\', $scriptProperties, true, true);
+$showContainer        = isset($showContainer) ? (bool)$showContainer : (bool)$modx->getOption(\'showContainer\', $scriptProperties, true, true);
+$showUnPub            = isset($showUnPub) ? (bool)$showUnPub : (bool)$modx->getOption(\'showUnPub\', $scriptProperties, true, true);
+$showCurrentCrumb     = isset($showCurrentCrumb) ? (bool)$showCurrentCrumb : (bool)$modx->getOption(\'showCurrentCrumb\', $scriptProperties, true, true);
+$showBreadCrumbAtHome = isset($showBreadCrumbAtHome) ? (bool)$showBreadCrumbAtHome : (bool)$modx->getOption(\'showBreadCrumbAtHome\', $scriptProperties, true, true);
+$showHomeCrumb        = isset($showHomeCrumb) ? (bool)$showHomeCrumb : (bool)$modx->getOption(\'showHomeCrumb\', $scriptProperties, true, true);
+$useWebLinkUrl        = isset($useWebLinkUrl) ? (bool)$useWebLinkUrl : (bool)$modx->getOption(\'useWebLinkUrl\', $scriptProperties, true, true);
+$direction            = !empty($direction) ? $direction : $modx->getOption(\'direction\', $scriptProperties, \'ltr\', true);
+$scheme               = !empty($scheme) ? $scheme : $modx->getOption(\'scheme\', $scriptProperties, $modx->getOption(\'link_tag_scheme\'), true);
+$containerTpl         = !empty($containerTpl) ? $containerTpl : $modx->getOption(\'containerTpl\', $scriptProperties, \'@INLINE <ul id="breadcrumb" itemprop="breadcrumb">[[+crumbs]]</ul>\');
+$homeCrumbTpl         = !empty($homeCrumbTpl) ? $homeCrumbTpl : $modx->getOption(\'homeCrumbTpl\', $scriptProperties, \'@INLINE <li><a href="[[+link]]">[[+pagetitle]]</a></li>\');
+$currentCrumbTpl      = !empty($currentCrumbTpl) ? $currentCrumbTpl : $modx->getOption(\'currentCrumbTpl\', $scriptProperties, \'@INLINE <li>[[+pagetitle]]</li>\');
+$linkCrumbTpl         = !empty($linkCrumbTpl) ? $linkCrumbTpl : $modx->getOption(\'linkCrumbTpl\', $scriptProperties, \'@INLINE <li><a href="[[+link]]">[[+pagetitle]]</a></li>\');
+$categoryCrumbTpl     = !empty($categoryCrumbTpl) ? $categoryCrumbTpl : $modx->getOption(\'categoryCrumbTpl\', $scriptProperties, \'@INLINE <li><a href="[[+link]]">[[+pagetitle]]</a></li>\');
+$maxCrumbTpl          = !empty($maxCrumbTpl) ? $maxCrumbTpl : $modx->getOption(\'maxCrumbTpl\', $scriptProperties, \'@INLINE <li>...</li>\');
 
-$tvFiltersOrDelimiter = isset($tvFiltersOrDelimiter) ? $tvFiltersOrDelimiter : \'||\';
-$tvFiltersAndDelimiter = isset($tvFiltersAndDelimiter) ? $tvFiltersAndDelimiter : \',\';
-$tvFilters = !empty($tvFilters) ? explode($tvFiltersOrDelimiter, $tvFilters) : array();
+// include parseTpl
+include_once $modx->getOption(\'breadcrumb.core_path\',null,$modx->getOption(\'core_path\').\'components/breadcrumb/includes/\').\'include.parsetpl.php\';
 
-$where = !empty($where) ? $modx->fromJSON($where) : array();
-$showUnpublished = !empty($showUnpublished) ? true : false;
-$showDeleted = !empty($showDeleted) ? true : false;
+// Output variable
+$output = \'\';
 
-$sortby = isset($sortby) ? $sortby : \'publishedon\';
-$sortbyTV = isset($sortbyTV) ? $sortbyTV : \'\';
-$sortbyAlias = isset($sortbyAlias) ? $sortbyAlias : \'modResource\';
-$sortbyEscaped = !empty($sortbyEscaped) ? true : false;
-$sortdir = isset($sortdir) ? $sortdir : \'DESC\';
-$sortdirTV = isset($sortdirTV) ? $sortdirTV : \'DESC\';
-$limit = isset($limit) ? (integer) $limit : 5;
-$offset = isset($offset) ? (integer) $offset : 0;
-$totalVar = !empty($totalVar) ? $totalVar : \'total\';
-
-$dbCacheFlag = !isset($dbCacheFlag) ? false : $dbCacheFlag;
-if (is_string($dbCacheFlag) || is_numeric($dbCacheFlag)) {
-    if ($dbCacheFlag == \'0\') {
-        $dbCacheFlag = false;
-    } elseif ($dbCacheFlag == \'1\') {
-        $dbCacheFlag = true;
-    } else {
-        $dbCacheFlag = (integer) $dbCacheFlag;
-    }
-}
-
-/* multiple context support */
-$contextArray = array();
-$contextSpecified = false;
-if (!empty($context)) {
-    $contextArray = explode(\',\',$context);
-    array_walk($contextArray, \'trim\');
-    $contexts = array();
-    foreach ($contextArray as $ctx) {
-        $contexts[] = $modx->quote($ctx);
-    }
-    $context = implode(\',\',$contexts);
-    $contextSpecified = true;
-    unset($contexts,$ctx);
-} else {
-    $context = $modx->quote($modx->context->get(\'key\'));
-}
-
-$pcMap = array();
-$pcQuery = $modx->newQuery(\'modResource\', array(\'id:IN\' => $parents), $dbCacheFlag);
-$pcQuery->select(array(\'id\', \'context_key\'));
-if ($pcQuery->prepare() && $pcQuery->stmt->execute()) {
-    foreach ($pcQuery->stmt->fetchAll(PDO::FETCH_ASSOC) as $pcRow) {
-        $pcMap[(integer) $pcRow[\'id\']] = $pcRow[\'context_key\'];
-    }
-}
-
-$children = array();
-$parentArray = array();
-foreach ($parents as $parent) {
-    $parent = (integer) $parent;
-    if ($parent === 0) {
-        $pchildren = array();
-        if ($contextSpecified) {
-            foreach ($contextArray as $pCtx) {
-                if (!in_array($pCtx, $contextArray)) {
-                    continue;
-                }
-                $options = $pCtx !== $modx->context->get(\'key\') ? array(\'context\' => $pCtx) : array();
-                $pcchildren = $modx->getChildIds($parent, $depth, $options);
-                if (!empty($pcchildren)) $pchildren = array_merge($pchildren, $pcchildren);
-            }
-        } else {
-            $cQuery = $modx->newQuery(\'modContext\', array(\'key:!=\' => \'mgr\'));
-            $cQuery->select(array(\'key\'));
-            if ($cQuery->prepare() && $cQuery->stmt->execute()) {
-                foreach ($cQuery->stmt->fetchAll(PDO::FETCH_COLUMN) as $pCtx) {
-                    $options = $pCtx !== $modx->context->get(\'key\') ? array(\'context\' => $pCtx) : array();
-                    $pcchildren = $modx->getChildIds($parent, $depth, $options);
-                    if (!empty($pcchildren)) $pchildren = array_merge($pchildren, $pcchildren);
-                }
-            }
-        }
-        $parentArray[] = $parent;
-    } else {
-        $pContext = array_key_exists($parent, $pcMap) ? $pcMap[$parent] : false;
-        if ($debug) $modx->log(modX::LOG_LEVEL_ERROR, "context for {$parent} is {$pContext}");
-        if ($pContext && $contextSpecified && !in_array($pContext, $contextArray, true)) {
-            $parent = next($parents);
-            continue;
-        }
-        $parentArray[] = $parent;
-        $options = !empty($pContext) && $pContext !== $modx->context->get(\'key\') ? array(\'context\' => $pContext) : array();
-        $pchildren = $modx->getChildIds($parent, $depth, $options);
-    }
-    if (!empty($pchildren)) $children = array_merge($children, $pchildren);
-    $parent = next($parents);
-}
-$parents = array_merge($parentArray, $children);
-
-/* build query */
-$criteria = array("modResource.parent IN (" . implode(\',\', $parents) . ")");
-if ($contextSpecified) {
-    $contextResourceTbl = $modx->getTableName(\'modContextResource\');
-    $criteria[] = "(modResource.context_key IN ({$context}) OR EXISTS(SELECT 1 FROM {$contextResourceTbl} ctx WHERE ctx.resource = modResource.id AND ctx.context_key IN ({$context})))";
-}
-if (empty($showDeleted)) {
-    $criteria[\'deleted\'] = \'0\';
-}
-if (empty($showUnpublished)) {
-    $criteria[\'published\'] = \'1\';
-}
-if (empty($showHidden)) {
-    $criteria[\'hidemenu\'] = \'0\';
-}
-if (!empty($hideContainers)) {
-    $criteria[\'isfolder\'] = \'0\';
-}
-$criteria = $modx->newQuery(\'modResource\', $criteria);
-if (!empty($tvFilters)) {
-    $tmplVarTbl = $modx->getTableName(\'modTemplateVar\');
-    $tmplVarResourceTbl = $modx->getTableName(\'modTemplateVarResource\');
-    $conditions = array();
-    $operators = array(
-        \'<=>\' => \'<=>\',
-        \'===\' => \'=\',
-        \'!==\' => \'!=\',
-        \'<>\' => \'<>\',
-        \'==\' => \'LIKE\',
-        \'!=\' => \'NOT LIKE\',
-        \'<<\' => \'<\',
-        \'<=\' => \'<=\',
-        \'=<\' => \'=<\',
-        \'>>\' => \'>\',
-        \'>=\' => \'>=\',
-        \'=>\' => \'=>\'
-    );
-    foreach ($tvFilters as $fGroup => $tvFilter) {
-        $filterGroup = array();
-        $filters = explode($tvFiltersAndDelimiter, $tvFilter);
-        $multiple = count($filters) > 0;
-        foreach ($filters as $filter) {
-            $operator = \'==\';
-            $sqlOperator = \'LIKE\';
-            foreach ($operators as $op => $opSymbol) {
-                if (strpos($filter, $op, 1) !== false) {
-                    $operator = $op;
-                    $sqlOperator = $opSymbol;
-                    break;
-                }
-            }
-            $tvValueField = \'tvr.value\';
-            $tvDefaultField = \'tv.default_text\';
-            $f = explode($operator, $filter);
-            if (count($f) >= 2) {
-                if (count($f) > 2) {
-                    $k = array_shift($f);
-                    $b = join($operator, $f);
-                    $f = array($k, $b);
-                }
-                $tvName = $modx->quote($f[0]);
-                if (is_numeric($f[1]) && !in_array($sqlOperator, array(\'LIKE\', \'NOT LIKE\'))) {
-                    $tvValue = $f[1];
-                    if ($f[1] == (integer)$f[1]) {
-                        $tvValueField = "CAST({$tvValueField} AS SIGNED INTEGER)";
-                        $tvDefaultField = "CAST({$tvDefaultField} AS SIGNED INTEGER)";
-                    } else {
-                        $tvValueField = "CAST({$tvValueField} AS DECIMAL)";
-                        $tvDefaultField = "CAST({$tvDefaultField} AS DECIMAL)";
-                    }
-                } else {
-                    $tvValue = $modx->quote($f[1]);
-                }
-                if ($multiple) {
-                    $filterGroup[] =
-                        "(EXISTS (SELECT 1 FROM {$tmplVarResourceTbl} tvr JOIN {$tmplVarTbl} tv ON {$tvValueField} {$sqlOperator} {$tvValue} AND tv.name = {$tvName} AND tv.id = tvr.tmplvarid WHERE tvr.contentid = modResource.id) " .
-                        "OR EXISTS (SELECT 1 FROM {$tmplVarTbl} tv WHERE tv.name = {$tvName} AND {$tvDefaultField} {$sqlOperator} {$tvValue} AND tv.id NOT IN (SELECT tmplvarid FROM {$tmplVarResourceTbl} WHERE contentid = modResource.id)) " .
-                        ")";
-                } else {
-                    $filterGroup =
-                        "(EXISTS (SELECT 1 FROM {$tmplVarResourceTbl} tvr JOIN {$tmplVarTbl} tv ON {$tvValueField} {$sqlOperator} {$tvValue} AND tv.name = {$tvName} AND tv.id = tvr.tmplvarid WHERE tvr.contentid = modResource.id) " .
-                        "OR EXISTS (SELECT 1 FROM {$tmplVarTbl} tv WHERE tv.name = {$tvName} AND {$tvDefaultField} {$sqlOperator} {$tvValue} AND tv.id NOT IN (SELECT tmplvarid FROM {$tmplVarResourceTbl} WHERE contentid = modResource.id)) " .
-                        ")";
-                }
-            } elseif (count($f) == 1) {
-                $tvValue = $modx->quote($f[0]);
-                if ($multiple) {
-                    $filterGroup[] = "EXISTS (SELECT 1 FROM {$tmplVarResourceTbl} tvr JOIN {$tmplVarTbl} tv ON {$tvValueField} {$sqlOperator} {$tvValue} AND tv.id = tvr.tmplvarid WHERE tvr.contentid = modResource.id)";
-                } else {
-                    $filterGroup = "EXISTS (SELECT 1 FROM {$tmplVarResourceTbl} tvr JOIN {$tmplVarTbl} tv ON {$tvValueField} {$sqlOperator} {$tvValue} AND tv.id = tvr.tmplvarid WHERE tvr.contentid = modResource.id)";
-                }
-            }
-        }
-        $conditions[] = $filterGroup;
-    }
-    if (!empty($conditions)) {
-        $firstGroup = true;
-        foreach ($conditions as $cGroup => $c) {
-            if (is_array($c)) {
-                $first = true;
-                foreach ($c as $cond) {
-                    if ($first && !$firstGroup) {
-                        $criteria->condition($criteria->query[\'where\'][0][1], $cond, xPDOQuery::SQL_OR, null, $cGroup);
-                    } else {
-                        $criteria->condition($criteria->query[\'where\'][0][1], $cond, xPDOQuery::SQL_AND, null, $cGroup);
-                    }
-                    $first = false;
-                }
-            } else {
-                $criteria->condition($criteria->query[\'where\'][0][1], $c, $firstGroup ? xPDOQuery::SQL_AND : xPDOQuery::SQL_OR, null, $cGroup);
-            }
-            $firstGroup = false;
-        }
-    }
-}
-/* include/exclude resources, via &resources=`123,-456` prop */
-if (!empty($resources)) {
-    $resourceConditions = array();
-    $resources = explode(\',\',$resources);
-    $include = array();
-    $exclude = array();
-    foreach ($resources as $resource) {
-        $resource = (int)$resource;
-        if ($resource == 0) continue;
-        if ($resource < 0) {
-            $exclude[] = abs($resource);
-        } else {
-            $include[] = $resource;
-        }
-    }
-    if (!empty($include)) {
-        $criteria->where(array(\'OR:modResource.id:IN\' => $include), xPDOQuery::SQL_OR);
-    }
-    if (!empty($exclude)) {
-        $criteria->where(array(\'modResource.id:NOT IN\' => $exclude), xPDOQuery::SQL_AND, null, 1);
-    }
-}
-if (!empty($where)) {
-    $criteria->where($where);
-}
-
-$total = $modx->getCount(\'modResource\', $criteria);
-$modx->setPlaceholder($totalVar, $total);
-
-$fields = array_keys($modx->getFields(\'modResource\'));
-if (empty($includeContent)) {
-    $fields = array_diff($fields, array(\'content\'));
-}
-$columns = $includeContent ? $modx->getSelectColumns(\'modResource\', \'modResource\') : $modx->getSelectColumns(\'modResource\', \'modResource\', \'\', array(\'content\'), true);
-$criteria->select($columns);
-if (!empty($sortbyTV)) {
-    $criteria->leftJoin(\'modTemplateVar\', \'tvDefault\', array(
-        "tvDefault.name" => $sortbyTV
-    ));
-    $criteria->leftJoin(\'modTemplateVarResource\', \'tvSort\', array(
-        "tvSort.contentid = modResource.id",
-        "tvSort.tmplvarid = tvDefault.id"
-    ));
-    if (empty($sortbyTVType)) $sortbyTVType = \'string\';
-    if ($modx->getOption(\'dbtype\') === \'mysql\') {
-        switch ($sortbyTVType) {
-            case \'integer\':
-                $criteria->select("CAST(IFNULL(tvSort.value, tvDefault.default_text) AS SIGNED INTEGER) AS sortTV");
-                break;
-            case \'decimal\':
-                $criteria->select("CAST(IFNULL(tvSort.value, tvDefault.default_text) AS DECIMAL) AS sortTV");
-                break;
-            case \'datetime\':
-                $criteria->select("CAST(IFNULL(tvSort.value, tvDefault.default_text) AS DATETIME) AS sortTV");
-                break;
-            case \'string\':
-            default:
-                $criteria->select("IFNULL(tvSort.value, tvDefault.default_text) AS sortTV");
-                break;
-        }
-    } elseif ($modx->getOption(\'dbtype\') === \'sqlsrv\') {
-        switch ($sortbyTVType) {
-            case \'integer\':
-                $criteria->select("CAST(ISNULL(tvSort.value, tvDefault.default_text) AS BIGINT) AS sortTV");
-                break;
-            case \'decimal\':
-                $criteria->select("CAST(ISNULL(tvSort.value, tvDefault.default_text) AS DECIMAL) AS sortTV");
-                break;
-            case \'datetime\':
-                $criteria->select("CAST(ISNULL(tvSort.value, tvDefault.default_text) AS DATETIME) AS sortTV");
-                break;
-            case \'string\':
-            default:
-                $criteria->select("ISNULL(tvSort.value, tvDefault.default_text) AS sortTV");
-                break;
-        }
-    }
-    $criteria->sortby("sortTV", $sortdirTV);
-}
-if (!empty($sortby)) {
-    if (strpos($sortby, \'{\') === 0) {
-        $sorts = $modx->fromJSON($sortby);
-    } else {
-        $sorts = array($sortby => $sortdir);
-    }
-    if (is_array($sorts)) {
-        while (list($sort, $dir) = each($sorts)) {
-            if ($sortbyEscaped) $sort = $modx->escape($sort);
-            if (!empty($sortbyAlias)) $sort = $modx->escape($sortbyAlias) . ".{$sort}";
-            $criteria->sortby($sort, $dir);
-        }
-    }
-}
-if (!empty($limit)) $criteria->limit($limit, $offset);
-
-if (!empty($debug)) {
-    $criteria->prepare();
-    $modx->log(modX::LOG_LEVEL_ERROR, $criteria->toSQL());
-}
-$collection = $modx->getCollection(\'modResource\', $criteria, $dbCacheFlag);
-
-$idx = !empty($idx) || $idx === \'0\' ? (integer) $idx : 1;
-$first = empty($first) && $first !== \'0\' ? 1 : (integer) $first;
-$last = empty($last) ? (count($collection) + $idx - 1) : (integer) $last;
-
-/* include parseTpl */
-include_once $modx->getOption(\'getresources.core_path\',null,$modx->getOption(\'core_path\').\'components/getresources/\').\'include.parsetpl.php\';
-
-$templateVars = array();
-if (!empty($includeTVs) && !empty($includeTVList)) {
-    $templateVars = $modx->getCollection(\'modTemplateVar\', array(\'name:IN\' => $includeTVList));
-}
-/** @var modResource $resource */
-foreach ($collection as $resourceId => $resource) {
-    $tvs = array();
-    if (!empty($includeTVs)) {
-        if (empty($includeTVList)) {
-            $templateVars = $resource->getMany(\'TemplateVars\');
-        }
-        /** @var modTemplateVar $templateVar */
-        foreach ($templateVars as $tvId => $templateVar) {
-            if (!empty($includeTVList) && !in_array($templateVar->get(\'name\'), $includeTVList)) continue;
-            if ($processTVs && (empty($processTVList) || in_array($templateVar->get(\'name\'), $processTVList))) {
-                $tvs[$tvPrefix . $templateVar->get(\'name\')] = $templateVar->renderOutput($resource->get(\'id\'));
-            } else {
-                $value = $templateVar->getValue($resource->get(\'id\'));
-                if ($prepareTVs && method_exists($templateVar, \'prepareOutput\') && (empty($prepareTVList) || in_array($templateVar->get(\'name\'), $prepareTVList))) {
-                    $value = $templateVar->prepareOutput($value);
-                }
-                $tvs[$tvPrefix . $templateVar->get(\'name\')] = $value;
-            }
-        }
-    }
-    $odd = ($idx & 1);
-    $properties = array_merge(
-        $scriptProperties
-        ,array(
-            \'idx\' => $idx
-            ,\'first\' => $first
-            ,\'last\' => $last
-            ,\'odd\' => $odd
-        )
-        ,$includeContent ? $resource->toArray() : $resource->get($fields)
-        ,$tvs
-    );
-    $resourceTpl = false;
-    if ($idx == $first && !empty($tplFirst)) {
-        $resourceTpl = parseTpl($tplFirst, $properties);
-    }
-    if ($idx == $last && empty($resourceTpl) && !empty($tplLast)) {
-        $resourceTpl = parseTpl($tplLast, $properties);
-    }
-    $tplidx = \'tpl_\' . $idx;
-    if (empty($resourceTpl) && !empty($$tplidx)) {
-        $resourceTpl = parseTpl($$tplidx, $properties);
-    }
-    if ($idx > 1 && empty($resourceTpl)) {
-        $divisors = getDivisors($idx);
-        if (!empty($divisors)) {
-            foreach ($divisors as $divisor) {
-                $tplnth = \'tpl_n\' . $divisor;
-                if (!empty($$tplnth)) {
-                    $resourceTpl = parseTpl($$tplnth, $properties);
-                    if (!empty($resourceTpl)) {
-                        break;
-                    }
-                }
-            }
-        }
-    }
-    if ($odd && empty($resourceTpl) && !empty($tplOdd)) {
-        $resourceTpl = parseTpl($tplOdd, $properties);
-    }
-    if (!empty($tplCondition) && !empty($conditionalTpls) && empty($resourceTpl)) {
-        $conTpls = $modx->fromJSON($conditionalTpls);
-        $subject = $properties[$tplCondition];
-        $tplOperator = !empty($tplOperator) ? $tplOperator : \'=\';
-        $tplOperator = strtolower($tplOperator);
-        $tplCon = \'\';
-        foreach ($conTpls as $operand => $conditionalTpl) {
-            switch ($tplOperator) {
-                case \'!=\':
-                case \'neq\':
-                case \'not\':
-                case \'isnot\':
-                case \'isnt\':
-                case \'unequal\':
-                case \'notequal\':
-                    $tplCon = (($subject != $operand) ? $conditionalTpl : $tplCon);
-                    break;
-                case \'<\':
-                case \'lt\':
-                case \'less\':
-                case \'lessthan\':
-                    $tplCon = (($subject < $operand) ? $conditionalTpl : $tplCon);
-                    break;
-                case \'>\':
-                case \'gt\':
-                case \'greater\':
-                case \'greaterthan\':
-                    $tplCon = (($subject > $operand) ? $conditionalTpl : $tplCon);
-                    break;
-                case \'<=\':
-                case \'lte\':
-                case \'lessthanequals\':
-                case \'lessthanorequalto\':
-                    $tplCon = (($subject <= $operand) ? $conditionalTpl : $tplCon);
-                    break;
-                case \'>=\':
-                case \'gte\':
-                case \'greaterthanequals\':
-                case \'greaterthanequalto\':
-                    $tplCon = (($subject >= $operand) ? $conditionalTpl : $tplCon);
-                    break;
-                case \'isempty\':
-                case \'empty\':
-                    $tplCon = empty($subject) ? $conditionalTpl : $tplCon;
-                    break;
-                case \'!empty\':
-                case \'notempty\':
-                case \'isnotempty\':
-                    $tplCon = !empty($subject) && $subject != \'\' ? $conditionalTpl : $tplCon;
-                    break;
-                case \'isnull\':
-                case \'null\':
-                    $tplCon = $subject == null || strtolower($subject) == \'null\' ? $conditionalTpl : $tplCon;
-                    break;
-                case \'inarray\':
-                case \'in_array\':
-                case \'ia\':
-                    $operand = explode(\',\', $operand);
-                    $tplCon = in_array($subject, $operand) ? $conditionalTpl : $tplCon;
-                    break;
-                case \'between\':
-                case \'range\':
-                case \'>=<\':
-                case \'><\':
-                    $operand = explode(\',\', $operand);
-                    $tplCon = ($subject >= min($operand) && $subject <= max($operand)) ? $conditionalTpl : $tplCon;
-                    break;
-                case \'==\':
-                case \'=\':
-                case \'eq\':
-                case \'is\':
-                case \'equal\':
-                case \'equals\':
-                case \'equalto\':
-                default:
-                    $tplCon = (($subject == $operand) ? $conditionalTpl : $tplCon);
-                    break;
-            }
-        }
-        if (!empty($tplCon)) {
-            $resourceTpl = parseTpl($tplCon, $properties);
-        }
-    }
-    if (!empty($tpl) && empty($resourceTpl)) {
-        $resourceTpl = parseTpl($tpl, $properties);
-    }
-    if ($resourceTpl === false && !empty($debug)) {
-        $chunk = $modx->newObject(\'modChunk\');
-        $chunk->setCacheable(false);
-        $output[]= $chunk->process(array(), \'<pre>\' . print_r($properties, true) .\'</pre>\');
-    } else {
-        $output[]= $resourceTpl;
-    }
-    $idx++;
-}
-
-/* output */
-$toSeparatePlaceholders = $modx->getOption(\'toSeparatePlaceholders\', $scriptProperties, false);
-if (!empty($toSeparatePlaceholders)) {
-    $modx->setPlaceholders($output, $toSeparatePlaceholders);
+// We check if current resource is the homepage and if breadcrumb is shown for the homepage
+if (!$showBreadCrumbAtHome && $modx->resource->get(\'id\') == $modx->getOption(\'site_start\')) {
     return \'\';
 }
 
-$output = implode($outputSeparator, $output);
+// We get all the other crumbs
+$crumbs = array();
+$crumbsCount = 0;
+$resourceId = $to;
+while ($resourceId != $from && $crumbsCount < $maxCrumbs)
+{
+    if (!$resource = $modx->getObject(\'modResource\', $resourceId)) {
+        break;
+    }
 
-$tplWrapper = $modx->getOption(\'tplWrapper\', $scriptProperties, false);
-$wrapIfEmpty = $modx->getOption(\'wrapIfEmpty\', $scriptProperties, false);
-if (!empty($tplWrapper) && ($wrapIfEmpty || !empty($output))) {
-    $output = parseTpl($tplWrapper, array_merge($scriptProperties, array(\'output\' => $output)));
+    // We check the conditions to show crumb
+    if (
+        $resourceId != $modx->getOption(\'site_start\')                                                                           // ShowHomeCrumb
+        && (($resource->get(\'hidemenu\') && $showHidden) || !$resource->get(\'hidemenu\'))                                         // ShowHidden
+        && (($resource->get(\'isfolder\') && $showContainer) || !$resource->get(\'isfolder\'))                                      // ShowContainer
+        && ((!$resource->get(\'published\') && $showUnPub) || $resource->get(\'published\'))                                        // UnPub
+        && (($resourceId == $currentResourceId && $showCurrentCrumb) || $resourceId != $currentResourceId)                      // ShowCurrent
+        && !in_array($resourceId, $exclude)                                                                                     // Excluded resources
+    ) {
+        // If is LTR direction, we push resource at the beginning of the array
+        if ($direction == \'ltr\') {
+            array_unshift($crumbs, $resource);
+        }
+        // Else we push it at the end
+        else {
+            $crumbs[] = $resource;
+        }
+
+        $crumbsCount++;
+    }
+    $resourceId = $resource->get(\'parent\');
 }
 
-$toPlaceholder = $modx->getOption(\'toPlaceholder\', $scriptProperties, false);
-if (!empty($toPlaceholder)) {
-    $modx->setPlaceholder($toPlaceholder, $output);
-    return \'\';
+// Add home crumb
+if ($showHomeCrumb && $resource = $modx->getObject(\'modResource\', $modx->getOption(\'site_start\'))) {
+    if ($direction == \'ltr\') {
+        array_unshift($crumbs, $resource);
+    } else {
+        $crumbs[] = $resource;
+    }
 }
+
+// We build the output of crumbs
+foreach($crumbs as $key => $resource)
+{
+    // Home crumb tpl ?
+    if ($resource->get(\'id\') == $modx->getOption(\'site_start\'))
+    {
+        $tpl = $homeCrumbTpl;
+    }
+    // Current crumb tpl ?
+    elseif ($showCurrentCrumb && ($resource->get(\'id\') == $currentResourceId))
+    {
+        $tpl = $currentCrumbTpl;
+    }
+    // resource is a container only, calculated in a similar manner to Wayfinder
+    elseif ($resource->get(\'isfolder\')
+        && ( $resource->get(\'template\') == 0
+            || strpos($resource->get(\'link_attributes\'), \'rel="category"\') !== false
+            )
+    ) {
+        $tpl = $categoryCrumbTpl;
+    }
+    // or default crumb tpl ?
+    else {
+        $tpl = $linkCrumbTpl;
+    }
+
+    // Placeholders
+    $placeholders = $resource->toArray();
+    if ($resource->get(\'class_key\') == \'modWebLink\' && $useWebLinkUrl) {
+        if (is_numeric($resource->get(\'content\'))) {
+            $link = $modx->makeUrl($resource->get(\'content\'), \'\', \'\', $scheme);
+        } else {
+            $link = $resource->get(\'content\');
+        }
+    } else {
+        $link = $modx->makeUrl($resource->get(\'id\'), \'\', \'\', $scheme);
+    }
+    $placeholders = array_merge($resource->toArray(), array(\'link\' => $link));
+
+    // Output
+    $output .= parseTpl($tpl, $placeholders);
+}
+
+// We add the max delimiter to the crumbs output, if the max limit was reached
+if ($crumbsCount == $maxCrumbs) {
+    // If is LTR direction, we push the max delimiter at the beginning of the crumbs
+    if ($direction == \'ltr\') {
+        $output = parseTpl($maxCrumbTpl).$output;
+    }
+    // Else we push it at the end
+    else {
+        $output .= parseTpl($maxCrumbTpl);
+    }
+}
+
+// We build the breadcrumb output
+$output = parseTpl($containerTpl, array(
+    \'crumbs\' => $output,
+));
+
 return $output;',
-        ),
-        'policies' => 
-        array (
-          'web' => 
-          array (
-          ),
-        ),
-        'source' => 
-        array (
-        ),
-      ),
-      'phpthumbof' => 
-      array (
-        'fields' => 
-        array (
-          'id' => 15,
-          'source' => 0,
-          'property_preprocess' => false,
-          'name' => 'phpthumbof',
-          'description' => 'A custom output filter that generates thumbnails securely with phpThumb.',
-          'editor_type' => 0,
-          'category' => 0,
-          'cache_type' => 0,
-          'snippet' => '/**
- * phpThumbOf
- *
- * Copyright 2009-2012 by Shaun McCormick <shaun@modx.com>
- *
- * phpThumbOf is free software; you can redistribute it and/or modify it
- * under the terms of the GNU General Public License as published by the Free
- * Software Foundation; either version 2 of the License, or (at your option) any
- * later version.
- *
- * phpThumbOf is distributed in the hope that it will be useful, but WITHOUT ANY
- * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
- * A PARTICULAR PURPOSE. See the GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License along with
- * phpThumbOf; if not, write to the Free Software Foundation, Inc., 59 Temple
- * Place, Suite 330, Boston, MA 02111-1307 USA
- *
- * @package phpthumbof
- */
-/**
- * A custom output filter for phpThumb
- *
- * @var modX $modx
- * @var array $scriptProperties
- * @var phpThumbOf $phpThumbOf
- * @var string $input
- * @var string|array $options
- *
- * @package phpthumbof
- */
-if (empty($modx)) return \'\';
-if (!$modx->loadClass(\'modPhpThumb\',$modx->getOption(\'core_path\').\'model/phpthumb/\',true,true)) {
-    $modx->log(modX::LOG_LEVEL_ERROR,\'[phpThumbOf] Could not load modPhpThumb class.\');
-    return \'\';
-}
-if (empty($input)) {
-    $modx->log(modX::LOG_LEVEL_DEBUG,\'[phpThumbOf] Empty image path passed, aborting.\');
-    return \'\';
-}
-$modelPath = $modx->getOption(\'phpthumbof.core_path\',null,$modx->getOption(\'core_path\').\'components/phpthumbof/\').\'model/\';
-require_once $modelPath.\'phpthumbof/phpthumbof.class.php\';
-$phpThumbOf = new phpThumbOf($modx,$scriptProperties);
-
-$phpThumbOf->getCacheDirectory();
-$phpThumbOf->ensureCacheDirectoryIsWritable();
-
-$thumbnail = $phpThumbOf->createThumbnailObject();
-$thumbnail->setInput($input);
-$thumbnail->setOptions($options);
-$thumbnail->initializeService();
-return $thumbnail->render();',
-          'locked' => false,
-          'properties' => NULL,
-          'moduleguid' => '',
-          'static' => false,
-          'static_file' => '',
-          'content' => '/**
- * phpThumbOf
- *
- * Copyright 2009-2012 by Shaun McCormick <shaun@modx.com>
- *
- * phpThumbOf is free software; you can redistribute it and/or modify it
- * under the terms of the GNU General Public License as published by the Free
- * Software Foundation; either version 2 of the License, or (at your option) any
- * later version.
- *
- * phpThumbOf is distributed in the hope that it will be useful, but WITHOUT ANY
- * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
- * A PARTICULAR PURPOSE. See the GNU General Public License for more details.
- *
- * You should have received a copy of the GNU General Public License along with
- * phpThumbOf; if not, write to the Free Software Foundation, Inc., 59 Temple
- * Place, Suite 330, Boston, MA 02111-1307 USA
- *
- * @package phpthumbof
- */
-/**
- * A custom output filter for phpThumb
- *
- * @var modX $modx
- * @var array $scriptProperties
- * @var phpThumbOf $phpThumbOf
- * @var string $input
- * @var string|array $options
- *
- * @package phpthumbof
- */
-if (empty($modx)) return \'\';
-if (!$modx->loadClass(\'modPhpThumb\',$modx->getOption(\'core_path\').\'model/phpthumb/\',true,true)) {
-    $modx->log(modX::LOG_LEVEL_ERROR,\'[phpThumbOf] Could not load modPhpThumb class.\');
-    return \'\';
-}
-if (empty($input)) {
-    $modx->log(modX::LOG_LEVEL_DEBUG,\'[phpThumbOf] Empty image path passed, aborting.\');
-    return \'\';
-}
-$modelPath = $modx->getOption(\'phpthumbof.core_path\',null,$modx->getOption(\'core_path\').\'components/phpthumbof/\').\'model/\';
-require_once $modelPath.\'phpthumbof/phpthumbof.class.php\';
-$phpThumbOf = new phpThumbOf($modx,$scriptProperties);
-
-$phpThumbOf->getCacheDirectory();
-$phpThumbOf->ensureCacheDirectoryIsWritable();
-
-$thumbnail = $phpThumbOf->createThumbnailObject();
-$thumbnail->setInput($input);
-$thumbnail->setOptions($options);
-$thumbnail->initializeService();
-return $thumbnail->render();',
         ),
         'policies' => 
         array (
@@ -11344,6 +7572,46 @@ return $fi->request->handle($fields);',
         ),
         'source' => 
         array (
+        ),
+      ),
+      'getname' => 
+      array (
+        'fields' => 
+        array (
+          'id' => 20,
+          'source' => 1,
+          'property_preprocess' => false,
+          'name' => 'getname',
+          'description' => '',
+          'editor_type' => 0,
+          'category' => 0,
+          'cache_type' => 0,
+          'snippet' => 'echo $_GET [name];',
+          'locked' => false,
+          'properties' => 
+          array (
+          ),
+          'moduleguid' => '',
+          'static' => false,
+          'static_file' => '',
+          'content' => 'echo $_GET [name];',
+        ),
+        'policies' => 
+        array (
+          'web' => 
+          array (
+          ),
+        ),
+        'source' => 
+        array (
+          'id' => 1,
+          'name' => 'Filesystem',
+          'description' => '',
+          'class_key' => 'sources.modFileMediaSource',
+          'properties' => 
+          array (
+          ),
+          'is_stream' => true,
         ),
       ),
     ),

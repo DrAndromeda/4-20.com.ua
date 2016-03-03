@@ -12,6 +12,10 @@
   ),
   'eventMap' => 
   array (
+    'OnBeforeDocFormSave' => 
+    array (
+      8 => '8',
+    ),
     'OnChunkFormPrerender' => 
     array (
       2 => '2',
@@ -19,15 +23,18 @@
     'OnDocFormPrerender' => 
     array (
       2 => '2',
+      8 => '8',
     ),
     'OnDocFormRender' => 
     array (
       3 => '3',
+      9 => '9',
     ),
     'OnDocFormSave' => 
     array (
       4 => '4',
       3 => '3',
+      9 => '9',
     ),
     'OnDocPublished' => 
     array (
@@ -41,10 +48,16 @@
     array (
       2 => '2',
     ),
+    'OnLoadWebDocument' => 
+    array (
+      9 => '9',
+      8 => '8',
+    ),
     'OnPageNotFound' => 
     array (
       3 => '3',
       7 => '7',
+      8 => '8',
     ),
     'OnPluginFormPrerender' => 
     array (
@@ -57,6 +70,8 @@
     'OnResourceDuplicate' => 
     array (
       4 => '4',
+      8 => '8',
+      9 => '9',
     ),
     'OnResourceUndelete' => 
     array (
@@ -720,6 +735,379 @@ return;',
       'category' => '0',
       'cache_type' => '0',
       'plugincode' => '',
+      'locked' => '0',
+      'properties' => 'a:0:{}',
+      'disabled' => '0',
+      'moduleguid' => '',
+      'static' => '0',
+      'static_file' => '',
+    ),
+    8 => 
+    array (
+      'id' => '8',
+      'source' => '1',
+      'property_preprocess' => '0',
+      'name' => 'StercSEO',
+      'description' => 'Plugin to render the seo tab and save all the data',
+      'editor_type' => '0',
+      'category' => '0',
+      'cache_type' => '0',
+      'plugincode' => '/**
+ * StercSEO
+ *
+ * Copyright 2013 by Sterc internet & marketing <modx@sterc.nl>
+ *
+ * This file is part of StercSEO.
+ *
+ * StercSEO is free software; you can redistribute it and/or modify it under the
+ * terms of the GNU General Public License as published by the Free Software
+ * Foundation; either version 2 of the License, or (at your option) any later
+ * version.
+ *
+ * StercSEO is distributed in the hope that it will be useful, but WITHOUT ANY
+ * WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR
+ * A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+ *
+ * You should have received a copy of the GNU General Public License along with
+ * StercSEO; if not, write to the Free Software Foundation, Inc., 59 Temple Place,
+ * Suite 330, Boston, MA 02111-1307 USA
+ *
+ * @package stercseo
+ */
+/**
+ * StercSEO Plugin
+ *
+ *
+ * Events:
+ * OnDocFormPrerender,OnDocFormSave,OnHandleRequest,OnPageNotFound
+ *
+ * @author Sterc internet & marketing <modx@sterc.nl>
+ *
+ * @package stercseo
+ *
+ */
+$stercseo = $modx->getService(\'stercseo\',\'StercSEO\',$modx->getOption(\'stercseo.core_path\',null,$modx->getOption(\'core_path\').\'components/stercseo/\').\'model/stercseo/\',array());
+
+if (!($stercseo instanceof StercSEO)) return;
+
+switch ($modx->event->name) {
+	case \'OnDocFormPrerender\':
+		$resource =& $modx->event->params[\'resource\'];
+		if($resource){
+			//First check if SEOTab is allowed in this context
+			if(!$stercseo->isAllowed($resource->get(\'context_key\'))) return;
+			$properties = $resource->getProperties(\'stercseo\');
+		}
+		if(empty($properties)){
+			$properties = array(
+				\'index\' => $modx->getOption(\'stercseo.index\', null, \'1\'),
+				\'follow\' => $modx->getOption(\'stercseo.follow\', null, \'1\'),
+				\'sitemap\' => $modx->getOption(\'stercseo.sitemap\', null, \'1\'),
+				\'priority\' => $modx->getOption(\'stercseo.priority\', null, \'0.5\'),
+				\'changefreq\' => $modx->getOption(\'stercseo.changefreq\', null, \'weekly\'),
+				//\'urls\' => $modx->fromJSON($_POST[\'urls\'])
+			);
+		}
+		//$output .= \'<div id="stercseo-box">\'.$errorMessage.$outputLanguageItems.\'</div>\';
+		//$modx->event->output($output);
+		$modx->regClientStartupHTMLBlock(\'<script type="text/javascript">
+        Ext.onReady(function() {
+            StercSEO.config = \'.$modx->toJSON($stercseo->config).\';
+            StercSEO.config.connector_url = "\'.$stercseo->config[\'connectorUrl\'].\'";
+            StercSEO.record = \'.$modx->toJSON($properties).\';
+        });
+        </script>\');
+	    $version = $modx->getVersionData();
+
+		/* include CSS and JS*/
+		if($version[\'version\'] == 2 && $version[\'major_version\'] == 2){
+	    	$modx->regClientCSS($stercseo->config[\'cssUrl\'].\'stercseo.css\');
+	    }
+		$modx->regClientStartupScript($stercseo->config[\'jsUrl\'].\'mgr/stercseo.js\');
+		$modx->regClientStartupScript($stercseo->config[\'jsUrl\'].\'mgr/sections/resource.js\');
+		$modx->regClientStartupScript($stercseo->config[\'jsUrl\'].\'mgr/widgets/resource.grid.js\');
+		$modx->regClientStartupScript($stercseo->config[\'jsUrl\'].\'mgr/widgets/resource.vtabs.js\');
+
+		//add lexicon
+		$modx->controller->addLexiconTopic(\'stercseo:default\');
+
+		break;
+
+	case \'OnBeforeDocFormSave\':
+	        $oldResource = ($mode == \'upd\') ? $modx->getObject(\'modResource\',$resource->get(\'id\')) : $resource;
+			if(!$stercseo->isAllowed($oldResource->get(\'context_key\'))) return;
+			$properties = $oldResource->getProperties(\'stercseo\');
+			if($_POST[\'urls\'] != \'false\' && isset($_POST[\'urls\'])){
+				if($mode == \'upd\'){
+					$newProperties = array(
+						\'index\' => (isset($_POST[\'index\']) ? $_POST[\'index\'] : $properties[\'index\']),
+						\'follow\' => (isset($_POST[\'follow\']) ? $_POST[\'follow\'] : $properties[\'follow\']),
+						\'sitemap\' => (isset($_POST[\'sitemap\']) ? $_POST[\'sitemap\'] : $properties[\'sitemap\']),
+						\'priority\' => (isset($_POST[\'priority\']) ? $_POST[\'priority\'] : $properties[\'priority\']),
+						\'changefreq\' => (isset($_POST[\'changefreq\']) ? $_POST[\'changefreq\'] : $properties[\'changefreq\']),
+						\'urls\' => $modx->fromJSON($_POST[\'urls\'])
+					);
+				}else{
+					$newProperties = array(
+						\'index\' => (isset($_POST[\'index\']) ? $_POST[\'index\'] : $modx->getOption(\'stercseo.index\', null, \'1\')),
+						\'follow\' => (isset($_POST[\'follow\']) ? $_POST[\'follow\'] : $modx->getOption(\'stercseo.follow\', null, \'1\')),
+						\'sitemap\' => (isset($_POST[\'sitemap\']) ? $_POST[\'sitemap\'] : $modx->getOption(\'stercseo.sitemap\', null, \'1\')),
+						\'priority\' => (isset($_POST[\'priority\']) ? $_POST[\'priority\'] : $modx->getOption(\'stercseo.priority\', null, \'0.5\')),
+						\'changefreq\' => (isset($_POST[\'changefreq\']) ? $_POST[\'changefreq\'] : $modx->getOption(\'stercseo.changefreq\', null, \'weekly\')),
+						\'urls\' => $modx->fromJSON($_POST[\'urls\'])
+					);
+				}
+			}else{
+			   	if($mode == \'upd\'){
+					$newProperties = array(
+						\'index\' => (isset($_POST[\'index\']) ? $_POST[\'index\'] : $properties[\'index\']),
+						\'follow\' => (isset($_POST[\'follow\']) ? $_POST[\'follow\'] : $properties[\'follow\']),
+						\'sitemap\' => (isset($_POST[\'sitemap\']) ? $_POST[\'sitemap\'] : $properties[\'sitemap\']),
+						\'priority\' => (isset($_POST[\'priority\']) ? $_POST[\'priority\'] : $properties[\'priority\']),
+						\'changefreq\' => (isset($_POST[\'changefreq\']) ? $_POST[\'changefreq\'] : $properties[\'changefreq\']),
+						\'urls\' => $properties[\'urls\']
+					);
+				}else{
+					$newProperties = array(
+						\'index\' => (isset($_POST[\'index\']) ? $_POST[\'index\'] : $modx->getOption(\'stercseo.index\', null, \'1\')),
+						\'follow\' => (isset($_POST[\'follow\']) ? $_POST[\'follow\'] : $modx->getOption(\'stercseo.follow\', null, \'1\')),
+						\'sitemap\' => (isset($_POST[\'sitemap\']) ? $_POST[\'sitemap\'] : $modx->getOption(\'stercseo.sitemap\', null, \'1\')),
+						\'priority\' => (isset($_POST[\'priority\']) ? $_POST[\'priority\'] : $modx->getOption(\'stercseo.priority\', null, \'0.5\')),
+						\'changefreq\' => (isset($_POST[\'changefreq\']) ? $_POST[\'changefreq\'] : $modx->getOption(\'stercseo.changefreq\', null, \'weekly\')),
+						\'urls\' => $properties[\'urls\']
+					);
+				}
+			}
+			
+			if($oldResource->get(\'alias\') != $resource->get(\'alias\') && $oldResource->get(\'alias\') != \'\'){
+				$newProperties[\'urls\'][] = array(\'url\' => $oldResource->get(\'uri\'));
+			}
+			if($oldResource->get(\'uri\') != $resource->get(\'uri\') && $oldResource->get(\'uri\') != \'\'){
+				$newProperties[\'urls\'][] = array(\'url\' => $oldResource->get(\'uri\'));
+			}
+
+        	$resource->setProperties($newProperties,\'stercseo\');
+		break;
+	case \'OnLoadWebDocument\':
+		if($modx->resource){
+			if(!$stercseo->isAllowed($modx->resource->get(\'context_key\'))) return;
+			$properties = $modx->resource->getProperties(\'stercseo\');
+			$metaContent = array(\'noopd\', \'noydir\');
+			if(!$properties[\'index\']) $metaContent[] = \'noindex\';
+			if(!$properties[\'follow\']) $metaContent[] = \'nofollow\';
+			$modx->setPlaceholder(\'seoTab.robotsTag\',implode(\',\', $metaContent));
+		}
+		break;
+
+	case \'OnPageNotFound\':
+		$url = urldecode($_SERVER[\'REQUEST_URI\']);
+        
+		$convertedUrl = str_replace(\'/\', \'_/\', ltrim($url, \'/\'));
+        $convertedUrl = json_encode($convertedUrl);
+        $convertedUrl = str_replace("\\u", "\\\\\\\\u", $convertedUrl);
+        $convertedUrl = str_replace(\'"\', \'\', $convertedUrl);
+        
+		$w = array(
+			\'properties:LIKE\' => \'%\'.$convertedUrl.\'%\'
+		);
+		
+		if($modx->getOption(\'stercseo.context-aware-alias\', null, \'0\')){
+			$w[\'context_key\'] = $modx->context->key;
+		}
+
+		$alreadyExists = $modx->getObject(\'modResource\', $w);
+		if($alreadyExists){
+			$id = $modx->makeUrl($alreadyExists->get(\'id\'));
+			$modx->sendRedirect($id, 0, \'REDIRECT_HEADER\', \'HTTP/1.1 301 Moved Permanently\');
+		}
+		break;
+	case \'OnResourceBeforeSort\':
+		foreach($nodes as $node) {
+			$oldResource = $modx->getObject(\'modResource\',$node[\'id\']);
+			$resource 	 = $modx->getObject(\'modResource\',$node[\'id\']);
+			$resource->set(\'parent\', $node[\'parent\']);
+
+			if(!$stercseo->isAllowed($resource->get(\'context_key\'))) return;
+
+			if($oldResource->get(\'uri\') != $resource->getAliasPath($resource->get(\'alias\')) && $oldResource->get(\'uri\') != \'\'){
+				$newProperties = $oldResource->getProperties(\'stercseo\');
+				$newProperties[\'urls\'][] = array(\'url\' => $oldResource->get(\'uri\'));
+				$oldResource->setProperties($newProperties,\'stercseo\');
+				$oldResource->save();
+			}
+		}
+		break;
+	case \'OnResourceDuplicate\':
+		if(!$stercseo->isAllowed($newResource->get(\'context_key\'))) return;
+		$props = $newResource->getProperties(\'stercseo\');
+		$props[\'urls\'] = array();
+		$newResource->setProperties($props,\'stercseo\');
+		$newResource->save();
+		break;
+
+}
+return;',
+      'locked' => '0',
+      'properties' => 'a:0:{}',
+      'disabled' => '0',
+      'moduleguid' => '',
+      'static' => '0',
+      'static_file' => '',
+    ),
+    9 => 
+    array (
+      'id' => '9',
+      'source' => '1',
+      'property_preprocess' => '0',
+      'name' => 'seoPro',
+      'description' => 'seoPro 1.0.4-pl . SEO optimizing plugin for MODx Revolution',
+      'editor_type' => '0',
+      'category' => '0',
+      'cache_type' => '0',
+      'plugincode' => '/**
+ * The base seoPro snippet.
+ *
+ * @package seopro
+ */
+$seoPro = $modx->getService(\'seopro\', \'seoPro\', $modx->getOption(\'seopro.core_path\', null, $modx->getOption(\'core_path\') . \'components/seopro/\') . \'model/seopro/\', $scriptProperties);
+if (!($seoPro instanceof seoPro))
+  return \'\';
+
+$disabledTemplates = explode(\',\', $modx->getOption(\'seopro.disabledtemplates\', null, \'0\'));
+
+switch ($modx->event->name) {
+  case \'OnDocFormRender\':
+    $template = ($resource->get(\'template\')) ? (string)$resource->get(\'template\') : (string)$_REQUEST[\'template\'];
+    if (in_array($template, $disabledTemplates)) {
+      break;
+    }
+    $currClassKey = $resource->get(\'class_key\');
+    $strFields = $modx->getOption(\'seopro.fields\', null, \'pagetitle:70,longtitle:70,description:155,alias:2023,menutitle:2023\');
+    $arrFields = array();
+    if (is_array(explode(\',\', $strFields))) {
+      foreach (explode(\',\', $strFields) as $field) {
+        list($fieldName, $fieldCount) = explode(\':\', $field);
+        $arrFields[$fieldName] = $fieldCount;
+      }
+    } else {
+      return \'\';
+    }
+
+    $keywords = \'\';
+    $modx->controller->addLexiconTopic(\'seopro:default\');
+    if ($mode == \'upd\') {
+      $url = $modx->makeUrl($resource->get(\'id\'), \'\', \'\', \'full\');
+      $url = str_replace($resource->get(\'alias\'), \'<span id=\\"seopro-replace-alias\\">\' . $resource->get(\'alias\') . \'</span>\', $url);
+      $seoKeywords = $modx->getObject(\'seoKeywords\', array(\'resource\' => $resource->get(\'id\')));
+      if ($seoKeywords) {
+        $keywords = $seoKeywords->get(\'keywords\');
+      }
+    } else {
+      if ($_REQUEST[\'id\']) {
+        $url = $modx->makeUrl($_REQUEST[\'id\'], \'\', \'\', \'full\');
+        $url .= \'/<span id=\\"seopro-replace-alias\\"></span>\';
+      } else {
+        $url = $modx->getOption(\'site_url\') . \'<span id=\\"seopro-replace-alias\\"></span>\';
+      }
+    }
+
+    if ($_REQUEST[\'id\'] == $modx->getOption(\'site_start\')) {
+      unset($arrFields[\'alias\']);
+      unset($arrFields[\'menutitle\']);
+    }
+
+
+    $config = $seoPro->config;
+    unset($config[\'resource\']);
+    $modx->regClientStartupHTMLBlock(\'<script type="text/javascript">
+		Ext.onReady(function() {
+			seoPro.config = \' . $modx->toJSON($config) . \';
+			seoPro.config.record = "\' . $keywords . \'";
+			seoPro.config.values = {};
+			seoPro.config.fields = "\' . implode(",", array_keys($arrFields)) . \'";
+			seoPro.config.chars = \' . $modx->toJSON($arrFields) . \'
+			seoPro.config.url = "\' . $url . \'";
+		});
+	</script>\');
+
+    /* include CSS and JS*/
+    $version = $modx->getVersionData();
+    if($version[\'version\'] == 2 && $version[\'major_version\'] == 2){
+     $modx->regClientCSS($seoPro->config[\'assetsUrl\'] . \'css/mgr.css\');
+    }else{
+     $modx->regClientCSS($seoPro->config[\'assetsUrl\'] . \'css/mgr23.css\');
+    }
+    $modx->regClientStartupScript($seoPro->config[\'assetsUrl\'] . \'js/mgr/seopro.js??v=\' . $modx->getOption(\'seopro.version\', null, \'v1.0.0\'));
+    $modx->regClientStartupScript($seoPro->config[\'assetsUrl\'] . \'js/mgr/resource.js?v=\' . $modx->getOption(\'seopro.version\', null, \'v1.0.0\'));
+
+    break;
+
+  case \'OnDocFormSave\':
+    $template = ($resource->get(\'template\')) ? (string)$resource->get(\'template\') : (string)$_REQUEST[\'template\'];
+    if (in_array($template, $disabledTemplates)) {
+      break;
+    }
+    $seoKeywords = $modx->getObject(\'seoKeywords\', array(\'resource\' => $resource->get(\'id\')));
+    if (!$seoKeywords && isset($resource)) {
+      $seoKeywords = $modx->newObject(\'seoKeywords\', array(\'resource\' => $resource->get(\'id\')));
+    }
+    if($seoKeywords){
+      $seoKeywords->set(\'keywords\', trim($_POST[\'keywords\'], \',\'));
+      $seoKeywords->save();
+    }
+    break;
+
+  case \'onResourceDuplicate\':
+    $template = ($resource->get(\'template\')) ? (string)$resource->get(\'template\') : (string)$_REQUEST[\'template\'];
+    if (in_array($template, $disabledTemplates)) {
+      break;
+    }
+    $seoKeywords = $modx->getObject(\'seoKeywords\', array(\'resource\' => $resource->get(\'id\')));
+    if (!$seoKeywords) {
+      $seoKeywords = $modx->newObject(\'seoKeywords\', array(\'resource\' => $resource->get(\'id\')));
+    }
+    $newSeoKeywords = $modx->newObject(\'seoKeywords\');
+    $newSeoKeywords->fromArray($seoKeywords->toArray());
+    $newSeoKeywords->set(\'resource\', $newResource->get(\'id\'));
+    $newSeoKeywords->save();
+    break;
+
+  case \'OnLoadWebDocument\':
+    if ($modx->context->get(\'key\') == "mgr") {
+      break;
+    }
+    $template = ($modx->resource->get(\'template\')) ? (string)$modx->resource->get(\'template\') : (string)$_REQUEST[\'template\'];
+    if (in_array($template, $disabledTemplates)) {
+      break;
+    }
+    $seoKeywords = $modx->getObject(\'seoKeywords\', array(\'resource\' => $modx->resource->get(\'id\')));
+    if ($seoKeywords) {
+      $keyWords = $seoKeywords->get(\'keywords\');
+      $modx->setPlaceholder(\'seoPro.keywords\', $keyWords);
+    }
+    $siteBranding = (boolean) $modx->getOption(\'seopro.allowbranding\', null, true);
+    $siteDelimiter = $modx->getOption(\'seopro.delimiter\', null, \'/\');
+    $siteUseSitename = (boolean) $modx->getOption(\'seopro.usesitename\', null, true);
+    $siteID = $modx->resource->get(\'id\');
+    $siteName = $modx->getOption(\'site_name\');
+    $longtitle = $modx->resource->get(\'longtitle\');
+    $pagetitle = $modx->resource->get(\'pagetitle\');
+    $seoProTitle = array();
+    if ($siteID == $modx->getOption(\'site_start\')) {
+      $seoProTitle[\'pagetitle\'] = !empty($longtitle) ? $longtitle : $siteName;
+    } else {
+      $seoProTitle[\'pagetitle\'] = !empty($longtitle) ? $longtitle : $pagetitle;
+      if ($siteUseSitename) {
+        $seoProTitle[\'delimiter\'] = $siteDelimiter;
+        $seoProTitle[\'sitename\'] = $siteName;
+      }
+    }
+    $modx->setPlaceholder(\'seoPro.title\', implode(" ", $seoProTitle));
+    if ($siteBranding) {
+      $modx->regClientStartupHTMLBlock(\'<!-- This site is optimized with the Sterc seoPro plugin \' . $modx->getOption(\'seopro.version\', null, \'v1.0.0\') . \' - http://www.sterc.nl/modx/seopro -->\');
+    }
+    break;
+}',
       'locked' => '0',
       'properties' => 'a:0:{}',
       'disabled' => '0',

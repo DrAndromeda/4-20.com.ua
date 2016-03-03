@@ -1,0 +1,47 @@
+<?php  return array (
+  0 => 
+  array (
+    'text' => 'installer',
+    'parent' => 'components',
+    'action' => 'workspaces',
+    'description' => 'installer_desc',
+    'icon' => '',
+    'menuindex' => '0',
+    'params' => '',
+    'handler' => '',
+    'permissions' => 'packages',
+    'namespace' => 'core',
+    'action_controller' => NULL,
+    'action_namespace' => NULL,
+  ),
+  1 => 
+  array (
+    'text' => 'formit',
+    'parent' => 'components',
+    'action' => '1',
+    'description' => 'formit.menu_desc',
+    'icon' => 'images/icons/plugin.gif',
+    'menuindex' => '0',
+    'params' => '',
+    'handler' => '',
+    'permissions' => '',
+    'namespace' => 'core',
+    'action_controller' => 'index',
+    'action_namespace' => 'formit',
+  ),
+  2 => 
+  array (
+    'text' => 'redirector',
+    'parent' => 'components',
+    'action' => '2',
+    'description' => 'redirector.menu_desc',
+    'icon' => 'images/icons/plugin.gif',
+    'menuindex' => '0',
+    'params' => '',
+    'handler' => '',
+    'permissions' => '',
+    'namespace' => 'core',
+    'action_controller' => 'controllers/index',
+    'action_namespace' => 'redirector',
+  ),
+);

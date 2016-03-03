@@ -1,0 +1,47 @@
+<?php  return array (
+  0 => 
+  array (
+    'text' => 'user',
+    'parent' => 'usernav',
+    'action' => '',
+    'description' => '',
+    'icon' => '<span id="user-avatar">{$userImage}</span> <span id="user-username">{$username}</span>',
+    'menuindex' => '5',
+    'params' => '',
+    'handler' => '',
+    'permissions' => 'menu_user',
+    'namespace' => 'core',
+    'action_controller' => NULL,
+    'action_namespace' => NULL,
+  ),
+  1 => 
+  array (
+    'text' => 'admin',
+    'parent' => 'usernav',
+    'action' => '',
+    'description' => '',
+    'icon' => '<i class="icon-gear icon icon-large"></i>',
+    'menuindex' => '6',
+    'params' => '',
+    'handler' => '',
+    'permissions' => 'settings',
+    'namespace' => 'core',
+    'action_controller' => NULL,
+    'action_namespace' => NULL,
+  ),
+  2 => 
+  array (
+    'text' => 'about',
+    'parent' => 'usernav',
+    'action' => 'help',
+    'description' => '',
+    'icon' => '<i class="icon-question-circle icon icon-large"></i>',
+    'menuindex' => '7',
+    'params' => '',
+    'handler' => '',
+    'permissions' => 'help',
+    'namespace' => 'core',
+    'action_controller' => NULL,
+    'action_namespace' => NULL,
+  ),
+);

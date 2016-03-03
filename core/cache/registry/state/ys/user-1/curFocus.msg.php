@@ -1,2 +1,2 @@
 <?php
-return 'modx-resource-alias';
+return 'modx-resource-pagetitle';

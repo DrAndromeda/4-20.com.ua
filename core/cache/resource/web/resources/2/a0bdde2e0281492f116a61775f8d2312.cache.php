@@ -1,4 +1,4 @@
-<?php if(time() > 1451431125){return null;} return array (
+<?php if(time() > 1456522850){return null;} return array (
   1 => 
   array (
     2 => 
@@ -28,13 +28,13 @@
         'createdby' => 1,
         'createdon' => '2015-10-11 02:38:32',
         'editedby' => 1,
-        'editedon' => '2015-12-29 18:13:40',
+        'editedon' => '2016-01-21 12:52:58',
         'deleted' => false,
         'deletedon' => 0,
         'deletedby' => 0,
         'publishedon' => '2015-11-18 15:33:00',
         'publishedby' => 1,
-        'menutitle' => '',
+        'menutitle' => 'Вред марихуаны',
         'donthit' => false,
         'privateweb' => false,
         'privatemgr' => false,
@@ -51,7 +51,7 @@
         'protected' => false,
         'link' => 'vred-ot-marixuanyi.html',
         'level' => 1,
-        'linktext' => 'Вред от марихуаны',
+        'linktext' => 'Вред марихуаны',
         'title' => 'Вред от марихуаны',
       ),
       1 => 
@@ -79,7 +79,7 @@
         'createdby' => 1,
         'createdon' => '2015-10-11 02:45:19',
         'editedby' => 1,
-        'editedon' => '2015-12-25 21:40:53',
+        'editedon' => '2016-02-01 23:42:32',
         'deleted' => false,
         'deletedon' => 0,
         'deletedby' => 0,
@@ -111,7 +111,7 @@
         'type' => 'document',
         'contentType' => 'text/html',
         'pagetitle' => 'Польза марихуаны',
-        'longtitle' => 'Существует ли какая-то польза марихуаны',
+        'longtitle' => 'Неповторимая польза марихуаны это реальность которую важно развивать',
         'description' => 'Если ли польза марихуаны и какие у нее полезные свойства для организма человека.',
         'alias' => 'polza-marixuanyi',
         'link_attributes' => '',
@@ -124,19 +124,19 @@
         'content' => '',
         'richtext' => true,
         'template' => 7,
-        'menuindex' => 2,
+        'menuindex' => 3,
         'searchable' => true,
         'cacheable' => true,
         'createdby' => 1,
         'createdon' => '2015-10-11 02:45:02',
         'editedby' => 1,
-        'editedon' => '2015-12-29 16:11:37',
+        'editedon' => '2016-02-08 13:38:50',
         'deleted' => false,
         'deletedon' => 0,
         'deletedby' => 0,
         'publishedon' => '2015-11-04 01:26:00',
         'publishedby' => 1,
-        'menutitle' => 'Польза употребления',
+        'menutitle' => 'Польза применения ',
         'donthit' => false,
         'privateweb' => false,
         'privatemgr' => false,
@@ -153,7 +153,7 @@
         'protected' => false,
         'link' => 'polza-marixuanyi.html',
         'level' => 1,
-        'linktext' => 'Польза употребления',
+        'linktext' => 'Польза применения ',
         'title' => 'Польза марихуаны',
       ),
       3 => 
@@ -181,13 +181,13 @@
         'createdby' => 1,
         'createdon' => '2015-10-13 12:51:08',
         'editedby' => 1,
-        'editedon' => '2015-12-29 16:31:07',
+        'editedon' => '2016-01-20 16:37:32',
         'deleted' => false,
         'deletedon' => 0,
         'deletedby' => 0,
         'publishedon' => '2015-10-13 12:51:00',
         'publishedby' => 1,
-        'menutitle' => 'Лечебные свойства марихуаны',
+        'menutitle' => 'Лечебные свойства',
         'donthit' => false,
         'privateweb' => false,
         'privatemgr' => false,
@@ -204,10 +204,61 @@
         'protected' => false,
         'link' => 'lechenie-marixuanoj.html',
         'level' => 1,
-        'linktext' => 'Лечебные свойства марихуаны',
+        'linktext' => 'Лечебные свойства',
         'title' => 'Полезные и лечебные свойства марихуаны',
       ),
       4 => 
+      array (
+        'id' => 5,
+        'type' => 'document',
+        'contentType' => 'text/html',
+        'pagetitle' => 'Сатива индика',
+        'longtitle' => 'Как отличается меж собой сатива индика',
+        'description' => 'Сатива индика это разная по своему эффекту и свойству конопля, и поэтому важно разбираться в ее многозначительных отличиях.',
+        'alias' => 'sativa-indika',
+        'link_attributes' => '',
+        'published' => true,
+        'pub_date' => 0,
+        'unpub_date' => 0,
+        'parent' => 2,
+        'isfolder' => false,
+        'introtext' => '',
+        'content' => '',
+        'richtext' => true,
+        'template' => 7,
+        'menuindex' => 4,
+        'searchable' => true,
+        'cacheable' => true,
+        'createdby' => 1,
+        'createdon' => '2015-10-11 02:29:15',
+        'editedby' => 1,
+        'editedon' => '2016-02-04 01:41:55',
+        'deleted' => false,
+        'deletedon' => 0,
+        'deletedby' => 0,
+        'publishedon' => '2015-12-03 22:26:00',
+        'publishedby' => 1,
+        'menutitle' => 'Что такое сатива и индика',
+        'donthit' => false,
+        'privateweb' => false,
+        'privatemgr' => false,
+        'content_dispo' => 0,
+        'hidemenu' => false,
+        'class_key' => 'modDocument',
+        'context_key' => 'web',
+        'content_type' => 1,
+        'uri' => 'sativa-indika.html',
+        'uri_override' => 0,
+        'hide_children_in_tree' => 0,
+        'show_in_tree' => 1,
+        'properties' => NULL,
+        'protected' => false,
+        'link' => 'sativa-indika.html',
+        'level' => 1,
+        'linktext' => 'Что такое сатива и индика',
+        'title' => 'Сатива индика',
+      ),
+      5 => 
       array (
         'id' => 42,
         'type' => 'document',
@@ -258,7 +309,7 @@
         'linktext' => 'Все про гашиш',
         'title' => 'Как курить гашиш и эффект от гашиша',
       ),
-      5 => 
+      6 => 
       array (
         'id' => 43,
         'type' => 'document',
@@ -309,7 +360,7 @@
         'linktext' => 'Что такое тгк и его влияние',
         'title' => 'Что такое тгк и его влияние',
       ),
-      6 => 
+      7 => 
       array (
         'id' => 44,
         'type' => 'document',
@@ -360,7 +411,7 @@
         'linktext' => 'Что такое каннабис',
         'title' => 'Что такое каннабис',
       ),
-      7 => 
+      8 => 
       array (
         'id' => 47,
         'type' => 'document',
@@ -411,7 +462,7 @@
         'linktext' => 'Что такое анаша',
         'title' => 'Что такое анаша',
       ),
-      8 => 
+      9 => 
       array (
         'id' => 48,
         'type' => 'document',
@@ -462,7 +513,7 @@
         'linktext' => 'Лучшие сорта конопли',
         'title' => 'Лучшие сорта конопли',
       ),
-      9 => 
+      10 => 
       array (
         'id' => 46,
         'type' => 'document',
@@ -513,7 +564,7 @@
         'linktext' => 'Девайсы для курения',
         'title' => 'Способы употребления марихуаны',
       ),
-      10 => 
+      11 => 
       array (
         'id' => 55,
         'type' => 'document',

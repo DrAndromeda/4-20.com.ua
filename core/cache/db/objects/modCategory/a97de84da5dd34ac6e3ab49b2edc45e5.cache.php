@@ -34,4 +34,18 @@
     'modCategory_category' => 'SimpleSearch',
     'modCategory_rank' => '0',
   ),
+  5 => 
+  array (
+    'modCategory_id' => '9',
+    'modCategory_parent' => '0',
+    'modCategory_category' => 'StarRating',
+    'modCategory_rank' => '0',
+  ),
+  6 => 
+  array (
+    'modCategory_id' => '8',
+    'modCategory_parent' => '0',
+    'modCategory_category' => 'StercSEO',
+    'modCategory_rank' => '0',
+  ),
 );

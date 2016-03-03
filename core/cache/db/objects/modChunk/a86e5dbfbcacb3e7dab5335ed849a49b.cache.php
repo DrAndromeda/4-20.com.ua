@@ -69,7 +69,7 @@
 </object>
 </div>
 <div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Обучение в Вене. Отзыв от студентки Ирины Сидоровой" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Обучение в Вене. Отзыв от студентки Ирины Сидоровой"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
+ <div class="reviews-avatar reviews-avatar_index"><img title="" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt=""><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
  <img src="/assets/img/rev-social.png" alt="">
  </a>!-->
  </div>
@@ -79,39 +79,50 @@
 <p>Подробные инструкции и методы преспособления. Узнайте как получить максимум пользы уже с первого раза.</p></div>
  </div>
 </div>
-</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-5" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/BYqCl4-AOYQ">
-<param name="movie" value="https://www.youtube.com/v/BYqCl4-AOYQ">
+</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-5" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/C9Bcon2jdDw">
+<param name="movie" value="https://www.youtube.com/v/C9Bcon2jdDw">
 </object>
 </div>
 <div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Венский университет отзыв Екатерины Кузиной" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Венский университет отзыв Екатерины Кузиной"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
- <img src="/assets/img/rev-social.png" alt="">
+ <div class="reviews-avatar reviews-avatar_index"><img title="" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt=""><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
+ <img src="/assets/img/правда-о-марихуане.jpg" alt="">
  </a>!-->
  </div>
  <div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Как растёт конопля-от начала и до конца от семени до шишки. </div>
- <div class="reviews__text"><p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p>
-<p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p></div>
+ <div class="reviews__name">Растение на высоте культуры</div>
+ <div class="reviews__text"><p>То самое видео, которое будет полезно посмотреть в любом возврасте и при любом отношении к марихуане. Спорные вопросы рассматриваются с разных точек зрения, раскрываются основы сомнительного социального счастья и благополучия общества. Смотрите и знайте!</p></div>
  </div>
 </div>
-</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-6" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/BYqCl4-AOYQ">
-<param name="movie" value="https://www.youtube.com/v/BYqCl4-AOYQ">
+</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-6" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/C9Bcon2jdDw">
+<param name="movie" value="https://www.youtube.com/v/C9Bcon2jdDw">
 </object>
 </div>
 <div class="reviews-i reviews-i_index">
- <div class="reviews-avatar reviews-avatar_index"><img title="Образование в Австрии - отзыв студента Ольги Давыдовой" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt="Образование в Австрии - отзыв студента Ольги Давыдовой"><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
+ <div class="reviews-avatar reviews-avatar_index"><img title="" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt=""><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
+ <img src="/assets/img/правда-о-марихуане.jpg" alt="">
+ </a>!-->
+ </div>
+<div class="reviews-info reviews-info_inner">
+<div class="reviews__name">Документальный фильм National Geography </div>
+ <div class="reviews__text"><p>Все о конопле и ее применении без прикрас. Информацию от истоков и по сегодняшний день.</p></div>
+ </div>
+</div>
+</div><div class="reviews-content reviews-content_index js-reviews-content js-reviews-7" style="display: none;"> <div class="reviews__video reviews__video_index">                 <object type="application/x-shockwave-flash" width="550" height="420" data="https://www.youtube.com/v/EgE_1XbJf5o">
+<param name="movie" value="https://www.youtube.com/v/EgE_1XbJf5o">
+ </object>
+</div>
+<div class="reviews-i reviews-i_index">
+ <div class="reviews-avatar reviews-avatar_index"><img title="" width="123" height="123" class="reviews-avatar__pic" src="/assets/img/1-78.jpg" alt=""><!--<a class="reviews__social"  onclick="location.href=\'https://vk.com/cannabis_time_4_20\'">
  <img src="/assets/img/rev-social.png" alt="">
  </a>!-->
  </div>
 <div class="reviews-info reviews-info_inner">
- <div class="reviews__name">Как растёт конопля-от начала и до конца от семени до шишки. </div>
- <div class="reviews__text"><p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p>
-<p>Здесь вы увидите как прорастает-растёт и созревает конопля от начала и до конца.</p></div>
- </div>
-</div>
-</div>
+<div class="reviews__name">Документальный фильм National Geography </div>
+ <div class="reviews__text"><p>Все о конопле и ее применении без прикрас. Информацию от истоков и по сегодняшний день.</p></div>
+ </div></div></div>
+
 <div class="reviews-cycle-wrapper">
-  <ul class="cycle-slideshow reviews-cycle reviews-cycle_index js-reviews-cycle" data-cycle-fx="carousel" data-cycle-timeout="0" data-cycle-carousel-visible="6" data-cycle-next=".reviews-cycle-next" data-cycle-prev=".reviews-cycle-prev" data-cycle-slides="> li" style="position: relative; overflow: hidden; width: 900px;"><li data-tab=".js-reviews-1" class="is-active cycle-slide cycle-sentinel" style="top: 0px; left: 0px; opacity: 1; z-index: 100; position: static; visibility: hidden; display: block;"><img src="/assets/images/prev/v.png" alt="" style="visibility: hidden;"></li><div class="cycle-carousel-wrap" style="margin: 0px; padding: 0px; top: 0px; position: absolute; white-space: nowrap; left: -705px;"><li data-tab=".js-reviews-1" class="is-active cycle-slide" style="top: 0px; left: 0px; opacity: 1; visibility: visible; z-index: 100; display: inline-block; position: static;"><img src="/assets/img/1-78.jpg" alt=""></li><li data-tab=".js-reviews-2" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 99; display: inline-block; position: static;"><img src="/assets/img/097.png" alt=""></li><li data-tab=".js-reviews-3" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 97; display: inline-block; position: static;"><img src="/assets/img/098.png" alt=""></li><li data-tab=".js-reviews-4" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 96; display: inline-block; position: static;"><img src="/assets/img/099.png" alt=""></li><li data-tab=".js-reviews-5" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 95; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-1" class="is-active cycle-slide cycle-slide-active" style="top: 0px; left: 0px; opacity: 1; visibility: visible; z-index: 100; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-2" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 99; display: inline-block; position: static;"><img src="/assets/img/097.png" alt=""></li><li data-tab=".js-reviews-3" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 97; display: inline-block; position: static;"><img src="/assets/img/098.png" alt=""></li><li data-tab=".js-reviews-4" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 96; display: inline-block; position: static;"><img src="/assets/img/099.png" alt=""></li><li data-tab=".js-reviews-5" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 95; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-1" class="is-active cycle-slide" style="top: 0px; left: 0px; opacity: 1; visibility: visible; z-index: 100; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-2" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 99; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-3" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 97; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-4" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 96; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-5" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 95; display: inline-block; position: static;"><img src="14-88.jpg" alt=""></li></div></ul>
+  <ul class="cycle-slideshow reviews-cycle reviews-cycle_index js-reviews-cycle" data-cycle-fx="carousel" data-cycle-timeout="0" data-cycle-carousel-visible="6" data-cycle-next=".reviews-cycle-next" data-cycle-prev=".reviews-cycle-prev" data-cycle-slides="> li" style="position: relative; overflow: hidden; width: 900px;"><li data-tab=".js-reviews-1" class="is-active cycle-slide cycle-sentinel" style="top: 0px; left: 0px; opacity: 1; z-index: 100; position: static; visibility: hidden; display: block;"><img src="/assets/images/prev/v.png" alt="" style="visibility: hidden;"></li><div class="cycle-carousel-wrap" style="margin: 0px; padding: 0px; top: 0px; position: absolute; white-space: nowrap; left: -705px;"><li data-tab=".js-reviews-1" class="is-active cycle-slide" style="top: 0px; left: 0px; opacity: 1; visibility: visible; z-index: 100; display: inline-block; position: static;"><img src="/assets/img/1-78.jpg" alt=""></li><li data-tab=".js-reviews-2" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 99; display: inline-block; position: static;"><img src="/assets/img/097.png" alt=""></li><li data-tab=".js-reviews-3" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 97; display: inline-block; position: static;"><img src="/assets/img/098.png" alt=""></li><li data-tab=".js-reviews-4" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 96; display: inline-block; position: static;"><img src="/assets/img/099.png" alt=""></li><li data-tab=".js-reviews-5" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 95; display: inline-block; position: static;"><img src="/assets/img/правда-о-марихуане.jpg" alt=""></li><li data-tab=".js-reviews-1" class="is-active cycle-slide cycle-slide-active" style="top: 0px; left: 0px; opacity: 1; visibility: visible; z-index: 100; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-2" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 99; display: inline-block; position: static;"><img src="/assets/img/097.png" alt=""></li><li data-tab=".js-reviews-3" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 97; display: inline-block; position: static;"><img src="/assets/img/098.png" alt=""></li><li data-tab=".js-reviews-4" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 96; display: inline-block; position: static;"><img src="/assets/img/099.png" alt=""></li><li data-tab=".js-reviews-5" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 95; display: inline-block; position: static;"><img src="/assets/img/правда-о-марихуане.jpg" alt=""></li><li data-tab=".js-reviews-1" class="is-active cycle-slide" style="top: 0px; left: 0px; opacity: 1; visibility: visible; z-index: 100; display: inline-block; position: static;"><img src="/assets/img/все-о-марихуане.jpg" alt=""></li><li data-tab=".js-reviews-2" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 99; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-3" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 97; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-4" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 96; display: inline-block; position: static;"><img src="/assets/images/prev/v.png" alt=""></li><li data-tab=".js-reviews-5" class="is-active cycle-slide" style="top: 0px; left: 0px; z-index: 95; display: inline-block; position: static;"><img src="14-88.jpg" alt=""></li></div></ul>
  <div class="reviews-cycle-next"></div>
  <div class="reviews-cycle-prev"></div>
 </div>
@@ -141,7 +152,7 @@
 <div class="advantage">
  <div class="advantage__title">Факт о марихуане</div>
  <div class="services-adv-in">
-<div class="services-adv__top"><span class="services-adv__num">01</span> <span class="services-adv__title services-adv__title_index">В период движения трезвенников в конце 19 века марихуана рекомендовалась как заменитель алкоголя. 
+<div class="services-adv__top"><span class="services-adv__num">01</span> <span class="services-adv__title services-adv__title_index">В период движения трезвенников в конце 19 века марихуана рекомендовалась заменитель алкоголя. 
 </span></div>
 <p>Причиной для этого было то, что в отличие от злоупотребления алкоголем, употребление марихуаны не приводило к насилию в семье.</p>
  </div>
@@ -159,7 +170,8 @@
 </div>
 [[$form_main]]
 </div> </section>!-->
-</div>',
+</div>
+',
     'modChunk_locked' => '0',
     'modChunk_properties' => 'a:0:{}',
     'modChunk_static' => '0',

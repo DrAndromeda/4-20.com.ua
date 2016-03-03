@@ -1,4 +1,166 @@
-O:9:"MagpieRSS":23:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:20:{i:0;a:9:{s:5:"title";s:54:"MODX Revolution 2.4.2 — Bugfixes and UI Improvements";s:4:"link";s:110:"http://feedproxy.google.com/~r/modx-announce/~3/CEOeDfF6UyE/modx-revolution-2-4-2-bugfixes-and-ui-improvements";s:11:"description";s:3618:"The latest release of MODX Revolution is a patch upgrade to 2.4.2. If you missed the <a href="http://modx.com/blog/2015/08/19/revolution-2.4/" target="_blank" rel="nofollow">2.4.0 announcement</a>, check out the details <a href="http://modx.com/blog/2015/08/26/deep-dive-into-modx-revolution-2.4/" target="_blank" rel="nofollow">here</a>. 2.4.0 was a big one.<br />
+O:9:"MagpieRSS":23:{s:6:"parser";i:0;s:12:"current_item";a:0:{}s:5:"items";a:20:{i:0;a:9:{s:5:"title";s:64:"MODX Evolution 1.1—Dozens of Improvements and over 300 Commits";s:4:"link";s:122:"http://feedproxy.google.com/~r/modx-announce/~3/WMcwvknD-Ro/modx-evolution-1-1-dozens-of-improvements-and-over-300-commits";s:11:"description";s:4628:"It&#039;s February 29th and it only comes around once every 4 years and that makes it a little special. Speaking of things that don&#039;t happen often, It&#039;s been 15 months since the last release of MODX Evolution. The international community-led team that is behind the current release, have made some important changes since that time including replacing the frameset in the Evo Manager with iFrames, virtually eliminated the document Resource limitations, and the team has worked very hard to make Evo fully compatible with PHP 5.6 through to PHP 7.<br />
+<br />
+Due to the time since the previous release and the significant number of changes for both security and PHP server compatibility, Evolution 1.1 should be considered mandatory update/upgrade for all users of MODX Evo 1.0.15 and below.<br />
+<br />
+Quick stats on the multitude of changes that increase the capabilities of Evo for the release of MODX Evolution 1.1:<ul class="dis-ul"><br />
+<li>Bugfixes: 44</li>
+<li>Refactor: 35</li>
+<li>Additional Improvements &amp; Updates: 35</li>
+<li>Commits: 322</li>
+<li>Files changed: 293</li>
+<li>Participants: 21</li>
+</ul>
+<br />
+<strong>Important changes to note:</strong><ul class="dis-ul"><li>Deprecated Mysql replaced with Mysqli, to ensure compatibility with PHP 5.6 +</li>
+<li>Manager no-longer uses a frameset, it now uses iFrames</li>
+<li>New manager setting &quot;AliasListingFolder&quot; - Setting =&gt; Friendly URLs (tested with 1000000 documents, no more limits for documents)</li>
+<li>DocLister is now a default snippet - <a href="https://rtfm.modx.com/extras/evo/doclister/" target="_blank" rel="nofollow">English documentation</a> can be found in the RTFM, courtesy of &quot;kp52&quot; who translated the official Russian documentation</li>
+<li>Read the <a href="https://github.com/modxcms/evolution/blob/develop/install/changelog.txt" target="_blank" rel="nofollow">changelog</a> for complete details on changes in 1.1 </li>
+</ul> <br />
+<br />
+<strong>We would like to thank the dedicated community-based MODX Evolution team behind these changes:</strong><ul class="dis-ul"><li>Dmytro Lukianenko (<a href="https://github.com/dmi3yy" target="_blank" rel="nofollow">Dmi3yy</a>)</li>
+<li>D.Helfensteller (<a href="https://github.com/deesen" target="_blank" rel="nofollow">Deesen</a>)</li>
+<li>Agel_Nash (<a href="https://github.com/AgelxNash" target="_blank" rel="nofollow">AgelxNash</a>)</li>
+<li>Sergey Davydov (<a href="https://github.com/MrSwed" target="_blank" rel="nofollow">MrSwed</a>)</li>
+<li>Kari Söderholm (<a href="https://github.com/Haprog" target="_blank" rel="nofollow">Haprog</a>)</li>
+<li>YAMA (<a href="https://github.com/yama" target="_blank" rel="nofollow">yama</a>)</li>
+<li>Thomas Jakobi (<a href="https://github.com/Jako" target="_blank" rel="nofollow">Jako</a>)</li>
+<li>and: Zevseg, Segr, TimGS, jasonabird, bossloper, Eoler, fourroses666, rpre, pmfx, kulmjens, MaXL-ru, janniconl, Fess7, esszett</li>
+</ul>
+<br />
+And thanks go out to all those users who took the time to test and who contributed bug reports.<br />
+<br />
+<strong>Download Evo 1.1:</strong><br />
+You can download the latest version of MODX Evo from the following sources:<ul class="dis-ul"><br />
+<li>The official MODX website Evo <a href="https://modx.com/download/evolution/" target="_blank" rel="nofollow">download page</a></li>
+<li>MODX Evo <a href="https://github.com/modxcms/evolution/releases" target="_blank" rel="nofollow">GitHub repository</a></li>
+</ul>
+<br />
+<strong>Useful Evo Links:</strong><br />
+For those users who are interested in using Evo, but are unsure where to begin:<br />
+<ul class="dis-ul"><br />
+<li><a href="https://modx.com/download/evolution/" target="_blank" rel="nofollow">Basic Installation</a> - How to install</li>
+<li><a href="https://rtfm.modx.com/evolution/1.0/developers-guide" target="_blank" rel="nofollow">Developer&#039;s Guide</a> - All tech infos (How to, What are etc.)</li>
+<li><a href="https://rtfm.modx.com/evolution/1.0/content-editing" target="_blank" rel="nofollow">Content Editing</a> - For editors, user creation etc.</li>
+<li><a href="https://rtfm.modx.com/evolution/1.0/administration" target="_blank" rel="nofollow">Administration</a> - How to manage users, moving site etc.</li>
+<li><a href="https://rtfm.modx.com/evolution/1.0/designing" target="_blank" rel="nofollow">Designing</a> - Templates, adding chunks, TV&#039;s, snippets etc.</li>
+</ul>
+<br />
+Haven&#039;t updated / upgraded Evo in a while, no worries, check out <a href="https://rtfm.modx.com/evolution/1.0/administration/upgrading" target="_blank" rel="nofollow">the guide here</a>";s:8:"comments";s:115:"https://forums.modx.com/thread/99649/modx-evolution-1-1-dozens-of-improvements-and-over-300-commits#dis-post-539013";s:7:"pubdate";s:31:"Mon, 29 Feb 2016 11:55:17 -0600";s:4:"guid";s:115:"https://forums.modx.com/thread/99649/modx-evolution-1-1-dozens-of-improvements-and-over-300-commits#dis-post-539013";s:10:"feedburner";a:1:{s:8:"origlink";s:115:"https://forums.modx.com/thread/99649/modx-evolution-1-1-dozens-of-improvements-and-over-300-commits#dis-post-539013";}s:7:"summary";s:4628:"It&#039;s February 29th and it only comes around once every 4 years and that makes it a little special. Speaking of things that don&#039;t happen often, It&#039;s been 15 months since the last release of MODX Evolution. The international community-led team that is behind the current release, have made some important changes since that time including replacing the frameset in the Evo Manager with iFrames, virtually eliminated the document Resource limitations, and the team has worked very hard to make Evo fully compatible with PHP 5.6 through to PHP 7.<br />
+<br />
+Due to the time since the previous release and the significant number of changes for both security and PHP server compatibility, Evolution 1.1 should be considered mandatory update/upgrade for all users of MODX Evo 1.0.15 and below.<br />
+<br />
+Quick stats on the multitude of changes that increase the capabilities of Evo for the release of MODX Evolution 1.1:<ul class="dis-ul"><br />
+<li>Bugfixes: 44</li>
+<li>Refactor: 35</li>
+<li>Additional Improvements &amp; Updates: 35</li>
+<li>Commits: 322</li>
+<li>Files changed: 293</li>
+<li>Participants: 21</li>
+</ul>
+<br />
+<strong>Important changes to note:</strong><ul class="dis-ul"><li>Deprecated Mysql replaced with Mysqli, to ensure compatibility with PHP 5.6 +</li>
+<li>Manager no-longer uses a frameset, it now uses iFrames</li>
+<li>New manager setting &quot;AliasListingFolder&quot; - Setting =&gt; Friendly URLs (tested with 1000000 documents, no more limits for documents)</li>
+<li>DocLister is now a default snippet - <a href="https://rtfm.modx.com/extras/evo/doclister/" target="_blank" rel="nofollow">English documentation</a> can be found in the RTFM, courtesy of &quot;kp52&quot; who translated the official Russian documentation</li>
+<li>Read the <a href="https://github.com/modxcms/evolution/blob/develop/install/changelog.txt" target="_blank" rel="nofollow">changelog</a> for complete details on changes in 1.1 </li>
+</ul> <br />
+<br />
+<strong>We would like to thank the dedicated community-based MODX Evolution team behind these changes:</strong><ul class="dis-ul"><li>Dmytro Lukianenko (<a href="https://github.com/dmi3yy" target="_blank" rel="nofollow">Dmi3yy</a>)</li>
+<li>D.Helfensteller (<a href="https://github.com/deesen" target="_blank" rel="nofollow">Deesen</a>)</li>
+<li>Agel_Nash (<a href="https://github.com/AgelxNash" target="_blank" rel="nofollow">AgelxNash</a>)</li>
+<li>Sergey Davydov (<a href="https://github.com/MrSwed" target="_blank" rel="nofollow">MrSwed</a>)</li>
+<li>Kari Söderholm (<a href="https://github.com/Haprog" target="_blank" rel="nofollow">Haprog</a>)</li>
+<li>YAMA (<a href="https://github.com/yama" target="_blank" rel="nofollow">yama</a>)</li>
+<li>Thomas Jakobi (<a href="https://github.com/Jako" target="_blank" rel="nofollow">Jako</a>)</li>
+<li>and: Zevseg, Segr, TimGS, jasonabird, bossloper, Eoler, fourroses666, rpre, pmfx, kulmjens, MaXL-ru, janniconl, Fess7, esszett</li>
+</ul>
+<br />
+And thanks go out to all those users who took the time to test and who contributed bug reports.<br />
+<br />
+<strong>Download Evo 1.1:</strong><br />
+You can download the latest version of MODX Evo from the following sources:<ul class="dis-ul"><br />
+<li>The official MODX website Evo <a href="https://modx.com/download/evolution/" target="_blank" rel="nofollow">download page</a></li>
+<li>MODX Evo <a href="https://github.com/modxcms/evolution/releases" target="_blank" rel="nofollow">GitHub repository</a></li>
+</ul>
+<br />
+<strong>Useful Evo Links:</strong><br />
+For those users who are interested in using Evo, but are unsure where to begin:<br />
+<ul class="dis-ul"><br />
+<li><a href="https://modx.com/download/evolution/" target="_blank" rel="nofollow">Basic Installation</a> - How to install</li>
+<li><a href="https://rtfm.modx.com/evolution/1.0/developers-guide" target="_blank" rel="nofollow">Developer&#039;s Guide</a> - All tech infos (How to, What are etc.)</li>
+<li><a href="https://rtfm.modx.com/evolution/1.0/content-editing" target="_blank" rel="nofollow">Content Editing</a> - For editors, user creation etc.</li>
+<li><a href="https://rtfm.modx.com/evolution/1.0/administration" target="_blank" rel="nofollow">Administration</a> - How to manage users, moving site etc.</li>
+<li><a href="https://rtfm.modx.com/evolution/1.0/designing" target="_blank" rel="nofollow">Designing</a> - Templates, adding chunks, TV&#039;s, snippets etc.</li>
+</ul>
+<br />
+Haven&#039;t updated / upgraded Evo in a while, no worries, check out <a href="https://rtfm.modx.com/evolution/1.0/administration/upgrading" target="_blank" rel="nofollow">the guide here</a>";s:14:"date_timestamp";i:1456768517;}i:1;a:9:{s:5:"title";s:65:"MODX Revolution 2.4.3 — A Variety of Bug Fixes and Enhancements";s:4:"link";s:121:"http://feedproxy.google.com/~r/modx-announce/~3/vbbl4Rz8yiw/modx-revolution-2-4-3-a-variety-of-bug-fixes-and-enhancements";s:11:"description";s:3840:"Another patch release of MODX Revolution 2.4, 2.4.3 is now available. If you missed the <a href="http://modx.com/blog/2015/08/19/revolution-2.4/" target="_blank" rel="nofollow">2.4.0 announcement</a>, check out the details <a href="http://modx.com/blog/2015/08/26/deep-dive-into-modx-revolution-2.4/" target="_blank" rel="nofollow">here</a>.<br />
+<br />
+Highlights from <a href="https://raw.githubusercontent.com/modxcms/revolution/v2.4.3-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">the changelog</a>:<ul class="dis-ul"><br />
+<li>Prevent uncacheable elements from being cached in cacheable elements</li>
+<li>Fix loading rich text editors on non-document resource types</li>
+<li>Cache-busting token added to manager js and css links to force refresh after upgrades</li>
+<li>Corrected dashboard&#039;s save button action</li>
+<li>Fix modX-&gt;getUser to force load settings when parameter is passed</li>
+<li>Various config_check improvements</li>
+<li>…and a variety of other improvements &amp; bug fixes</li>
+</ul>
+<br />
+<strong>Important:</strong> 2.3.6 contains a security patch and is considered a mandatory update. 2.4.0 contains all patches from 2.3.6, and also closes the security issue. 2.4.3 is a non-critical patch of the 2.4 branch.<br />
+<br />
+<strong>Contributors on this Release</strong><br />
+Let’s take the time to thank the individual contributors to this release (in no particular order):Mark-H​​, pixelchutes, Alroniks, hansek​​, ​inreti​​, ​oori​​, ​jpdevries​​, ​whitebyte​​, ​Jako​​, ​tehsquidge​​, ​rtripault, ViieeS, yoleg​​, tyllo, theboxer​​, along with many other contributors who log &amp; triage issues, review PRs, and commit code. The MODX Community is Amazing.<br />
+<br />
+<strong>Security is an Ongoing Process</strong><br />
+We cannot stress how important it is to run the most current version of MODX. We are always improving security. Upgrade regularly to reduce the chance of your site getting hacked. If you need help upgrading your MODX site, <a href="http://modx.com/support-and-services/maintain/" target="_blank" rel="nofollow">let us know</a>.<br />
+<br />
+<strong>Get Started with Revo 2.4</strong><br />
+Here’s what you need to get started or upgrade to MODX Revolution 2.4:<br />
+<ul class="dis-ul"><br />
+<li><a href="http://modx.com/download/" target="_blank" rel="nofollow">Download Revolution 2.4</a></li>
+<li><a href="http://rtfm.modx.com/revolution/2.x/getting-started/server-requirements" target="_blank" rel="nofollow">What’s required</a> to run Revolution 2.4.x</li>
+<li>How to <a href="http://rtfm.modx.com/revolution/2.x/getting-started/installation/basic-installation" target="_blank" rel="nofollow">install MODX Revolution</a></li>
+<li>How to <a href="http://rtfm.modx.com/revolution/2.x/administering-your-site/upgrading-modx" target="_blank" rel="nofollow">upgrade MODX Revolution</a></li><li>Read the <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">MODX Revolution Documentation</a></li>
+</ul>
+<br />
+<strong>Ask Not What MODX Can Do For You</strong><br />
+MODX is only as good as it is because of the many individual community members and users that take the time to <a href="https://github.com/modxcms/revolution/issues?state=open" target="_blank" rel="nofollow">report issues, request new features</a>, and <a href="https://github.com/modxcms/revolution/pulls" target="_blank" rel="nofollow">submit code to the project</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>,<a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your experiences</a> in the MODX community forums.<br />
+<br />
+On behalf of the entire MODX Team,<br />
+We thank you!";s:8:"comments";s:121:"https://forums.modx.com/thread/99511/modx-revolution-2-4-3-a-variety-of-bug-fixes-and-enhancements?page=2#dis-post-538686";s:7:"pubdate";s:31:"Tue, 23 Feb 2016 08:24:28 -0600";s:4:"guid";s:121:"https://forums.modx.com/thread/99511/modx-revolution-2-4-3-a-variety-of-bug-fixes-and-enhancements?page=2#dis-post-538686";s:10:"feedburner";a:1:{s:8:"origlink";s:121:"https://forums.modx.com/thread/99511/modx-revolution-2-4-3-a-variety-of-bug-fixes-and-enhancements?page=2#dis-post-538686";}s:7:"summary";s:3840:"Another patch release of MODX Revolution 2.4, 2.4.3 is now available. If you missed the <a href="http://modx.com/blog/2015/08/19/revolution-2.4/" target="_blank" rel="nofollow">2.4.0 announcement</a>, check out the details <a href="http://modx.com/blog/2015/08/26/deep-dive-into-modx-revolution-2.4/" target="_blank" rel="nofollow">here</a>.<br />
+<br />
+Highlights from <a href="https://raw.githubusercontent.com/modxcms/revolution/v2.4.3-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">the changelog</a>:<ul class="dis-ul"><br />
+<li>Prevent uncacheable elements from being cached in cacheable elements</li>
+<li>Fix loading rich text editors on non-document resource types</li>
+<li>Cache-busting token added to manager js and css links to force refresh after upgrades</li>
+<li>Corrected dashboard&#039;s save button action</li>
+<li>Fix modX-&gt;getUser to force load settings when parameter is passed</li>
+<li>Various config_check improvements</li>
+<li>…and a variety of other improvements &amp; bug fixes</li>
+</ul>
+<br />
+<strong>Important:</strong> 2.3.6 contains a security patch and is considered a mandatory update. 2.4.0 contains all patches from 2.3.6, and also closes the security issue. 2.4.3 is a non-critical patch of the 2.4 branch.<br />
+<br />
+<strong>Contributors on this Release</strong><br />
+Let’s take the time to thank the individual contributors to this release (in no particular order):Mark-H​​, pixelchutes, Alroniks, hansek​​, ​inreti​​, ​oori​​, ​jpdevries​​, ​whitebyte​​, ​Jako​​, ​tehsquidge​​, ​rtripault, ViieeS, yoleg​​, tyllo, theboxer​​, along with many other contributors who log &amp; triage issues, review PRs, and commit code. The MODX Community is Amazing.<br />
+<br />
+<strong>Security is an Ongoing Process</strong><br />
+We cannot stress how important it is to run the most current version of MODX. We are always improving security. Upgrade regularly to reduce the chance of your site getting hacked. If you need help upgrading your MODX site, <a href="http://modx.com/support-and-services/maintain/" target="_blank" rel="nofollow">let us know</a>.<br />
+<br />
+<strong>Get Started with Revo 2.4</strong><br />
+Here’s what you need to get started or upgrade to MODX Revolution 2.4:<br />
+<ul class="dis-ul"><br />
+<li><a href="http://modx.com/download/" target="_blank" rel="nofollow">Download Revolution 2.4</a></li>
+<li><a href="http://rtfm.modx.com/revolution/2.x/getting-started/server-requirements" target="_blank" rel="nofollow">What’s required</a> to run Revolution 2.4.x</li>
+<li>How to <a href="http://rtfm.modx.com/revolution/2.x/getting-started/installation/basic-installation" target="_blank" rel="nofollow">install MODX Revolution</a></li>
+<li>How to <a href="http://rtfm.modx.com/revolution/2.x/administering-your-site/upgrading-modx" target="_blank" rel="nofollow">upgrade MODX Revolution</a></li><li>Read the <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">MODX Revolution Documentation</a></li>
+</ul>
+<br />
+<strong>Ask Not What MODX Can Do For You</strong><br />
+MODX is only as good as it is because of the many individual community members and users that take the time to <a href="https://github.com/modxcms/revolution/issues?state=open" target="_blank" rel="nofollow">report issues, request new features</a>, and <a href="https://github.com/modxcms/revolution/pulls" target="_blank" rel="nofollow">submit code to the project</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>,<a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your experiences</a> in the MODX community forums.<br />
+<br />
+On behalf of the entire MODX Team,<br />
+We thank you!";s:14:"date_timestamp";i:1456237468;}i:2;a:9:{s:5:"title";s:54:"MODX Revolution 2.4.2 — Bugfixes and UI Improvements";s:4:"link";s:110:"http://feedproxy.google.com/~r/modx-announce/~3/CEOeDfF6UyE/modx-revolution-2-4-2-bugfixes-and-ui-improvements";s:11:"description";s:3618:"The latest release of MODX Revolution is a patch upgrade to 2.4.2. If you missed the <a href="http://modx.com/blog/2015/08/19/revolution-2.4/" target="_blank" rel="nofollow">2.4.0 announcement</a>, check out the details <a href="http://modx.com/blog/2015/08/26/deep-dive-into-modx-revolution-2.4/" target="_blank" rel="nofollow">here</a>. 2.4.0 was a big one.<br />
 <br />
 Highlights from <a href="https://raw.githubusercontent.com/modxcms/revolution/v2.4.2-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">the changelog</a>:<ul class="dis-ul"><br />
 <li>Add resource title in Manager Log for edited resources</li>
@@ -60,7 +222,7 @@ Here’s what you need to get started or upgrade to MODX Revolution 2.4:<br />
 MODX is only as good as it is because of many individual community members and users that take the time to <a href="https://github.com/modxcms/revolution/issues?state=open" target="_blank" rel="nofollow">report issues and request new features</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>,<a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your successes</a> in the MODX community forums.<br />
 <br />
 On behalf of the entire MODX Team,<br />
-Thank-you!";s:14:"date_timestamp";i:1444131931;}i:1;a:9:{s:5:"title";s:39:"MODX Revolution 2.4.1—Updates & Fixes";s:4:"link";s:95:"http://feedproxy.google.com/~r/modx-announce/~3/jQoVN8ul7xE/modx-revolution-2-4-1-updates-fixes";s:11:"description";s:3235:"The latest release of MODX Revolution is a patch upgrade to 2.4.1. If you missed the <a href="http://modx.com/blog/2015/08/19/revolution-2.4/" target="_blank" rel="nofollow">2.4.0 announcement</a>, get the low-down <a href="http://modx.com/blog/2015/08/26/deep-dive-into-modx-revolution-2.4/" target="_blank" rel="nofollow">here</a>. Lots of goodies.<br />
+Thank-you!";s:14:"date_timestamp";i:1444131931;}i:3;a:9:{s:5:"title";s:39:"MODX Revolution 2.4.1—Updates & Fixes";s:4:"link";s:95:"http://feedproxy.google.com/~r/modx-announce/~3/jQoVN8ul7xE/modx-revolution-2-4-1-updates-fixes";s:11:"description";s:3235:"The latest release of MODX Revolution is a patch upgrade to 2.4.1. If you missed the <a href="http://modx.com/blog/2015/08/19/revolution-2.4/" target="_blank" rel="nofollow">2.4.0 announcement</a>, get the low-down <a href="http://modx.com/blog/2015/08/26/deep-dive-into-modx-revolution-2.4/" target="_blank" rel="nofollow">here</a>. Lots of goodies.<br />
 <br />
 Highlights from the changelog:<br />
 <br />
@@ -134,7 +296,7 @@ Here’s what you need to get started or upgrade to MODX Revolution 2.4: <br />
 MODX is only as good as it is because of many individual community members and users that take the time to <a href="https:/github.com/modxcms/revolution/issues?state=open" target="_blank" rel="nofollow">report issues and request new features</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>, <a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your successes</a> in the MODX community forums. <br />
 <br />
 On behalf of the entire MODX Team, <br />
-Thank-you!";s:14:"date_timestamp";i:1443000677;}i:2;a:9:{s:5:"title";s:46:"Revolution 2.4 — Package Dependencies & More";s:4:"link";s:100:"http://feedproxy.google.com/~r/modx-announce/~3/rN7Ln_meo6c/revolution-2-4-package-dependencies-more";s:11:"description";s:5134:"<br />
+Thank-you!";s:14:"date_timestamp";i:1443000677;}i:4;a:9:{s:5:"title";s:46:"Revolution 2.4 — Package Dependencies & More";s:4:"link";s:100:"http://feedproxy.google.com/~r/modx-announce/~3/rN7Ln_meo6c/revolution-2-4-package-dependencies-more";s:11:"description";s:5134:"<br />
 The latest release of MODX Revolution is a minor version upgrade to 2.4.0. This release adds package dependencies along with over 70 improvements. <br />
 <br />
 Highlights are listed below, but check out the <a href="https:/raw.githubusercontent.com/modxcms/revolution/v2.4.0-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">changelog</a> for the play-by-play. <ul class="dis-ul"> <li>Package Dependencies! Developers can now specify dependencies for their MODX Extras. This is a way bigger deal than can be decribed here. There&#039;s never been a more exciting time to develop for your favorite platform <img src="https://modx.com/assets/components/discuss/themes/modx/images/smileys/laugh.gif" alt="laugh" /> <br />
@@ -208,7 +370,7 @@ Here’s what you need to get started or upgrade to MODX Revolution 2.4: <ul cla
 MODX is only as good as it is because of many individual community members and users that take the time to <a href="https:/github.com/modxcms/revolution/issues?state=open" target="_blank" rel="nofollow">report issues and request new features</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>, <a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your successes</a> in the MODX community forums. <br />
 <br />
 On behalf of the entire MODX Team, <br />
-Thank-you!";s:14:"date_timestamp";i:1440162823;}i:3;a:9:{s:5:"title";s:48:"Revolution 2.3.6 — UI Improvements & Stability";s:4:"link";s:102:"http://feedproxy.google.com/~r/modx-announce/~3/sNzMuWXoGm8/revolution-2-3-6-ui-improvements-stability";s:11:"description";s:4315:"This Revolution 2.3.6 patch release includes incremental improvements to the Manager UI, as well as a number of fixes for stability and security. <br />
+Thank-you!";s:14:"date_timestamp";i:1440162823;}i:5;a:9:{s:5:"title";s:48:"Revolution 2.3.6 — UI Improvements & Stability";s:4:"link";s:102:"http://feedproxy.google.com/~r/modx-announce/~3/sNzMuWXoGm8/revolution-2-3-6-ui-improvements-stability";s:11:"description";s:4315:"This Revolution 2.3.6 patch release includes incremental improvements to the Manager UI, as well as a number of fixes for stability and security. <br />
 <br />
 Here are some of the changes in Revo 2.3.6: <ul class="dis-ul"><li>Those using the traditional install can now disable on-the-fly compression. </li>
 <li>A potential XSS vector was closed. </li>
@@ -274,7 +436,7 @@ Revolution 2.3 was a significant release. If you&#039;re not yet using it <a hre
 MODX is only as good as it is because of many individual community members and users that take the time to <a href="https:/github.com/modxcms/revolution/issues?state=open" target="_blank" rel="nofollow">report issues and request new features</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>, <a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your successes</a> in the MODX community forums. <br />
 <br />
 On behalf of the entire MODX Team, <br />
-Thank-you!";s:14:"date_timestamp";i:1440161901;}i:4;a:9:{s:5:"title";s:51:"Revo 2.3.4+2.3.5—Two Dozen Manager Fixes and More";s:4:"link";s:109:"http://feedproxy.google.com/~r/modx-announce/~3/E5GMCY-Cr9w/revo-2-3-4-2-3-5-two-dozen-manager-fixes-and-more";s:11:"description";s:6293:"Revo 2.3.5 has been released. This patch release follows two days after the release of Revo 2.3.4 to correct an issue causing problems with sorting the Resource tree via drag and drop. We also squeezed in a couple more fixes. Why wouldn&#039;t we? I missed posting on the day of release of 2.3.4 and held off until 2.3.5 was released to publish the announcement so here&#039;s a combined announcement that includes details of both patch releases. Most of the major improvements were in the 2.3.4 release. Read on to find out more. <br />
+Thank-you!";s:14:"date_timestamp";i:1440161901;}i:6;a:9:{s:5:"title";s:51:"Revo 2.3.4+2.3.5—Two Dozen Manager Fixes and More";s:4:"link";s:109:"http://feedproxy.google.com/~r/modx-announce/~3/E5GMCY-Cr9w/revo-2-3-4-2-3-5-two-dozen-manager-fixes-and-more";s:11:"description";s:6293:"Revo 2.3.5 has been released. This patch release follows two days after the release of Revo 2.3.4 to correct an issue causing problems with sorting the Resource tree via drag and drop. We also squeezed in a couple more fixes. Why wouldn&#039;t we? I missed posting on the day of release of 2.3.4 and held off until 2.3.5 was released to publish the announcement so here&#039;s a combined announcement that includes details of both patch releases. Most of the major improvements were in the 2.3.4 release. Read on to find out more. <br />
 <br />
 Here&#039;s the list of changes in Revo 2.3.5: <br />
 <ul class="dis-ul"><li>Fix drag and drop Resource sort when auto_isfolder setting is enabled </li>
@@ -360,7 +522,7 @@ Revolution 2.3 was a significant release. If you&#039;re not yet using it <a hre
 MODX is only as good as it is because of many individual community members and users that take the time to <a href="https:/github.com/modxcms/revolution/issues?state=open" target="_blank" rel="nofollow">report issues and request new features</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>, <a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your successes</a> in the MODX community forums. <br />
 <br />
 On behalf of the entire MODX Team, <br />
-Thank-you!";s:14:"date_timestamp";i:1435305202;}i:5;a:9:{s:5:"title";s:56:"Announcing MODXpo 2015 November 21-22 in Munich, Germany";s:4:"link";s:115:"http://feedproxy.google.com/~r/modx-announce/~3/ygf2LQU0sGU/announcing-modxpo-2015-november-21-22-in-munich-germany";s:11:"description";s:3443:"We&#039;re proud to announce that the fourth, official MODXpo will take place on November 21 and 22 in Munich, Germany. <br />
+Thank-you!";s:14:"date_timestamp";i:1435305202;}i:7;a:9:{s:5:"title";s:56:"Announcing MODXpo 2015 November 21-22 in Munich, Germany";s:4:"link";s:115:"http://feedproxy.google.com/~r/modx-announce/~3/ygf2LQU0sGU/announcing-modxpo-2015-november-21-22-in-munich-germany";s:11:"description";s:3443:"We&#039;re proud to announce that the fourth, official MODXpo will take place on November 21 and 22 in Munich, Germany. <br />
 <br />
 The previous official MODXpo was hosted in <a href="http://2013.modxpo.eu/" target="_blank" rel="nofollow">November 2013 in Cologne, Germany</a>. After a year hiatus (though not without an awesome MODX conference in between), web designer and MODX Ambassador, <a href="http://www.bdcreative-design.com/" target="_blank" rel="nofollow">Benjamin Davis</a>, has taken the reins as chief organizer for the next official MODXpo with major help from the <a href="http://www.meetup.com/MODX-Muenchen/" target="_blank" rel="nofollow">MODX Munich Meetup Group</a> and other <a href="http://modx.com/ambassadors" target="_blank" rel="nofollow">MODX Ambassadors</a>. <br />
 <br />
@@ -396,7 +558,7 @@ Even if you&#039;ve never spoken at an event before but have solved some problem
 Of course an event of this size cannot rely only on a single host sponsor, as nice as the team at Kochan &amp; Partner are. We&#039;d like to partner with some awesome organizations who are looking to support the MODX event or put their brand in front of the MODX community at large. <a href="http://2015.modxpo.eu/#contact-form" target="_blank" rel="nofollow">Contact the MODXpo 2015 team</a> to ask about becoming a sponsor partner <br />
 <br />
 <strong>Save the Date and Bookmark the Website</strong><br />
-If you&#039;re looking to dig deep into MODX, meet some smart, interesting and diverse web designers and developers from all over the world, mark Novemer 21 and 22, 2015 in your calendar for MODXpo 2015. Stay up to date on what&#039;s happening with MODXpo 2015 at the <a href="http://2015.modxpo.eu/" target="_blank" rel="nofollow">event website</a>. We hope to see you in Munich.";s:14:"date_timestamp";i:1430923277;}i:6;a:9:{s:5:"title";s:49:"Help Us Bring MODX to Everyone: The A11y Campaign";s:4:"link";s:108:"http://feedproxy.google.com/~r/modx-announce/~3/ljiDv2eCdfQ/help-us-bring-modx-to-everyone-the-a11y-campaign";s:11:"description";s:2645:"<strong>Help Us Bring MODX to Everyone</strong><br />
+If you&#039;re looking to dig deep into MODX, meet some smart, interesting and diverse web designers and developers from all over the world, mark Novemer 21 and 22, 2015 in your calendar for MODXpo 2015. Stay up to date on what&#039;s happening with MODXpo 2015 at the <a href="http://2015.modxpo.eu/" target="_blank" rel="nofollow">event website</a>. We hope to see you in Munich.";s:14:"date_timestamp";i:1430923277;}i:8;a:9:{s:5:"title";s:49:"Help Us Bring MODX to Everyone: The A11y Campaign";s:4:"link";s:108:"http://feedproxy.google.com/~r/modx-announce/~3/ljiDv2eCdfQ/help-us-bring-modx-to-everyone-the-a11y-campaign";s:11:"description";s:2645:"<strong>Help Us Bring MODX to Everyone</strong><br />
 We&#039;ve embarked on <a href="http://a11y.modx.com" target="_blank" rel="nofollow">a mission to make the MODX Manager accessible for all</a> and we need your help. <br />
 <br />
 As you know, MODX has always stood for creative freedom. However, Revo’s Manager has failed to deliver that promise for all. People who use assistive technologies like screen readers, enlarged fonts and alternate input devices were never really given proper consideration. That must change. <br />
@@ -436,7 +598,7 @@ If you can’t support this initiative personally, but work with MODX profession
 <br />
 Further, we’d welcome translations to the accessibility campaign message; if you can help translate any of <a href="http://a11y.modx.com" target="_blank" rel="nofollow">a11y.modx.com</a>, please get in touch. <br />
 <br />
-<strong>***<a href="http://a11y.modx.com" target="_blank" rel="nofollow">Donate Now</a>***</strong>";s:14:"date_timestamp";i:1424246231;}i:7;a:9:{s:5:"title";s:43:"Revo 2.3.3—Over 40 Fixes and Improvements";s:4:"link";s:101:"http://feedproxy.google.com/~r/modx-announce/~3/JLEAk0eA6-k/revo-2-3-3-over-40-fixes-and-improvements";s:11:"description";s:4590:"Today we released Revolution 2.3.3. This patch release includes over 40 fixes and improvements. <br />
+<strong>***<a href="http://a11y.modx.com" target="_blank" rel="nofollow">Donate Now</a>***</strong>";s:14:"date_timestamp";i:1424246231;}i:9;a:9:{s:5:"title";s:43:"Revo 2.3.3—Over 40 Fixes and Improvements";s:4:"link";s:101:"http://feedproxy.google.com/~r/modx-announce/~3/JLEAk0eA6-k/revo-2-3-3-over-40-fixes-and-improvements";s:11:"description";s:4590:"Today we released Revolution 2.3.3. This patch release includes over 40 fixes and improvements. <br />
 <br />
 Here are just some of the highlights of Revolution 2.3.3: <ul class="dis-ul"><br />
 <li>Fixed Context settings remove and update from window </li>
@@ -506,7 +668,7 @@ Revolution 2.3 was a significant release. If you&#039;re not yet using it <a hre
 MODX is only as good as it is because of many individual community members and users that take the time to <a href="https:/github.com/modxcms/revolution/issues?state=open" target="_blank" rel="nofollow">report issues and request new features</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>, <a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your successes</a> in the MODX community forums. <br />
 <br />
 On behalf of the entire MODX Team, <br />
-Thank-you!";s:14:"date_timestamp";i:1422518929;}i:8;a:9:{s:5:"title";s:59:"Evolution 1.0.15 Important Security Update and 100+ Changes";s:4:"link";s:118:"http://feedproxy.google.com/~r/modx-announce/~3/rpOW0533GYA/evolution-1-0-15-important-security-update-and-100-changes";s:11:"description";s:4416:"MODX Evolution 1.0.15 is now available. This release of MODX Evolution includes more than 100 fixes and improvements. It also includes fixes for two critical security vulnerabilities; one in the core and one in Jot, a commenting Extra that is packaged with Evolution. As this release contains critical security fixes, this should be considered a mandatory upgrade. <br />
+Thank-you!";s:14:"date_timestamp";i:1422518929;}i:10;a:9:{s:5:"title";s:59:"Evolution 1.0.15 Important Security Update and 100+ Changes";s:4:"link";s:118:"http://feedproxy.google.com/~r/modx-announce/~3/rpOW0533GYA/evolution-1-0-15-important-security-update-and-100-changes";s:11:"description";s:4416:"MODX Evolution 1.0.15 is now available. This release of MODX Evolution includes more than 100 fixes and improvements. It also includes fixes for two critical security vulnerabilities; one in the core and one in Jot, a commenting Extra that is packaged with Evolution. As this release contains critical security fixes, this should be considered a mandatory upgrade. <br />
 <br />
 Highlights of the 1.0.15 release include:<ul class="dis-ul"><br />
 <li>Various security fixes including Jot fix and cookie handling</li>
@@ -574,7 +736,7 @@ To keep your MODX sites safe and performing their best, we strongly recommend up
 <br />
 <br />
 On behalf of the MODX and Evolution teams, <br />
-Thank-you.";s:14:"date_timestamp";i:1415259017;}i:9;a:9:{s:5:"title";s:52:"Revolution 2.2.16 Fixes Password Reset Functionality";s:4:"link";s:112:"http://feedproxy.google.com/~r/modx-announce/~3/RzuOUv6cKm0/revolution-2-2-16-fixes-password-reset-functionality";s:11:"description";s:1970:"We have released Revolution 2.2.16. This patch release fixes password reset functionality.<br />
+Thank-you.";s:14:"date_timestamp";i:1415259017;}i:11;a:9:{s:5:"title";s:52:"Revolution 2.2.16 Fixes Password Reset Functionality";s:4:"link";s:112:"http://feedproxy.google.com/~r/modx-announce/~3/RzuOUv6cKm0/revolution-2-2-16-fixes-password-reset-functionality";s:11:"description";s:1970:"We have released Revolution 2.2.16. This patch release fixes password reset functionality.<br />
 <br />
 <strong>Not Yet Using Revolution 2.3?</strong><br />
 Revolution 2.3 was a significant release. If you&#039;re not yet using it <a href="blog/2014/07/15/revolution-2.3-brings-a-revamped-manager-user-experience-and-much-more/" target="_blank" rel="nofollow">here&#039;s what you&#039;re missing out on</a>.<br />
@@ -598,7 +760,7 @@ Here&#039;s what you need to get started or upgrade to MODX Revolution 2.2.16:<u
 MODX is only as good as it is because of many individual community members and users that take the time to <a href="https://github.com/modxcms/revolution/issues?state=open" target="_blank" rel="nofollow">report issues and request new features</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>, <a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your successes</a> in the MODX community forums.<br />
 <br />
 On behalf of the entire MODX Team,<br />
-Thank-you!";s:14:"date_timestamp";i:1414137194;}i:10;a:9:{s:5:"title";s:46:"Revolution 2.3.2—Lots of Little Fixes Add Up";s:4:"link";s:104:"http://feedproxy.google.com/~r/modx-announce/~3/XJjuNIQ71iw/revolution-2-3-2-lots-of-little-fixes-add-up";s:11:"description";s:3332:"Today we released Revolution 2.3.2. This patch release includes dozens of fixes and improvements along with a fix to prevent low-risk cross site scripting (XSS). <br />
+Thank-you!";s:14:"date_timestamp";i:1414137194;}i:12;a:9:{s:5:"title";s:46:"Revolution 2.3.2—Lots of Little Fixes Add Up";s:4:"link";s:104:"http://feedproxy.google.com/~r/modx-announce/~3/XJjuNIQ71iw/revolution-2-3-2-lots-of-little-fixes-add-up";s:11:"description";s:3332:"Today we released Revolution 2.3.2. This patch release includes dozens of fixes and improvements along with a fix to prevent low-risk cross site scripting (XSS). <br />
 <br />
 Here are just some of the highlights of Revolution 2.3.2: <ul class="dis-ul"><li>Fix Custom Resource Class (CRCs) icons in trees</li>
 <li>Fixed missing Permissions tabs for anonymous User Group Disabled keyboard shortcut to focus the search bar </li>
@@ -662,7 +824,7 @@ Revolution 2.3 was a significant release. If you&#039;re not yet using it <a hre
 MODX is only as good as it is because of many individual community members and users that take the time to <a href="https:/github.com/modxcms/revolution/issues?state=open" target="_blank" rel="nofollow">report issues and request new features</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>, <a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your successes</a> in the MODX community forums. <br />
 <br />
 On behalf of the entire MODX Team, <br />
-Thank-you!";s:14:"date_timestamp";i:1413897450;}i:11;a:9:{s:5:"title";s:50:"Revolution 2.3.1 Fixes phpThumb, Gravatar and More";s:4:"link";s:109:"http://feedproxy.google.com/~r/modx-announce/~3/50RSr5sLdcM/revolution-2-3-1-fixes-phpthumb-gravatar-and-more";s:11:"description";s:9696:"Today we released the first patch release for MODX Revolution 2.3. With 2.3.1 we have resolved a number of annoyances and bugs that were missed in pre-release testing. These include issues with thumbnailing and Extras that relied on it, Snippets and Plugins inserting 1s into views or filling the error log, restored Forgot Password functionality and much more.  <br />
+Thank-you!";s:14:"date_timestamp";i:1413897450;}i:13;a:9:{s:5:"title";s:50:"Revolution 2.3.1 Fixes phpThumb, Gravatar and More";s:4:"link";s:109:"http://feedproxy.google.com/~r/modx-announce/~3/50RSr5sLdcM/revolution-2-3-1-fixes-phpthumb-gravatar-and-more";s:11:"description";s:9696:"Today we released the first patch release for MODX Revolution 2.3. With 2.3.1 we have resolved a number of annoyances and bugs that were missed in pre-release testing. These include issues with thumbnailing and Extras that relied on it, Snippets and Plugins inserting 1s into views or filling the error log, restored Forgot Password functionality and much more.  <br />
 <br />
 <strong>Highlights of Revolution 2.3.1</strong><ul class="dis-ul"><br />
 <li>Fixed phpThumb issue breaking internal thumbnails and funcitonality of a number of Extras that relied on it</li>
@@ -768,7 +930,7 @@ We certainly don&#039;t want to leave any contributors out. If we did, please le
 MODX is only as good as it is because of many individual community members and users that take the time to <a href="https://github.com/modxcms/revolution/issues?state=open" target="_blank" rel="nofollow">report issues and request new features</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>, <a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your successes</a> in the MODX community forums.<br />
 <br />
 On behalf of the entire MODX Team,<br />
-Thank-you!&#91;/list&#93;";s:14:"date_timestamp";i:1406028726;}i:12;a:9:{s:5:"title";s:70:"Revolution 2.3 Brings a Revamped Manager User Experience and Much More";s:4:"link";s:130:"http://feedproxy.google.com/~r/modx-announce/~3/EBbWTS0hPLs/revolution-2-3-brings-a-revamped-manager-user-experience-and-much-more";s:11:"description";s:8687:"Today we proudly announce the release of the long-awaited MODX Revolution 2.3. This is a huge release incorporating more than a thousand commits by 17 code contributors, dozens of translators and countless bug-reporters.<br />
+Thank-you!&#91;/list&#93;";s:14:"date_timestamp";i:1406028726;}i:14;a:9:{s:5:"title";s:70:"Revolution 2.3 Brings a Revamped Manager User Experience and Much More";s:4:"link";s:130:"http://feedproxy.google.com/~r/modx-announce/~3/EBbWTS0hPLs/revolution-2-3-brings-a-revamped-manager-user-experience-and-much-more";s:11:"description";s:8687:"Today we proudly announce the release of the long-awaited MODX Revolution 2.3. This is a huge release incorporating more than a thousand commits by 17 code contributors, dozens of translators and countless bug-reporters.<br />
 <br />
 Revolution 2.3 features an elegantly refined and updated MODX Manager with an all-new theme designed by Peter Knight (aka eladnova). Build and manage your sites faster, and in a more user friendly and less intimidating workspace. Revolution 2.3 also introduces the Uberbar, which provides Manager users with global search within Resources, Elements and Users. Now, whatever you&#039;re looking for is at your fingertips.<br />
 <br />
@@ -856,7 +1018,7 @@ Here&#039;s what you need to get started or upgrade to MODX Revolution 2.3:<br /
 MODX is only as good as it is because of many individual community members and users that take the time to <a href="https://github.com/modxcms/revolution/issues?state=open" target="_blank" rel="nofollow">report issues and request new features</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>, <a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your successes</a> in the MODX community forums.<br />
 <br />
 On behalf of the entire MODX Team,<br />
-Thank-you!&#91;/list&#93;";s:14:"date_timestamp";i:1405424114;}i:13;a:9:{s:5:"title";s:59:"Revolution 2.2.15 Fixes Critical Security Issue with Logins";s:4:"link";s:119:"http://feedproxy.google.com/~r/modx-announce/~3/TZskkWcbCXc/revolution-2-2-15-fixes-critical-security-issue-with-logins";s:11:"description";s:4713:"Revolution 2.2.15 was released today. This patch release addresses a <a href="http://forums.modx.com/thread/92129/critical-login-xss-csrf-revolution-2-2-1-4-and-prior#dis-post-503208" target="_blank" rel="nofollow">critical security issue</a> related to the Manager login and logins using the Login snippet. In addition, there were several other minor security issues and bugfixes.<br />
+Thank-you!&#91;/list&#93;";s:14:"date_timestamp";i:1405424114;}i:15;a:9:{s:5:"title";s:59:"Revolution 2.2.15 Fixes Critical Security Issue with Logins";s:4:"link";s:119:"http://feedproxy.google.com/~r/modx-announce/~3/TZskkWcbCXc/revolution-2-2-15-fixes-critical-security-issue-with-logins";s:11:"description";s:4713:"Revolution 2.2.15 was released today. This patch release addresses a <a href="http://forums.modx.com/thread/92129/critical-login-xss-csrf-revolution-2-2-1-4-and-prior#dis-post-503208" target="_blank" rel="nofollow">critical security issue</a> related to the Manager login and logins using the Login snippet. In addition, there were several other minor security issues and bugfixes.<br />
 <br />
 This is release includes critical security enhancements and should be considered a mandatory upgrade. <br />
 <br />
@@ -920,7 +1082,7 @@ Here&#039;s what you need to get started or upgrade to MODX Revolution 2.2.15:<u
 MODX is only as good as it is because of many individual community members and users that take the time to <a href="https://github.com/modxcms/revolution/issues?state=open" target="_blank" rel="nofollow">report issues and request new features</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>, <a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your successes</a> in the MODX community forums.<br />
 <br />
 On behalf of the entire MODX Team,<br />
-Thank-you!";s:14:"date_timestamp";i:1405405416;}i:14;a:9:{s:5:"title";s:29:"MODX Evolution 1.0.14 Out Now";s:4:"link";s:89:"http://feedproxy.google.com/~r/modx-announce/~3/mO4RSuR1oi4/modx-evolution-1-0-14-out-now";s:11:"description";s:2364:"MODX Evolution 1.0.14 is now available. This is the fifth release from the Ambassador-led Evolution team. Evo 1.0.14 includes an important security fix to AjaxSearch along with a several enhancements, bug and security fixes.<br />
+Thank-you!";s:14:"date_timestamp";i:1405405416;}i:16;a:9:{s:5:"title";s:29:"MODX Evolution 1.0.14 Out Now";s:4:"link";s:89:"http://feedproxy.google.com/~r/modx-announce/~3/mO4RSuR1oi4/modx-evolution-1-0-14-out-now";s:11:"description";s:2364:"MODX Evolution 1.0.14 is now available. This is the fifth release from the Ambassador-led Evolution team. Evo 1.0.14 includes an important security fix to AjaxSearch along with a several enhancements, bug and security fixes.<br />
 <br />
 We&#039;d like to thank the contributors for this release who are: <a href="https://github.com/Jako" target="_blank" rel="nofollow">Thomas Jakobi (Jako)</a>, <a href="https://github.com/dmi3yy" target="_blank" rel="nofollow">Dmytro Lukianenko (Dmi3yy)</a>,  <a href="https://github.com/Segr" target="_blank" rel="nofollow">Segr Kaparov (Segr)</a>, <a href="https://github.com/yama" target="_blank" rel="nofollow">Masanori Yamamoto (yama)</a>, <a href="https://github.com/Haprog" target="_blank" rel="nofollow">Kari Söderholm (Haprog)</a>, <a href="https://github.com/yakimoff" target="_blank" rel="nofollow">Pavel Yakimov (yakimoff)</a>, <a href="https://github.com/MrSwed" target="_blank" rel="nofollow">MrSwed</a>, and <a href="https://github.com/Pathologic" target="_blank" rel="nofollow">Pathologic</a>.<br />
 <br />
@@ -966,7 +1128,7 @@ Here are the highlights of the 1.0.14 release:<br />
 <li>Read <a href="https://raw.github.com/modxcms/evolution/v1.0.14/install/changelog.txt" target="_blank" rel="nofollow">a complete list of changes in the changelog.txt</a> file located at /install/ </li>
 </ul>
 <br />
-<a href="http://modx.com/download/evolution/" target="_blank" rel="nofollow">Download Evolution 1.0.14 now</a>.<br />";s:14:"date_timestamp";i:1402127640;}i:15;a:9:{s:5:"title";s:25:"Revolution 2.2.14 Out Now";s:4:"link";s:85:"http://feedproxy.google.com/~r/modx-announce/~3/k_UnX6tzbiU/revolution-2-2-14-out-now";s:11:"description";s:3478:"<br />
+<a href="http://modx.com/download/evolution/" target="_blank" rel="nofollow">Download Evolution 1.0.14 now</a>.<br />";s:14:"date_timestamp";i:1402127640;}i:17;a:9:{s:5:"title";s:25:"Revolution 2.2.14 Out Now";s:4:"link";s:85:"http://feedproxy.google.com/~r/modx-announce/~3/k_UnX6tzbiU/revolution-2-2-14-out-now";s:11:"description";s:3478:"<br />
 Revolution 2.2.14 was released today. This patch release contains numerous fixes and improvements including further security enhancements relating to the fixes in 2.2.13. One nice little addition is the ability to upload transport packages directly from the Package Management interface, making it much easier to add packages from third party providers.<br />
 <br />
 This release includes additional security enhancements and therefore should be considered a mandatory upgrade. If you need help upgrading your site, please contact your website builder,find a <a href="http://modx.com/professionals" target="_blank" rel="nofollow">MODX Professional</a> or get in touch with<a href="http://modx.com/support-and-services/services/" target="_blank" rel="nofollow">MODX Support</a>.<br />
@@ -1014,7 +1176,7 @@ Here&#039;s what you need to get started or upgrade to MODX Revolution 2.2.14:<u
 MODX is only as good as it is because of many individual community members and users that take the time to <a href="https://github.com/modxcms/revolution/issues?state=open" target="_blank" rel="nofollow">report issues and request new features</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>, <a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your successes</a> in the MODX community forums.<br />
 <br />
 On behalf of the entire MODX Team,<br />
-Thank-you!";s:14:"date_timestamp";i:1396601059;}i:16;a:9:{s:5:"title";s:25:"Revolution 2.2.13 Out Now";s:4:"link";s:85:"http://feedproxy.google.com/~r/modx-announce/~3/wSxjXTFx8Hs/revolution-2-2-13-out-now";s:11:"description";s:3345:"Today we released MODX Revolution 2.2.13. This is a patch release that corrects an <a href="http://forums.modx.com/thread/89486/modx-revolution-2-x-sql-injection#dis-post-492046" target="_blank" rel="nofollow">extremely critical security vulnerability</a>.<br />
+Thank-you!";s:14:"date_timestamp";i:1396601059;}i:18;a:9:{s:5:"title";s:25:"Revolution 2.2.13 Out Now";s:4:"link";s:85:"http://feedproxy.google.com/~r/modx-announce/~3/wSxjXTFx8Hs/revolution-2-2-13-out-now";s:11:"description";s:3345:"Today we released MODX Revolution 2.2.13. This is a patch release that corrects an <a href="http://forums.modx.com/thread/89486/modx-revolution-2-x-sql-injection#dis-post-492046" target="_blank" rel="nofollow">extremely critical security vulnerability</a>.<br />
 <br />
 This is a security patch release should be considered a mandatory upgrade. <br />
 <br />
@@ -1072,7 +1234,7 @@ We highly recommend keeping your software up-to-date. If you need help upgrading
 MODX is only as good as it is because of many individual community members and users that take the time to <a href="https://github.com/modxcms/revolution/issues?state=open" target="_blank" rel="nofollow">report issues and request new features</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>, <a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your successes</a> in the MODX community forums.<br />
 <br />
 On behalf of the entire MODX Team,<br />
-Thank-you!";s:14:"date_timestamp";i:1394190482;}i:17;a:9:{s:5:"title";s:29:"MODX Evolution 1.0.13 Out Now";s:4:"link";s:89:"http://feedproxy.google.com/~r/modx-announce/~3/BO9KK9oYTfg/modx-evolution-1-0-13-out-now";s:11:"description";s:4716:"MODX Evolution 1.0.13 is now available. This is the fourth release from the Ambassador-led Evolution team. Evo 1.0.13 includes 24 improvements, 44 refactors,  42 fixes and 1 security enhancement. <br />
+Thank-you!";s:14:"date_timestamp";i:1394190482;}i:19;a:9:{s:5:"title";s:29:"MODX Evolution 1.0.13 Out Now";s:4:"link";s:89:"http://feedproxy.google.com/~r/modx-announce/~3/BO9KK9oYTfg/modx-evolution-1-0-13-out-now";s:11:"description";s:4716:"MODX Evolution 1.0.13 is now available. This is the fourth release from the Ambassador-led Evolution team. Evo 1.0.13 includes 24 improvements, 44 refactors,  42 fixes and 1 security enhancement. <br />
 <br />
 We&#039;d like to thank the lead contributors for this release who are: <a href="https://github.com/dmi3yy" target="_blank" rel="nofollow">Dmytro Lukianenko (Dmi3yy)</a>, <a href="https://github.com/Jako" target="_blank" rel="nofollow">Thomas Jakobi (Jako)</a>, <a href="https://github.com/segr" target="_blank" rel="nofollow">Segr Kaparov (Segr)</a>, <a href="https://github.com/DivanDesign" target="_blank" rel="nofollow">DivanDesign studio</a>, esszett, and Eoler. <br />
 <br />
@@ -1130,102 +1292,6 @@ Here are the highlights of the 1.0.13 release:<br />
 <br />
 <a href="http://modx.com/download/evolution/" target="_blank" rel="nofollow">Download Evolution 1.0.13 now</a>.<br />
 <br />
-You can read <a href="http://modx.com/blog/2014/03/03/modx-evolution-1.0.13/" target="_blank" rel="nofollow">the complete Evolution 1.0.13 announcement</a> on the MODX Blog.";s:14:"date_timestamp";i:1393845601;}i:18;a:9:{s:5:"title";s:25:"Revolution 2.2.12 Out Now";s:4:"link";s:85:"http://feedproxy.google.com/~r/modx-announce/~3/Db1kMY_KGQg/revolution-2-2-12-out-now";s:11:"description";s:2403:"Revolution 2.2.12 was released today. It includes two bug fixes including one affecting the phpThumb library that ships with Revo. In addition, it eliminates the bug with the alert notifying users to confirm navigation to prevent losing unsaved changes. 2.2.12 also includes update language files and copyright updates to 2014.<br />
-<br />
-As this release contains fixes that improve stability and the Manager UX, we recommend upgrading all your sites. If you&#039;re using MODX Cloud, this just takes a couple clicks.<br />
-<br />
-Read the complete <a href="https://raw.github.com/modxcms/revolution/v2.2.12-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">changelog</a>.<br />
-<br />
-Here&#039;s what you need to get started or upgrade to MODX Revolution 2.2.12:<br />
-<ul class="dis-ul"><br />
-    <li><a href="http://modx.com/download/" target="_blank" rel="nofollow">Download Revolution 2.2.12</a></li>
-    <li><a href="http://rtfm.modx.com/revolution/2.x/getting-started/server-requirements" target="_blank" rel="nofollow">What&#039;s required</a> to run Revolution 2.2</li>
-    <li>How to <a href="http://rtfm.modx.com/revolution/2.x/getting-started/installation/basic-installation" target="_blank" rel="nofollow">install MODX Revolution</a></li>
-    <li>How to <a href="http://rtfm.modx.com/revolution/2.x/administering-your-site/upgrading-modx" target="_blank" rel="nofollow">upgrade MODX Revolution</a></li>
-    <li>Read the <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">MODX Revolution Documentation</a></li>
-</ul>
-We highly recommend keeping your software up-to-date. If you need help upgrading your site, please contact your website builder or contact a <a href="http://modx.com/professionals" target="_blank" rel="nofollow">MODX Professional</a>.<br />
-<br />
-MODX is only as good as it is because of many individual community members and users that take the time to <a href="https://github.com/modxcms/revolution/issues?state=open" target="_blank" rel="nofollow">report issues and request new features</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>, <a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your successes</a> in the MODX community forums.<br />
-<br />
-On behalf of the entire MODX Team,<br />
-Thank-you!";s:8:"comments";s:78:"https://forums.modx.com/thread/89224/revolution-2-2-12-out-now#dis-post-490640";s:7:"pubdate";s:31:"Wed, 19 Feb 2014 04:54:21 -0600";s:4:"guid";s:78:"https://forums.modx.com/thread/89224/revolution-2-2-12-out-now#dis-post-490640";s:10:"feedburner";a:1:{s:8:"origlink";s:78:"https://forums.modx.com/thread/89224/revolution-2-2-12-out-now#dis-post-490640";}s:7:"summary";s:2403:"Revolution 2.2.12 was released today. It includes two bug fixes including one affecting the phpThumb library that ships with Revo. In addition, it eliminates the bug with the alert notifying users to confirm navigation to prevent losing unsaved changes. 2.2.12 also includes update language files and copyright updates to 2014.<br />
-<br />
-As this release contains fixes that improve stability and the Manager UX, we recommend upgrading all your sites. If you&#039;re using MODX Cloud, this just takes a couple clicks.<br />
-<br />
-Read the complete <a href="https://raw.github.com/modxcms/revolution/v2.2.12-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">changelog</a>.<br />
-<br />
-Here&#039;s what you need to get started or upgrade to MODX Revolution 2.2.12:<br />
-<ul class="dis-ul"><br />
-    <li><a href="http://modx.com/download/" target="_blank" rel="nofollow">Download Revolution 2.2.12</a></li>
-    <li><a href="http://rtfm.modx.com/revolution/2.x/getting-started/server-requirements" target="_blank" rel="nofollow">What&#039;s required</a> to run Revolution 2.2</li>
-    <li>How to <a href="http://rtfm.modx.com/revolution/2.x/getting-started/installation/basic-installation" target="_blank" rel="nofollow">install MODX Revolution</a></li>
-    <li>How to <a href="http://rtfm.modx.com/revolution/2.x/administering-your-site/upgrading-modx" target="_blank" rel="nofollow">upgrade MODX Revolution</a></li>
-    <li>Read the <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">MODX Revolution Documentation</a></li>
-</ul>
-We highly recommend keeping your software up-to-date. If you need help upgrading your site, please contact your website builder or contact a <a href="http://modx.com/professionals" target="_blank" rel="nofollow">MODX Professional</a>.<br />
-<br />
-MODX is only as good as it is because of many individual community members and users that take the time to <a href="https://github.com/modxcms/revolution/issues?state=open" target="_blank" rel="nofollow">report issues and request new features</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>, <a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your successes</a> in the MODX community forums.<br />
-<br />
-On behalf of the entire MODX Team,<br />
-Thank-you!";s:14:"date_timestamp";i:1392807261;}i:19;a:9:{s:5:"title";s:25:"Revolution 2.2.11 Out Now";s:4:"link";s:85:"http://feedproxy.google.com/~r/modx-announce/~3/09oA4_ECmnk/revolution-2-2-11-out-now";s:11:"description";s:3001:"Revolution 2.2.11 was released today. It includes two security fixes including one affecting the phpThumb library that ships with Revo. In addition, it eliminates a bug that appeared in Google Chrome 32 and adds an alert notifying users to confirm navigation to prevent losing unsaved changes.<br />
-<br />
-As this release contains security fixes, we recommend upgrading all your sites. If you&#039;re using <a href="http://modxcloud.com/" target="_blank" rel="nofollow">MODX Cloud</a>, this just takes a couple clicks.<br />
-<br />
-2.3 is coming and we&#039;ll have an update on what we&#039;ve been up to, soon.<br />
-<br />
-Here are the highlights of changes in the 2.2.11 release:<br />
-<ul class="dis-ul"><br />
-<li>Update phpThumb to 1.7.11-beta to close security vulnerability</li>
-<li>Prevent XSS on actionVar in header.tpl in the Manager</li>
-<li>Eliminate unwanted &quot;confirm navigation&quot; alerts in Chrome 32+</li>
-<li>Added intentional &quot;confirm navigation&quot; to prevent loss of unsaved changes</li>
-<li>Fix caching of manager menus. Until now, they may not have been ever cached</li>
-<li>For more details, read the complete <a href="https://raw.github.com/modxcms/revolution/v2.2.11-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">changelog</a></li>
-</ul>
-<br />
-Here&#039;s what you need to get started or upgrade to MODX Revolution 2.2.11:<br />
-<ul class="dis-ul"><br />
-    <li><a href="http://modx.com/download/" target="_blank" rel="nofollow">Download Revolution 2.2.11</a></li>
-    <li><a href="http://rtfm.modx.com/revolution/2.x/getting-started/server-requirements" target="_blank" rel="nofollow">What&#039;s required</a> to run Revolution 2.2</li>
-    <li>How to <a href="http://rtfm.modx.com/revolution/2.x/getting-started/installation/basic-installation" target="_blank" rel="nofollow">install MODX Revolution</a></li>
-    <li>How to <a href="http://rtfm.modx.com/revolution/2.x/administering-your-site/upgrading-modx" target="_blank" rel="nofollow">upgrade MODX Revolution</a></li>
-    <li>Read the <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">MODX Revolution Documentation</a></li>
-</ul>
-We highly recommend keeping your software up-to-date. If you need help upgrading your site, please contact your website builder or contact a <a href="http://modx.com/professionals" target="_blank" rel="nofollow">MODX Professional</a>.<br />
-<br />
-MODX is only as good as it is because of many individual community members and users that take the time to <a href="http://tracker.modx.com/projects/revo/issues" target="_blank" rel="nofollow">report issues and request new features</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>, <a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your successes</a> in the MODX community forums.<br />
-<br />
-On behalf of the entire MODX Team,<br />
-Thank-you!<br />";s:8:"comments";s:78:"https://forums.modx.com/thread/88696/revolution-2-2-11-out-now#dis-post-487893";s:7:"pubdate";s:31:"Tue, 21 Jan 2014 05:16:48 -0600";s:4:"guid";s:78:"https://forums.modx.com/thread/88696/revolution-2-2-11-out-now#dis-post-487893";s:10:"feedburner";a:1:{s:8:"origlink";s:78:"https://forums.modx.com/thread/88696/revolution-2-2-11-out-now#dis-post-487893";}s:7:"summary";s:3001:"Revolution 2.2.11 was released today. It includes two security fixes including one affecting the phpThumb library that ships with Revo. In addition, it eliminates a bug that appeared in Google Chrome 32 and adds an alert notifying users to confirm navigation to prevent losing unsaved changes.<br />
-<br />
-As this release contains security fixes, we recommend upgrading all your sites. If you&#039;re using <a href="http://modxcloud.com/" target="_blank" rel="nofollow">MODX Cloud</a>, this just takes a couple clicks.<br />
-<br />
-2.3 is coming and we&#039;ll have an update on what we&#039;ve been up to, soon.<br />
-<br />
-Here are the highlights of changes in the 2.2.11 release:<br />
-<ul class="dis-ul"><br />
-<li>Update phpThumb to 1.7.11-beta to close security vulnerability</li>
-<li>Prevent XSS on actionVar in header.tpl in the Manager</li>
-<li>Eliminate unwanted &quot;confirm navigation&quot; alerts in Chrome 32+</li>
-<li>Added intentional &quot;confirm navigation&quot; to prevent loss of unsaved changes</li>
-<li>Fix caching of manager menus. Until now, they may not have been ever cached</li>
-<li>For more details, read the complete <a href="https://raw.github.com/modxcms/revolution/v2.2.11-pl/core/docs/changelog.txt" target="_blank" rel="nofollow">changelog</a></li>
-</ul>
-<br />
-Here&#039;s what you need to get started or upgrade to MODX Revolution 2.2.11:<br />
-<ul class="dis-ul"><br />
-    <li><a href="http://modx.com/download/" target="_blank" rel="nofollow">Download Revolution 2.2.11</a></li>
-    <li><a href="http://rtfm.modx.com/revolution/2.x/getting-started/server-requirements" target="_blank" rel="nofollow">What&#039;s required</a> to run Revolution 2.2</li>
-    <li>How to <a href="http://rtfm.modx.com/revolution/2.x/getting-started/installation/basic-installation" target="_blank" rel="nofollow">install MODX Revolution</a></li>
-    <li>How to <a href="http://rtfm.modx.com/revolution/2.x/administering-your-site/upgrading-modx" target="_blank" rel="nofollow">upgrade MODX Revolution</a></li>
-    <li>Read the <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">MODX Revolution Documentation</a></li>
-</ul>
-We highly recommend keeping your software up-to-date. If you need help upgrading your site, please contact your website builder or contact a <a href="http://modx.com/professionals" target="_blank" rel="nofollow">MODX Professional</a>.<br />
-<br />
-MODX is only as good as it is because of many individual community members and users that take the time to <a href="http://tracker.modx.com/projects/revo/issues" target="_blank" rel="nofollow">report issues and request new features</a>. Make sure you <a href="http://rtfm.modx.com/revolution/2.x/" target="_blank" rel="nofollow">read the documentation</a>, <a href="http://forums.modx.com/board/?board=264" target="_blank" rel="nofollow">post feedback and share your successes</a> in the MODX community forums.<br />
-<br />
-On behalf of the entire MODX Team,<br />
-Thank-you!<br />";s:14:"date_timestamp";i:1390303008;}}s:7:"channel";a:4:{s:5:"title";s:37:"Announcements - MODX Community Forums";s:4:"link";s:38:"https://forums.modx.com/board/?board=7";s:11:"description";s:34:"RSS Feed for MODX Community Forums";s:7:"tagline";s:34:"RSS Feed for MODX Community Forums";}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"2.0";s:8:"encoding";s:5:"UTF-8";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:17:"current_namespace";b:0;s:4:"etag";s:29:"NNHaqYjgbpxhTTKMorYsdxDWzgo
-";s:13:"last_modified";s:31:"Tue, 26 Jan 2016 18:58:35 GMT
+You can read <a href="http://modx.com/blog/2014/03/03/modx-evolution-1.0.13/" target="_blank" rel="nofollow">the complete Evolution 1.0.13 announcement</a> on the MODX Blog.";s:14:"date_timestamp";i:1393845601;}}s:7:"channel";a:4:{s:5:"title";s:37:"Announcements - MODX Community Forums";s:4:"link";s:38:"https://forums.modx.com/board/?board=7";s:11:"description";s:34:"RSS Feed for MODX Community Forums";s:7:"tagline";s:34:"RSS Feed for MODX Community Forums";}s:9:"textinput";a:0:{}s:5:"image";a:0:{}s:9:"feed_type";s:3:"RSS";s:12:"feed_version";s:3:"2.0";s:8:"encoding";s:5:"UTF-8";s:16:"_source_encoding";s:0:"";s:5:"ERROR";s:0:"";s:7:"WARNING";s:0:"";s:19:"_CONTENT_CONSTRUCTS";a:6:{i:0;s:7:"content";i:1;s:7:"summary";i:2;s:4:"info";i:3;s:5:"title";i:4;s:7:"tagline";i:5;s:9:"copyright";}s:16:"_KNOWN_ENCODINGS";a:3:{i:0;s:5:"UTF-8";i:1;s:8:"US-ASCII";i:2;s:10:"ISO-8859-1";}s:5:"stack";a:0:{}s:9:"inchannel";b:0;s:6:"initem";b:0;s:9:"incontent";b:0;s:11:"intextinput";b:0;s:7:"inimage";b:0;s:17:"current_namespace";b:0;s:4:"etag";s:29:"NjfpzngLpizeSChkf+qj4P166S8
+";s:13:"last_modified";s:31:"Tue, 01 Mar 2016 19:54:43 GMT
 ";}
